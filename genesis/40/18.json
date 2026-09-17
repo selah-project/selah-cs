@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "I odpověděl Josef a řekl: Toto je ⟨jeho⟩ výklad: tři koše — tři dny to ⟨jsou⟩.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "I odpověděl"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "výklad"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "koše"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "הם",
+      "gloss": "to (jsou)"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:14.112974368Z",
+  "model": "glm-5.3"
+}

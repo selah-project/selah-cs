@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "„Já odcházím cestou vší ⟨té⟩ země; buď silný a ⟨staň se⟩ mužem!",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Já"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "odcházím"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vší"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨té⟩ zemi"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "a buď silný"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "a ⟨staň se⟩"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mužem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:53:27.400705630Z",
+  "model": "glm-5.3"
+}

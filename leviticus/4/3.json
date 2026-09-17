@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 4:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "jestliže pomazaný kněz zhřeší k vině lidu, pak přivede za svůj hřích, který spáchal, mladého býka bez vady Jahvi jako hříchovou oběť.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "pomazaný"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "zhřeší"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "k vině"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "pak přivede"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "svůj hřích"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "spáchal"
+    },
+    {
+      "surface": "פר",
+      "gloss": "mladého býka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "skotu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez vady"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "jako hříchovou oběť"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:15.661614134Z",
+  "model": "glm-5.3"
+}

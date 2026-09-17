@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 17:19",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Řekl jí: Dej mi ⟨את⟩ svého syna. Vzal ho z jejího klína, vynesl ho do horní místnosti, kde bydlel, a položil ho na své lože.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "תני",
+      "gloss": "dej"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého syna"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "vzal ho"
+    },
+    {
+      "surface": "מחיקה",
+      "gloss": "z jejího klína"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "vynesl ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "horní místnosti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bydlel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "וישכבהו",
+      "gloss": "položil ho"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "své lože"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:58.196423920Z",
+  "model": "glm-5.3"
+}

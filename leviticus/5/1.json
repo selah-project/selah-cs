@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A když duše zhřeší a uslyší hlas ⟨kletby⟩ a ⟨je⟩ svědkem — buď viděla, buď ví — pokud to neoznámí, ponese svou vinu.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "A když duše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "zhřeší"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "a uslyší"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kletby"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a ⟨je⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "svědkem"
+    },
+    {
+      "surface": "או",
+      "gloss": "buď"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "viděla"
+    },
+    {
+      "surface": "או",
+      "gloss": "buď"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ví"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "oznámí"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ponese"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "svou vinu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:30:46.803384425Z",
+  "model": "glm-5.3"
+}

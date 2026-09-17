@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A Abraham skonal a zemřel v dobrém stáří, stařec a syt dnů, a byl shromážděn ke svému lidu.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "a skonal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "v stáří"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobrém"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "stařec"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "a syt"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "a byl shromážděn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "svému lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:54.671803021Z",
+  "model": "glm-5.3"
+}

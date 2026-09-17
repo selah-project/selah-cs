@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Tvá přikázání mne činí moudřejšími než moji nepřátelé, neboť ⟨jsou⟩ se mnou navždy.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "než moji nepřátelé"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "činí mne moudrým"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "tvá přikázání"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:30.514984292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Ve svém srdci jsem ukryl tvé slovo, abych proti tobě nezhřešil.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "jsem ukryl"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tvé slovo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abych"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "zhřešil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "proti tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:00.794374387Z",
+  "model": "glm-5.3"
+}

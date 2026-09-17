@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 137,
+  "translation": "Pomni, Jahve, proti synům Edomu ⟨את⟩ den Jeruzaléma, kteří říkali: „Bouřejte, bouřejte až k základu v ní!“",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Pomni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "proti synům"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jeruzaléma"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kterží říkali"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Bouřejte"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "bouřejte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "základu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v ní"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:39.654720506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Venku se postavíš, a muž, kterému jsi ⟨ásl⟩ půjčil, vynese k tobě ⟨את⟩ zástavu ven.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "Venku"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "se postavíš"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "a muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterému"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "jsi půjčil"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "vynese"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zástavu"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "zástavu"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ven"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:07.731465092Z",
+  "model": "glm-5.3"
+}

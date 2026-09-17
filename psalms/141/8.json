@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 141,
+  "translation": "Neboť k tobě, Jahve, Adonaj, ⟨jsou⟩ mé oči; v tebe jsem se utíkal — neodhaluj ⟨a nezlejhuj⟩ mou duši.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mé oči"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "v tebe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "jsem se utíkal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תער",
+      "gloss": "odhaluj"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji duši"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:56.562939443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A země odpoví ⟨את⟩ ⟨obilí⟩, ⟨את⟩ ⟨mošt⟩ i ⟨את⟩ ⟨olej⟩, a oni odpoví ⟨את⟩ Jizreelu.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "a země"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "odpoví"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obilí"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "obilí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mošt"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "mošt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "olej"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "olej"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "odpoví"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jizreelu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-09-17T08:55:59.492223962Z",
+  "model": "glm-5.3"
+}

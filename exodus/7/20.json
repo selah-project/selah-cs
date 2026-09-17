@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 7:20",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A učinili tak Mojžíš a Árón, jak přikázal Jahve; a zdvihl hůl a udeřil ⟨את⟩ vody, které jsou v řece, před očima faraóna a před očima jeho služebníků, a byly proměněny všechny vody, které jsou v řece, v krev.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "A učinili"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Árón"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "a zdvihl"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "hůl"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a udeřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vody"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "v řece"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "před očima"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraóna"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "a před očima"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeho služebníků"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "a byly proměněny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "v řece"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "v krev"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:15.643770007Z",
+  "model": "glm-5.3"
+}

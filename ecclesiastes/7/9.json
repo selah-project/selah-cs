@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Nebuď popudlivý ve svém duchu, aby ses hněval, neboť hněv v klíně bláznů odpočívá.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "buď popudlivý"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ve svém duchu"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "aby ses hněval"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "hněv"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "v klíně"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "bláznů"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "odpočívá"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:19.328614582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A David dobyl ⟨את⟩ pevnost Sijón — to ⟨je⟩ město Davidovo.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "A dobyl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pevnost"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "pevnost"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijón"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:33:39.635375630Z",
+  "model": "glm-5.3"
+}

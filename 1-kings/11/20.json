@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A porodila ⟨mu⟩ sestra Tachpenes ⟨את⟩ Genubata, syna jeho, a Tachpenes ho odstavila uvnitř domu faraóna; a byl Genubat v domě faraóna uprostřed synů faraónových.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mu⟩"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sestra"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubata, syna jeho"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubata"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syna jeho"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "a odstavila ho"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tachpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uvnitř"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraóna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a byl"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraóna"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónových"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:03.582731587Z",
+  "model": "glm-5.3"
+}

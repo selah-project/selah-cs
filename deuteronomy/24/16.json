@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Nebudou usmrceni otcové ⟨kvůli⟩ synům a synové nebudou usmrceni ⟨kvůli⟩ otcům; každý ve svém hříchu bude usmrcen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "budou usmrceni"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "otcové"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kvůli⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "a synové"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "budou usmrceni"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kvůli⟩"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "otcům"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "ve svém hříchu"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bude usmrcen"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:07.031657559Z",
+  "model": "glm-5.3"
+}

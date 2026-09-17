@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A mezi těmito nebyl žádný muž z těch, které zapsal Mojžíš a Áron, kněz, když započítali ⟨את⟩ syny Izraele na poušti Sinaj.",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "a mezi těmito"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žádný muž"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "z zapsaných"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Áron"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "započítali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:41.534781793Z",
+  "model": "glm-5.3"
+}

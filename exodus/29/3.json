@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A dáš ⟨את⟩ je do jednoho koše a přiblížíš ⟨את⟩ je v koši, i ⟨את⟩ toho býka a ⟨את⟩ ty dva berany.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "A dáš"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "סל",
+      "gloss": "koše"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "a přiblížíš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "v koši"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "toho býka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "toho býka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ty dva berany"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ty dva"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "berany"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:32.839954440Z",
+  "model": "glm-5.3"
+}

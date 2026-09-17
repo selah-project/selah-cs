@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A začal Jonáš vcházet do města cestu jednoho dne, a volal a řekl: Ještě čtyřicet dnů, a Ninive ⟨bude⟩ převráceno.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "A začal"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonáš"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "vcházet"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "do města"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a volal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Ještě"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "a Ninive"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "⟨bude⟩ převráceno"
+    }
+  ],
+  "timestamp": "2026-09-17T09:02:02.144315103Z",
+  "model": "glm-5.3"
+}

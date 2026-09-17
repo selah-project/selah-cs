@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "I zavolal faraón Abrama a řekl: Co jsi mi to udělal? Proč jsi mi neoznámil, že ⟨je⟩ tvá žena?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I zavolal"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraón"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Abrama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi udělal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "jsi oznámil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tvá žena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:41.483515803Z",
+  "model": "glm-5.3"
+}

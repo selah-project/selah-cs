@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "Elohim, nevzdaluj se ode mě; můj Elohim, ke pomoci mé spěchej!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "vzdaluj se"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mě"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "můj Elohim"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ke pomoci mé"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "spěchej"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:58.583177591Z",
+  "model": "glm-5.3"
+}

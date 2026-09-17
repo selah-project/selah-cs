@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A Čefanjá kněz přečetl ⟨את⟩ tento list uším Jeremiáše proroka.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a přečetl"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Čefanjá"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento list"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "list"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "uším"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremiáše"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroka"
+    }
+  ],
+  "timestamp": "2026-09-17T08:28:48.852417445Z",
+  "model": "glm-5.3"
+}

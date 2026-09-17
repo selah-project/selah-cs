@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "A vzpomněli, že Elohim ⟨je⟩ jejich skála a El Eljon jejich vykupitel.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "A vzpomněli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "jejich skála"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "jejich vykupitel"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:17.590716593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 10:10",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A Jahve je uvedl v zmatek před Izraelem a porazil je velkou porážkou u Gibeonu; pronásledoval je cestou stoupající k Bet-Chóronu a porazil je až po Azeku a až po Makédu.",
+  "tokens": [
+    {
+      "surface": "ויהמם",
+      "gloss": "a uvedl je v zmatek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "a porazil je"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "porážkou"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "velkou"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "u Gibeonu"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "pronásledoval je"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "stoupající"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Chóronu"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "a porazil je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a až po"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makédu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:07:18.158522405Z",
+  "model": "glm-5.3"
+}

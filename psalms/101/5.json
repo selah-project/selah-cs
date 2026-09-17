@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 101,
+  "translation": "Kdo pomlouvá v skrytu svého druha, ⟨את⟩ něj vyhladím; povýšené oči a široké srdce, ⟨את⟩ toho nebudu snášet.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "pomlouvá"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "v skrytu"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svého druha"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "něj"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "vyhladím"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "povýšené"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oči"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "a široké"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "toho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "budu snášet"
+    }
+  ],
+  "timestamp": "2026-09-17T13:39:39.762976662Z",
+  "model": "glm-5.3"
+}

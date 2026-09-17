@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 92,
+  "translation": "vyhlašovat z rána tvůj chesed a tvou věrnost v nocích,",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "vyhlašovat"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "z rána"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvůj chesed"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "a tvou věrnost"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "v nocích"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:21.002637803Z",
+  "model": "glm-5.3"
+}

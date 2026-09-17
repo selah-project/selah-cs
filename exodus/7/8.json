@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A řekl Jahve Mošemu a Aharonovi, řka:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošemu (k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošemu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a (k)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:14.932458508Z",
+  "model": "glm-5.3"
+}

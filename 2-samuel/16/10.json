@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A řekl král: Co je mi po vás, synové Ceruje? Ať nadává, neboť mu Jahve řekl: Nadávej ⟨את⟩ Davidovi! Kdo pak může říct: Proč jsi to udělal?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "a vám"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Ceruje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ať"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "nadává"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "Nadávej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidovi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a kdo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "může říct"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "proč"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "jsi udělal"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-09-17T07:37:21.268234312Z",
+  "model": "glm-5.3"
+}

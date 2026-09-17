@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 16:6",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "V chesedu a věrnosti ⟨se⟩ smiřuje vina, a v bázni před Jahvem ⟨člověk⟩ se odvrací od zla.",
+  "tokens": [
+    {
+      "surface": "בחסד",
+      "gloss": "v chesedu"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "a věrnosti"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "smiřuje"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vina"
+    },
+    {
+      "surface": "וביראת",
+      "gloss": "a v bázni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "před Jahvem"
+    },
+    {
+      "surface": "סור",
+      "gloss": "se odvrací"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "od zla"
+    }
+  ],
+  "timestamp": "2026-09-17T11:16:08.148567161Z",
+  "model": "glm-5.3"
+}

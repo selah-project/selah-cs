@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Dávali se poznát jako ti, kdo vynášejí vzhůru do houští stromů sekery.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "dávali se poznát"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "jako ti, kdo vynášejí"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "vzhůru"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "do houští"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "stromů"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "sekery"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:36.033777432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neboť v stínu moudrosti ⟨je⟩ ⟨jako⟩ v stínu stříbra; a výhodou poznání ⟨je⟩ to, že moudrost dává život těm, kdo ji vlastní.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "v stínu"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "moudrosti"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "v stínu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbra"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "výhodou"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "poznání"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "dává život"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "těm, kdo ji vlastní"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:07.759805185Z",
+  "model": "glm-5.3"
+}

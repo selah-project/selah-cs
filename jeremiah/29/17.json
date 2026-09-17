@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 29:17",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Takto řekl Jahve Cevaot: Hle, já posílám na ně ⟨את⟩ meč, ⟨את⟩ hlad a ⟨את⟩ mor, a dám je ⟨את⟩ jako fíky zkažené, které se nedají jíst pro zkaženost.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Takto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hle, já"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "posílám"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na ně"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meč"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlad"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hlad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mor"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mor"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "a dám"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "je ⟨את⟩",
+      "marks": "jako fíky zkažené"
+    },
+    {
+      "surface": "כתאנים",
+      "gloss": "jako fíky"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "zkažené"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "se nedají jíst"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "pro zkaženost"
+    }
+  ],
+  "timestamp": "2026-09-17T08:28:27.992232390Z",
+  "model": "glm-5.3"
+}

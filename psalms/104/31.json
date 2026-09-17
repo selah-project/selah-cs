@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Buď sláva Jahveho naveky! Ať se Jahve raduje ze svých děl!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Buď"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sláva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "naveky"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "ze svých děl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:05.384003252Z",
+  "model": "glm-5.3"
+}

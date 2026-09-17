@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A budou jíst, a nenasytí se; smilnili se, a nerozmnoží se, neboť ⟨את⟩ Jahve opustili, ⟨přestali⟩ dbát.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "a budou jíst"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "nasytí se"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "smilnili se"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "rozmnoží se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "opustili"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "dbát"
+    }
+  ],
+  "timestamp": "2026-09-17T08:55:35.245817578Z",
+  "model": "glm-5.3"
+}

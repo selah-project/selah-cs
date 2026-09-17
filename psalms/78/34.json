@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Když je zabíjel, hledali ⟨ho⟩, a vraceli se a úporně hledali El.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Když"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "je zabíjel"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "hledali ⟨ho⟩"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "a vraceli se"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "úporně hledali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:17.590561672Z",
+  "model": "glm-5.3"
+}

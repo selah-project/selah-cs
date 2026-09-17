@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "I odpověděl král a řekl: Dejte jí ⟨את⟩ živé dítě a neusmrcujte ho — ona je jeho matka.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odpověděl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "dejte"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "živé dítě"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "dítě"
+    },
+    {
+      "surface": "החי",
+      "gloss": "živé"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "a neusmrcujte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jeho matka"
+    }
+  ],
+  "timestamp": "2026-09-17T07:42:15.114822137Z",
+  "model": "glm-5.3"
+}

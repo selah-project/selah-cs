@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Hle, prýští ústy svými <את> meče, rty jejich ⟨jsou⟩ jako ostří; neboť kdo slyší?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "prýští"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ústy svými"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "meče"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "rty jejich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyší"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:30.472141245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Jako dým je rozehnán, ⟨ať jsou rozehnáni⟩; jako vosk tající před ohněm, ať zahynou ničemní před tváří Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "jako je rozehnán"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dým"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "⟨ať jsou rozehnáni⟩"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "jako tající"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "vosk"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ať zahynou"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ničemní"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:35.760335050Z",
+  "model": "glm-5.3"
+}

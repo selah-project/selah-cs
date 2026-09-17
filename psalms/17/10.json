@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Své ⟨tuk⟩ ⟨zavřeli⟩, svými ústy mluví ⟨v pýše⟩.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "svůj tuk"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "zavřeli"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "svými ústy"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mluví"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "v pýše"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:43.386214551Z",
+  "model": "glm-5.3"
+}

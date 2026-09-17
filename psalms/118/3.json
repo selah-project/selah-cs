@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Ať nyní řekne dům Áronův: že na věčnost ⟨trvá⟩ jeho chesed.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Ať řeknou"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áronův"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věčnost"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:30.168407417Z",
+  "model": "glm-5.3"
+}

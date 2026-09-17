@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A vzali ⟨את⟩ veškerou kořist a ⟨את⟩ veškerou lupu, lidskou i dobytčí.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "a vzali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškerou kořist"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "kořist"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "veškerou lupu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "lupu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "lidskou"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "i dobytčí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:50:50.179818542Z",
+  "model": "glm-5.3"
+}

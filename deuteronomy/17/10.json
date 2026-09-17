@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 17:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A učiníš podle úst slova, které ti oznámí z místa toho, které si vyvolí Jahve; a bedlivě budeš dodržovat, abys činil podle všeho, co tě naučí.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "a učiníš"
+    },
+    {
+      "surface": "על",
+      "gloss": "podle"
+    },
+    {
+      "surface": "פי",
+      "gloss": "úst"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "oznámí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "místa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "si vyvolí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "a bedlivě budeš dodržovat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "abys činil"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "tě naučí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:08.962643971Z",
+  "model": "glm-5.3"
+}

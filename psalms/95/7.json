@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 95,
+  "translation": "Neboť on je náš Elohim a my ⟨jsme⟩ lid jeho pastvy, stádo jeho ruky. Dnes — jste-li poslušni jeho hlasu —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a my"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "jeho pastvy"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "a stádo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jeho ruky"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "jeho hlasu"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "jste poslušni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:32.506586571Z",
+  "model": "glm-5.3"
+}

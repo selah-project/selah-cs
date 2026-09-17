@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Kde tedy jsou tví moudří? Ať ti ⟨to⟩ nyní oznámí a ať poznají, co poradil Jahve Cevaot proti Egyptu.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "kde"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "tedy\/nyní"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "tví moudří"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ať oznámí"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní (prosba)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "a ať poznají"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "poradil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti\/na"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    }
+  ],
+  "timestamp": "2026-09-17T08:05:55.340747827Z",
+  "model": "glm-5.3"
+}

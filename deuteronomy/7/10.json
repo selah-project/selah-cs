@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 7:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A odplácí ⟨ těm, kdo ho nenávidí ⟩ do tváře, aby je zahubil; nezdrží se vůči tomu, kdo ho nenávidí — do tváře mu odplatí.",
+  "tokens": [
+    {
+      "surface": "ומשלם",
+      "gloss": "a odplácí"
+    },
+    {
+      "surface": "לשנאיו",
+      "gloss": "těm, kdo ho nenávidí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tváře"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "aby je zahubil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאחר",
+      "gloss": "zdrží se"
+    },
+    {
+      "surface": "לשנאו",
+      "gloss": "vůči tomu, kdo ho nenávidí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tváře"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "odplatí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-17T12:30:12.750990320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Neboť pravdu předříkvává mé patro a ohavnost je mým rtům nepravost.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "pravdu"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "předříkvává"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "mé patro"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "a ohavnost"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mým rtům"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nepravost"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:35.754134338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 127,
+  "translation": "Hle, synové jsou dědictví od Jahveho, odměna je plod lůna.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dědictví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synové"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "odměna"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "plod"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "lůna"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:23.727741063Z",
+  "model": "glm-5.3"
+}

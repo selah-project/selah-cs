@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A řekl Jahve: „Což dobře ⟨je⟩, že se hněváš?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "Což dobře"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "se hněváš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨je, že⟩ ti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:01:57.245701515Z",
+  "model": "glm-5.3"
+}

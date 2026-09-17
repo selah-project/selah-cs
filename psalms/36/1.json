@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Pro vedoucího ⟨sboru⟩. ⟨Služebníka⟩ Jahveho, Davida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro vedoucího ⟨sboru⟩"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "⟨služebníka⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:24.102789587Z",
+  "model": "glm-5.3"
+}

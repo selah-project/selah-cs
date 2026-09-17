@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Blízký ⟨je⟩ Jahve všem, kdo ho vzývají, všem, kdo ho volají v pravdivosti.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Blízký"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "kdo ho vzývají"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ho volají"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "v pravdivosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:41.684824481Z",
+  "model": "glm-5.3"
+}

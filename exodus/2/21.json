@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Moše se rozhodl bydlet ⟨u⟩ ⟨את⟩ toho muže; a ⟨ten⟩ dal ⟨את⟩ Ciporu, svou dceru, Mošemu.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "a rozhodl se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "bydlet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toho muže"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "toho muže"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciporu"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ciporu"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "svou dceru"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošemu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:01.762765773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Jestliže jeho synové opustí moji tóru a v mých výsudcích nebudou chodit —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "opustí"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synové"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "moji tóru"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "a v mých výsudcích"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "budou chodit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:08.426133340Z",
+  "model": "glm-5.3"
+}

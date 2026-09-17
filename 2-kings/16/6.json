@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 16:6",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "V ⟨ten⟩ čas přivedl Recin, král Aramu, ⟨את⟩ Ejlat zpět Aramu a vyhnal ⟨את⟩ Judejce z Ejlatu; Aramejci ⟨přišli⟩ do Ejlatu a bydlí tam až do ⟨tohoto⟩ dne.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "V ⟨ten⟩ čas"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "⟨ten⟩"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "přivedl zpět"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ejlat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ejlat"
+    },
+    {
+      "surface": "לארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "וינשל",
+      "gloss": "a vyhnal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judejce"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Judejce"
+    },
+    {
+      "surface": "מאילות",
+      "gloss": "z Ejlatu"
+    },
+    {
+      "surface": "וארמים",
+      "gloss": "Aramejci"
+    },
+    {
+      "surface": "באו",
+      "gloss": "⟨přišli⟩"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "do Ejlatu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "a bydlí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨tohoto⟩ dne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨tohoto⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T13:06:16.984730347Z",
+  "model": "glm-5.3"
+}

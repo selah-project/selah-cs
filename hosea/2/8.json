@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Proto, hle, já zahradím ⟨את⟩ tvou cestu trním a vystavím ⟨את⟩ její ohradu, a svých stezek nenajde.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Proto"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hle, já"
+    },
+    {
+      "surface": "שך",
+      "gloss": "zahradím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou cestu"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tvou cestu"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "trním"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "a vystavím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její ohradu"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "její ohradu"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "a svých stezek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "najde"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:07.847915232Z",
+  "model": "glm-5.3"
+}

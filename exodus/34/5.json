@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A Jahve sestoupil v oblaku a postavil se tam s ním ⟨s Mosím⟩ a vzýval jméno Jahveho.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "A sestoupil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "v oblaku"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "a postavil se"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a vzýval"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "jménem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:25.310208049Z",
+  "model": "glm-5.3"
+}

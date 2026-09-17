@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A zplodil s Chódeš, svou ženou, ⟨את⟩ Jóbava a ⟨את⟩ Civju a ⟨את⟩ Mešu a ⟨את⟩ Malkama.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "A zplodil"
+    },
+    {
+      "surface": "מן",
+      "gloss": "s"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Chódeš"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "svou ženou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jóbava"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jóbava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Civju"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Civju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Mešu"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Mešu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Malkama"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkama"
+    }
+  ],
+  "timestamp": "2026-09-17T11:23:48.627323506Z",
+  "model": "glm-5.3"
+}

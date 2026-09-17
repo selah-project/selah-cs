@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Vzdávejte díky Jahvem? Ne — vzdávejte díky Jahvovi, vzývejte jeho jméno, rozhlašujte mezi národy jeho činy!",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "vzdávejte-díky"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "vzývejte"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "jeho-jméno"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "rozhlašujte"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mezi-národy"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "jeho-činy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:21.326393958Z",
+  "model": "glm-5.3"
+}

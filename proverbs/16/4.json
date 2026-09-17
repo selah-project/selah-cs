@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Všechno vykonal Jahve kvůli sobě, i bezbožného pro den zla.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Všechno"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "vykonal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "kvůli sobě"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožného"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pro den"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:51.014617134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Neučiníte tak Jahve, svému Elohim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "učiníte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "svému Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:35.319018542Z",
+  "model": "glm-5.3"
+}

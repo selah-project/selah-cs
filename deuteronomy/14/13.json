@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "a supa, ⟨את⟩ luňáka a poštolku podle jejího druhu",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "a sup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "luňáka"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "luňák"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "poštolka"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "podle jejího druhu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:50.878799446Z",
+  "model": "glm-5.3"
+}

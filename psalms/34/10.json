@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Bojte se ⟨את⟩ Jahve, jeho svatí, neboť těm, kdo se ho bojí, nic neschází.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Bojte se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "jeho svatí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nic"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "neschází"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "těm, kdo se ho bojí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:39.345896301Z",
+  "model": "glm-5.3"
+}

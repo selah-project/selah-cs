@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "„Avšak já jsem ustanovil svého krále na Sijónu, své svaté hoře.“",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Avšak já"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "jsem ustanovil"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "svého krále"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijónu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hoře"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svaté"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:44.555608441Z",
+  "model": "glm-5.3"
+}

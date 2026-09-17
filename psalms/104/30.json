@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Pošleš-li svůj dech, jsou stvořeni, a obnovuješ tvář země ⟨adama⟩.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Pošleš-li"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "svůj dech"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "jsou stvořeni"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "a obnovuješ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:05.383892824Z",
+  "model": "glm-5.3"
+}

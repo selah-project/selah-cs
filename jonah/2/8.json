@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Když slábla nade mnou má duše, ⟨את⟩ Jahve jsem si připomněl, a dostala se k tobě má modlitba, do tvého svatého chrámu.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "Když slábla"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mnou"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "jsem si připomněl"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "a dostala se"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "má modlitba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "chrámu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "svatého tvého"
+    }
+  ],
+  "timestamp": "2026-09-17T09:01:58.660150946Z",
+  "model": "glm-5.3"
+}

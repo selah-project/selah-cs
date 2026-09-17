@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A ⟨את⟩ lid přikázal Jóšua, řka: Nepovstanete křikem a nenecháte znít ⟨את⟩ svůj hlas, a nevyjde z vašich úst slovo, až do dne, kdy vám řeknu: Zažeňte křik! — tehdy zaženete křik.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "povstanete křikem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "nenecháte znít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj hlas"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vyjde"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "z vašich úst"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "řeknu"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "zažeňte křik"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "zaženete křik"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:03.425652329Z",
+  "model": "glm-5.3"
+}

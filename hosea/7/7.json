@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Všichni se rozpálili jako pec a pozřeli ⟨את⟩ své soudce; všichni jejich králové padli — není mezi nimi ⟨nikoho⟩, kdo by volal k Elohim.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "všichni z nich"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "rozpálili se"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "jako pec"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "a pozřeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své soudce"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "své soudce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "jejich králové"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "volajícího"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mezi nimi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T08:57:47.506026512Z",
+  "model": "glm-5.3"
+}

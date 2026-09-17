@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 3:27",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Vystup na vrchol Pisgy a zdvihni své oči na západ, na sever, na jih a na východ, a patř svýma očima, neboť nepřejdeš ⟨את⟩ tento Jordán.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Vystup"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vrchol"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Pisgy"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "a zdvihni"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "své oči"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "na západ"
+    },
+    {
+      "surface": "וצפנה",
+      "gloss": "na sever"
+    },
+    {
+      "surface": "ותימנה",
+      "gloss": "na jih"
+    },
+    {
+      "surface": "ומזרחה",
+      "gloss": "a na východ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a patř"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "svýma očima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "přejdeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:49.476847754Z",
+  "model": "glm-5.3"
+}

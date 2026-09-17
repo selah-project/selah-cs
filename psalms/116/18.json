@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "Své sliby Jahvi splním, tedy ⟨nyní⟩ v přítomnosti všeho jeho lidu.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "své sliby"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "splním"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "v přítomnosti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tedy"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "veškerému"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeho lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:45.576584006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 82,
+  "translation": "Vstaň, Elohim, suď ⟨tu⟩ zemi, neboť ty zdědíš všechny národy.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "vstaň"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "suď"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tu⟩ zemi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "zdědíš"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:42.059602072Z",
+  "model": "glm-5.3"
+}

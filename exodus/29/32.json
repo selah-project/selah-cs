@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A budou jíst Aharon a jeho synové ⟨את⟩ maso berana i ⟨את⟩ chléb, který ⟨je⟩ v koši, u vchodu stanu setkávání.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "A budou jíst"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "a jeho synové"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maso berana"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chléb"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "v koši"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:19.141127504Z",
+  "model": "glm-5.3"
+}

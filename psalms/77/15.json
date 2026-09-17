@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Ty jsi ⟨ten⟩ El, který činí divy; dal jsi poznat národům svou moc.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨ten⟩ El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "který činí"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "divy"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "dal jsi poznat"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "národům"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "svou moc"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:34.756725529Z",
+  "model": "glm-5.3"
+}

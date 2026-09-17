@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 4:9",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A vezmou plášť z modři ⟨a⟩ přikryjí ⟨את⟩ svícen ⟨a⟩ světlo, ⟨את⟩ jeho lampy, ⟨את⟩ jeho kleště a ⟨את⟩ jeho popelníky, a ⟨את⟩ všechny jeho olejové nádoby, jimiž při něm slouží ⟨v⟩ nich.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "a vezmou"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "plášť"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "z modři"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "a přikryjí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svícen"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "svícen"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho lampy"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "jeho lampy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho kleště"
+    },
+    {
+      "surface": "מלקחיה",
+      "gloss": "jeho kleště"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho popelníky"
+    },
+    {
+      "surface": "מחתתיה",
+      "gloss": "jeho popelníky"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechny nádoby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nádoby"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "olejové"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jimiž"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "slouží"
+    },
+    {
+      "surface": "לה",
+      "gloss": "při něm"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:40.729491938Z",
+  "model": "glm-5.3"
+}

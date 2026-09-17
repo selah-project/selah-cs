@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A postavíš ⟨את⟩ stůl vně opony a ⟨את⟩ svícen naproti stolu na bok příbytku jižním; a stůl dáš na bok severní.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "a postavíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stůl"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stůl"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "vně"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "opony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svícen"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "svícen"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stolu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "bok"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytku"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "jižním"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "a stůl"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dáš"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "bok"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "severní"
+    }
+  ],
+  "timestamp": "2026-09-17T06:24:05.405480338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Očisti mě hysopem a budu čistý, vyper mě a budu bělejší než sníh.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "očisti mě (od hříchu)"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "hysopem"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "a budu čistý"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "vyper mě"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "než sníh"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "budu bělejší"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:29.606919930Z",
+  "model": "glm-5.3"
+}

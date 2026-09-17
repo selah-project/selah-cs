@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Skryj svou tvář před mými hříchy, a všechny moje viny smaž.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "skryj"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "před mými hříchy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechny"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "moje viny"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "smaž"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:29.607305276Z",
+  "model": "glm-5.3"
+}

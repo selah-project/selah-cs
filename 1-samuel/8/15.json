@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vaše obilí a vaše vinice desátkuje ⟨z nich⟩ a dá ⟨to⟩ svým dvořanům a svým sluhům.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "vaše obilí"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "vaše vinice"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "desátkuje"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a dá"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "svým dvořanům"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "svým sluhům"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:34.193528297Z",
+  "model": "glm-5.3"
+}

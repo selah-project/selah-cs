@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A Nátan odešel do svého domu; a Jahve úderem zasáhl ⟨את⟩ dítě, kteréž porodila manželka Urijáše Davidovi, a ono onemocnělo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a odešel"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nátan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svého domu"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "úderem zasáhl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dítě"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dítě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteréž"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "manželka"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urijáše"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "ono onemocnělo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:48.610803386Z",
+  "model": "glm-5.3"
+}

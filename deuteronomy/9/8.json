@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "I na Chorebu jste rozhněvali ⟨את⟩ Jahve, a Jahve se proti vám rozhněval, aby vás zničil ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "i na Chorebu"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "jste rozhněvali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "a rozhněval se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "proti vám"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "aby zničil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:55:52.223968598Z",
+  "model": "glm-5.3"
+}

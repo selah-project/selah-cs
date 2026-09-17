@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Kain řekl Jahvemu: „Veliká ⟨je⟩ moje vina, než ⟨ji⟩ unést.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "Veliká"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "moje vina"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "než unést"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:12.028341891Z",
+  "model": "glm-5.3"
+}

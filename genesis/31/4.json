@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A Jákob poslal a zavolal Ráchel a Leu na pole, ke svému stádu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a zavolal"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Ráchel"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "a Leu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "na pole"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "svému stádu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:26.753475287Z",
+  "model": "glm-5.3"
+}

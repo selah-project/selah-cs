@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A dáte ⟨את⟩ ji Elazarovi, knězi, a on vyvede ⟨את⟩ ji ven mimo ⟨the⟩ tábor a ⟨kdo⟩ porazí ⟨את⟩ ji před jeho tváří.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "a dáte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ovi"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarovi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "knězi"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "a on vyvede"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ven"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "mimo"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "a porazí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ji"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před jeho tváří"
+    }
+  ],
+  "timestamp": "2026-09-17T10:42:31.023178306Z",
+  "model": "glm-5.3"
+}

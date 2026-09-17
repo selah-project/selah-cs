@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Pro předního zpěváka; píseň Davidova.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro předního zpěváka"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:18.569743184Z",
+  "model": "glm-5.3"
+}

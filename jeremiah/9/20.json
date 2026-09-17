@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 9:20",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Neboť smrt vystoupala skrze naše okna, vešla do našich paláců, aby vyhladila děti z ulic, mladíky z náměstí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "vystoupala"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "בחלונינו",
+      "gloss": "skrze naše okna"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vešla"
+    },
+    {
+      "surface": "בארמנותינו",
+      "gloss": "do našich paláců"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "aby vyhladila"
+    },
+    {
+      "surface": "עולל",
+      "gloss": "děti"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "z ulic"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "mladíky"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "z náměstí"
+    }
+  ],
+  "timestamp": "2026-09-17T11:47:22.156248701Z",
+  "model": "glm-5.3"
+}

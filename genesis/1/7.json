@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A udělal Elohim ⟨את⟩ oblohu, a oddělil mezi vodami, které ⟨jsou⟩ pod oblohou, a mezi vodami, které ⟨jsou⟩ nad oblohou — a stalo se tak.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A udělal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oblohu"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "oblohu"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "a oddělil"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vodami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "oblohou"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vodami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "oblohou"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:10.260742818Z",
+  "model": "glm-5.3"
+}

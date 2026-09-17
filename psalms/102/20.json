@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Neboť se sklonil z výsosti své svatyně, Jahve z nebe na zem pohlédl.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "se sklonil"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "z výsosti"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "své svatyně"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z nebe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "pohlédl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:07.816275740Z",
+  "model": "glm-5.3"
+}

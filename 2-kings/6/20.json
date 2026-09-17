@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A stalo se, když přišli do Šomronu, že řekl Elíša: Jahve, otevři ⟨את⟩ oči těchto, ať vidí. A Jahve otevřel ⟨את⟩ jejich oči, a viděli — a hle, ⟨byli⟩ uprostřed Šomronu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "když přišli"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "do Šomronu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "že řekl"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elíša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "otevři"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oči těchto"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ať vidí"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "a otevřel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich oči"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "jejich oči"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "a viděli"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomronu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:40.710074864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "A změřil zeď ⟨the⟩ domu: šest loket, a šířku boční komory čtyři lokty, dookola dokola kolem ⟨the⟩ domu, dokola.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "A změřil"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "zeď"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "loket"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "a šířku"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "boční komory"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "loky"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dookola"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokola"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kolem domu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokola"
+    }
+  ],
+  "timestamp": "2026-09-17T08:53:20.384404637Z",
+  "model": "glm-5.3"
+}

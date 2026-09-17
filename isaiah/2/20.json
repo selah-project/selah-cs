@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "V ten den odhodí člověk ⟨את⟩ modly svého stříbra a ⟨את⟩ modly svého zlata, které si udělal, aby se klaněl, krtkům a netopýrům.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "V den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "odhodí"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modly svého stříbra"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "modly"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "svého stříbra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "modly svého zlata"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "modly"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "svého zlata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "si"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "aby se klaněl"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "krtkům"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "nor"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "a netopýrům"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:05.207423856Z",
+  "model": "glm-5.3"
+}

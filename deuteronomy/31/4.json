@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A Jahve učiní jim, jak učinil Sichonovi a Ogovi, králům Emorejců, i jejich zemi, ⟨kterou⟩ zničil ⟨את⟩ je.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "a učiní"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sichonovi"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "a Ogovi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králům"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejců"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "i jejich zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨kterou⟩"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "zničil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:13.338608944Z",
+  "model": "glm-5.3"
+}

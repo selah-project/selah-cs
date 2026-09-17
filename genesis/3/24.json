@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A vyhnal ⟨את⟩ člověka, a usadil na východě od zahrady v Edenu ⟨את⟩ cheruby a ⟨את⟩ plamen meče otáčejícího se, aby střežil ⟨את⟩ cestu ke stromu života.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "a vyhnal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "člověka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "a usadil"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "na východě"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "od zahrady"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "v Edenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cheruby"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "cheruby"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "plamen meče"
+    },
+    {
+      "surface": "להט",
+      "gloss": "plamen"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "meče"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "otáčejícího se"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "aby střežil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cestu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ke stromu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "života"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:27.283431035Z",
+  "model": "glm-5.3"
+}

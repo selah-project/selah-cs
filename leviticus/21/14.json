@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Vdovou, rozvedenou a znečištěnou, prostitutku — ⟨את⟩ těchto si nesmí vzít, nýbrž pannu ze svého lidu si vezme za ženu.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "vdovou"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "a rozvedenou"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "a znečištěnou"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "prostitutku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "těchto"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "si vezme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nýbrž"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jen"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "pannu"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "ze svého lidu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "si vezme"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:48:25.779821523Z",
+  "model": "glm-5.3"
+}

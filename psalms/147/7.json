@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "Zpívejte Jahve s díkůčiněním, hudbou provázejte našeho Elohim na kinóru.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Zpívejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "s díkůčiněním"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "hudbou provázejte"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "našeho Elohim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinóru"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:47.592872471Z",
+  "model": "glm-5.3"
+}

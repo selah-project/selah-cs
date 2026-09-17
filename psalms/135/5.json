@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Vždyť já vím, že velký ⟨je⟩ Jahve, a náš Adonaj ⟨je⟩ nade všemi elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velký"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "a náš Adonaj"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nade všemi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:50.434665737Z",
+  "model": "glm-5.3"
+}

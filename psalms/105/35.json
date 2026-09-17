@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "A sežral všechnu trávu v jejich zemi a sežral plod jejich půdy.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "a sežral"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "trávu"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "v jejich zemi"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "a sežral"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "plod"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "jejich půdy"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:38.076508247Z",
+  "model": "glm-5.3"
+}

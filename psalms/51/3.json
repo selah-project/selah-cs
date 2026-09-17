@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Smiluj se nade mnou, Elohim, podle svého chesed, podle množství svého slitování smaž mé přestupy.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Smiluj se nade mnou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "podle svého chesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "podle množství"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "svého slitování"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "smaž"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mé přestupy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:32.071454076Z",
+  "model": "glm-5.3"
+}

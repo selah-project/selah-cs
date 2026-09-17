@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 31:14",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A budete střežit ⟨את⟩ šabat, neboť posvátný ⟨je⟩ vám; ktož znesvěcuje ji, smrtí zemře, neboť každou duši, jež koná v ní práci, vyhlazena bude ta duše z prostředku svého lidu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "A budete střežit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "posvátný"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "מחלליה",
+      "gloss": "znesvěcuje ji"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "kdož koná"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "práci"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "vyhlazena bude"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ta duše"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "z prostředku"
+    },
+    {
+      "surface": "עמיה",
+      "gloss": "svého lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:16.740401461Z",
+  "model": "glm-5.3"
+}

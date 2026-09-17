@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A pošlu na ně ⟨את⟩ meč, ⟨את⟩ hlad a ⟨את⟩ mor, dokud nezaniknou z půdy, kterou jsem dal jim a jejich otcům.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "A pošlu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na ně"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meč"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlad"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hlad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mor"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mor"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "nezaniknou"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "půdy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "a jejich otcům"
+    }
+  ],
+  "timestamp": "2026-09-17T08:26:13.406984404Z",
+  "model": "glm-5.3"
+}

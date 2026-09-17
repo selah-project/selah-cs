@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 82,
+  "translation": "Já jsem řekl: Elohim jste, a syny Elyjona všichni ⟨jste⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jsem řekl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jste"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "a syny"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyjona"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "všichni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:42.059322614Z",
+  "model": "glm-5.3"
+}

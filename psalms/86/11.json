@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 86,
+  "translation": "Pouč mě, Jahve, o své cestě, abych chodil ve tvé pravdě; sjednoť mé srdce, abych se bál tvého Jména.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Pouč mě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "o své cestě"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "abych chodil"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ve tvé pravdě"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "sjednoť"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "abych se bál"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvého Jména"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:22.554359814Z",
+  "model": "glm-5.3"
+}

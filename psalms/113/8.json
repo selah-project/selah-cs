@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 113,
+  "translation": "aby ⟨ho⟩ posadil mezi velmože, mezi velmože svého lidu —",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "aby posadil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "velmože"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "velmože"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svého lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:42.753022141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Jako se odnímá z býka oběti šelamim, a kněz je spálí na oltáři zápalné oběti.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "jako"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "se odnímá"
+    },
+    {
+      "surface": "משור",
+      "gloss": "z býka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběti"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "šelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "a spálí je"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltáři"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalné oběti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:30.556397825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Když farao uslyšel ⟨את⟩ tu věc tuto, usiloval zabít ⟨את⟩ Mošeho; ale Moše utekl před faraónem a usadil se v zemi midjánské a usedl u studně.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uslyšel"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "farao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu věc tuto"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tu věc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "usiloval"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "zabít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mošeho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeho"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "utekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónem"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "usadil se"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "midjánské"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "usedl"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "studně"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:00.017165066Z",
+  "model": "glm-5.3"
+}

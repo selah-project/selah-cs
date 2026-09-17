@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A David chodil a vracel se od Šaula, aby pásl ⟨את⟩ stádo svého otce v Betlému.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "A David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "chodil"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "a vracel se"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "od"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "aby pásl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stádo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "stádo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lému"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:06.404738395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A všichni starší toho města, nejbližší ⟨tomu⟩ zabitému, umyjí ⟨את⟩ své ruce nad telatkem, kterému byl zaťat vaz, v údolí.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "A všichni"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toho"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "nejbližší"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "zabitému"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "umyjí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své ruce"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "své ruce"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "telatkem"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "kterému byl zaťat vaz"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "v údolí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:58:34.299458634Z",
+  "model": "glm-5.3"
+}

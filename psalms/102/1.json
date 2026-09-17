@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Modlitba ⟨pro⟩ utištěného, když ⟨jej⟩ zachvátí ⟨zármutek⟩, a před Jahvem vylévá své hořekování.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Modlitba"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "⟨pro⟩ utištěného"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "zachvátí ⟨zármutek⟩"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "a před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "vylévá"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "své hořekování"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:26.160941554Z",
+  "model": "glm-5.3"
+}

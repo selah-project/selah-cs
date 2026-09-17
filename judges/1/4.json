@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A vystoupil Júda a vydal Jahve ⟨את⟩ Kenaance a Perizée do jejich ruky; a porazili je v Bezeku, deset tisíc mužů.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a vystoupil"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a vydal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaance"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaance"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "a Perizée"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "do jejich ruky"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "a porazili je"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "v Bezeku"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deset"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:32.043554645Z",
+  "model": "glm-5.3"
+}

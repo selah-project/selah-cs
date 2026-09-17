@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Všechny potoky jdou k moři, a moře ⟨není⟩ plné; na místo, kam potoky jdou, tam se vracejí, aby šly ⟨znovu⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Všechny"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "potoky"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "jdou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moři"
+    },
+    {
+      "surface": "והים",
+      "gloss": "a moře"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "není"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plné"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "kam potoky"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "jdou"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הם",
+      "gloss": "se ⟨oni⟩"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "vracejí"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "aby šly"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:03.697464740Z",
+  "model": "glm-5.3"
+}

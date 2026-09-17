@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "I řekl král Izraele ke svým služebníkům: Víte, že nám ⟨patří⟩ Rámot v Gileádu, a my mlčíme a nebereme ⟨את⟩ ji z ruky krále Aramu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svým služebníkům"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Víte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám ⟨patří⟩"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Rámot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "v Gileádu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a my"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "mlčíme"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "a nebereme"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ji (Rámot v Gileádu)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:51:35.855769597Z",
+  "model": "glm-5.3"
+}

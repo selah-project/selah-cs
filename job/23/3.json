@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Kdo by dal, abych ⟨ho⟩ znal a našel ⟨jej⟩ — přišel bych až k jeho příbytku!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "by dal"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "abych ⟨ho⟩ znal"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "a našel ⟨jej⟩"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "přišel bych"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "jeho příbytku"
+    }
+  ],
+  "timestamp": "2026-09-17T11:17:52.559465037Z",
+  "model": "glm-5.3"
+}

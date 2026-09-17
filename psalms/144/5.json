@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "Jahve, skloň svá nebesa a ⟨sejdi⟩; dotkni se hor a zadýmí se.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הט",
+      "gloss": "skloň"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "svá nebesa"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "a ⟨sejdi⟩"
+    },
+    {
+      "surface": "גע",
+      "gloss": "dotkni se"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "hor"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "a zadýmí se"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:26.639367507Z",
+  "model": "glm-5.3"
+}

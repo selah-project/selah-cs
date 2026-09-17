@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Jahve poslal ⟨את⟩ hady — sarafy — na lid, a kousali ⟨את⟩ lid, a zemřel lid mnohý z Jisra'el.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "A poslal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "na lid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hady sarafy"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "hady"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "sarafy (palavové)"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "a kousali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mnohý"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "z Jisra'el"
+    }
+  ],
+  "timestamp": "2026-09-17T06:47:20.231531380Z",
+  "model": "glm-5.3"
+}

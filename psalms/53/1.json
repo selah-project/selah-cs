@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 53,
+  "translation": "Pro předního zpěváka, podle ⟨písně⟩ Machalat, poučující ⟨báseň⟩, Davidova.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "על",
+      "gloss": "podle"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poučující ⟨báseň⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:55.543745867Z",
+  "model": "glm-5.3"
+}

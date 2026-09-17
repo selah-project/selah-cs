@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Neboť každý muž, kdo by zlořečil ⟨את⟩ svého otce a ⟨את⟩ svou matku, jistě bude usmrcen: svého otce a svou matku zlořečil, jeho krev ⟨je⟩ na něm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý muž"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kdokoli (muž)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "zlořečil by"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého otce"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svou matku"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "svou matku"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bude usmrcen"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "a svou matku"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "zlořečil"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "jeho krev"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na něm"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:47.780737054Z",
+  "model": "glm-5.3"
+}

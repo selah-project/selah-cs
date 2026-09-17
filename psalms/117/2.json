@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 117,
+  "translation": "Neboť jeho chesed ⟨je⟩ mocný nad námi a věrnost Jahve ⟨trvá⟩ navěky. Halelu-jah!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mocný"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad námi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "a věrnost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "jah"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:09.395027004Z",
+  "model": "glm-5.3"
+}

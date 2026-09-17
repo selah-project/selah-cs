@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Odešel od ⟨את⟩ Elíši a přišel ke svému pánu; ten mu řekl: Co ti řekl Elíša? A on řekl: Řekl mi: Jistě budeš žít.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a odešel"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "Elíši"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elíši"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "svému pánu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elíša"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "budeš jistě žít"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "žít"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:34.089849515Z",
+  "model": "glm-5.3"
+}

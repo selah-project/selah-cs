@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "A víno, jež kochá srdce smrtelníka, ⟨aby⟩ rozjasnilo tvář olejem, a chléb, jenž srdce smrtelníka podepírá.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "A víreno"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kochá"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtelníka"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "⟨aby⟩ rozjasnilo"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "olejem"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "a chléb"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtelníka"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "podepírá"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:26.547649946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 20:6",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Když si tě tvůj otec všíme o mě, řekneš: David si naléhavě vyžádal ode mě, aby směl doběhnout do Betléma, svého města, protože tam je oběť dnů pro celou rodinu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "všíme si (vyhledá)"
+    },
+    {
+      "surface": "יפקדני",
+      "gloss": "o mě"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvůj otec"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "řekneš"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "naléhavě vyžádal"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "si"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mě"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "aby směl doběhnout"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "léma"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "svého města"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pro celou"
+    },
+    {
+      "surface": "המשפחה",
+      "gloss": "rodinu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:33.748286753Z",
+  "model": "glm-5.3"
+}

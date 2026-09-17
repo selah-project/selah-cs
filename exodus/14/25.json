@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A odňal ⟨את⟩ kolo svých válečných vozů a uvedl ⟨je⟩ do jízdy s obtíží; a řekl Micrajim: Uprchnu před tváří Izraele, neboť Jahve bojuje za ně proti Micrajim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "a odňal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolo"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "kolo"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "svých válečných vozů"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "a uvedl je do jízdy"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "s obtíží"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "Uprchnu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "bojuje"
+    },
+    {
+      "surface": "להם",
+      "gloss": "za ně"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "proti Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:25.232000238Z",
+  "model": "glm-5.3"
+}

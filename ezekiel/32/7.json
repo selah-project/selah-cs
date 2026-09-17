@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A když tě vyhasínat ⟨budu⟩, přikryji nebesa a ztmavím ⟨את⟩ jejich hvězdy; slunce přikryji oblakem a měsíc nedá svítit svému světlu.",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "přikryji"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "když tě vyhasínat ⟨budu⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "ztmavím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich hvězdy"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "jejich hvězdy"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "oblakem"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "přikryji ⟨je⟩"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "a měsíc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "dá svítit"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "svému světlu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:48:51.065687087Z",
+  "model": "glm-5.3"
+}

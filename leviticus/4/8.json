@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A všechnu tuk ←⟨את⟩ z něj zdvihne z býčka hříšné oběti: ⟨את⟩ tuk, který pokrývá vnitřnosti, a ⟨את⟩ všechen tuk, který je na vnitřnostech.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechnu tuk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "פר",
+      "gloss": "býčka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hříšné oběti"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "zdvihne"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuk, který pokrývá vnitřnosti"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "který pokrývá"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "vnitřnostmi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechnen tuk na vnitřnostech"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnen"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "vnitřnostech"
+    }
+  ],
+  "timestamp": "2026-09-17T06:30:20.470766250Z",
+  "model": "glm-5.3"
+}

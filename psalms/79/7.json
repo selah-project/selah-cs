@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 79,
+  "translation": "neboť sežrali ⟨את⟩ Jákoba a ⟨את⟩ jeho příbytk zpustošili.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sežrali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jákoba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho příbytk"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "jeho příbytk"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "zpustošili"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:10.600735429Z",
+  "model": "glm-5.3"
+}

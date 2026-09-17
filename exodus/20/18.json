@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A všechen lid viděl ⟨את⟩ hlasy a ⟨את⟩ pochodně a ⟨את⟩ hlas šofaru a ⟨את⟩ horu kouřící; a lid viděl ⟨a⟩ chvěl se a stál zdálky.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "A všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlasy"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "hlasy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "pochodně"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "pochodně"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "hlas šofaru"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "šofaru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "horu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "horu"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "kouřící"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "chvěl se"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "a stál"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "zdálky"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:19.877471220Z",
+  "model": "glm-5.3"
+}

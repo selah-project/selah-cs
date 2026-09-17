@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A stalo se, že když jeden ⟨ten⟩ kácel trám, ⟨את⟩ železo spadlo do vody; a vykřikl a řekl: „Ach, Adonaj! A ono ⟨bylo⟩ vypůjčené!“",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden ⟨ten⟩"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "kácel"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "trám"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "železo"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "železo"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "spadlo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "a vykřikl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a ono"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "vypůjčené"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:37.134723824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Všechno plazi se, co je ⟨živé⟩, vám bude ⟨k⟩ jídlu; jako zelenou bylinu jsem vám dal ⟨את⟩ všechno.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "plazi se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ono⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živé"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "k jídlu"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "jako zelenou"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bylinu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno (כל)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    }
+  ],
+  "timestamp": "2026-09-17T11:44:53.342244079Z",
+  "model": "glm-5.3"
+}

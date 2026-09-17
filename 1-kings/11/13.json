@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Pouze ⟨את⟩ celé království nevytrhnu; jeden kmen dá tvému synu, kvůli Davidovi, svému služebníku, a kvůli Jeruzalému, který jsem si vyvolil.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "pouze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celé království"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "království"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "vytrhnu"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kmen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dám"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "tvému synu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "svému služebníku"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "a kvůli"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalému"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "jsem si vyvolil"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:18.416418626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Všichni jsme synové jednoho muže, jsme ⟨my⟩ poctiví; tvoji sluhové nebyli vyzvědači.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "všichni jsme"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "jsme"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "poctiví"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "⟨my⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nebyli"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tvoji sluhové"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vyzvědači"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:47.744040160Z",
+  "model": "glm-5.3"
+}

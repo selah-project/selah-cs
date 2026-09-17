@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 110,
+  "translation": "Tvůj lid ⟨je⟩ dobrovolné dary v den tvé síly, ve nádherném posvěcení; z lůna jitřenky je ti rosa tvého mládí.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "tvůj lid"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "dobrovolné dary"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "tvé síly"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "ve nádherném"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "posvěcení"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "z lůna"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "jitřenky"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je ti"
+    },
+    {
+      "surface": "טל",
+      "gloss": "rosa"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "tvého mládí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:29.243232806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "a uvidí ⟨את⟩ meč přicházející na ⟨tu⟩ zemi, a zatroubí na šofar a varuje ⟨את⟩ lid:",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "a uvidí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meč"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "באה",
+      "gloss": "přicházející"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨tu⟩ zemi"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "a zatroubí"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "na šofar"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "a varuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    }
+  ],
+  "timestamp": "2026-09-17T08:48:56.504240396Z",
+  "model": "glm-5.3"
+}

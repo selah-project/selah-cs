@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "⟨A⟩ pšenice a špalta nebyly zasaženy, neboť jsou pozdní.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "a pšenice"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "a špalta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "byly zasaženy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "pozdní"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "jsou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:41.084911714Z",
+  "model": "glm-5.3"
+}

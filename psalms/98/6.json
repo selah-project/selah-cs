@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 98,
+  "translation": "S chacocerot a hlasem šofaru zařvěte před tváří Krále, Jahve.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "S chacocerot"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "a hlasem"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofaru"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "zařvěte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Krále"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:58.566030379Z",
+  "model": "glm-5.3"
+}

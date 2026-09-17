@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Ve dvacátém sedmém roce Jarobeáma, krále Izraele, se stal králem Azarjáš, syn Amasjášův, král Judska.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ve"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacátém"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "sedmém"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roce"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Jarobeáma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "se stal králem"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjáš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amasjášův"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judska"
+    }
+  ],
+  "timestamp": "2026-09-17T10:56:13.140482278Z",
+  "model": "glm-5.3"
+}

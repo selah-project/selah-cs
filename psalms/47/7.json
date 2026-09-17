@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "Žalmy zpívejte El, žalmy zpívejte, žalmy zpívejte našemu Králi, žalmy zpívejte!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Žalmy zpívejte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "El"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "žalmy zpívejte"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "žalmy zpívejte"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "našemu Králi"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "žalmy zpívejte!"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:52.708829367Z",
+  "model": "glm-5.3"
+}

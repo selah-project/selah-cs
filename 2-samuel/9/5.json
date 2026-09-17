@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "I poslal král David ⟨pro něj⟩ a vzal ho z domu Máchíra, syna Ammielova, z Ló-devaru.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "a vzal ho"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Máchír"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "z Ló"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "-devaru"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:08.302311274Z",
+  "model": "glm-5.3"
+}

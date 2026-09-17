@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A stalo se, když dokončil Mojžíš psát slova této tóry ⟨את⟩ na svitek, až do konce,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "když dokončil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "psát"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slova této tóry"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tóry"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "této"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "svitek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "konce"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:44.335694201Z",
+  "model": "glm-5.3"
+}

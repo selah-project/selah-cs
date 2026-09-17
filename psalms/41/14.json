@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Požehnaný ⟨je⟩ Jahve, Elohim Israele, od věku až do věku. Amen a amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Požehnaný"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "od věku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "věku"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "a amen"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:47.958641298Z",
+  "model": "glm-5.3"
+}

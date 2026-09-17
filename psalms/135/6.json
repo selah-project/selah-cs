@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Vše, co chtěl, učinil Jahve — v nebesích i na zemi, v mořích i ve všech hlubinách.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chtěl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "v nebesích"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "i na zemi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "v mořích"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i ve všech"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "hlubinách"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:50.434918583Z",
+  "model": "glm-5.3"
+}

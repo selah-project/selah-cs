@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "Vzácná je v očích Jahve smrt jeho zbožných.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "vzácná"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "jeho zbožných"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:27.154128639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "A vejdu k oltáři Elohim, k El, radosti mého jásotu, a budu ti vzdávat díky na kinóru, Elohime, Elohim můj.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "A vejdu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltáři"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "radosti"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "mého jásotu"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "a budu ti vzdávat díky"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinóru"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim můj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:46.259428435Z",
+  "model": "glm-5.3"
+}

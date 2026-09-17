@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Není krále zachráněného množstvím vojska, ani hrdina nebude vysvobozen množstvím síly.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "zachráněného"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "množstvím"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hrdina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "bude vysvobozen"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "množstvím"
+    },
+    {
+      "surface": "כח",
+      "gloss": "síly"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:49.818597575Z",
+  "model": "glm-5.3"
+}

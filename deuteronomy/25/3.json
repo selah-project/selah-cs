@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 25:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Čtyřicet ⟨ran⟩ mu může dát, nepřidá víc — aby nepřidal bít jej nad to mnoha ranami a tvůj bratr nebyl tvýma očima zlehčen.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "mu dá (rány)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "přidá"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aby ne"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "přidal"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "bít jej"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ranou"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mnohou"
+    },
+    {
+      "surface": "ונקלה",
+      "gloss": "a nebyl zlehčen"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvůj bratr"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "tvýma očima"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:36.778263949Z",
+  "model": "glm-5.3"
+}

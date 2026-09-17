@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "Neboť moji nepřátelé říkali ⟨proti⟩ mně a ti, kdo číhají na mou duši, radili se spolu:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "říkali"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "moji nepřátelé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨proti⟩ mně"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "a ti, kdo číhají"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "na mou duši"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "radili se"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "spolu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:58.582868867Z",
+  "model": "glm-5.3"
+}

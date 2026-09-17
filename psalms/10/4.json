@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "⟨Bezbožný⟩ ⟨podle⟩ výšky své chlípiny nedotazuje se ⟨na nic⟩: ⟨je⟩-li ⟨vůbec⟩ Elohim ⟨v⟩ všech jeho úkladech ⟨— není⟩.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "bezbožný"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "podle výšky"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "své chlípiny"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nedotazuje se"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "⟨na nic⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "jeho úkladech"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:30.172329630Z",
+  "model": "glm-5.3"
+}

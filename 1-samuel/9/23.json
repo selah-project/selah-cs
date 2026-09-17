@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A řekl Samuel kuchaři: Dej ⟨את⟩ tu porci, kterou jsem ti dal, o níž jsem ti řekl: Odlož ⟨את⟩ ji u sebe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "kuchaři"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Dej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu porci"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "tu porci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o níž"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jsem řekl"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שים",
+      "gloss": "Odlož"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "u sebe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u sebe"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:45.597038514Z",
+  "model": "glm-5.3"
+}

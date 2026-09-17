@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "⟨את⟩ tyto z nich smíte jíst: ⟨את⟩ kobylku podle jejího druhu, ⟨את⟩ solam podle jeho druhu, ⟨את⟩ chargol podle jeho druhu a ⟨את⟩ chagav podle jeho druhu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyto"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smíte jíst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobylku"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "kobylku"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "podle jejího druhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "solam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "podle jeho druhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "chargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "podle jeho druhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chagav"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "chagav"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "podle jeho druhu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:07.686524708Z",
+  "model": "glm-5.3"
+}

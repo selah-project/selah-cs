@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Budeš požírat ⟨את⟩ všechny národy, které ti dá Jahve, tvůj Elohim; tvé oko se nad nimi neslitovalo ⟨bude⟩ a nebudeš sloužit ⟨את⟩ jejich elohim, protože ⟨je⟩ to pro tebe past.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "budeš-požírat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny národy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "slituje-se"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "tvé-oko"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad-nimi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a-ne"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "budeš-sloužit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich elohim"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "jejich-elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "past"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩-to"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pro-tebe"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:33.304677385Z",
+  "model": "glm-5.3"
+}

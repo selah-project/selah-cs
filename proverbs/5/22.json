@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Jeho vlastní nepravosti lapí ⟨את⟩ bezbožníka a provazy svého hříchu bude držen.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "jeho nepravosti"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "lapí jej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bezbožníka"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bezbožníka"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "a provazy"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "svého hříchu"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "bude držen"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:20.735344460Z",
+  "model": "glm-5.3"
+}

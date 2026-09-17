@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 91,
+  "translation": "Neboť svým poslům přikáže ohledně tebe, aby tě střežili na všech tvých cestách.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "svým poslům"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "přikáže"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ohledně tebe"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "aby tě střežili"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na všech"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "tvých cestách"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:44.821873069Z",
+  "model": "glm-5.3"
+}

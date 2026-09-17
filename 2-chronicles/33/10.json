@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A Jahve promluvil k Manasseovi a k jeho lidu, ale nedali ⟨pozor⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasseovi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeho lidu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "poslouchali"
+    }
+  ],
+  "timestamp": "2026-09-17T10:31:30.785198483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 28:10",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Kdo svádí přímé na zlou cestu, do vlastní jámy ⟨on⟩ padne, a bezúhonní zdědí dobro.",
+  "tokens": [
+    {
+      "surface": "משגה",
+      "gloss": "svádí"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "přímé"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlou"
+    },
+    {
+      "surface": "בשחותו",
+      "gloss": "do vlastní jámy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "padne"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "a bezúhonní"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "zdědí"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:53.138387994Z",
+  "model": "glm-5.3"
+}

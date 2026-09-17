@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A řekl mu Jahve: „Jdi, vrať se svou cestou na poušť Damašek; a přijdeš a pomážeš ⟨את⟩ Chazaela za krále nad Aramem.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Jdi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vrať se"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "svou cestou"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "na poušť"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damašek"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "a přijdeš"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "a pomážeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chazaela"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaela"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za krále"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:52.722409563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 18:15",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A Elijáš řekl: Živ je Jahve Cevaot, před nímž stojím, že dnes se ukážu ⟨jemu⟩!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáš"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živ je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jemuž"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "stojím"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "se ukážu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jemu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:13.982726431Z",
+  "model": "glm-5.3"
+}

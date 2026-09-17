@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 31:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Jsem zapomenut jako mrtvý ⟨ze⟩ srdce; stal jsem se jako nádobí ztracené.",
+  "tokens": [
+    {
+      "surface": "נשכחתי",
+      "gloss": "Jsem zapomenut"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "jako mrtvý"
+    },
+    {
+      "surface": "מלב",
+      "gloss": "ze srdce"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "stal jsem se"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "jako nádobí"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ztracené"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:39.497662771Z",
+  "model": "glm-5.3"
+}

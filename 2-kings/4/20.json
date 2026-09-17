@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A vzal ⟨ho⟩ a přivedl ⟨ho⟩ k matce; a seděl na jejích kolenou until poledne — a zemřel.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "a vzal ⟨ho⟩"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "a přivedl ⟨ho⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "matce"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a seděl"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "jejích kolenou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "poledne"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:52.821155631Z",
+  "model": "glm-5.3"
+}

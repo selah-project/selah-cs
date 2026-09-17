@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Nedávej spánek svým očím ani dřímání svým řasám ⟨(očním víčkům)⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dávej"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "spánek"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "svým očím"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ani dřímání"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "svým řasám"
+    }
+  ],
+  "timestamp": "2026-09-17T11:57:19.611996540Z",
+  "model": "glm-5.3"
+}

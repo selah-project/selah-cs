@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "I řekli Mojžíšovi: Mluv ty s námi a uslyšíme; ať nemluví s námi Elohim, abychom nezemřeli.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "I řekli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Mluv"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "s námi"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "a uslyšíme"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "mluví"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "s námi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abychom ne"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "zemřeli"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:19.878209084Z",
+  "model": "glm-5.3"
+}

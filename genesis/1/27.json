@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A stvořil Elohim ⟨את⟩ člověka ve svém obrazu, v obrazu Elohim ⟨את⟩ jej stvořil, samce i samici ⟨את⟩ je stvořil.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "A stvořil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "člověka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "ve svém obrazu"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "v obrazu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stvořil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jej",
+      "marks": "jej (člověka)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samce"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "i samici"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stvořil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (samce i samici)"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:31.147554560Z",
+  "model": "glm-5.3"
+}

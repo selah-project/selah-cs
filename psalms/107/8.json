@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Ať vzdávají díky Jahve za jeho חסד a za jeho divy synům lidí!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Ať vzdávají díky"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "za jeho חסד"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "a za jeho divy"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:45.768590788Z",
+  "model": "glm-5.3"
+}

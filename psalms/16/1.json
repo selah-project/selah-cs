@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Michtam Davidův. Chraň mě, El, neboť jsem si našel útočiště v tobě.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Michtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Chraň mě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "jsem si našel útočiště"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:15.927807314Z",
+  "model": "glm-5.3"
+}

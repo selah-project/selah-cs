@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Vanečním svým dechem přikrylo ⟨je⟩ moře, potopili se jako olovo ve vodách mocných.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "vanul jsi"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "svým dechem"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "přikrylo ⟨je⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "potopili se"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "jako olovo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ve vodách"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "mocných"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:43.481552903Z",
+  "model": "glm-5.3"
+}

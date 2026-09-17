@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A jeho vojsko a jeho sečtení ⟨činilo⟩ šest a čtyřicet tisíc a pět set.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "A jeho vojsko"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "a jeho sečtení"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "šest"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "a čtyřicet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "a pět"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:39.827435553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Dáváš jim — sbírají ⟨to⟩; otevřeš svou ruku — sytí se dobrými věcmi.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "dáváš"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jm"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "sbírají"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "otevřeš"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "sytí se"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrými věcmi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:42.190244944Z",
+  "model": "glm-5.3"
+}

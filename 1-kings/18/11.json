@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A nyní ty říkáš: Jdi, pověz svému pánu: Hle, Elijáš ⟨je⟩ zde.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "říkáš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Jdi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pověz"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "svému pánu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáš"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:23.555633179Z",
+  "model": "glm-5.3"
+}

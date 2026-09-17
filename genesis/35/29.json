@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 35:29",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A Jicchak vydal ducha, a zemřel, a byl shromážděn k svému lidu, stařen a nasycen dny; a pochovali ⟨את⟩ něj Ésau a Jákob, jeho synové.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "a vydal ducha"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchak"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "a byl shromážděn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "svému lidu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "stařen"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "a nasycen"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "a pochovali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "něj (Jicchaka)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésau"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "a Jákob"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synové"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:03.018637322Z",
+  "model": "glm-5.3"
+}

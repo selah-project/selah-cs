@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Když budeš oklepávat své olivy, neprohlédneš ⟨to⟩ za sebou; bude to příchozímu, sirotku a vdově.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "budeš oklepávat"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "své olivy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "prohlédneš"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za sebou"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "příchozímu"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "sirotku"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "a vdově"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:52.023877651Z",
+  "model": "glm-5.3"
+}

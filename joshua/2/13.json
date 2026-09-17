@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A zachováte ⟨את⟩ mého otce i ⟨את⟩ mou matku a ⟨את⟩ mé bratry a ⟨את⟩ mé sestry a ⟨את⟩ vše, co mají, a vysvobodíte ⟨את⟩ naše duše z smrti.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "a zachováte naživu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mého otce"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mého otce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "mou matku"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mou matku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mé bratry"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mé bratry"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mé sestry"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "mé sestry"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "vše, co mají"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mají"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "a vysvobodíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naše duše"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "naše duše"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "z smrti"
+    }
+  ],
+  "timestamp": "2026-09-17T13:00:25.495018582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Avrahám nazval ⟨את⟩ jméno svého syna, narozeného mu, jehož mu porodila Sára: Jicchak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jméno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "narozeného"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jehož"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sára"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchak"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:05.481627525Z",
+  "model": "glm-5.3"
+}

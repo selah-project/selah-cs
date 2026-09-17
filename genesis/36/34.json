@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Jóbáb zemřel a místo něj se stal králem Chúšám ze země Temanitů.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "zemřel"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jóbáb"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "stal se králem"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Chúšám"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Temanitů"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:06.651110530Z",
+  "model": "glm-5.3"
+}

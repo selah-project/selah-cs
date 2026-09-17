@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 61,
+  "translation": "Cizinci budou stát a pást vaše stáda a synové cizinců budou vašimi oráči a vašimi vinaři.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "budou stát"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "cizinci"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "a pást"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "vaše stáda"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "a synové"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "cizinců"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "vaši oráči"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "a vaši vinaři"
+    }
+  ],
+  "timestamp": "2026-09-17T08:17:08.712505896Z",
+  "model": "glm-5.3"
+}

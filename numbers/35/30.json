@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Každý, kdo ubije osobu, na svědectví svědků bude zabit ⟨את⟩ vraha; a jeden svědek nesvědčí proti osobě k smrti.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kdo ubije"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "osobu"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "na svědectví"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "svědků"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "bude zabit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vraha"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "vraha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a svědek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "svědčí"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "proti osobě"
+    },
+    {
+      "surface": "למות",
+      "gloss": "k smrti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:18.890003500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Neboť hvězdy nebes i jejich souhvězdí nedají světlem svým svítit, ztmavne slunce při svém východu a měsíc nerozzáří světlo své.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "hvězdy"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "i jejich souhvězdí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "dají svítit"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "světlem svým"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ztmavne"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "při svém východu"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "a měsíc"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "rozzáří"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "světlo své"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:10.816492931Z",
+  "model": "glm-5.3"
+}

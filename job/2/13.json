@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A seděli s ním ⟨את⟩ na zemi sedm dní a sedm nocí, a nikdo k němu nepromluvil ⟨žádného⟩ slova, neboť viděli, že ⟨je⟩ bolest veliká velmi.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "a seděli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním",
+      "marks": "s ním"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na zemi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "a sedm"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nocí"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nikdo ne—"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "viděli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "veliká"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "bolest"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:48.089601899Z",
+  "model": "glm-5.3"
+}

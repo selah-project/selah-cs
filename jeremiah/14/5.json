@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Ani laň na poli neporodila a neopustila ⟨své mládě⟩, neboť nebyla tráva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "laň"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "a opustila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byla"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "tráva"
+    }
+  ],
+  "timestamp": "2026-09-17T08:23:38.497192375Z",
+  "model": "glm-5.3"
+}

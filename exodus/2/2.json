@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A ⟨ta⟩ žena počala a porodila syna; a viděla ⟨את⟩ něj, že ⟨je⟩ dobrý, a skrývala jej tři měsíce.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "a počala"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ta žena"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "a viděla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "něj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩ on"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "a skrývala jej"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tři"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "měsíce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:57.961919595Z",
+  "model": "glm-5.3"
+}

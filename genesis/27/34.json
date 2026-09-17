@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Když uslyšel Esav ⟨את⟩ slova svého otce, vykřikl křikem velkým a hořkým až do krajnosti a řekl svému otci: Požehnej i mně, můj otče!",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "když uslyšel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slova"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "vykřikl"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "křikem"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "velkým"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "a hořkým"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "krajnosti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "svému otci"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "požehnej i mně"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mně"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "můj otče"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:17.432270038Z",
+  "model": "glm-5.3"
+}

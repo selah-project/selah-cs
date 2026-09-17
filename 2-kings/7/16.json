@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Lid vyšel a plenil ⟨את⟩ tábor Aramu: stala se ⟨cena⟩ jedné sé jemné mouky za šekel a dvou sé ječmene za šekel, podle slova Jahve.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Lid"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "a plenil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tábor Aramu"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "stala se"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "jedné sé"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "jemné mouky"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "za šekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "a dvou sé"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ječmene"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "za šekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "podle slova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:37.065011516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 25:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A v ten den se řekne: Hle, tento ⟨je⟩ náš Elohim, čekali jsme ⟨na⟩ něj, a on nás spasí; tento ⟨je⟩ Jahve, čekali jsme ⟨na⟩ něj, budeme se radovat a veselit v jeho spásě.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "a se řekne"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "čekali jsme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "ויושיענו",
+      "gloss": "a on nás spasí"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "čekali jsme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "budeme se radovat"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "a veselit se"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "v jeho spáse"
+    }
+  ],
+  "timestamp": "2026-09-17T08:07:28.468967021Z",
+  "model": "glm-5.3"
+}

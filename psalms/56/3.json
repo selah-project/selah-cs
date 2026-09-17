@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 56,
+  "translation": "Mí protivníci mě polykají celý den, neboť mnozí bojují proti mně ⟨ve⟩ výšinách.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "polykají mě"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "Mí protivníci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnozí"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "bojují"
+    },
+    {
+      "surface": "לי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "⟨ve⟩ výšinách"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:13.115501110Z",
+  "model": "glm-5.3"
+}

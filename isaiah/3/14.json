@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Jahve vejde v soudu se staršími svého lidu a s jeho veliteli: vy jste spásli ⟨tú⟩ vinici, loupež chudého ⟨je⟩ ve vašich domech.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "v soudu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "vejde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "staršími"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svého lidu"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "a s jeho veliteli"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "jste spásli"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "vinici"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "loupež"
+    },
+    {
+      "surface": "העני",
+      "gloss": "chudého"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "ve vašich domech"
+    }
+  ],
+  "timestamp": "2026-09-17T08:02:23.014428986Z",
+  "model": "glm-5.3"
+}

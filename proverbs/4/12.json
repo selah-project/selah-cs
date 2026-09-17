@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Když budeš kráčet, tvůj krok nebude sevřen, a budeš-li běžet, neklopýtneš.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Když budeš kráčet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "bude sevřen"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "tvůj krok"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a budeš-li"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "běžet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "klopýtneš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:22.323417647Z",
+  "model": "glm-5.3"
+}

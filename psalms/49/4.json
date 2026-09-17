@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Mé ústa budou mluvit moudrosti a přemítání mého srdce ⟨bude⟩ rozumností.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Mé ústa"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "budou mluvit"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "moudrostí"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "a přemítání"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mého srdce"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "rozumností"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:56.049226406Z",
+  "model": "glm-5.3"
+}

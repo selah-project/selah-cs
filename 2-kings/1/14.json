@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Hle, sestoupil oheň z nebe a pohltil ⟨את⟩ dva přední velitele padesátek i ⟨את⟩ jejich padesáti — a nyní ať je vzácná má duše v tvých očích.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "sestoupil"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "pohltil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dva přední velitele padesátek"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "velitele"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "padesátek"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "přední"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jejich padesáti"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "jejich padesáti"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "ať je vzácná"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "v tvých očích"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:44.272259481Z",
+  "model": "glm-5.3"
+}

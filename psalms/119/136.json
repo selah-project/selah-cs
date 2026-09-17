@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Potoky vody stékají z mých očí, ⟨neboť⟩ nedodrželi tvou tóru.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "potoky"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "stékají"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "z mých očí"
+    },
+    {
+      "surface": "על",
+      "gloss": "protože"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "dodrželi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvou tóru"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:33.191792156Z",
+  "model": "glm-5.3"
+}

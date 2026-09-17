@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 11:22",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Mají-li se jim porazit ovce a skot — najde se jim ⟨dost⟩? čili jestliže se ⟨את⟩ všechny ryby moře seberou jim — najde se jim ⟨dost⟩?",
+  "tokens": [
+    {
+      "surface": "הצאן",
+      "gloss": "ovce"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "a skot"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "mají se porazit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "najde se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny ryby moře"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "ryby"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "seberou se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "najde se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T13:40:39.229966628Z",
+  "model": "glm-5.3"
+}

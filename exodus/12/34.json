@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A lid nesl ⟨את⟩ své těsto, dříve než vykynulo; své kádě ⟨byly⟩ zabalené ve svých šatech na svých ramenou.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "A nesl"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své těsto"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "své těsto"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "dříve než"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "vykynulo"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "své kádě"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "zabalené"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "ve svých šatech"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "svých ramenou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:23.565186873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Chválíť ho nebesa i země, moře a vše, co se v nich hýbe.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "chválíť ho"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i země"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a vše"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "co se hýbe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "v nich"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:07.854218875Z",
+  "model": "glm-5.3"
+}

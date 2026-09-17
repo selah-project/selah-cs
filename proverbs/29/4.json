@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Král soudem ⟨dosazuje, aby stála⟩ země, ale muž ⟨přijímající⟩ dary boří ji.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "soudem"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "⟨dosazuje, aby stála⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ale muž"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "⟨přijímající⟩ dary"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "boří ji"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:02.842204711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Host jsem na zemi, neskrývej přede mnou svá přikázání.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Host"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jsem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neskrývej"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "⟨skrývat⟩"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "svá přikázania"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:50.018153725Z",
+  "model": "glm-5.3"
+}

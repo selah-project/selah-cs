@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl Jóšua: Z toho poznáte, že živý El ⟨je⟩ ve vašem středu, a že zajisté vyžene před vámi ⟨את⟩ Kenaance i ⟨את⟩ Cheteje i ⟨את⟩ Chiveje i ⟨את⟩ Perizeje i ⟨את⟩ Girgašeye i Emoreje i Jebuseje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Z toho"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "poznáte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živý"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ve vašem středu"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "a že zajisté vyžene"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "vyžene"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "před vámi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaance"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaance"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Cheteje"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Cheteje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Chiveje"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chiveje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Perizeje"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizeje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Girgašeye"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgašeye"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "i Emoreje"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "i Jebuseje"
+    }
+  ],
+  "timestamp": "2026-09-17T07:04:42.994521430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 8:6",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "i ⟨את⟩ Baalat, a ⟨את⟩ všechna města zásob, která Šalomoun měl, a ⟨את⟩ všechna města válečných vozů, a ⟨את⟩ města jezdectva, a ⟨את⟩ všechno, po čem Šalomoun toužil, co si přál vystavět v Jeruzalémě, v Libanonu a v celé zemi své vlády.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechna města zásob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "zásob"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "היו",
+      "gloss": "měl"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechna města válečných vozů"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "válečných vozů"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "města jezdectva"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "jezdectva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechno, po čem toužil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "po čem toužil"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "si přál"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "vystavět"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "ובלבנון",
+      "gloss": "v Libanonu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "a v celé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "své vlády"
+    }
+  ],
+  "timestamp": "2026-09-17T10:26:46.263774527Z",
+  "model": "glm-5.3"
+}

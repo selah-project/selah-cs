@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "Dokud, Jahve, ⟨budou⟩ bezbožní, dokud bezbožní jásat?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨jak⟩ dlouho"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožní"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨jak⟩ dlouho"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožní"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "jásat budou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:24.103614616Z",
+  "model": "glm-5.3"
+}

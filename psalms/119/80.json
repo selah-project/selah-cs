@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Nechť mé srdce ⟨bude⟩ dokonalé v tvých nařízeních, abych nebyl zahanben.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "nechť bude"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "dokonalé"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "v tvých nařízeních"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abych"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "-byl zahanben"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:47.240407062Z",
+  "model": "glm-5.3"
+}

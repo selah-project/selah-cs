@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Nebudeš moci obětovat ⟨את⟩ pesach v jedněch ze svých bran, které ti dává Jahve, tvůj Elohim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "budeš moci"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "obětovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "v jedněch"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ze svých bran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:48.288477553Z",
+  "model": "glm-5.3"
+}

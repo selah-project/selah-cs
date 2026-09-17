@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A vyznačíš ⟨את⟩ lidu meze dokola a řekneš: Mějte se na pozoru, abyste nevystupovali na horu a nedotkli se jejího okraje; každý, kdo se dotkne hory, jistě zemře.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "A vyznačíš meze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lidu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokola"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekneš"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Mějte se na pozoru"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "se"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "nevystupovali"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na horu"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "a nedotkli se"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "jejího okraje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kdo se dotkne"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "hory"
+    },
+    {
+      "surface": "מות",
+      "gloss": "jistě zemře"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "–"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:33.345817980Z",
+  "model": "glm-5.3"
+}

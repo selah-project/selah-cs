@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Nakrmils je chlebem slz a dal jsi jim pít slz ⟨v trojnásobné míře⟩.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Nakrmils"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "slz"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "a dal jsi jim pít"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "slz"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "v trojnásobné míře"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:49.658698515Z",
+  "model": "glm-5.3"
+}

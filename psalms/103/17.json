@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "A chesed Jahveho ⟨je⟩ od věku až do věku nad těmi, kdo se ho bojí, a jeho spravedlnost nad syny synů,",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "a chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "od věku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "těmi, kdo se ho bojí"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "a jeho spravedlnost"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "nad syny"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:04.252587600Z",
+  "model": "glm-5.3"
+}

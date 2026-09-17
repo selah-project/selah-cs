@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A Jahve posílil ⟨את⟩ srdce faraonovo, a nechtěl je propustit.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a posílil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdce faraonovo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "chtěl"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "je propustit"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:57.117623436Z",
+  "model": "glm-5.3"
+}

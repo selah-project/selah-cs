@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 132,
+  "translation": "Ať se tvoji kněží odějí ⟨v⟩ spravedlnost a tvoji zbožní tě zapějí radostnou píseň.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "tvoji kněží"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "ať se odějí"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "a tvoji zbožní"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "tě zapějí radostnou píseň"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:15.729373529Z",
+  "model": "glm-5.3"
+}

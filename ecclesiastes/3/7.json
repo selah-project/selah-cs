@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Čas roztrhnout a čas zašít; čas mlčet a čas mluvit.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "roztrhnout"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a čas"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "zašít"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "mlčet"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a čas"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mluvit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:23.595014501Z",
+  "model": "glm-5.3"
+}

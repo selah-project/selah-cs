@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Tam pohřbili ⟨את⟩ Abrahama a ⟨את⟩ Sáru, jeho ženu; tam pohřbili ⟨את⟩ Jicchaka a ⟨את⟩ Rebeku, jeho ženu; a tam jsem pohřbil ⟨את⟩ Leu.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "pohřbili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Sáru"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sáru"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jeho ženu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "pohřbili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Rebeku"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebeku"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jeho ženu"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "a tam"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "jsem pohřbil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leu"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:27.333683168Z",
+  "model": "glm-5.3"
+}

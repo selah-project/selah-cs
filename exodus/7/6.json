@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A udělali Moše a Aharon, jak jim přikázal Jahve; ⟨את⟩ tak učinili.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A udělali"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ jim",
+      "marks": "Moše a Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učinili"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:14.931931443Z",
+  "model": "glm-5.3"
+}

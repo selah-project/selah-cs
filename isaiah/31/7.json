@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 31:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Neboť v ten den každý muž zahodí své stříbrné modly a své zlaté modly, které vám vaše ruce udělaly ⟨na⟩ hřích.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ימאסון",
+      "gloss": "zahodí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý muž"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "své modly"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "stříbrné"
+    },
+    {
+      "surface": "ואלילי",
+      "gloss": "a své modly"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "zlaté"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "udělaly"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "vaše ruce"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hřích"
+    }
+  ],
+  "timestamp": "2026-09-17T08:09:12.738402699Z",
+  "model": "glm-5.3"
+}

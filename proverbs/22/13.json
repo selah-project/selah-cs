@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Řekl lenoch: ⟨„Je⟩ ⟨snapshot lion venku, uprostřed náměstí budu zavražděn.“⟩",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "lenoch"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "lev"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "venku"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "náměstí"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "budu zavražděn"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:13.794219598Z",
+  "model": "glm-5.3"
+}

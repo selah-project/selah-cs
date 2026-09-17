@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "I řekl král Izraele: Vezmi ⟨את⟩ Mišajahua a vrať ho k Amonovi, správci města, a k Joášovi, synu králově.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Vezmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mišajahua"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mišajahua"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "vrať ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amonovi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "správci"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joášovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králově"
+    }
+  ],
+  "timestamp": "2026-09-17T07:51:20.942069319Z",
+  "model": "glm-5.3"
+}

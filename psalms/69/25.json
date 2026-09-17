@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Vylej na ně svou zášť a žár tvého hněvu ⟨je⟩ dostihne.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Vylej"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na ně"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "svou zášť"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "a žár"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tvého hněvu"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "dostihne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:31.489213035Z",
+  "model": "glm-5.3"
+}

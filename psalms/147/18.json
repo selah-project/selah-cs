@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "Vyšle své slovo a rozpustí je, způsobí vanutí svého větru — tekou vody.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Vyšle"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "své slovo"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "a rozpustí je"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "způsobí vanutí"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "svého větru"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "tekou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:44.622536995Z",
+  "model": "glm-5.3"
+}

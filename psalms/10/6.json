@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Řekl ve svém srdci: „Nezachvěji se, po pokolení a pokolení ⟨nebudu⟩ v zlu.“",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zachvěji se"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "a pokolení"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "v zlu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:26.279947169Z",
+  "model": "glm-5.3"
+}

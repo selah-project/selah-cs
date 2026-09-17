@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Den našeho krále: knížata onemocněla žárem vína, on napjal svou ruku ⟨se⟩ posměváky ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "našeho krále"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "onemocněly"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "knížata"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "žárem"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "vína"
+    },
+    {
+      "surface": "משך",
+      "gloss": "napjal"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posměváky"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "posměváky"
+    }
+  ],
+  "timestamp": "2026-09-17T08:57:47.505595067Z",
+  "model": "glm-5.3"
+}

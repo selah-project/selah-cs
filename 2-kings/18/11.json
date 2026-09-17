@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A král Asýrie zavlekl ⟨את⟩ Izraele do Asýrie a usadil je v Chalach a u Chavoru, řeky Gozanu, a v městech Médů.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "a zavlekl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asýrie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "do Asýrie"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "a usadil je"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "v Chalach"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "a u Chavoru"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "řeky"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozanu"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "a v městech"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Médů"
+    }
+  ],
+  "timestamp": "2026-09-17T07:57:50.069263367Z",
+  "model": "glm-5.3"
+}

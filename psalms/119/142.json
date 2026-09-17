@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Tvá spravedlnost ⟨je⟩ spravedlnost navěky a tvá tóra ⟨je⟩ pravda.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Tvá spravedlnost"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "a tvá tóra"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "pravda"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:34.545695143Z",
+  "model": "glm-5.3"
+}

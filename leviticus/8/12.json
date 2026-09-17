@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vylil z oleje pomazání na hlavu Áronovu a pomazal ⟨את⟩ něj, aby ho posvětil.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "a vylil"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "z oleje"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazání"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "a pomazal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jej",
+      "marks": "ho (Árona)"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "aby ho posvětil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:26.992585122Z",
+  "model": "glm-5.3"
+}

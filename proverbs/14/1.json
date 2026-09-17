@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Moudrá žena vystavěla svůj dům, ale hlupačka svýma rukama ⟨jej⟩ bourá.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Moudrá"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "žena"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "vystavěla"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "svůj dům"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "ale hlupačka"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "svýma rukama"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "bourá"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:44.337547340Z",
+  "model": "glm-5.3"
+}

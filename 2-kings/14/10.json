@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Jistě jsi porazil ⟨את⟩ Edom — a tvé srdce tě pozvedlo. Oslav se tím a zůstaň doma. Proč by ses měl útočně drát v neštěstí, abys padl — ty sám a Júda s tebou?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Jistě jsi porazil"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "porazil jsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "a tě pozvedlo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tvé srdce"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "Oslav se"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "a zůstaň"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "doma"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "by ses měl útočně drát"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "v neštěstí"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "abys padl"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty sám"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Júda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:03.113276695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A zjevil se Jahve Abramovi a řekl: Tvému potomstvu dám ⟨את⟩ tuto zemi; a postavil tam oltář Jahvemu, který se mu zjevil.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "A zjevil se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abramovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "Tvému potomstvu"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tuto zemi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "který se zjevil"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:05.843310801Z",
+  "model": "glm-5.3"
+}

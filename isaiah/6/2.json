@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Serafim stáli nad ním; šest křídel ⟨má⟩ jeden, šest křídel ⟨má⟩ jeden: dvěma kryje svou tvář a dvěma kryje své nohy a dvěma poletuje.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "Serafim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stáli"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ním"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "křídel"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "křídel"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "dvěma"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "kryje"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "a dvěma"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "kryje"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "své nohy"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "a dvěma"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "poletuje"
+    }
+  ],
+  "timestamp": "2026-09-17T08:03:25.554047331Z",
+  "model": "glm-5.3"
+}

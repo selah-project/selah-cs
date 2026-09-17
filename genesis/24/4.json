@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "nýbrž do mé země a k mému rodu půjdeš a vezmeš ženu pro mého syna, pro Izáka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nýbrž"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mé země"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "mému rodu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "půjdeš"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "a vezmeš"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pro mého syna"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "pro Izáka"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:20.920764417Z",
+  "model": "glm-5.3"
+}

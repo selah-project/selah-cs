@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 29:34",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A pokud zbyde z masa ⟨obřadu⟩ uvedení ⟨do úřadu⟩ a z chleba až do rána, spálíš ⟨את⟩ to, co zbylo, ohněm; nesmí ⟨se to⟩ jíst, neboť ⟨je to⟩ svaté.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a pokud"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "zbyde"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "z masa"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "obřadu uvedení ⟨do úřadu⟩"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a z"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rána"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "spálíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co zbylo"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "to, co zbylo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smí jíst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svaté"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to ⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:43:17.966402939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "El, strašný ve shromáždění svatých, veliký a hrozný nad vším kolem něj.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "strašný"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "ve shromáždění"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svatých"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "a hrozný"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vším"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "kolem něj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:57.067640423Z",
+  "model": "glm-5.3"
+}

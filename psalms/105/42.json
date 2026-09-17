@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Neboť si připomněl ⟨את⟩ své svaté slovo, ⟨את⟩ Abrahama, svého služebníka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "si připomněl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své svaté slovo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "své svaté"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "svého služebníka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:01.953794638Z",
+  "model": "glm-5.3"
+}

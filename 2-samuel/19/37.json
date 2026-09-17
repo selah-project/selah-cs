@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Kousek ⟨bude⟩ přecházet tvůj sluha ⟨את⟩ Jordán s ⟨את⟩ králem — a proč by mi král odplatil takovou odplatu?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "kousek"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "bude přecházet"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvůj sluha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "král"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "a proč"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "by mi odplatil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "odplatu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "takovou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:01.339246962Z",
+  "model": "glm-5.3"
+}

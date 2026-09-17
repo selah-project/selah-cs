@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 13:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A oznámíš svému synovi v onen den a řekneš: Kvůli tomuto učinil Jahve mně, když jsem vyšel z Egypta.",
+  "tokens": [
+    {
+      "surface": "והגדת",
+      "gloss": "A oznámíš"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "svému synovi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekneš"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "Kvůli"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tomuto"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mně"
+    },
+    {
+      "surface": "בצאתי",
+      "gloss": "když jsem vyšel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:58.549644021Z",
+  "model": "glm-5.3"
+}

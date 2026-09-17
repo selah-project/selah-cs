@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Olava šabatu v jeho šabatu, kromě stálé olavy a její úlitby.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "olava"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabatu"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "v jeho šabatu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kromě"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olavy"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "stálé"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "a její úlitby"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:36.806593008Z",
+  "model": "glm-5.3"
+}

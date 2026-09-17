@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A marně se vyčerpá vaše síla, a vaše země nevydá ⟨את⟩ svou úrodu a strom země neponese své plody.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "a vyčerpá se"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "marně"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "vaše síla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vydá"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "vaše země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou úrodu"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "svou úrodu"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "a strom"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ponese (doslova: vydá)"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "své plody"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:07.156242324Z",
+  "model": "glm-5.3"
+}

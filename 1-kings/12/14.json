@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "a mluvil k nim podle rady mládencůům ⟨is⟩: Můj otec tížil ⟨את⟩ vaše jho a já přidám k vašemu jhu; můj otec trestal ⟨את⟩ vás biči, já pak budu trestat ⟨את⟩ vás štíry.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k nim"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "podle rady"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "mládenců"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "slovy"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "můj otec"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "tížil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše jho"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "vaše jho"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a já"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "přidám"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "vašemu jhu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "můj otec"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "trestal"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "biči"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "biči"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a já"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "budu trestat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "štíry"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "štíry"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:16.741539224Z",
+  "model": "glm-5.3"
+}

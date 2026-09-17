@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 95,
+  "translation": "Jehož v ruce ⟨jsou⟩ hlubiny země, a výšiny hor ⟨jsou⟩ jeho.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Jehož"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v ruce"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "hlubiny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "a výšiny"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hor"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jeho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:12.322466148Z",
+  "model": "glm-5.3"
+}

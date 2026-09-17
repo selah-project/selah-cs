@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Slituj se nade mnou, Jahve! Pohleď na mou bídu ⟨při⟩ těch, kdo mě nenávidí, ⟨na⟩ toho, kdo mě pozvedáš z bran smrti —",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "slituj se nade mnou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pohleď"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "na mou bídu"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "těch, kdo mě nenávidí"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "kdo mě pozvedáš"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "z bran"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:06.572435576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Mou duši navrací, vede mě stezkami spravedlnosti pro své jméno.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Mou duši"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "navrací"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "vede mě"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "stezkami"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnosti"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pro"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "své jméno"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:58.764390931Z",
+  "model": "glm-5.3"
+}

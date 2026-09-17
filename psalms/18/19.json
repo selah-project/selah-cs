@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Předstihli mě v den mé tísně, a Jahve se mi stal oporou.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "předstihli mě"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "mé tísně"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a byl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "oporou"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:54.802992624Z",
+  "model": "glm-5.3"
+}

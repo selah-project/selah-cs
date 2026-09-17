@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Kdo je to, Král slávy? Jahve, silný a mocný, Jahve, mocný v boji.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Král"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "slávy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "silný"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "a mocný"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mocný"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "v boji"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:47.770585440Z",
+  "model": "glm-5.3"
+}

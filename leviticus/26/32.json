@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A zpustním sám ⟨את⟩ zemi, a vaši nepřátelé, kteří v ní bydlí, nad ní budou žasnout.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "A zpustním"
+    },
+    {
+      "surface": "אני",
+      "gloss": "sám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "budou žasnout"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nad ní"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vaši nepřátelé"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "kteří bydlí"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v ní"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:43.391304399Z",
+  "model": "glm-5.3"
+}

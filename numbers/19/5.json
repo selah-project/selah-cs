@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A spálí ⟨את⟩ krávu před jeho očima; ⟨את⟩ její kůži a ⟨את⟩ její maso a ⟨את⟩ její krev i její výkal spálí.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "a spálí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krávu"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "krávu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "před jeho očima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její kůži"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "její kůži"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "její maso"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "její maso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "její krev"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "její krev"
+    },
+    {
+      "surface": "על",
+      "gloss": "i (na)"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "její výkal"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "spálí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:46:29.243071685Z",
+  "model": "glm-5.3"
+}

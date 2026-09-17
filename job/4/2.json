@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "⟨Pokud⟩ se ⟨kdo⟩ pokusí ⟨pronést⟩ slovo k tobě, budeš unaven ⟨tím⟩? Kdo však dokáže zadržet ⟨se při⟩ slovech?",
+  "tokens": [
+    {
+      "surface": "הנסה",
+      "gloss": "se pokusí"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "תלאה",
+      "gloss": "budeš unaven"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "zadržet"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "při slovech"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "dokáže"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:17.200075187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A Jahve dal ⟨את⟩ přízeň lidu v očích Mitzrajim, a oni ⟨to⟩ jim vypůjčili; tak oloupili ⟨את⟩ Mitzrajim.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "A Jahve"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "přízeň"
+    },
+    {
+      "surface": "חן",
+      "gloss": "přízeň"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "a oni jim vypůjčili"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "tak oloupili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitzrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitzrajim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:23.565571102Z",
+  "model": "glm-5.3"
+}

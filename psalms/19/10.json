@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Bázeň před Jahve ⟨je⟩ čistá, trvající navždy; práva Jahve ⟨jsou⟩ pravda, ospravedlněna shromážděně.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "bázeň"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "čistá"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "trvající"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "práva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "pravda"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ospravedlněna"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "shromážděně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:05.882611849Z",
+  "model": "glm-5.3"
+}

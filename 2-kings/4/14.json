@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 4:14",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A řekl: A co ⟨má být⟩ učiněno pro ni? A řekl: Gechazi ⟨odvětil⟩: Vždyť syna nemá a její muž je starý.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "A co"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "učiněno"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pro ni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Vždyť"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nemá"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "ואישה",
+      "gloss": "a její muž"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "je starý"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:49.430549036Z",
+  "model": "glm-5.3"
+}

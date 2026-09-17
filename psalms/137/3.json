@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 137,
+  "translation": "Neboť tam nám naši zajatci žádali slova písně, a naši drtivci ⟨žádali⟩ radost ⟨a říkali⟩: „Zpívejte nám ze písně Sijónu!“",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "nám žádali"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "naši zajatci"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "písně"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "a naši drtivci"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "radost"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Zpívejte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "ze písně"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijónu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:29.977659274Z",
+  "model": "glm-5.3"
+}

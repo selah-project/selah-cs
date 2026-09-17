@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A stalo se po sedmi dnech, že vody potopy byly na zemi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "po sedmi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dnech"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "že vody"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potopy"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byly"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:52.075049402Z",
+  "model": "glm-5.3"
+}

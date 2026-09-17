@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 1:24",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A slyšel jsem ⟨את⟩ zvuk jejich křídel jako zvuk mnohých vod, jako hlas Šaddaj, když šly — zvuk hřmění, jako zvuk tábora; když stály, spustila svá křídla.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "a slyšel jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvuk jejich křídel"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zvuk"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "jejich křídel"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "jako zvuk"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vod"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnohých"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "jako hlas"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šaddaj"
+    },
+    {
+      "surface": "בלכתם",
+      "gloss": "když šly"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zvuk"
+    },
+    {
+      "surface": "המלה",
+      "gloss": "hřmění"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "jako zvuk"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tábora"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "když stály"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "spustila"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "svá křídla"
+    }
+  ],
+  "timestamp": "2026-09-17T08:37:25.442335297Z",
+  "model": "glm-5.3"
+}

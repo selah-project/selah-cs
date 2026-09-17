@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A řekla jemu: I slámy i píce je u nás hojnost, i místo k přenocování.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "A řekla"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "slámy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "píce"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hojnost"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "u nás"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "k přenocování"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:50.586883165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "⟨את⟩ závěsy dvora, ⟨את⟩ jeho sloupy a ⟨את⟩ jeho podstavce, a ⟨את⟩ oponu brány dvora —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "závěsy dvora"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "závěsy"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho sloupy"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "jeho sloupy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho podstavce"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "jeho podstavce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "oponu brány dvora"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "oponu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "brány"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvora"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:51.759680049Z",
+  "model": "glm-5.3"
+}

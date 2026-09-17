@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 1:3",
+  "book": "nahum",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Jahve je ⟨bůh⟩ dlouhý v nozdrách ⟨tedy trpělivý⟩ a velký silou; a ⟨ten, kdo⟩ zprošťuje, ne zprostí ⟨viníka⟩: Jahve — v uragánu a ve vichřici je jeho cesta, a mrak ⟨je⟩ prach jeho nohou.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dlouhý"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "v nozdrách ⟨tedy trpělivý⟩"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "a velký"
+    },
+    {
+      "surface": "כח",
+      "gloss": "silou"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "a ⟨ten, kdo⟩ zprošťuje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "zprostí ⟨viníka⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "v uragánu"
+    },
+    {
+      "surface": "ובשערה",
+      "gloss": "a ve vichřici"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "je jeho cesta"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "a mrak"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "prach"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "jeho nohou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:04:39.316324164Z",
+  "model": "glm-5.3"
+}

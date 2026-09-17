@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Izrael slíbil slib Jahvemu a řekl: Jestliže skutečně dáš ⟨את⟩ tento lid do mé ruky, vyobcuji ⟨את⟩ jejich města.",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "a slíbil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "slib"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "skutečně"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dáš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "do mé ruky"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "vyobcuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich města"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "jejich města"
+    }
+  ],
+  "timestamp": "2026-09-17T06:46:52.235657391Z",
+  "model": "glm-5.3"
+}

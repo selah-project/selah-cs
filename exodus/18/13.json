@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A stalo se nazítří, že sedl Mojžíš, aby soudil ⟨את⟩ lid; a lid stál u Mojžíše od rána až do večera.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nazítří"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "sedl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "aby soudil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "a stál"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rána"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večera"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:44.150730606Z",
+  "model": "glm-5.3"
+}

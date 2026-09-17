@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Slyšte, nebesa, a naslouchej, země, neboť Jahve mluvil: Syňy jsem vychoval a vyvýšil, a oni se proti mně vzbouřili.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slyšte"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "a naslouchej"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Syňy"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "jsem vychoval"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "a vyvýšil"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "se vzbouřili"
+    },
+    {
+      "surface": "בי",
+      "gloss": "proti mně"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:36.563742726Z",
+  "model": "glm-5.3"
+}

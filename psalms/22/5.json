@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "V tebe doufali naši otcové; doufali — a ty jsi ⟨je⟩ vysvobodil.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "V tebe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "doufali"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "naši otcové"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "doufali"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "a tys ⟨je⟩ vysvobodil"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:08.349365443Z",
+  "model": "glm-5.3"
+}

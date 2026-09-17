@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A Jahve učinil ⟨את⟩ tuto věc nazítří, a veškeren dobytek Egypta padl ⟨mrtev⟩, ale z dobytka synů Izraele nepadl ani jeden.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto věc"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nazítří"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a padl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeren"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "dobytek"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "a z dobytka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מת",
+      "gloss": "padl"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ani jeden"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:00.627797266Z",
+  "model": "glm-5.3"
+}

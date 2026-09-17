@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "I řekl Jóšafat králi Izraele: Vyhledej ⟨si⟩ dnes, prosím, ⟨את⟩ slovo Jahveho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jóšafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "králi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Vyhledej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slovo Jahveho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T11:25:29.748707431Z",
+  "model": "glm-5.3"
+}

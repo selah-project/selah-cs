@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A ⟨s⟩ ⟨את⟩ vámi bude muž, muž pro kmen, muž — hlava otcovského domu svého ⟨on⟩.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "a ⟨את⟩ vámi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bude"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pro kmen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlava"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svých otců"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:34.360461497Z",
+  "model": "glm-5.3"
+}

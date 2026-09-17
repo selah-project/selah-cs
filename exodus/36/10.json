@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A spojil ⟨את⟩ pět ⟨zastav⟩ jednu s druhou a pět ⟨zastav⟩ spojil jednu s druhou.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "A spojil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pět zastav"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pět"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "⟨zastav⟩"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "druhou"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "a pět"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "⟨zastav⟩"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "spojil"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "druhou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:32.749287507Z",
+  "model": "glm-5.3"
+}

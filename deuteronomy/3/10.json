@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "všechna města plošiny a celý Gileád a celý Bašan až po Salku a Edrej, města království Óga v Bašanu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "plošiny"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celý"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileád"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celý"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salku"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "a Edrej"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "království"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Óga"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "v Bašanu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:43.944978844Z",
+  "model": "glm-5.3"
+}

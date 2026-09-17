@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Davidův. K tobě, Jahve, svou duši pozvedám.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svou duši"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "pozvedám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:24.435995130Z",
+  "model": "glm-5.3"
+}

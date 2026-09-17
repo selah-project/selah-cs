@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 141,
+  "translation": "Jako když se orá a rozřezává ⟨z⟩emě, tak jsou rozptýleny naše kosti ⟨k⟩ ústům šeolu.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "jako když"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "se orá"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "a rozřezává"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "jsou rozptýleny"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "naše kosti"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "k ústům"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeolu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:56.562813649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 51:9",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Vyléčili jsme ⟨את⟩ Babylon, ale nebyla vyléčena; opusťte ji a jedem každý ke své zemi, neboť až k nebesům došel její výrok a pozvedl se až k oblakům.",
+  "tokens": [
+    {
+      "surface": "רפאנו",
+      "gloss": "vyléčili jsme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babylon"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "נרפתה",
+      "gloss": "byla vyléčena"
+    },
+    {
+      "surface": "עזבוה",
+      "gloss": "opusťte ji"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "a jedem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "ke své zemi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "došel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "až k"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesům"
+    },
+    {
+      "surface": "משפטה",
+      "gloss": "její výrok"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "a pozvedl se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "oblakům"
+    }
+  ],
+  "timestamp": "2026-09-17T08:37:20.905643832Z",
+  "model": "glm-5.3"
+}

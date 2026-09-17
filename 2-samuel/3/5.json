@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 3:5",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A šestý ⟨byl⟩ Jitream, ⟨od⟩ Egly, ženy Davidovy; tito se narodili Davidovi v Hebronu.",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "A šestý"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Jitream"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "⟨od⟩ Egly"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tito"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "se narodili"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "v Hebronu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:16.855352814Z",
+  "model": "glm-5.3"
+}

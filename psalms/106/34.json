@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "Nevyhladili ⟨את⟩ národy, o nichž řekl Jahve, ⟨že je mají vyhladit⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "vyhladili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "národy"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o nichž"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨že je mají vyhladit⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:30.024354234Z",
+  "model": "glm-5.3"
+}

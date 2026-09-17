@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Duše bezbožného žádá zlo: v jeho očích nenajde jeho bližní milost.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "duše"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožného"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "žádá"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "⟨najde⟩ milost"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v jeho očích"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "jeho bližní"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:41.652600102Z",
+  "model": "glm-5.3"
+}

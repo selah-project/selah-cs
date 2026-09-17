@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A postavil ⟨את⟩ kameny ⟨jako⟩ oltář ve jménu Jahve; a udělal příkop ⟨velikosti⟩ dvou sátí osiva kolem oltáře.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "A postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kameny"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ve jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "příkop"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "⟨velikosti⟩ dvou"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "sátí"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "osiva"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "oltáře"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:28.063209499Z",
+  "model": "glm-5.3"
+}

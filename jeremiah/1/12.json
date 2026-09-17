@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekl mi Jahve: Dobře jsi viděl, neboť bdím nad svým slovem, abych je vykonal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "dobře jsi (udělal)"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "vidět"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "bdím"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "svým slovem"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "abych je vykonal"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:18.134944115Z",
+  "model": "glm-5.3"
+}

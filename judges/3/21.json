@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A Ehud vysunul ⟨את⟩ svou levou ruku, vzal ⟨את⟩ meč z pravého stehna a vrazil ⟨jej⟩ mu do břicha.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "vysunul"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou levou ruku"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "levou"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meč"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "stehna"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "pravého"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "vrazil ⟨jej⟩"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "do břicha"
+    }
+  ],
+  "timestamp": "2026-09-17T07:13:12.209067785Z",
+  "model": "glm-5.3"
+}

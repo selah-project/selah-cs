@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "Elo pomsty ⟨je⟩ Jahve, Elo pomsty, zjev se!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Elo"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "pomsty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elo"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "pomsty"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "zjev se"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:24.103234858Z",
+  "model": "glm-5.3"
+}

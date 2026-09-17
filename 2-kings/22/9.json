@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 22:9",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A přišel Šafan písař k králi a vrátil králi ⟨את⟩ slovo a řekl: Vylili tví otroci ⟨את⟩ stříbro nalezené v domě a dali je do ruky dělníkům ⟨kteří⟩ jsou pověřeni do domu Jahve.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "písař"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "králi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "התיכו",
+      "gloss": "vylili"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tví otroci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stříbro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nalezené"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "a dali je"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruky"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "dělníkům"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "práce"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "pověřeni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:31.522239868Z",
+  "model": "glm-5.3"
+}

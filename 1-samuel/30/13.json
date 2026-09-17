@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 30:13",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A David mu řekl: Čí jsi? A odkud jsi? A on řekl: Mládence jsem Egypt, sluhou muži Amalekitskému, a můj pán mě opustil, neboť onemocněl jsem — dnes třetí ⟨den⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למי",
+      "gloss": "čí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "a odkud"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mládence"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jsem"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sluhou"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amalekitskému"
+    },
+    {
+      "surface": "ויעזבני",
+      "gloss": "a opustil mě"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "můj pán"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "onemocněl jsem"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "třetí"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:37.870013749Z",
+  "model": "glm-5.3"
+}

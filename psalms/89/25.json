@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Má věrnost a můj chesed ⟨budou⟩ s ním, a v mém jménu bude vyvýšen jeho roh.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "Má věrnost"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "můj chesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "a v mém jménu"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "bude vyvýšen"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "jeho roh"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:39.365717512Z",
+  "model": "glm-5.3"
+}

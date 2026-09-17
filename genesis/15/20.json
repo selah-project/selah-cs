@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "a ⟨את⟩ Chetyty, ⟨את⟩ Perizijce a ⟨את⟩ Refaity —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Chetyty"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetyty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Perizijce"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizijce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Refaity"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "Refaity"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:18.403892808Z",
+  "model": "glm-5.3"
+}

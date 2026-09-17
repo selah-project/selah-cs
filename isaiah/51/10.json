@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Zdaliž ⟨to nejsi⟩ ⟨את⟩ ty, která vysušila moře, vody veliké hlubiny tehóm, která učinila z hlubin moře cestu, aby přešli vykoupení?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Zdaliž ⟨ne⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ty"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "která vysušila"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vody"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "hlubiny tehóm"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "která učinila"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "z hlubin"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "k přechodu"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "vykoupení"
+    }
+  ],
+  "timestamp": "2026-09-17T08:15:07.527603336Z",
+  "model": "glm-5.3"
+}

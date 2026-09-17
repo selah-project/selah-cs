@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A byl jsem bezúhonný s ním a střežil jsem se své nepravosti.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "A byl jsem"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bezúhonný"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "a střežil jsem se"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "své nepravosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:51.163820564Z",
+  "model": "glm-5.3"
+}

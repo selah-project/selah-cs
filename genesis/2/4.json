@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Toto ⟨jsou⟩ rodové (תולדות\/toldot) nebes a země při jejich stvoření, v dni, kdy činil Jahve Elohim země i nebesa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "rodové"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "a země"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "při jejich stvoření"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v dni"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kdy činil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "i nebesa"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:32.181674293Z",
+  "model": "glm-5.3"
+}

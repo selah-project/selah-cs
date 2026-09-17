@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Vstaňte a odejděte, neboť toto ⟨není⟩ odpočinutí; kvůli nečistotě ⟨bude⟩ zničeno ⟨a to⟩ zkázou prudkou.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "Vstaňte"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "a odejděte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "odpočinutí"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "nečistotě"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "zničeno ⟨bude⟩"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "a zkázou"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "prudkou"
+    }
+  ],
+  "timestamp": "2026-09-17T11:08:49.988402971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Jeví se ⟨jako⟩ cesta přímá před obličejem muže, avšak její konec ⟨jsou⟩ cesty smrti.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Jeví se ⟨jako⟩"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cesta"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "přímá"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před obličejem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "avšak její konec"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "cesty"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:35.554506675Z",
+  "model": "glm-5.3"
+}

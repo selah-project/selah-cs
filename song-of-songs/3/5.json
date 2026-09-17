@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Zapřísáhl jsem ⟨את⟩ vás, dcery Jeruzaléma, gazellami či laněmi pole: nežbudíte a neprobouzejte ⟨את⟩ lásku, dokud nebudude chtít!",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Zapřísáhl jsem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "dcery Jeruzaléma"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dcery"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "gazellami"
+    },
+    {
+      "surface": "או",
+      "gloss": "či"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "laněmi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne- (zákazový rámec)"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "budíte"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "probouzejte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lásku"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "lásku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "nebude chtít"
+    }
+  ],
+  "timestamp": "2026-09-17T09:54:52.938121420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A přišlo slovo Jahve skrze Chagaje, proroka, ⟨a řeklo⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a přišlo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "skrze (ruku)"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Chagaje"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a řeklo⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:09:31.449287673Z",
+  "model": "glm-5.3"
+}

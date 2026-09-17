@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Zahynul zbožný ze země a upřímný mezi lidmi ⟨není⟩; všichni číhají na krev, každý ⟨את⟩ svého bratra loví cheremem ⟨sítí⟩.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "Zahynul"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "zbožný"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "a upřímný"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mezi lidmi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "na krev"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "číhají"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého bratra"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "svého bratra"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "loví"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "cheremem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:04:23.438148165Z",
+  "model": "glm-5.3"
+}

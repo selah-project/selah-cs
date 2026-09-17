@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A stalo se, když kněží vyšli ze svatyně, že oblak naplnil ⟨את⟩ dům Jahve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "když vyšli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "že oblak"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "naplnil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům Jahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:21.169784690Z",
+  "model": "glm-5.3"
+}

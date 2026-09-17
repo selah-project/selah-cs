@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Proklet, kdo pomlouvá svého otce a svou matci — a všechen lid řekne: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "kdo pomlouvá"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "a svou matku"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řekne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:48.565581069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Čest ⟨je⟩ muži zdržet se sváru, ale každý hlupák se pouští do hádek.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Čest"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "zdržet se"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "sváru"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a každý"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "hlupák"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "se pouští do hádek"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:42.699861596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A lid země zabil ⟨את⟩ všechny, kteří spikli se proti králi Amonovi; a lid země učinil králem ⟨את⟩ Jošijáhu, jeho syna, místo něj.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny spiklence"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "kteří spikli"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonovi"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "učinil králem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jošijáhu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijáhu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    }
+  ],
+  "timestamp": "2026-09-17T10:32:51.324904828Z",
+  "model": "glm-5.3"
+}

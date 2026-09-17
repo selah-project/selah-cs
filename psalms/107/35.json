@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Mění poušť v jezera vody a suchou zemi v prameny vody.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Mění"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "poušť"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "v jezera"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "a zem"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "suchou"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "v prameny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:48.026875393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Když dáš svému bližnímu zápůjčku, ⟨a⟩ ⟨cokoli⟩, nevstupuj do jeho domu, aby ⟨si⟩ vzal jeho zástavu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "dáš zápůjčku"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "svému bližnímu"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "zápůjčku"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "⟨cokoli⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "nevstupuj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jeho domu"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "aby ⟨si⟩ vzal"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "jeho zástavu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:07.731312267Z",
+  "model": "glm-5.3"
+}

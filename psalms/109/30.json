@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Vyznám Jahveho vroucně svými ústy, uprostřed mnohých ho budu chválit.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Vyznám"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vroucně"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "svými ústy"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "a uprostřed"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnohých"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ho budu chválit"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:43.375809967Z",
+  "model": "glm-5.3"
+}

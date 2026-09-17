@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A přineseš ⟨את⟩ tu oběť míncha, která je z těchto ⟨věcí⟩ učiněna, Jahvovi; a přiblíží ji kněz a přistoupí s ní k oltáři.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "a přineseš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu oběť míncha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "tu oběť míncha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "je učiněna"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "z těchto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "a přiblíží ji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "a přistoupí s ní"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:48.005175294Z",
+  "model": "glm-5.3"
+}

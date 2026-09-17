@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A shromáždilo se Judsko, aby hledalo ⟨pomoc od⟩ Jahve; také ze všech judských měst přišli hledat ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "A shromáždilo se"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judsko"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hledalo ⟨pomoc od⟩"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "měst"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "judských"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hledat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T10:29:02.480538533Z",
+  "model": "glm-5.3"
+}

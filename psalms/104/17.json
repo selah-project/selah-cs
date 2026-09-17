@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "kde ptáci hnízdí, čáp — činové ⟨jsou⟩ jí domovem.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ptáci"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "hnízdí"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "čáp"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "činové"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "domovem jí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:22.777105929Z",
+  "model": "glm-5.3"
+}

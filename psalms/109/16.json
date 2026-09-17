@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Protože se nerozpomněl činit chesed, a pronásledoval muže utiskovaného a nuzného a zlomeného srdcem, aby usmrtil.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "protože"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨že⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "se nerozpomněl"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "činit"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "a pronásledoval"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "עני",
+      "gloss": "utiskovaného"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "a nuzného"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "a zlomeného"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srdcem"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "aby usmrtil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:57.778589361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Jako stín, když se naklání, odcházím; jsem setřesen jako kobylka.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "jako stín"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "když se naklání"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "odcházím"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "jsem setřesen"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "jako kobylka"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:55.229725714Z",
+  "model": "glm-5.3"
+}

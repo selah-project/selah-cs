@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A Jahve obrátil ⟨את⟩ zajetí Jóbovo, když se modlil za svého přítele; a Jahve přidal ⟨את⟩ všechno, co měl Jób, ⟨ve dvojnásobku⟩.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "obrátil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zajetí Jóbovo"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "zajetí"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jóbovo"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "když se modlil"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svého přítele"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "a přidal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno, co měl Jób"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "měl Jób"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "⟨ve dvojnásobku⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:19:31.929597932Z",
+  "model": "glm-5.3"
+}

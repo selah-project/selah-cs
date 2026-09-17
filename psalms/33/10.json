@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Jahve zmařil radu národů, odvrátil úmysly lidí.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "zmařil"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "radu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "odvrátil"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "úmysly"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "lidí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:25.837731711Z",
+  "model": "glm-5.3"
+}

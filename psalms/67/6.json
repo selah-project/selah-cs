@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 67,
+  "translation": "Vzdávají ti díky, ó Elohime, národy, vzdávají ti díky, národy ⟨všechny⟩ ⟨dohromady⟩.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "vzdávají ti díky"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "vzdávají ti díky"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všechny dohromady"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:18.724614639Z",
+  "model": "glm-5.3"
+}

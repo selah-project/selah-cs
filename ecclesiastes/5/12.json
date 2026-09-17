@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Je zlá nemoc, kterou jsem viděl pod sluncem: bohatství střežené svému majiteli k jeho neštěstí.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlá"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "nemoc"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "kterou jsem viděl"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sluncem"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bohatství"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "střežené"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "svému majiteli"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "k jeho neštěstí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:40.665586611Z",
+  "model": "glm-5.3"
+}

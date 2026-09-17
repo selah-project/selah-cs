@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Proč skrýváš své tváři, zapomínáš na naši bídu a na náš útlak?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "své tváři"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "skrýváš"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "zapomínáš"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "na naši bídu"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "a na náš útlak"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:10.795309789Z",
+  "model": "glm-5.3"
+}

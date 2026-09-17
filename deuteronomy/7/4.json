@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "neboť ⟨on⟩ odvrátí ⟨את⟩ tvého syna ode mě a budou sloužit jiným bohům; a vzplane hněv Jahve proti vám a zničí tě rychle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "odvrátí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvého syna"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvého syna"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ode mě"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "a budou sloužit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bohům"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "jiným"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "a vzplane"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "proti vám"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "a zničí tě"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "rychle"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:53.363029639Z",
+  "model": "glm-5.3"
+}

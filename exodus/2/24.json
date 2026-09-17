@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Elohim slyšel ⟨את⟩ jejich nářek, a Elohim si vzpomněl na ⟨את⟩ svou smlouvu, ⟨s⟩ ⟨את⟩ Abrahámem, ⟨את⟩ Izákem a ⟨את⟩ Jákobem.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a slyšel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich nářek"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "jejich nářek"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "a vzpomněl si"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou smlouvu"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "svou smlouvu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahámem"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahámem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izákem"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Izákem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Jákobem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:01.763456280Z",
+  "model": "glm-5.3"
+}

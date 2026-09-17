@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A modlil se Abraham k ⟨Elohim⟩, a ⟨Elohim⟩ uzdravil ⟨את⟩ Avimelecha i ⟨את⟩ jeho ženu a jeho otrokyně, a rodily ⟨děti⟩.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "a modlil se"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨Elohim⟩"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "a uzdravil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨Elohim⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelecha"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelecha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho ženu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jeho ženu"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "a jeho otrokyně"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "a rodily"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:15.302631094Z",
+  "model": "glm-5.3"
+}

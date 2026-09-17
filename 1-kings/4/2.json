@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A tito ⟨byli⟩ přední úředníci, kteří ⟨stáli⟩ po jeho boku: Azarjáš, syn Cadóka, kněz.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a tito"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "přední úředníci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "לו",
+      "gloss": "po jeho boku"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "Azarjáš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadóka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:50.942270601Z",
+  "model": "glm-5.3"
+}

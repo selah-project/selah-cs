@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I volali synové Izraele k Jahvem, řkouce: Zhřešili jsme tobě, neboť jsme opustili ⟨את⟩ Elohim svého a sloužili ⟨את⟩ Baalim.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "I volali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řkouce"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "zhřešili jsme"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "opustili jsme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim svého"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim svého"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "a sloužili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    }
+  ],
+  "timestamp": "2026-09-17T07:14:31.786579894Z",
+  "model": "glm-5.3"
+}

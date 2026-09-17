@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A Chánok chodil ⟨s⟩ ⟨את⟩ ha-Elohim po zplození ⟨את⟩ Metúšelacha tři sta let a zplodil syny a dcery.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "chodil"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chánok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha-Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ha-Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zplození jeho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metúšelacha"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metúšelacha"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "a dcery"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:52.442719338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A obstojím ⟨si⟩ svědky důvěryhodné: ⟨את⟩ Uriju kněze a ⟨את⟩ Zekarjaha, syna Jeverekjahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "A obstojím svědky"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨si⟩ mně"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "svědky"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "důvěryhodné"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriju kněze"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Zekarjaha"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjaha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeverekjahu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:02:44.704589152Z",
+  "model": "glm-5.3"
+}

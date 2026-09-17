@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Slyš, lidu můj, a promluvím, Izraeli, a budu svědčit proti tobě: já ⟨jsem⟩ Elohim, tvůj Elohim.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Slyš"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lide můj"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "a promluvím"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "a budu svědčit"
+    },
+    {
+      "surface": "בך",
+      "gloss": "proti tobě"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:35.962709438Z",
+  "model": "glm-5.3"
+}

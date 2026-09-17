@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A upřel ⟨את⟩ svou tvář ⟨na něj⟩ a setrval, až ⟨se ten〉 zarděl, a muž Elohim zaplakal.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a upřel \/ setrval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou tvář"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a nechal ⟨zůstat⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "בש",
+      "gloss": "zarděl se \/ zastyděl"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "a zaplakal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim (muž Elohim)"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:38.091887559Z",
+  "model": "glm-5.3"
+}

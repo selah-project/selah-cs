@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Lepší je slyšet výtku moudrého než ⟨aby⟩ muž slyšel píseň bláznů.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepší"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "slyšet"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "výtku"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrého"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "než ⟨aby⟩ muž"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyšel"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "bláznů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:31.507571220Z",
+  "model": "glm-5.3"
+}

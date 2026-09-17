@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "⟨את⟩ Úca, svého prvorozeného, a ⟨את⟩ Buza, jeho bratra, a ⟨את⟩ Kemuela, otce Arama.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Úca"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Úc"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "svého prvorozeného"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Buza"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jeho bratra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Kemuela"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otce"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:53.841834154Z",
+  "model": "glm-5.3"
+}

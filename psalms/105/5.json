@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Pamatujte na jeho zázraky, které učinil, na jeho znamení a výroky jeho úst.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Pamatujte"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "na jeho zázraky"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "na jeho znamení"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "a výroky"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "jeho úst"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:57.992591494Z",
+  "model": "glm-5.3"
+}

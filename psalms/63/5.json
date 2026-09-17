@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 63,
+  "translation": "Takže tě budu žehnat ve svém životě, ve tvém jménu zdvihnu své dlaně.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "takže"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "tě budu žehnat"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ve svém životě"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ve tvém jménu"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "zdvihnu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "své dlaně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:28.471241250Z",
+  "model": "glm-5.3"
+}

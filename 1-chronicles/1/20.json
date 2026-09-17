@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A Joktán zplodil ⟨את⟩ Almodada, a ⟨את⟩ Šélefa, a ⟨את⟩ Chacarmaveta a ⟨את⟩ Jeracha.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "A Joktán"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodada"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Šélefa"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Šélefa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Chacarmaveta"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chacarmaveta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Jeracha"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jeracha"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:10.988632615Z",
+  "model": "glm-5.3"
+}

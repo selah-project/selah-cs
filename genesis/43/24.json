@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "A muž zavedl ⟨את⟩ ty muže do domu Josefova a dal vody, a umyli si nohy; a dal krmiva jejich oslům.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a zavedl"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty muže"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ty muže"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefova"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "a umyli si"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "nohy"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "krmiva"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "jejich oslům"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:35.538613106Z",
+  "model": "glm-5.3"
+}

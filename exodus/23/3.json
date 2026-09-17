@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Ani chudého nebudeš stranit v jeho sporu.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ani chudého"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "budeš stranit"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "v jeho sporu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:23.728271678Z",
+  "model": "glm-5.3"
+}

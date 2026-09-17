@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Jeho služebníci ho vzali mrtvého na voz z Megida, přivezli ho do Jeruzaléma a pochovali ho v jeho hrobě; a lid země vzal ⟨את⟩ Jehoachaze, syna Jošijášova, pomazal ⟨את⟩ ho a učinil ⟨את⟩ ho králem místo jeho otce.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "vzali ho na voz"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeho služebníci"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtvého"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "z Megida"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "přivezli ho"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruzaléma"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "a pochovali ho"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "v jeho hrobě"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoachaze"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijášova"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "pomazal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "a učinil králem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otce"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:02.535549291Z",
+  "model": "glm-5.3"
+}

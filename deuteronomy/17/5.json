@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Vyvedeš ⟨את⟩ toho muže nebo ⟨את⟩ tu ženu, kteří učinili ⟨את⟩ tu zlou věc, k tvým branám — ⟨את⟩ muže nebo ⟨את⟩ ženu — a ukamuješ je kameny a zemřou.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "Vyvedeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toho muže"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "toho muže"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toho"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu ženu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tu ženu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učinili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu zlou věc"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlou"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "tvým branám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muže"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "a ukamuješ je"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "a zemřou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:11.610828492Z",
+  "model": "glm-5.3"
+}

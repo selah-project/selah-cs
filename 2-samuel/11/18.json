@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Joab poslal a oznámil Davidovi ⟨את⟩ všechny záležitosti ⟨té⟩ bitvy.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a oznámil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny záležitosti bitvy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "záležitosti"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "⟨té⟩ bitvy"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:22.572614426Z",
+  "model": "glm-5.3"
+}

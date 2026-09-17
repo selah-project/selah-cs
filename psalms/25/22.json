@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Vykup, Elohime, ⟨את⟩ Izraele ze všech jeho tísní.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Vykup"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "jeho tísní"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:04.986443122Z",
+  "model": "glm-5.3"
+}

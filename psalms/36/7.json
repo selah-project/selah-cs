@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Tvá spravedlnost ⟨je⟩ jako Boží hory, tvé výroky ⟨jsou⟩ veliká hlubina; člověka i dobytče zachraňuješ, Jahve.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Tvá spravedlnost"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "jako hory"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Boží"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "tvé výroky"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "hlubina"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "veliká"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "i dobytče"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "zachraňuješ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:07.384807418Z",
+  "model": "glm-5.3"
+}

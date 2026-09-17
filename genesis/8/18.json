@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vyšel Noach i jeho synové i jeho žena i ženy jeho synů ⟨את⟩ ním.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "i jeho synové"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "i jeho žena"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "i ženy"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synů"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ním",
+      "marks": "Noach a jeho rod"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:29.099724560Z",
+  "model": "glm-5.3"
+}

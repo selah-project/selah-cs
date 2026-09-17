@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Kdo zná sílu tvého hněvu? Podle tvé bázně ⟨tak i⟩ tvá prchlivost.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sílu"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tvého hněvu"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "a podle tvé bázně"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "tvá prchlivost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:47.954440767Z",
+  "model": "glm-5.3"
+}

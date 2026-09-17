@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I řekl k němu David: Jak jsi se neodvážil bát, vztáhnout svou ruku, abys zničil ⟨את⟩ Mšiacha Jahve?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Jak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "jsi se bál"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "vztáhnout"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "abys zničil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mšiacha Jahve"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mšiacha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T11:41:24.181820244Z",
+  "model": "glm-5.3"
+}

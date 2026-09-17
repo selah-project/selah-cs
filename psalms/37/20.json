@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Neboť bezbožní zahynou a nepřátelé Jahveho jako ⟨tučnost⟩ beranů ⟨jsou⟩ zničeni — v dýmu jsou zničeni, zničeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožní"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "zahynou"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "a nepřátelé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "jako ⟨tučnost⟩"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "beranů"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "zničeni"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "v dýmu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "zničeni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:55.748858470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A řekl Jahve Mojžíšovi: Jdi za faraónem a řekni mu: Toto praví Jahve: Propusť ⟨את⟩ můj lid, ať mi slouží.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi (k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Jdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "za (k)"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónem"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "a řekni"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Propusť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "můj lid"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ať mi slouží"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:37.539704428Z",
+  "model": "glm-5.3"
+}

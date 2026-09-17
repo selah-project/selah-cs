@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Poučná ⟨píseň⟩ Asafova. Nakloň ucho, můj lidu, k mé tóře, přitáhněte svá ucha k slovům mých úst.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Poučná ⟨píseň⟩"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafova"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Nakloň ucho"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lidu"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "k mé tóře"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "přitáhněte"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "svá ucha"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "k slovům"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mých úst"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:10.922693248Z",
+  "model": "glm-5.3"
+}

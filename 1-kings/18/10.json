@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Živý je Jahve, tvůj Elohim — je-li národ či království, kam by můj pán neposlal ⟨tě⟩ hledat; a řekli: Není ⟨tu⟩; a přisáhl ⟨את⟩ království i ⟨את⟩ národ, že tě nenalezne.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Živý"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "je-li"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "národ"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "či království"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "by poslal"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "můj pán"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "hledat tě"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Není"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "a přisáhl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "království"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "království"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "národ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "národ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "tě nenalezne"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:01.703746872Z",
+  "model": "glm-5.3"
+}

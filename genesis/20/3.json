@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 20:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Přišel však Elohim k Abímelekovi ve snu v noci a řekl mu: Hle, zemřeš kvůli ženě, kterou jsi vzal — a ⟨ona⟩ je vdaná za muže.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Přišel však"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abímelekovi"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "ve snu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "מת",
+      "gloss": "zemřeš"
+    },
+    {
+      "surface": "על",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "jsi vzal"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a ⟨ona⟩"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "je vdaná"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "za muže"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:45.222495686Z",
+  "model": "glm-5.3"
+}

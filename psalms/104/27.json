@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Všichni čekají na tebe, abys jim dal potravu v jeho čas.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "čekají"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "abys dal"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "potravu"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "v jeho čas"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:42.190103224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Jericho bylo zavřené a zazamčené před tváří synů Izraele — nikdo nevyšel ven a nikdo nevešel.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "A Jericho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "bylo zavřené"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "a zazamčené"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nikdo"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "nevyšel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nikdo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nevešel"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:14.377296055Z",
+  "model": "glm-5.3"
+}

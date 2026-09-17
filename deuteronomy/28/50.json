@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Národ tvrdé tváře, který nezvedne tvář ⟨starci⟩ a mladíkovi ne projeví ⟨milost⟩.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "Národ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tvrdé"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tváře"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "zvedne"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "starci"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "a mladíkovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "projeví milost"
+    }
+  ],
+  "timestamp": "2026-09-17T07:02:26.193740362Z",
+  "model": "glm-5.3"
+}

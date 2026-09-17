@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A řekl: „Čí jsi dcera ⟨את⟩? Pověz mi prosím — je v domě tvého otce místo pro nás, abychom přenočili?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Čí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty (2. osoba ženská, přísudek jména)"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "Pověz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "היש",
+      "gloss": "je"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvého otce"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pro nás"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "abychom přenočili"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:37.926413843Z",
+  "model": "glm-5.3"
+}

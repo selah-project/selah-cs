@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Sleduje ničema spravedlivého a usiluje ho usmrtit.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "Sleduje"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ničema"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "spravedlivého"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "a usiluje"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ho usmrtit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:50.891292909Z",
+  "model": "glm-5.3"
+}

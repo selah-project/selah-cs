@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A děti se draly v jejím nitku; i řekla: Je-li tomu tak, proč ⟨jsem⟩ toto já? A šla dotázat se ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "a se draly"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "děti"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "v jejím nitku"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "i řekla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "je-li"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tomu tak"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "a šla"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "dotázat se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:43.323489550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Neboť ⟨to, čeho⟩ jsem se bál, ⟨to⟩ přišlo na mě, a čeho jsem se děsil, ⟨to⟩ na mě přišlo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "hrůza"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "jsem se bál"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "a přišlo na mě"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a co"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "jsem se děsil"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "přišlo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:55.405341821Z",
+  "model": "glm-5.3"
+}

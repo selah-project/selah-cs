@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neboj se jich; dobře si pamatuj ⟨את⟩ to, co učinil Jahve, tvůj Elohim, faraónovi a celému Egyptu:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "jich"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pamatuj"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "si pamatuj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co učinil Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "a celému"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:55:46.635729492Z",
+  "model": "glm-5.3"
+}

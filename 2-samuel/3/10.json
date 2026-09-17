@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "převést království z domu Šaúlova a vyvýšit ⟨את⟩ trůn Davidův nad Izraelem a nad Judou, od Danu až po Be'er-ševu.'",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "převést"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "království"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúlova"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "a vyvýšit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trůn Davidův"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trůn"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a nad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judou"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "od Danu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ševu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:11.737231384Z",
+  "model": "glm-5.3"
+}

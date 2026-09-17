@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Oslavovat budu Jahve celým svým srdcem, vyprávět budu o všech tvých úžasech.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Oslavovat budu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "celým"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "svým srdcem"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "vyprávět budu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tvých úžasech"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:45.338011725Z",
+  "model": "glm-5.3"
+}

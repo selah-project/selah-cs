@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Hlas na pustinách ⟨je⟩ slyšen, pláč a prosby synů Izraele, neboť zkřivili ⟨את⟩ svou cestu, zapomněli ⟨את⟩ Jahve, svého Elohima.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Hlas"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "pustinách"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "je slyšen"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "pláč"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "a prosby"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "zkřivili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou cestu"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "svou cestu"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "zapomněli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "svého Elohima"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:38.805828367Z",
+  "model": "glm-5.3"
+}

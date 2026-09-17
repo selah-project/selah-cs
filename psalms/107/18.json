@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Veškeré jídlo se jich ⟨jejich⟩ duše hnusí, a došli až k branám smrti.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Veškeré"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jídlo"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "se hnusí"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "⟨jejich⟩ duše"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "a došli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "branám"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:50.210443030Z",
+  "model": "glm-5.3"
+}

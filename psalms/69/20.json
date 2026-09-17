@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Ty znáš mou potupu i mou hanbu a mou pohanu; před tebou ⟨jsou⟩ všichni moji protivníci.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znáš"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": " mou potupu"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "i mou hanbu"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "a mou pohanu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "moji protivníci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:31.982036699Z",
+  "model": "glm-5.3"
+}

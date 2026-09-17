@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 23:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "a ⟨aby⟩ mi dal ⟨את⟩ jeskyni Machpela, která je jeho, která je na konci jeho pole; za plnou cenu stříbra ať mi ji dá ve vašem středu, za držení hrobu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a ⟨aby⟩ dal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeskyni Machpela"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "jeskyni"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "Machpela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "לו",
+      "gloss": "je jeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "na konci"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "jeho pole"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "za stříbra"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plnou"
+    },
+    {
+      "surface": "יתננה",
+      "gloss": "ať ji dá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ve vašem středu"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "za držení"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "hrobu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:26.859438147Z",
+  "model": "glm-5.3"
+}

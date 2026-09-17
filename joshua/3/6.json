@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "I řekl Jehošua kněžím ⟨a řekl⟩: Pozdvihněte ⟨את⟩ archu smlouvy a přejděte před lid. A pozdvihli ⟨את⟩ archu smlouvy a šli před lid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kněžím"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "knězům"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a řekl⟩"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "Pozdvihněte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "a přejděte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "A pozdvihli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "a šli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    }
+  ],
+  "timestamp": "2026-09-17T11:47:43.062068255Z",
+  "model": "glm-5.3"
+}

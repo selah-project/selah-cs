@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Nachšón zplodil ⟨את⟩ Salmu; a Salma zplodil ⟨את⟩ Bóaze.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "A Nachšón"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmu"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmu"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "a Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bóaze"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Bóaze"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:11.981746689Z",
+  "model": "glm-5.3"
+}

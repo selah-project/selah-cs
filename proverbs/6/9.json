@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Dokud, ⟨líný⟩ člověče, budeš ležet? Kdy vstaneš ze svého spánku?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Dokud"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "⟨líný⟩ člověče"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "budeš ležet"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Kdy"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "vstaneš"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "ze svého spánku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:37:16.301184783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Ať jej vyvyšují ⟨v⟩ shromáždění lidu a ⟨v⟩ sedě starších jej chválí.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Ať jej vyvyšují"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "⟨v⟩ shromáždění"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "a ⟨v⟩ sedě"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "starších"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "jej chválí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:58.098425883Z",
+  "model": "glm-5.3"
+}

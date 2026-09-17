@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Dobrý ⟨je⟩ Jahve ke všemu, a jeho slitování ⟨je⟩ nad všemi jeho díly.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Dobrý"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ke všemu"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "a jeho slitování"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všemi"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "jeho díly"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:25.160929985Z",
+  "model": "glm-5.3"
+}

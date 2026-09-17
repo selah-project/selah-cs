@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Révu z Egypta jsi vytrhl, národy jsi vyhnal ⟨a⟩ zasadil jsi ji.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "Réva"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "jsi vytrhl"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "jsi vyhnal"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "a zasadil jsi ji"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:41.780635725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A slyšeli ⟨את⟩ hlas Jahve Elohim procházejícího se v zahradě za větru dne; a ukryl se člověk i jeho žena před tváří Jahve Elohim uprostřed stromů zahrady.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "a slyšeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "procházejícího se"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "v zahradě"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "za větru"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "a ukryl se"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "i jeho žena"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "stromů"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "zahrady"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:28.610844605Z",
+  "model": "glm-5.3"
+}

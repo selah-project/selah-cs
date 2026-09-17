@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A zbořili ⟨את⟩ Baalův sloup, a zbořili ⟨את⟩ dům Baala, a učinili z ⟨něj⟩ hnojiště až ⟨do⟩ tohoto dne.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "A zbořili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalův sloup"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "sloup"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalův"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "a zbořili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "a učinili z ⟨něj⟩"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "hnojiště"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až ⟨do⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tohoto dne"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:07.194342776Z",
+  "model": "glm-5.3"
+}

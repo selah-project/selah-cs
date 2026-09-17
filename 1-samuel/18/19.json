@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A stalo se v čas, kdy měla být dána ⟨את⟩ Merab, dcera Ša'ulova, Davidovi, že byla dána Adrielovi Mecholatskému za ženu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "v čas"
+    },
+    {
+      "surface": "תת",
+      "gloss": "být dána"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ulova"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "byla dána"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adrielovi"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "Mecholatskému"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:23.147716770Z",
+  "model": "glm-5.3"
+}

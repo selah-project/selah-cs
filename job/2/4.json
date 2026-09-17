@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A odpověděl ha-sátan ⟨את⟩ Jahve a řekl: Kůže za kůži, a všechno, co člověk má, dá za svou duši.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a odpověděl"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-sátan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kůže"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kůži"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "člověk má"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svou duši"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:44.846207891Z",
+  "model": "glm-5.3"
+}

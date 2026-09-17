@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 24:40",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A řekl mi: Jahve, před nímž jsem chodil, pošle svého posla ⟨את⟩ s tebou a zpříhodní tvou cestu, a vezmeš ženu mému synovi z mé rodiny a z domu mého otce.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "před nímž"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "jsem chodil"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "pošle"
+    },
+    {
+      "surface": "מלאכו",
+      "gloss": "svého posla"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tebou",
+      "marks": "s tebou (doprovod, ne předmět)"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "a zpříhodní"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tvou cestu"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "a vezmeš"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mému synovi"
+    },
+    {
+      "surface": "ממשפחתי",
+      "gloss": "z mé rodiny"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "a z domu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mého otce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:58.314741795Z",
+  "model": "glm-5.3"
+}

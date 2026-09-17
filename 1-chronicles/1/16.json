@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "a ⟨את⟩ Arvadeje a ⟨את⟩ Semareje a ⟨את⟩ Chamateje.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Arvadeje"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvadeje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Semareje"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Semareje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Chamateje"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Chamateje"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:02.816714750Z",
+  "model": "glm-5.3"
+}

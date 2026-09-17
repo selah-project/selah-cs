@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "⟨את⟩ slunce, aby vládlo dnem, neboť na věčnost ⟨trvá⟩ jeho chesed:",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slunce"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "aby vládlo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dnem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věčnost"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:03.037819719Z",
+  "model": "glm-5.3"
+}

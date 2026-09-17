@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Elohim mu vzbudil protivníka: ⟨את⟩ Rezona, syna Eljady, který uprchl od ⟨את⟩ Hadadezera, krále Soby, svého pána.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "A … vzbudil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "protivníka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezona"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eljady"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "uprchl"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Soby"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "svého pána"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:49.395227726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "I obrátil ⟨את⟩ svou tvář ke zdi a modlil se k Jahve říkaje:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "I obrátil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou tvář"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "zdi"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "a modlil se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkaje"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:34.500415176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A ⟨את⟩ Baalat a ⟨את⟩ Tamor v poušti, v zemi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Tamor"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v poušti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:58.520840798Z",
+  "model": "glm-5.3"
+}

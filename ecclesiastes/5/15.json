@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A také toto je zlá nemoc: přesně tak, jak přišel, tak odejde — a jaký má užitek z toho, že se namáhal pro vítr?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "A také"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlá"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "nemoc"
+    },
+    {
+      "surface": "כל",
+      "gloss": "přesně"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "tak"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "jak přišel"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "odejde"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "a jaký"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "užitek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "má"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "z toho, že se namáhal"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "pro vítr"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:36.523024400Z",
+  "model": "glm-5.3"
+}

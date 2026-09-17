@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 53,
+  "translation": "Elohim z nebes vyhlédl na syny lidské, aby viděl, zda ⟨je⟩ někdo rozumný, kto hledá ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z nebes"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "vyhlédl"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidské"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby viděl"
+    },
+    {
+      "surface": "היש",
+      "gloss": "zda ⟨je⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "někdo rozumný"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kto hledá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohima"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:55.544167464Z",
+  "model": "glm-5.3"
+}

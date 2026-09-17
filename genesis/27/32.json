@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A řekl mu Jitschak jeho otec: Kdo jsi ty? A on řekl: Já jsem tvůj syn, tvůj prvorozený Ésav.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otec"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi ty"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on řekl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já jsem"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvůj syn"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "tvůj prvorozený"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésav"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:17.196484920Z",
+  "model": "glm-5.3"
+}

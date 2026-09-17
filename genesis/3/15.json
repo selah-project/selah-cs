@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A nepřátelství vložím mezi tebe a ⟨tu⟩ ženu, mezi tvé símě a símě její; ono ⟨ti⟩ rozdrtí hlavu a ty ⟨jemu⟩ zasadíš ránu do paty.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "a nepřátelství"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "vložím"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "mezi tebe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨tu⟩ ženu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tvé símě"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "símě její"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "⟨ti⟩ rozdrtí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "⟨jemu⟩ zasadíš ránu"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "do paty"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:48.223659734Z",
+  "model": "glm-5.3"
+}

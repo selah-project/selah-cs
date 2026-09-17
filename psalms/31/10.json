@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Buď mi milostiv, Jahve, neboť ⟨je⟩ mi úzko; slábne v zármutku mé oko, má duše i mé břicho.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Buď mi milostiv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "צר",
+      "gloss": "úzko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "slábne"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "v zármutku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mé oko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "i mé břicho"
+    }
+  ],
+  "timestamp": "2026-09-17T13:40:28.056800373Z",
+  "model": "glm-5.3"
+}

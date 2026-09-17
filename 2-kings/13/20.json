@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A Elíša zemřel a pochovali ⟨ho⟩. A oddíly Moábců přicházely do země při příchodu roku.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "A zemřel"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elíša"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "a pochovali ho"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "A oddíly"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábců"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "přicházely"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "do země"
+    },
+    {
+      "surface": "בא",
+      "gloss": "při příchodu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roku"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:55.652604382Z",
+  "model": "glm-5.3"
+}

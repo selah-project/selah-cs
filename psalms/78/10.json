@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Nezachovali smlouvu Elohim a v jeho tóře odmítli chodit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "zachovali"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "a v jeho tóře"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "odmítli"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "chodit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:55.825439435Z",
+  "model": "glm-5.3"
+}

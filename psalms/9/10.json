@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A stane se, že Jahve bude útočištěm pro sklíčeného, útočištěm pro časy v tísni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stane se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "útočištěm"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "pro sklíčeného"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "útočištěm"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "pro časy"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "v tísni"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:34.802907722Z",
+  "model": "glm-5.3"
+}

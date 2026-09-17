@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 12:6",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Před jejich očima to poneseš na rameni, ve tmě to vyvedeš, zakryješ svou tvář a nebudeš vidět ⟨את⟩ zemi, neboť znamením jsem tě učinil domu Izraele.",
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "před jejich očima"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "rameni"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "poneseš"
+    },
+    {
+      "surface": "בעלטה",
+      "gloss": "ve tmě"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "vyvedeš"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "zakryješ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "budeš vidět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "znamením"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "učinil jsem tě"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T08:40:25.062667326Z",
+  "model": "glm-5.3"
+}

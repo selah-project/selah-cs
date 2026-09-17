@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Mezi mnou a mezi syny Jisraele ⟨to je⟩ znamení navěky, neboť za šest dní učinil Jahve ⟨את⟩ nebesa a ⟨את⟩ zemi, a sedmého dne přestal ⟨od díla⟩ a nabyl nových sil.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "mezi mnou"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "אות",
+      "gloss": "znamení"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to je⟩"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "za šest"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebesa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "a v den"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmý"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "přestal"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "a nabyl nových sil"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:51.774586304Z",
+  "model": "glm-5.3"
+}

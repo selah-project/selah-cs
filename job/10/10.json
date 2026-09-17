@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Což jako mléko jsi mě nevylil a jako sýr jsi mě nesrazil?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Což"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "jako mléko"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "jsi mě nevylil"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "a jako sýr"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "jsi mě nesrazil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:46:10.548369590Z",
+  "model": "glm-5.3"
+}

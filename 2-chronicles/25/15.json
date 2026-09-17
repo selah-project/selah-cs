@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 25:15",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "I vzplanul hněv Jahve proti Amacjášovi, a poslal k němu proroka; ten mu řekl: Proč jsi vyhledával ⟨את⟩ bohy ⟨téhož⟩ lidu, který nevytrhl ⟨את⟩ svůj lid z tvé ruky?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "vzplanul"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באמציהו",
+      "gloss": "proti Amacjášovi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "דרשת",
+      "gloss": "jsi vyhledával"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bohy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨téhož⟩ lidu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "vytrhl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj lid"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "z tvé ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T10:31:14.874915614Z",
+  "model": "glm-5.3"
+}

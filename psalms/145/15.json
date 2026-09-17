@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Oči všech k tobě vzhlížejí a ty dáváš jim ⟨את⟩ jejich potravu v její čas.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Oči"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "vzhlížejí"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "dáváš"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich potravu"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "jejich potravu"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "v její čas"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:29.410564571Z",
+  "model": "glm-5.3"
+}

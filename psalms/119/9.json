@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Čím se očistí mladík ⟨את⟩ svou cestu? Tím, že ji střeží podle tvého slova.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "čím"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "se očistí"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mladík"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou cestu"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "svou cestu"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "tím, že střeží"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "podle tvého slova"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:00.793866390Z",
+  "model": "glm-5.3"
+}

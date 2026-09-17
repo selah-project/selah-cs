@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I povstali všichni muži udatní, a vzali ⟨את⟩ tělo Saulovo a ⟨את⟩ těla jeho synů, a přinesli ⟨je⟩ do Jábeše, a pohřbili ⟨את⟩ jejich kosti pod dubem v Jábeši, a postili se sedm dní.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "a povstali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "udatní"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "a vzali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tělo Saulovo"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "tělo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulovo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "těla jeho synů"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "těla"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synů"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "a přinesli je"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "do Jábeše"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "a pohřbili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich kosti"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "jejich kosti"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "dubem"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "v Jábeši"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "a postili se"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    }
+  ],
+  "timestamp": "2026-09-17T10:18:39.698800088Z",
+  "model": "glm-5.3"
+}

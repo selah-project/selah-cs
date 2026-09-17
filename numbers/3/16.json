@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A Mojžíš je spočítal ⟨את⟩ na slovo Jahve, jak mu bylo přikázáno.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "A spočítal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je — syny Léviho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "slovo (doslova „ústa“)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "bylo přikázáno"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:08.320845138Z",
+  "model": "glm-5.3"
+}

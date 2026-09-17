@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "I řekl Jahve Mojžíšovi: Vstup k faraonovi a promluvíš k němu: Takto řekl Jahve, Elohim Hebrejů: Propusť ⟨את⟩ můj lid, a budou mi sloužit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Vstup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonovi"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "promluvíš"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Takto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrejů"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Propusť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "můj lid"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "a budou mi sloužit"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:14.929114668Z",
+  "model": "glm-5.3"
+}

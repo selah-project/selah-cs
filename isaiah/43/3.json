@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Nebo já ⟨jsem⟩ Jahve, tvůj Elohim, Svatý Izraele, tvůj Spasitel — dal jsem Egypt jako tvou výkupní cenu, Kúš a Sábu místo tebe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já ⟨jsem⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Svatý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "tvůj Spasitel"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dal jsem"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "jako tvou výkupní cenu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kúš"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "a Sába"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "místo tebe"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:39.041144334Z",
+  "model": "glm-5.3"
+}

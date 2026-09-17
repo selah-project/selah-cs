@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A naložili ⟨את⟩ své obilí na své osly a šli odtud.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "A naložili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své obilí"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "své obilí"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "své osly"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "a šli"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:27.473148951Z",
+  "model": "glm-5.3"
+}

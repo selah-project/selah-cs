@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Když přišel Doeg Edomit a oznámil ⟨to⟩ Ša'ulovi a řekl mu: „David přišel do domu Achimeleka.“",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Když přišel"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomit"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a oznámil"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Ša'ulovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimeleka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:10.936962529Z",
+  "model": "glm-5.3"
+}

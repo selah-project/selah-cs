@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Nepředří se, abys zbohatl; svým rozumem přestaň ⟨to chce⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "předří se"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "abys zbohatl"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "svým rozumem"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "přestaň"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:10.552661055Z",
+  "model": "glm-5.3"
+}

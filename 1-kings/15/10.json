@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A čtyřicet a jeden rok kraloval v Jeruzalémě; a jméno jeho matky ⟨bylo⟩ Maacha, dcera Abíšaloma.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "a čtyřicet"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "a jeden"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "rok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraloval"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jméno"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jeho matky"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maacha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Abíšaloma"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:57.465389167Z",
+  "model": "glm-5.3"
+}

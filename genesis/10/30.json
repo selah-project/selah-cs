@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A ⟨jejich⟩ sídlo ⟨bylo⟩ od Mešá, když se jde k Sefáru, horě na východě.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "jejich sídlo"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "od Mešá"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "když se jde"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "k Sefáru"
+    },
+    {
+      "surface": "הר",
+      "gloss": "horě"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "na východě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:09.447906592Z",
+  "model": "glm-5.3"
+}

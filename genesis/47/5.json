@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "A faraon řekl Jósefovi takto: Tvůj otec a tví bratři přišli k tobě.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósefovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "Tvůj otec"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "a tví bratři"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:28.378960346Z",
+  "model": "glm-5.3"
+}

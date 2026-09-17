@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A přinesl ⟨את⟩ svaté věci svého otce i své vlastní svaté věci do domu Jahve: stříbro a zlato a nádobí.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přinesl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svaté věci svého otce"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svaté věci"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "i své vlastní svaté věci"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "a zlato"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "a nádobí"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:01.652429346Z",
+  "model": "glm-5.3"
+}

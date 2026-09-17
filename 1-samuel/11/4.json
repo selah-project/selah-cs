@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A přišli poslové do Gibeá Ša'ulovy a promluvili ta slova ⟨do⟩ uší lidu; a pozvedl všechen lid ⟨את⟩ svůj hlas a plakali.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "A přišli"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "poslové"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Gibeá"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ulovy"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "a promluvili"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ta slova"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "v uších"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "a pozvedl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj hlas"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "a plakali"
+    }
+  ],
+  "timestamp": "2026-09-17T07:24:29.139457762Z",
+  "model": "glm-5.3"
+}

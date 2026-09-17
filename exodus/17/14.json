@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A řekl Jahve Mojžíšovi: Napiš to ⟨jako⟩ pamětní zápis do knihy a vlož to do uší Jozuovi, neboť zajisté smažu ⟨את⟩ památku Amáleka zpod nebe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Napiš"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "pamětní zápis"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "do knihy"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "a vlož"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "do uší"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "smažu"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "zajisté smažu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "památku Amáleka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "památku"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amáleka"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "zpod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebe"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:15.255706968Z",
+  "model": "glm-5.3"
+}

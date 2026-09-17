@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A viděl Elohim ⟨את⟩ zemi, a hle, zkazena byla, neboť zkažil veškeré tělo ⟨את⟩ svou cestu na zemi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "A viděl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "zkazena byla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "zkažil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tělo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou cestu"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "svou cestu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:32.703177162Z",
+  "model": "glm-5.3"
+}

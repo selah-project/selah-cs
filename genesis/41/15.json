@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Paroh řekl Jósefovi: Sen jsem snil a vykladače ⟨את⟩ něj není; o tobě jsem však slyšel, že vyslechneš sen a vyložíš ⟨את⟩ jej.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósefovi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sen"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "jsem snil"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "a vykladač"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho \/ jej (snu)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "já však"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jsem slyšel"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "o tobě"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "že"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "vyslechneš"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sen"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "k vyložení"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:33.326238437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "V ten čas onemocněl Abijáš, syn Jeroboámův.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "V čas"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "onemocněl"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abijáš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboáma"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:48.310782994Z",
+  "model": "glm-5.3"
+}

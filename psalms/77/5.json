@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Chopil jsi ⟨se⟩ strážemi mých očí; ⟨jsem⟩ rozrušen a nemohu mluvit.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Chopil jsi"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "strážemi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mých očí"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "rozrušen ⟨jsem⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nemohu"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "mluvit"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:36.638243352Z",
+  "model": "glm-5.3"
+}

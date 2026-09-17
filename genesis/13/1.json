@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A Abram vystoupil z Egypta, on i jeho žena a vše, co měl, a Lot s ním, směrem k Negevu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a vystoupil"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "i jeho žena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "měl"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "a Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "směrem k Negevu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:49.803556384Z",
+  "model": "glm-5.3"
+}

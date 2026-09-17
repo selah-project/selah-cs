@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A Jicak jim řekl: Proč jste přišli ke mně — vy, kteří jste mě nenáviděli ⟨את⟩ a poslali jste mě pryč ⟨את⟩ od sebe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "jste přišli"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "jste nenáviděli"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mě (objekt nenávisti Jicaka)"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "a poslali jste mě pryč"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ od sebe"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:56.870898167Z",
+  "model": "glm-5.3"
+}

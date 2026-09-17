@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "Jahve zná ⟨myšlenky⟩ člověka, že ⟨jsou⟩ marnost.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "⟨myšlenky⟩"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨jsou⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "marnost"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:13.827265144Z",
+  "model": "glm-5.3"
+}

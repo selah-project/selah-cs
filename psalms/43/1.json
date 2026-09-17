@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Rozsoudi mě, Elohime, a védi ⟨můj⟩ spor můj proti národu ne-zbožnému, před mužem zrádným a nepravým ⟨ty⟩ mě zachráníš.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Rozsoudi mě"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "a védi"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "spor můj"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "proti národu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "zbožnému"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "před mužem"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "zrádným"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "a nepravým"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "⟨ty⟩ mě zachráníš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:46.258793106Z",
+  "model": "glm-5.3"
+}

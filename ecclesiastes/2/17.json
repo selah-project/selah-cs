@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A nenáviděl jsem ⟨את⟩ život, neboť zlý je pro mne ten čin, který se děje pod sluncem, neboť všechno je hevel a trápení ducha.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "nenáviděl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "život"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "život"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlý"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pro mne"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ten čin"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "který se děje"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sluncem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "a trápení"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:56.904621555Z",
+  "model": "glm-5.3"
+}

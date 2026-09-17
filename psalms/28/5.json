@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Neboť nepochopí skutky Jahve ani dílo jeho rukou: ⟨jej⟩ strhne a znovu je nezbuduje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "nepochopí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "skutkům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ani k"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílu"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "jeho rukou"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "strhne ⟨je⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "zbuduje ⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:46.901658557Z",
+  "model": "glm-5.3"
+}

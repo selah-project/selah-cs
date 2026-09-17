@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 32:33",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Obrátili ke mně záda a ne tvář, a učil jsem je, vstával časně a uče ⟨את⟩ je — a oni neposlouchají, aby přijali kázeň.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "obrátili"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "záda (zátylek)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "a učil jsem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "vstával časně"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "a uče"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "a oni ne-"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "-poslouchají"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "aby přijali"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kázeň"
+    }
+  ],
+  "timestamp": "2026-09-17T08:29:40.329295777Z",
+  "model": "glm-5.3"
+}

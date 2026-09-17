@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A vyčkal sedm dní k termínu, který ⟨určil⟩ Samuel; ale Samuel nepřišel do Gilgalu, a lid se rozptýlil od něj.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "A vyčkal"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "k termínu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "do Gilgalu"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "a rozptýlil se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "od něj"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:32.912115166Z",
+  "model": "glm-5.3"
+}

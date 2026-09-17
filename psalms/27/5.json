@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Neboť skryje mě ve své sukkot v den zla, ukryje mě v úkrytu svého stanu, na skálu mě vyzdvihne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "skryje mě"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "ve své sukkot"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zla"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "ukryje mě"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "v úkrytu"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "svého stanu"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "na skálu"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "mě vyzdvihne"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:35.745854881Z",
+  "model": "glm-5.3"
+}

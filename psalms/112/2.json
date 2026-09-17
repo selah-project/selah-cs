@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 112,
+  "translation": "Mocný na zemi ⟨bude⟩ jeho potomstvo, pokolení přímých bude požehnáno.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Mocný"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨bude⟩"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "jeho potomstvo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "přímých"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bude požehnáno"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:12.607276912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Jestliže má ustanovení znesvěcí a má přikázání nebudou střežit —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "má ustanovení"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "znesvěcí"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "a má přikázání"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "budou střežit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:08.426266957Z",
+  "model": "glm-5.3"
+}

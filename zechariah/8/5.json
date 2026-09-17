@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 8:5",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A ⟨náměstí⟩ města se naplní chlapci a dívkami, hrajícími si na jeho ⟨náměstích⟩.",
+  "tokens": [
+    {
+      "surface": "ורחבות",
+      "gloss": "a ⟨náměstí⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "se naplní"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "chlapci"
+    },
+    {
+      "surface": "וילדות",
+      "gloss": "a dívkami"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "hrajícími si"
+    },
+    {
+      "surface": "ברחבתיה",
+      "gloss": "na jeho ⟨náměstích⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:08:07.577991104Z",
+  "model": "glm-5.3"
+}

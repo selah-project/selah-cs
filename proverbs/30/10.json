@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Nepomlouvej sluhu jeho Adonaji, aby tě nezlořečil ⟨a⟩ nesešel s vinou.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "pomlouvej"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sluhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jeho"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "Adonaji"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aby ne"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "tě nezlořečil"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "a nesešel s vinou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:01.889551348Z",
+  "model": "glm-5.3"
+}

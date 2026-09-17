@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A postavil oltář Baalovi v ⟨domě⟩ Baalově, který vystavěl v Samařii.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "A postavil"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalovi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v ⟨domě⟩"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalově"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "vystavěl"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "v Samařii"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:34.439929006Z",
+  "model": "glm-5.3"
+}

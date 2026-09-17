@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 146,
+  "translation": "Budu chválit Jahve po všechen svůj život, budu zpívat svému Elohim, dokud budu ⟨existovat⟩.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "Budu chválit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "za svého života"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "budu zpívat"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "svému Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "dokud budu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:26.147708500Z",
+  "model": "glm-5.3"
+}

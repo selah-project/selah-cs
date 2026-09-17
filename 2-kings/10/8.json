@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A přišel posel a oznámil mu: „Přinesli hlavy synů ⟨těho⟩ krále.“ I řekl: „Odložte ⟨את⟩ je na dvě hromady u vchodu ⟨té⟩ brány až do rána.“",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "A přišel"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "posel"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a oznámil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨takto⟩"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "Přinesli"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlavy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨těho⟩ krále"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Odložte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "שני",
+      "gloss": "na dvě"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "hromady"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u vchodu"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨té⟩ brány"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rána"
+    }
+  ],
+  "timestamp": "2026-09-17T07:55:27.352703112Z",
+  "model": "glm-5.3"
+}

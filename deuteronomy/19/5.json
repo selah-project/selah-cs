@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 19:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A když přijde ⟨את⟩ svého druha do lesa kácet stromy a jeho ruka je odvrácena se sekoukou, aby porazila strom, a železo uklouzne ze dřeva a zasáhne ⟨את⟩ jeho druha, takže zemře — on uprchne do jednoho z těchto měst a bude žít.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "a když"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "přijde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého druha"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svého druha"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "do lesa"
+    },
+    {
+      "surface": "לחטב",
+      "gloss": "kácet"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "stromy"
+    },
+    {
+      "surface": "ונדחה",
+      "gloss": "a je odvrácena"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jeho ruka"
+    },
+    {
+      "surface": "בגרזן",
+      "gloss": "se sekoukou"
+    },
+    {
+      "surface": "לכרת",
+      "gloss": "aby porazila"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "strom"
+    },
+    {
+      "surface": "ונשל",
+      "gloss": "a uklouzne"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "železo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dřeva"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "a zasáhne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho druha"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "jeho druha"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a zemře"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "uprchne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "z měst"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "a bude žít"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:18.157686467Z",
+  "model": "glm-5.3"
+}

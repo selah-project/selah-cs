@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Neposlouchejte je; sloužte ⟨את⟩ králi Babylónu a žijte! Proč má toto město být zpustošeno?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "poslouchejte"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "je"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "služte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "králi Babylónu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "a žijte"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "má být"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toto město"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "zpustošeno"
+    }
+  ],
+  "timestamp": "2026-09-17T08:28:08.441034358Z",
+  "model": "glm-5.3"
+}

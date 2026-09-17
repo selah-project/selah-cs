@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A Jahve viděl, že ⟨je⟩ veliká zloba člověka na zemi, a že každé smýšlení myšlenek jeho srdce ⟨je⟩ jen zlé každý den.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "veliká"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "zloba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a každé"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "smýšlení"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "myšlenek"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jeho srdce"
+    },
+    {
+      "surface": "רק",
+      "gloss": "jen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:23.319743904Z",
+  "model": "glm-5.3"
+}

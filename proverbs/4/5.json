@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Vzchovej moudrost, vzchovej porozumění; nezapomeň a neuchyl se od slov mých úst.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Vzchovej"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "vzchovej"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "porozumění"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "zapomeň"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תט",
+      "gloss": "uchyl se"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "od slov"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mých úst"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:34.013841947Z",
+  "model": "glm-5.3"
+}

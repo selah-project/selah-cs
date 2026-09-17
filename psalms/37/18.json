@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Jahve zná dny ⟨těch⟩ bezúhonných a jejich dědictví bude navěky.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "bezúhonných"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "a jejich dědictví"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:55.748534031Z",
+  "model": "glm-5.3"
+}

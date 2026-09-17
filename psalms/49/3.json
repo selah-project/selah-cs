@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Také lidské syny, také mužovy syny, ⟨i⟩ bohatce ⟨i⟩ nuzáka ⟨spolu⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Také"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidské"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužovy"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨spolu⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bohatce"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "⟨i⟩ nuzáka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:56.049108574Z",
+  "model": "glm-5.3"
+}

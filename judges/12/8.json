@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A po něm soudil ⟨את⟩ Izrael Ibcan z Bet-lechemu.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "soudil"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "po něm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibcan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z ⟨domu⟩"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-lechemu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:16:45.321284001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 7:15",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Jahve odvrátí od tebe veškerou nemoc a všechen špatný neduh Egypta, který znáš, na tebe nesestoupí, ale uvalí jej na všechny, kdo tě nenávidí.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "odvrátí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "nemoc"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechen"
+    },
+    {
+      "surface": "מדוי",
+      "gloss": "neduh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "špatný"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znáš"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישימם",
+      "gloss": "nesestoupí-na-tebe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "ונתנם",
+      "gloss": "uvalí-jej"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na-všechny"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "kteří-tebe-nenávidí"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:33.304419230Z",
+  "model": "glm-5.3"
+}

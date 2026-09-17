@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A odpoví a řeknou: Naše ruce nevylily ⟨את⟩ tuto krev a naše oči neviděly.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "A odpoví"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "a řeknou"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Naše ruce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "vylily"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto krev"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "a naše oči"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "viděly"
+    }
+  ],
+  "timestamp": "2026-09-17T06:58:34.299594486Z",
+  "model": "glm-5.3"
+}

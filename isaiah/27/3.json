@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Já, Jahve, jsem její strážce; chvílemi ji zavlažuji, aby ⟨na ni⟩ nebyl ⟨kárně⟩ vznesen ⟨útok⟩ — ve dne i v noci ji střežím.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "jsem její strážce"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "chvílemi"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "ji zavlažuji"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aby ne"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "byl vznesen (kárně)"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na ni"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "i ve dne"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "ji střežím"
+    }
+  ],
+  "timestamp": "2026-09-17T10:58:46.009640820Z",
+  "model": "glm-5.3"
+}

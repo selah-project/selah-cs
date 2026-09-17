@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 14:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Neboť Jahve se smiluje nad ⟨את⟩ Jákobem a opět si vyvolí Izrael a usadí je na jejich půdě; přidá se k nim přistěhovalec a připojí se k domu Jákobovu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "se smiluje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jákobem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobem"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "a vyvolí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opět"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "a usadí je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "jejich půdě"
+    },
+    {
+      "surface": "ונלוה",
+      "gloss": "přidá se"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "přistěhovalec"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "k nim"
+    },
+    {
+      "surface": "ונספחו",
+      "gloss": "a připojí se"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobovu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:05:23.177992198Z",
+  "model": "glm-5.3"
+}

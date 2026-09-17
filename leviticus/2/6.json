@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Rozlámej ⟨את⟩ ji na kusy a vylij na ni olej — je to oběť míncha.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "rozlámej"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ji (kusy)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "na kusy"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "a vylij"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na ni"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "oběť míncha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:48.004888572Z",
+  "model": "glm-5.3"
+}

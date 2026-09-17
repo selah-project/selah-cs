@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "Vyšli své ruce z výše, vytrhni mě a vysvoď mě z vod mnohých, z ruky synů cizinců.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Vyšli"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "své ruce"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "z výše"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "vytrhni mě"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "a vysvoď mě"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "z vod"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnohých"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "cizinců"
+    }
+  ],
+  "timestamp": "2026-09-17T13:04:00.335993471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Ne nám, Jahve, ne nám, nýbrž svému jménu dej čest, pro svůj chesed, pro svou pravdu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nýbrž (neboť)"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "svému jménu"
+    },
+    {
+      "surface": "תן",
+      "gloss": "dej"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "čest"
+    },
+    {
+      "surface": "על",
+      "gloss": "pro"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "svůj chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "pro"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "svou pravdu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:57.401178930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Ať hynou hříšníci ze ⟨země⟩ a ničemové už nejsou! Žehnej, má duše ⟨את⟩ Jahveho. Halelu-jah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "ať hynou"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "hříšníci"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨země⟩"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "a ničemové"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nejsou"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "žehnej"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "jah"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:59.615496437Z",
+  "model": "glm-5.3"
+}

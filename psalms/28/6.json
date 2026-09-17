@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Požehnaný ⟨budiž⟩ Jahve, neboť vyslyšel hlas mých proseb.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "požehnaný"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "vyslyšel"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mých proseb"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:46.901887027Z",
+  "model": "glm-5.3"
+}

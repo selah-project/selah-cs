@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 27:24",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "V roce jovelu se pole vrátí tomu, kdo je koupil ⟨את⟩ ⟨od něho⟩, ⟨totiž⟩ tomu, komu ⟨patří⟩ držba země.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "v roce"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "jovelu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se vrátí"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "tomu, kdo"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "je koupil"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ ⟨od něho⟩",
+      "marks": "אתו — předmětová značka s předložkou מן, ukazuje na prodávajícího"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "tomu, komu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mu⟩ to je"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "držba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T13:40:41.897076856Z",
+  "model": "glm-5.3"
+}

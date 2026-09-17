@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 112,
+  "translation": "Halelu-Jah! Blaze ⟨muži⟩, jenž se bojí ⟨את⟩ Jahve, v jeho přikázáních má velkou zálibu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halelu-"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah!"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Blaze"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨muži⟩"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "jenž se bojí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "v jeho přikázáních"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "má zálibu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velkou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:12.607040689Z",
+  "model": "glm-5.3"
+}

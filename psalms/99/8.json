@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 99,
+  "translation": "Jahve, Elohim náš, ty jsi jim odpovídal, Ěl nesoucí ⟨viny⟩ jsi jim byl, i mstící se nad činy jejich.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim náš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "jsi jim odpovídal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ěl"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nesoucí"
+    },
+    {
+      "surface": "היית",
+      "gloss": "jsi byl"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "i mstící se"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "činy jejich"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:20.612228815Z",
+  "model": "glm-5.3"
+}

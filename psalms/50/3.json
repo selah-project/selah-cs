@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Přijde náš Elohim a nebude mlčet, oheň před ním požírá a kolem něho se bouří zuřivě.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Přijde"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a nebude"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "mlčet"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "požírá"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "a kolem něho"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "se bouří"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zuřivě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:08.290628487Z",
+  "model": "glm-5.3"
+}

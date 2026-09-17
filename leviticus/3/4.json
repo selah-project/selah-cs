@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A ⟨את⟩ dvě ledviny, a ⟨את⟩ tuk, který je na nich, který je na bedrech, a ⟨את⟩ příplatek na játrech — na ledvinách jej odstraní.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dvě ledviny"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ledviny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tuk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "je na nich"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "bedrech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "příplatek"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "příplatek"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "játrech"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "ledvinách"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "jej odstraní"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:14.733424767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A vyšli muži Izraele z Micpy a pronásledovali ⟨את⟩ Pelištejce a zbili je až pod Bet-kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "A vyšli"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muži"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Micpy"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "a pronásledovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelištejce"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejce"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "a zbili je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kar"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:53.015523854Z",
+  "model": "glm-5.3"
+}

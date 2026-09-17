@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A postavíš ⟨את⟩ zlatý oltář pro kadidlo před Aron svědectví a pověsíš ⟨את⟩ závěs vchodu ⟨pro⟩ příbytek.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "postavíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlatý oltář"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatý"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "pro kadidlo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "pověsíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "závěs vchodu"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "závěs"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "⟨pro⟩ příbytek"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:26.368572721Z",
+  "model": "glm-5.3"
+}

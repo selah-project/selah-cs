@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Vymyl jsem tě vodou, spláchl jsem tvou krev z tebe a pomazal jsem tě olejem.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "Vymyl jsem tě"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vodou"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "spláchl jsem"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "tvou krev"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "z tebe"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "pomazal jsem tě"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olejem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:41:37.950532469Z",
+  "model": "glm-5.3"
+}

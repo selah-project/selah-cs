@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A šel Moše a promluvil tato slova ⟨את⟩ ke všemu Izraeli:",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a promluvil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tato slova"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "slova"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerému"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:32.460346959Z",
+  "model": "glm-5.3"
+}

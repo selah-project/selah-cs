@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A přivedeš ⟨את⟩ Árona a ⟨את⟩ jeho syny ke vchodu stanu setkávání, a umyješ ⟨את⟩ ⟨je⟩ vodou.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "a přivedeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Árona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho syny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho syny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "a umyješ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨je⟩",
+      "marks": "Árona a jeho syny"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vodou"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:17.654910250Z",
+  "model": "glm-5.3"
+}

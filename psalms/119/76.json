@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Kéž by tvé chesed ⟨přišlo⟩ k mé potěše, podle svého slova tvému služebníku — prosím.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Kéž by bylo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvé chesed"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "k mé potěše"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "podle svého slova"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "tvému služebníku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:14.591825998Z",
+  "model": "glm-5.3"
+}

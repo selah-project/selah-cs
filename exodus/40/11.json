@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A pomaeš ⟨את⟩ umyvadlo a ⟨את⟩ jeho podstavec, a zasvětíš ⟨את⟩ ⟨jej⟩.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "a pomaeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyvadlo"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umyvadlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho podstavec"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jeho podstavec"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "a zasvětíš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨jej⟩",
+      "marks": "umyvadlo i jeho podstavec"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:17.654680244Z",
+  "model": "glm-5.3"
+}

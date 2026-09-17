@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Budete jíst staré zásoby, velmi staré, a staré vynesete ven ⟨kvůli⟩ novému.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "budete jíst"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "staré"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "velmi staré"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "a staré"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kvůli \/ před"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novému"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "vynesete ven"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:38.651124368Z",
+  "model": "glm-5.3"
+}

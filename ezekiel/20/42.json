@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezekiel 20:42",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A poznáte, že já jsem Jahve, když vás uvedu ⟨את⟩ do půdy Izraele, do země, kterou jsem zvedl ⟨את⟩ svou ruku, abych ji dal ⟨את⟩ vašim otcům.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "a poznáte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהביאי",
+      "gloss": "když uvedu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vy (Izrael)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "půdy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "zvedl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "abych dal"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ji",
+      "marks": "ji (zemi)"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "vašim otcům"
+    }
+  ],
+  "timestamp": "2026-09-17T08:44:45.431059700Z",
+  "model": "glm-5.3"
+}

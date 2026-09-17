@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Řekněte ⟨o⟩ spravedlivém, že ⟨mu bude⟩ dobře, neboť plod svých skutků budou jíst.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Řekněte"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivém"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobře"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "plod"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "svých skutků"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "budou jíst"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:24.569035510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A řekl jsem andělu, který mluvil ve mně: Kam ty ⟨to⟩ nesou ⟨את⟩ efu?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "a řekl jsem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "andělovi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "který mluvil"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ve mně"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "nesou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    }
+  ],
+  "timestamp": "2026-09-17T09:06:56.001561479Z",
+  "model": "glm-5.3"
+}

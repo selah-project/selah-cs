@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "dědictví Izraeli, svému sluhovi, neboť na věky ⟨trvá⟩ jeho chesed.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "dědictví"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "svému sluhovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:11.024046814Z",
+  "model": "glm-5.3"
+}

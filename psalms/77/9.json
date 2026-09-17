@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Zdali zanikl navždy jeho chesed? Zdali skonila ⟨slova⟩ ⟨k⟩ pokolení a pokolení?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "zanikl"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "skonila"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨slova⟩"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "⟨k⟩ pokolení"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "a pokolení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:30.930350433Z",
+  "model": "glm-5.3"
+}

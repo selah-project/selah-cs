@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 138,
+  "translation": "Vzdávat ti budou dík, Jahve, všichni králové země, neboť slyšeli slova tvých úst.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Vzdávat ti budou dík"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králové"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slyšeli"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tvých úst"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:23.491314611Z",
+  "model": "glm-5.3"
+}

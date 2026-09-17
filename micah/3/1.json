@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl jsem: Slyšte nyní, hlavy Jákobovy a vladaři domu Izraele — zdaliž vám nenáleží znát ⟨את⟩ právo?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "A řekl jsem"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Slyšte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlavy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobovy"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "a vladaři"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "zdaliž ne"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "znát"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "právo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "právo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:02:52.040661592Z",
+  "model": "glm-5.3"
+}

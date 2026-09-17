@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "„Můj pane se ptal ⟨את⟩ svých otroků a řekl: Máte otce, nebo bratra?“",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Můj pane"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "se ptal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svých otroků"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svých otroků"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Máte-li"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "אב",
+      "gloss": "otce"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "אח",
+      "gloss": "bratra"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:35.458966354Z",
+  "model": "glm-5.3"
+}

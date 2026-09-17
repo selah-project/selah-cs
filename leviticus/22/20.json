@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Cokoli, v čem je vada, nepřinesete, neboť nebude vám to k přijetí.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Cokoli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v čem"
+    },
+    {
+      "surface": "מום",
+      "gloss": "je vada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "přinesete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "k přijetí"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:28.061615344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Milujte ⟨את⟩ Jahve, všichni jeho čestní! Věrné střeží Jahve a hojně odplácí tomu, kdo koná pýchu.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Milujte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "jeho čestní"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "Věrné"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "střeží"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "a hojně odplácí"
+    },
+    {
+      "surface": "על",
+      "gloss": "tomu, kdo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "hojně"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "koná"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "pýchu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:34.590874976Z",
+  "model": "glm-5.3"
+}

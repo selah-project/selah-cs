@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "⟨Jsi⟩ žena cizoložná: místo svého muže bereš ⟨את⟩ cizí!",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "cizoložná"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "svého muže"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "bereš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cizí"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "cizí"
+    }
+  ],
+  "timestamp": "2026-09-17T08:42:02.813410223Z",
+  "model": "glm-5.3"
+}

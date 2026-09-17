@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Stalo se, když lid táhl ze svých stanů, aby přešel ⟨את⟩ Jordán — a kněží nesoucí truhlu smlouvy ⟨šli⟩ před lidem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "se když táhl"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "ze svých stanů"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "aby přešel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "a kněží"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nesoucí"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "truhlu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:13.387740531Z",
+  "model": "glm-5.3"
+}

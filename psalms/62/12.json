@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "Jednou promluvil Elohim, dvakrát toto jsem slyšel: že moc ⟨patří⟩ Elohimovi.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Jednou"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvakrát"
+    },
+    {
+      "surface": "זו",
+      "gloss": "toto"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jsem slyšel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "עז",
+      "gloss": "moc"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimovi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:05.347730232Z",
+  "model": "glm-5.3"
+}

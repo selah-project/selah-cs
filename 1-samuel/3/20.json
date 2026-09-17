@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A vědělo celý Izrael od Danu až po Beer-šebu, že Samuel byl potvrzen ⟨jako⟩ prorok ⟨pro⟩ Jahveho.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "A vědělo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "od Danu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-šebu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "byl potvrzen"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "jako prorok"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T13:02:09.844877719Z",
+  "model": "glm-5.3"
+}

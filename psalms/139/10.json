@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "i tam mě povede tvá ruka a uchopí mě tvá pravice.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvá ruka"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "povede mě"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "a uchopí mě"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvá pravice"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:17.037876908Z",
+  "model": "glm-5.3"
+}

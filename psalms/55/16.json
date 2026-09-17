@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Zpustošení ať je na ně, ať živí sestoupí do šeolu, neboť zlo je v jejich příbytcích, v jejich středu.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "zpustošení"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "na ně"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ať sestoupí"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "v jejich příbytcích"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "v jejich středu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:51.671875626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Nezabíjej s kvašeným ⟨chní⟩ krev mé oběti a nezůstane do rána oběť svátku Pesach.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "nezabíjej"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kvašeným"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "mé oběti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "nezůstane"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "do rána"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "חג",
+      "gloss": "svátku"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    }
+  ],
+  "timestamp": "2026-09-17T11:43:17.311949275Z",
+  "model": "glm-5.3"
+}

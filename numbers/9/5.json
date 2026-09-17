@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 9:5",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A připravili ⟨את⟩ pesach v prvním měsíci, čtrnáctého dne měsíce, mezi večery, na poušti Sínaj; podle všeho, co přikázal Jahve Mojžíšovi ⟨את⟩, tak učinili synové Izraele.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "a připravili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "בראשון",
+      "gloss": "v prvním"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "čtrnáct"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-náct"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "večery"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sínaj"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učinili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:39.657638279Z",
+  "model": "glm-5.3"
+}

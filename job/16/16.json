@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 16:16",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Má tvář ⟨je⟩ zrudlá pláčem a na mých řasách ⟨leží⟩ stín smrti.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "má tvář"
+    },
+    {
+      "surface": "חמרמרה",
+      "gloss": "zrudlá ⟨je⟩"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "pláče"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "עפעפי",
+      "gloss": "mých řasách"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "stín smrti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:47:58.376759767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I řekl Jahve Mojžíšovi: Vejdi k faraónovi, neboť já jsem zatížil ⟨את⟩ jeho srdce a ⟨את⟩ srdce jeho služebníků, abych ustanovil tyto své znamení v jeho středu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Vejdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "jsem zatížil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho srdce"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jeho srdce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "srdce jeho služebníků"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeho služebníků"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abych"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ustanovil"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "svá znamení"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "v jeho středu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:26.238199360Z",
+  "model": "glm-5.3"
+}

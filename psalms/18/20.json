@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Vyvedl mě na šíré místo, vysvobodil mě, neboť ve mně měl zálibu.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "a vyvedl mě"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "na šíré místo"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "vysvobodil mě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "měl zálibu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ve mně"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:54.803237368Z",
+  "model": "glm-5.3"
+}

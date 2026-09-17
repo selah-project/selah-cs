@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Vyšel Chíram z Céru, aby viděl ⟨את⟩ města, která mu dal Šalomoun, a nebyla ⟨příjemná⟩ v jeho očích.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Vyšel"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chíram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "z Céru"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby viděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "města"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "města"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "nebyla ⟨příjemná⟩"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v jeho očích"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:18.168910184Z",
+  "model": "glm-5.3"
+}

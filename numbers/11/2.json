@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "I křičel lid k Mojžíšovi, a modlil se Mojžíš k Jahvemu, a uhasl ⟨ten⟩ oheň.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "i křičel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "a modlil se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "a uhasl"
+    },
+    {
+      "surface": "האש",
+      "gloss": "oheň"
+    }
+  ],
+  "timestamp": "2026-09-17T06:43:20.090719523Z",
+  "model": "glm-5.3"
+}

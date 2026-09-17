@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Jestliže ho nepošleš, nepůjdeme dolů; neboť ten muž nám řekl: Neuvidíte mou tvář, není-li váš bratr ⟨את⟩ s vámi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nepošleš-li"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "pošleš"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "půjdeme dolů"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ten muž"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "uvidíte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mou tvář"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "není-li"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "váš bratr"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ s vámi",
+      "marks": "s vámi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:54.525688533Z",
+  "model": "glm-5.3"
+}

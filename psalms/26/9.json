@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Neshromažďuj s hříšníky mou duši, ani s muži krve můj život.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "shromažďuj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "hříšníky"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mou duši"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ani s"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muži"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krve"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "můj život"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:21.557453782Z",
+  "model": "glm-5.3"
+}

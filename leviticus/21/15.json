@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A nebude své símě profanovat mezi svým lidem, neboť já, Jahve, ⟨jsem⟩ ten, kdo jej posvěcuje.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a nebude"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "profanovat"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "své símě"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "mezi svým lidem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "posvěcuje jej"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:40.154433660Z",
+  "model": "glm-5.3"
+}

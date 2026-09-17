@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 148,
+  "translation": "Chvalte jej, slunce a měsíci, chvalte jej, všechny hvězdy světla!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Chvalte jej"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "a měsíci"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chvalte jej"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "hvězdy"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:39.785266951Z",
+  "model": "glm-5.3"
+}

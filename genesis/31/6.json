@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Vy samy dobře víte, že vší silou jsem sloužil ⟨את⟩ vašemu otci.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "vy samy"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "víte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vší"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "silou"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "jsem sloužil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vašemu otci"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "vašemu otci"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:59.865838221Z",
+  "model": "glm-5.3"
+}

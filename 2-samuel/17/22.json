@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 17:22",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "I vstal David a veškeren lid, který ⟨את⟩ byl s ním, a přešli ⟨את⟩ Jordán; až do světla rána, dokud nezbyl jediný, jenž by nebyl přešel ⟨את⟩ Jordán.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "I vstal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a veškeren"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "a přešli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světla"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rána"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jediný"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "nezbyl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jenž"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "přešel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    }
+  ],
+  "timestamp": "2026-09-17T07:37:18.960895954Z",
+  "model": "glm-5.3"
+}

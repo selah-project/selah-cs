@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 54,
+  "translation": "Elohime, svým Jménem mě zachraň a svou mocí mě suď!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "svým Jménem"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "mě zachraň"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "a svou mocí"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "mě suď"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:52.283867570Z",
+  "model": "glm-5.3"
+}

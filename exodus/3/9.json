@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A nyní, hle, křik synů Izraele došel ⟨až⟩ ke mně; i viděl jsem ⟨את⟩ útlak, jímž Egyptští utlačují ⟨את⟩ je.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "křik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "באה",
+      "gloss": "došel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "viděl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "útlak"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "útlak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jímž"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptští"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "utlačují"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:24.532809963Z",
+  "model": "glm-5.3"
+}

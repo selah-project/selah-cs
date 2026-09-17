@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Nebudeš brát úrok svému bratru: úrok ze stříbra, úrok z pokrmu, úrok z každé věci, jež se dává na úrok.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "budeš brát úrok"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "svému bratru"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "úrok"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ze stříbra"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "úrok"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "z pokrmu"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "úrok"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každé"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "věci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "se dává na úrok"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:16.020997143Z",
+  "model": "glm-5.3"
+}

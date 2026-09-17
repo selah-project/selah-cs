@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 13:15",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A dočerpám ⟨את⟩ svůj hněv na zeď a na ty, kdo ji vyzdili, ⟨את⟩ nepálenou; a řeknu vám: Není zdi a nejsou těch, kdo ji vyzdili, ⟨את⟩ ⟨ničeho⟩.",
+  "tokens": [
+    {
+      "surface": "וכליתי",
+      "gloss": "A dočerpám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj hněv"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "svůj hněv"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "na zeď"
+    },
+    {
+      "surface": "ובטחים",
+      "gloss": "a na ty, kdo vyzdili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nepálenou (zeď)"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "nepálenou"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řeknu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Není"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "zdi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nejsou"
+    },
+    {
+      "surface": "הטחים",
+      "gloss": "těch, kdo vyzdili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "(pozdbytý objekt: ji)"
+    }
+  ],
+  "timestamp": "2026-09-17T08:40:53.169847975Z",
+  "model": "glm-5.3"
+}

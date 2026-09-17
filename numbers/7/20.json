@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "jednu zlatou lžíci o váze deseti ⟨šekelů⟩, plnou kadidla.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "lžíci"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deseti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatou"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "plnou"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadidla"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:54.295827167Z",
+  "model": "glm-5.3"
+}

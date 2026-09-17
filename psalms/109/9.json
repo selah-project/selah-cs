@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Ať jsou jeho synové sirotky a jeho žena vdovou.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ať jsou"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synové"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "sirotky"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "a jeho žena"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "vdovou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:25.041798336Z",
+  "model": "glm-5.3"
+}

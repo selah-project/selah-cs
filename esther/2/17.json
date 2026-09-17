@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 2:17",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A král si zamiloval ⟨את⟩ Ester nade všechny ženy, a našla přízeň a chesed před ním nade všechny panny; a vsadil korunu království na její hlavu a učinil ji vládkyní místo Vašti.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "a zamiloval si"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ester"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nade všechny"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "a našla"
+    },
+    {
+      "surface": "חן",
+      "gloss": "přízeň"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "a chesed"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nade všechny"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "pany"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a vsadil"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "korunu"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "království"
+    },
+    {
+      "surface": "בראשה",
+      "gloss": "na její hlavu"
+    },
+    {
+      "surface": "וימליכה",
+      "gloss": "a učinil ji vládkyní"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:16.610109806Z",
+  "model": "glm-5.3"
+}

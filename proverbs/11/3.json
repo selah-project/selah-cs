@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Nevinnost přímých povede je, a zprzewilost zrádců ⟨zničí⟩ je.",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "nevinnost"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "přímých"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "povede je"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "a zprzewilost"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "zrádců"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "⟨zničí⟩ je"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:58.741028356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Aram ⟨ze⟩ východu a Pelištejci ⟨ze⟩ západu, a požírali ⟨את⟩ Izraele celými ústy. Při všem tom se jeho hněv neodvrátil a jeho ruka jest stále vztýčená.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ze východu"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "a Pelištejci"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "ze západu"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "a požírali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "celými"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ústy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "při všem"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "odvrátil"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "jeho hněv"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "a stále"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jeho ruka"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "vztýčená"
+    }
+  ],
+  "timestamp": "2026-09-17T10:58:08.587189546Z",
+  "model": "glm-5.3"
+}

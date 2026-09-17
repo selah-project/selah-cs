@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A toto ⟨je⟩ potomstvo synů Noacha: Šém, Chám a Jáfet; a narodili se jim synové po potopě.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A toto"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "potomstvo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noacha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šém"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chám"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "a Jáfet"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "a narodili se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potopě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:40.203695500Z",
+  "model": "glm-5.3"
+}

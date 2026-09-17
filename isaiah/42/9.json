@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "První věci, hle, přišly, a nové věci já ohlašuji; dříve než vyklíčí, dám ⟨את⟩ vám ⟨je⟩ slyšet.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "První věci"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišly"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "a nové věci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ohlašuji"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dříve než"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "vyklíčí"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "dám slyšet"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vám",
+      "marks": "אתכם je tvar značky ⟨את⟩ s příponou 2. pl. — ukazuje na posluchače"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:51.317042325Z",
+  "model": "glm-5.3"
+}

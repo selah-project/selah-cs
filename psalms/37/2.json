@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Neboť jako tráva brzy ⟨budou⟩ usečeni a jako zelená bylina uvadnou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "jako tráva"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "brzy"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "budou usečeni"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "a jako zelená"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "bylina"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "uvadnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:21.582002346Z",
+  "model": "glm-5.3"
+}

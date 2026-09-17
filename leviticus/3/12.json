@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A je-li jeho obětí koza, přinese ji před Jahve.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a je-li"
+    },
+    {
+      "surface": "עז",
+      "gloss": "koza"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "jeho oběť"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "přinese ji"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:56.438921110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "Hučí, pění se jeho vody, hory se chvějí v jeho pýše. Séla.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "hučí"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "pění se"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "jeho vody"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "chvějí se"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hory"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "v jeho pýše"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:47.619150368Z",
+  "model": "glm-5.3"
+}

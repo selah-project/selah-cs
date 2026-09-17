@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 50:28",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Hlas uprchlíků a zachráněných ze země babylonské, aby ohlásili na Sionu ⟨את⟩ pomstu Jahve, našeho Elohim, pomstu jeho chrámu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Hlas"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "uprchlíků"
+    },
+    {
+      "surface": "ופלטים",
+      "gloss": "a zachráněných"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babylonské"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "aby ohlásili"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Sionu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pomstu"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "pomstu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "našeho Elohim"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "pomstu"
+    },
+    {
+      "surface": "היכלו",
+      "gloss": "jeho chrámu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:35:41.866393703Z",
+  "model": "glm-5.3"
+}

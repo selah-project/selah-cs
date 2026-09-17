@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 83,
+  "translation": "Elohime, nebuď mlčky tichý k ⟨sobě⟩, nezamlčuj se a neklidni, El!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "mlčky tichý"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k ⟨sobě⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "nezamlčuj se"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "neklidni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:59.920918384Z",
+  "model": "glm-5.3"
+}

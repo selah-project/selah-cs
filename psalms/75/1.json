@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 75,
+  "translation": "Pro vedoucího ⟨sboru⟩, „Nenič“ — ⟨je to⟩ žalm Asafovi, píseň.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro vedoucího ⟨sboru⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨éi⟩"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Nenič"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "žalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafovi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:44.719796258Z",
+  "model": "glm-5.3"
+}

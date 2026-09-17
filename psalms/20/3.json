@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Kéž pošle tvou pomoc z svatyně a z Cijonu tě podepře.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Kéž pošle"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "tvou pomoc"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "z svatyně"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "a z Cijonu"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "tě podepře"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:26.277535383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Běda těm, kteří říkají zlu „dobrý“ a dobru „zlý“; kladoucí tmu za světlo a světlo za tmu, kladoucí hořké za sladké a sladké za hořké.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "těm, kteří říkají"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "zlu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "„dobrý“"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "a dobru"
+    },
+    {
+      "surface": "רע",
+      "gloss": "„zlý“"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kladoucí"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tmu"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "za světlo"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "a světlo"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "za tmu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kladoucí"
+    },
+    {
+      "surface": "מר",
+      "gloss": "hořké"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "za sladké"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "a sladké"
+    },
+    {
+      "surface": "למר",
+      "gloss": "za hořké"
+    }
+  ],
+  "timestamp": "2026-09-17T08:02:54.971985789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "Jen v Elohim, duše má, mlči ⟨v klidu⟩; neboť od něho ⟨je⟩ má naděje.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "v Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "mlči"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše má"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od něho"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "má naděje"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:03.186968875Z",
+  "model": "glm-5.3"
+}

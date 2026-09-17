@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Odpověz hlupákovi podle jeho bláznovství, ať není moudrý ve vlastních očích!",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Odpověz"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "hlupákovi"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "podle jeho bláznovství"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ať (ne)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "není"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrý"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ve vlastních očích"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:20.032319610Z",
+  "model": "glm-5.3"
+}

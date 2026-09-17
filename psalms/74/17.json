@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Ty jsi vyznačil všechny meze ⟨země⟩; léto i zimu ty jsi učinil.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "jsi vyznačil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "meze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "léto"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "i zimu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "jsi je učinil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:42.404135156Z",
+  "model": "glm-5.3"
+}

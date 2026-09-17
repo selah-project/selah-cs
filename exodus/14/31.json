@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 14:31",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A viděl Jisra'el ⟨את⟩ velikou ruku, kterou učinil Jahve v Egyptě; a lid se bál ⟨את⟩ Jahve, a uvěřili v Jahve a v Mošeho, jeho sluhu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "A viděl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "velikou ruku"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "velikou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Egyptě"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "a bál se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמינו",
+      "gloss": "a uvěřili"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "a v Mošeho"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "jeho sluhu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:24.991561701Z",
+  "model": "glm-5.3"
+}

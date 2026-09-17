@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Šest let budeš sít své pole a šest let budeš zastřihávat svou vinici a sklidíš ⟨את⟩ její plody.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Šest"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "budeš sít"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "své pole"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "a šest"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "budeš zastřihávat"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "svou vinici"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "a sklidíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její plody"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "její plody"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:24.375786015Z",
+  "model": "glm-5.3"
+}

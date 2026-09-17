@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A uvidí-li kněz a hle, nákaza ztemněla poté, co byla vypere — ji vypere — ⟨את⟩, pak ⟨את⟩ ji vytne ze šatu, nebo z kůže, nebo z osnovy, nebo z útku.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A pokud"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "uvidí"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "ztemněla"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nákaza"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poté, co"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "byla vyprána"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nákazu (ji)"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "pak vytne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nákazu (ji)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "šatu"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kůže"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "osnovy"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "útku"
+    }
+  ],
+  "timestamp": "2026-09-17T13:40:50.837886635Z",
+  "model": "glm-5.3"
+}

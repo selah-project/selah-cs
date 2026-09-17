@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A zasáhnu ⟨את⟩ obyvatele ⟨toto⟩ město toto, i ⟨את⟩ člověka i ⟨את⟩ dobytek morem velkým zemřou.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "a zasáhnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obyvatele města tohoto"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "obyvatele"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "člověka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dobytka"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dobytka"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "morem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velkým"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "zemřou"
+    }
+  ],
+  "timestamp": "2026-09-17T08:25:40.279225223Z",
+  "model": "glm-5.3"
+}

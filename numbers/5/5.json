@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "I mluvil Jahve k Mojžíšovi, řka:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:36.719519633Z",
+  "model": "glm-5.3"
+}

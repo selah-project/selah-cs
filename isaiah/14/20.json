@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Nebudeš spojen ⟨את⟩ nimi v hrobě, neboť svou zemi jsi zničil, svůj lid jsi zabil; na věky nebude jmenováno semeno zločinců.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "budeš spojen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "nimi"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "v hrobě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "svou zemi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "jsi zničil"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "jsi zabil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bude jmenováno"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semeno"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zločinců"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:53.404348481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 26:34",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A Esav byl ve čtyřiceti letech a vzal si za ženu ⟨את⟩ Jehudit, dceru Be'eriho Chetejce, a ⟨את⟩ Bosmat, dceru Elona Chetejce.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A byl"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřiceti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehudit"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "Jehudit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "בארי",
+      "gloss": "Be'eriho"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetejce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "אילן",
+      "gloss": "Elona"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetejce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:59.494196299Z",
+  "model": "glm-5.3"
+}

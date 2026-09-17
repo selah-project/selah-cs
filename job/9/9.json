@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Který činí útvar (souhvězdí) Áš, Kesil i Kimu, a komnaty jihu.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "činí"
+    },
+    {
+      "surface": "עש",
+      "gloss": "Áš (Velká medvědice)"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "Kesil (Orion)"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "i Kimu (Plejády)"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "a komnaty"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "jihu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:15.298745798Z",
+  "model": "glm-5.3"
+}

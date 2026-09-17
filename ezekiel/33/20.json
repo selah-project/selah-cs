@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A říkáte: ‚Není vyvážena cesta Adonaje.‘ Každého podle jeho cest ⟨těm⟩ všem ⟨z⟩ domu Izraele budu soudit ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "A říkáte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "je vyvážena"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cesta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Každého"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "podle jeho cest"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "budu soudit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "vous — domu Izraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T08:48:58.737483943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 14:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A vrátily se vody a přikryly ⟨את⟩ vozatajstvo i ⟨את⟩ jezdce, celou sílu faraonovou, kteří vstupovali za nimi do moře; nezůstal v nich ani jeden.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "A vrátily se"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "a přikryly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vozatajstvo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vozatajstvo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jezdce"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "jezdce"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sílu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonovou"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "kteří vstupovali"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "za nimi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "do moře"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "zůstal"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:25.232752070Z",
+  "model": "glm-5.3"
+}

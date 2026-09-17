@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A sloužili synové Izraele ⟨את⟩ Eglonovi, králi Moábu, osmnáct let.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "A sloužili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglonovi"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglonovi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábu"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "osm"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na\/-náct"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    }
+  ],
+  "timestamp": "2026-09-17T07:13:57.495296381Z",
+  "model": "glm-5.3"
+}

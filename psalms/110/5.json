@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 110,
+  "translation": "Adonaj po tvé pravici drtí krále v den svého hněvu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvé pravici"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "drtí"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "svého hněvu"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "krále"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:22.924339642Z",
+  "model": "glm-5.3"
+}

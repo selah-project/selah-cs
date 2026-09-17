@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A mluvil ke svým synům a řekl: Ošedlejte mi ⟨את⟩ osla. A osedlali ⟨ho⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "svým synům"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "ošedlejte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osla"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "osla"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "a osedlali"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:15.762072637Z",
+  "model": "glm-5.3"
+}

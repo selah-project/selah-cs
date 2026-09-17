@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Kdo zlořečí svému otci i matce, jeho lampa pohasne v černosti tmy.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "Kdo zlořečí"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svému otci"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "i matce"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "pohasne"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "jeho lampa"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "v černosti"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tmy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:48.824195812Z",
+  "model": "glm-5.3"
+}

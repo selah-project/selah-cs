@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Ještě navíc mi toto udělaly: znesvěcily ⟨את⟩ svatyni mou v ten den ⟨tento⟩, a ⟨את⟩ mé šabaty zprofanovaly.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ještě navíc"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "udělaly"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "znesvěcily"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svatyni mou"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "svatyni mou"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ten ⟨tento⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mé šabaty"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "mé šabaty"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "zprofanovaly"
+    }
+  ],
+  "timestamp": "2026-09-17T08:45:32.891484352Z",
+  "model": "glm-5.3"
+}

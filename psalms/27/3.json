@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "I kdyby proti mně utábořil ⟨a⟩ tábor, mé srdce se nezalekne; kdyby proti mně vypukla válka, i v tom doufám.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "i kdyby"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "utábořil"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "zalekne se"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kdyby"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "vypukla"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "válka"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "v tom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já ⟨i⟩"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "doufám"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:37.168336777Z",
+  "model": "glm-5.3"
+}

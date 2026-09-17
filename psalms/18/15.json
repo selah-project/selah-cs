@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A vyslal ⟨své⟩ šípy a rozehnal je, a blesky v množství ⟨a⟩ zahnal je.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a vyslal"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "šípy ⟨své⟩"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "a rozehnal je"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "a blesky"
+    },
+    {
+      "surface": "רב",
+      "gloss": "v množství"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "zahnal je"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:28.505022311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A řekli k němu všichni starší a všechen lid: Neposlouchej a nechť nedá ⟨souhlas⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starší"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "poslouchej"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "nechť dá ⟨souhlas⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:40.932357146Z",
+  "model": "glm-5.3"
+}

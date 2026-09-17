@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Říká ⟨ten, kdo říká⟩ bezbožnému: ‚Spravedlivý jsi‘ — lidé ho proklínají, kmeny se na něj hněvají.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Říká"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "bezbožnému"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Spravedlivý"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "proklínají ho"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "lidé"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "hněvají se na něj"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kmeny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:58.265207136Z",
+  "model": "glm-5.3"
+}

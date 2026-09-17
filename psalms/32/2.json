@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Jak šťastný je člověk, kterému Jahve nepočítá vinu a v jehož duchu není lsti!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "jak šťastný"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "počítá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kterému"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vinu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "v jeho duchu"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "lsti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:12.127010910Z",
+  "model": "glm-5.3"
+}

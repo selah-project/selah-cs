@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Čas rozházet kameny a čas kameny shromáždit; čas obejmout a čas dál se vzdálit od objetí.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "rozházet"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a čas"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "shromáždit"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "obejmout"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a čas"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "se vzdálit"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "od objetí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:23.594584732Z",
+  "model": "glm-5.3"
+}

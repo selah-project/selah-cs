@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Všechno kvašené nebudete jíst; ve všech svých sídlech budete jíst nekvašené chleby.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "kvašené"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "budete jíst"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všech"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "svých sídlech"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "budete jíst"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "nekvašené chleby"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:20.594454318Z",
+  "model": "glm-5.3"
+}

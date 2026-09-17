@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Kdo vydechuje věrnost, oznamuje právo, ⟨ale⟩ svědek lží ⟨vydechuje⟩ klam.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "vydechuje"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "věrnost"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "oznamuje"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "právo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a svědek"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "lží"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "klam"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:47.950714392Z",
+  "model": "glm-5.3"
+}

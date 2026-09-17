@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Pro předního zpěváka, synům Korachovým, maskil.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro předního zpěváka"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachovým"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil (poučné básni)"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:56.064934966Z",
+  "model": "glm-5.3"
+}

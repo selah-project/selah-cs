@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Naslouchněte, nebesa, a já promluvím, a slyš, země, slova mých úst.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Naslouchněte"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "a já promluvím"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "a slyš"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mých úst"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:27.011389869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Lepší je plná dlaň s odpočinkem než dvě plné hrsti s námahou a útrapou ducha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Lepší je"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plná"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dlaň"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "s odpočinkem"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "než plné"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "hrsti"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "s námahou"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "a útrapou"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:40.419925166Z",
+  "model": "glm-5.3"
+}

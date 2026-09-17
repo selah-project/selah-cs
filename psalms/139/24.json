@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "a viz, jestli ve mně je cesta bolesti ⟨nevěst⟩, a veď mě cestou věčnou.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "a viz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestli"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cesta"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "bolesti ⟨nevěst⟩"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ve mně"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "a veď mě"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věčnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:32.996811732Z",
+  "model": "glm-5.3"
+}

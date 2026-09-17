@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Neboť vaše oči ⟨jsou⟩ ty, které viděly ⟨את⟩ veškeré veliké dílo Jahve, které učinil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "vaše oči"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "viděly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškeré veliké dílo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:27.874738735Z",
+  "model": "glm-5.3"
+}

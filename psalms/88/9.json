@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Vzdálils moje známé ⟨ode mě⟩, postavil jsi mě jim jako ohavnost; ⟨jsem⟩ zavřen a nevyjdu.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "Vzdálils"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "moje známé"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mě"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "postavil jsi mě"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "jako ohavnost"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jim"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "zavřen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "vyjdu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:29.613795957Z",
+  "model": "glm-5.3"
+}

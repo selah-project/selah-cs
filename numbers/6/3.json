@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Od vína a opojného nápoje se zdrží; ocet z vína a ocet z opojného nápoje nesmí pít, a žádnou maceraci hroznů nesmí pít; a hrozny čerstvé i sušené nesmí jíst.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "Od vína"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "a opojného nápoje"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "se zdrží"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ocet"
+    },
+    {
+      "surface": "יין",
+      "gloss": "z vína"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "a ocet"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "z opojného nápoje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "smí pít"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a žádnou"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "maceraci"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "hroznů"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "smí pít"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "a hrozny"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "čerstvé"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "i sušené"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smí jíst"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:49.961006643Z",
+  "model": "glm-5.3"
+}

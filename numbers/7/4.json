@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A řekl Jahve Mojžíšovi, řka:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi (k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:39.826461304Z",
+  "model": "glm-5.3"
+}

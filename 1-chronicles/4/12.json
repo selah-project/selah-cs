@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Ešton zplodil ⟨את⟩ Bet-Ráfa, ⟨a⟩ ⟨את⟩ Páseacha a ⟨את⟩ Techinu, otce města Nachaše; to jsou muži Rechy.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "A Ešton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Ráfa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Ráfa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Páseacha"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Páseacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Techinu"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Techinu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otce"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nachaše"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "to jsou"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muži"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rechy"
+    }
+  ],
+  "timestamp": "2026-09-17T10:16:30.837298878Z",
+  "model": "glm-5.3"
+}

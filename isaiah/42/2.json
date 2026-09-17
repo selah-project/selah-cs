@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Nebude křičet, ani pozvedne ⟨svůj hlas⟩, ani nedá venku zaznít svému hlasu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nebude"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "křičet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "pozvedne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani ne"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "dá zaznít"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "venku"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "svému hlasu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:52.275368376Z",
+  "model": "glm-5.3"
+}

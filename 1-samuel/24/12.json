@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 24:12",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A otče můj, pohleď — ano, pohleď na ⟨את⟩ cíp svého pláště v mé ruce — neboť jsem odřízl ⟨את⟩ cíp tvého pláště, ale nezabil jsem tě. Poznej a viz, že v mé ruce není zlo ani přestoupení, a nehřešil jsem proti tobě; ty však lovíš ⟨את⟩ mou duši, abys ji vzal.",
+  "tokens": [
+    {
+      "surface": "ואבי",
+      "gloss": "a otče můj"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pohleď"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ano"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pohleď"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cíp svého pláště"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "cíp"
+    },
+    {
+      "surface": "מעילך",
+      "gloss": "svého pláště"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "v mé ruce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בכרתי",
+      "gloss": "odřízl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cíp tvého pláště"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "cíp"
+    },
+    {
+      "surface": "מעילך",
+      "gloss": "tvého pláště"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "הרגתיך",
+      "gloss": "zabil jsem tě"
+    },
+    {
+      "surface": "דע",
+      "gloss": "poznej"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a viz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "v mé ruce"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "ani přestoupení"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "hřešil jsem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "proti tobě"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ty však"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "lovíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou duši"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mou duši"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "abys ji vzal"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:46.928755526Z",
+  "model": "glm-5.3"
+}

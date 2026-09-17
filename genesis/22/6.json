@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A vzal Abraham ⟨את⟩ dřeva ⟨k⟩ zápalné oběti a položil je na Izáka, svého syna; a vzal do své ruky ⟨את⟩ oheň a ⟨את⟩ nůž, a šli oba společně.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dřeva"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dřeva"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalné oběti"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a položil"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Izáka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "do své ruky"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oheň"
+    },
+    {
+      "surface": "האש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "nůž"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "nůž"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "a šli"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "společně"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:31.703140791Z",
+  "model": "glm-5.3"
+}

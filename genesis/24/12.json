@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 24:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A řekl: Jahve, Elohim pána mého Abrahama, učiň, prosím, aby ⟨mi⟩ dnešního dne <někdo> vyšel vstříc ⟨před mou tvář⟩, a prokaž chesed s panem mým Abrahámem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pána"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "mého Abrahama"
+    },
+    {
+      "surface": "הקרה",
+      "gloss": "učiň, aby ⟨mi⟩ <někdo> vyšel vstříc"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨před mou tvář⟩"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnešního dne"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a prokaž"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "panem"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "mým Abrahámem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:23.164977134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A Mojžíš zapsal ⟨את⟩ jejich vycházení podle jejich tašení ⟨na⟩ příkaz Jahveho; a toto ⟨jsou⟩ jejich tašení podle jejich vycházení.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "A zapsal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich vycházení"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "jejich vycházení"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "podle jejich tašení"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "příkaz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "jejich tašení"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "podle jejich vycházení"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:00.010711466Z",
+  "model": "glm-5.3"
+}

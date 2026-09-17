@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A Novach šel a dobyl ⟨את⟩ Kenat ⟨את⟩ i jeho dcery ⟨osady⟩, a nazval ⟨ho⟩ Novach, podle svého jména.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "A Novach"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a dobyl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ i",
+      "marks": "jeho dcery"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "jeho dcery"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ho⟩"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novach"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "podle svého jména"
+    }
+  ],
+  "timestamp": "2026-09-17T06:50:27.098927820Z",
+  "model": "glm-5.3"
+}

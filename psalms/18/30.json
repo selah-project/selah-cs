@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Neboť skrze tebe proběhnu ⟨oddílem⟩, a skrze mého Elohim přeskočím zeď.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "בך",
+      "gloss": "skrze tebe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "proběhnu"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "oddílem"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "a skrze mého Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "přeskočím"
+    },
+    {
+      "surface": "שור",
+      "gloss": "zeď"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:04.824214683Z",
+  "model": "glm-5.3"
+}

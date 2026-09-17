@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A Jišmael, jeho syn, byl ve třinácti letech, když byl obřezán ⟨את⟩ tělo své předkožky.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "A Jišmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syn"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ve věku"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tří"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deseti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "když byl obřezán"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tělo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tělo"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "své předkožky"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:28.200871173Z",
+  "model": "glm-5.3"
+}

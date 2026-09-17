@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neboť útlak přivádí moudrého k šílenství a dar ničí ⟨את⟩ srdce.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "útlak"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "přivádí k šílenství"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrého"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "a ničí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "dar"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:31.507950559Z",
+  "model": "glm-5.3"
+}

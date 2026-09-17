@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 83,
+  "translation": "Proti tvému lidu kují lstivé zádumy a radí se proti tvým ukrytým ⟨věrným⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Proti"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvému lidu"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "kují lstivé"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "zádumy"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "a radí se"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "tvým ukrytým ⟨věrným⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:59.921237096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Vidí ⟨to⟩ pokorní, radují se; hledající Elohim — a vaše srdce ať ožije.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "vidí"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pokorní"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "radují se"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "hledající"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "a ať ožije"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "vaše srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:07.853867265Z",
+  "model": "glm-5.3"
+}

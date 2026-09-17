@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "⟨את⟩ dva vozy a ⟨את⟩ čtyři kusy skotu dal synům Geršóna, podle jejich služby.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dva vozy"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dva"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "vozy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "čtyři kusy skotu"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kusy skotu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Geršóna"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "podle"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "jejich služby"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:57.658021663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 4:11",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "oč spíše, když ničemní muži zabili ⟨את⟩ spravedlivého muže v jeho domě na jeho lůžku — a nyní, zda nebudu žádat ⟨את⟩ jeho krev z vaší ruky a nevyhubím ⟨את⟩ vás z ⟨té⟩ země?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "oč spíše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "muži"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ničemní"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "zabili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spravedlivého muže"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivého"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "v jeho domě"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "jeho lůžku"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "zda ne"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "budu žádat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho krev"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jeho krev"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "z vaší ruky"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "a nevyhubím"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:55.951882227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Hřímá na moře a vysušuje je, a všechny řeky zpráhdlává: vadne Başán i Karmel, a květ Libanonu vadne.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "Hřímá"
+    },
+    {
+      "surface": "בים",
+      "gloss": "na moře"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "a vysušuje je"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechny"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "řeky"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "zpráhdlává"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "vadne"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Başán"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "i Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "a květ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanonu"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "vadne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:04:39.316478247Z",
+  "model": "glm-5.3"
+}

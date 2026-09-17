@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Ze všech čistých zvířat si vezmi po sedmi, sedmi, samce a jeho samici; a ze zvířat, která nejsou čistá, po dvou, samce a jeho samici.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zvířat"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "čistých"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vezmi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "po sedmi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sedmi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samce"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "a jeho samici"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a ze"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zvířat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "jsou čistá"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ta⟩"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "po dvou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samce"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "a jeho samici"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:38.063783915Z",
+  "model": "glm-5.3"
+}

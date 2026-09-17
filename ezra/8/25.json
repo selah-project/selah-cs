@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A zvážil jsem jim ⟨את⟩ stříbro, ⟨את⟩ zlato a ⟨את⟩ nádoby — obětinu domu našeho Elohima, kterou vztyčili král i jeho radci, jeho knížata a celý Izrael, ti, kdo se tam našli.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "A zvážil jsem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stříbro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zlato"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "nádoby"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "nádoby"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "obětinu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "našeho Elohima"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "kterou vztyčili"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "i jeho radci"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "jeho knížata"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ti, kdo se tam našli"
+    }
+  ],
+  "timestamp": "2026-09-17T10:09:58.745735158Z",
+  "model": "glm-5.3"
+}

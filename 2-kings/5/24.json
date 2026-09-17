@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A přišel na ⟨vyvýšeninu⟩ a vzal to z jejich ruky, a uložil ⟨to⟩ v domě; a propustil ⟨את⟩ ty muže, a odešli.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "A přišel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "⟨vyvýšeninu⟩"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "z jejich ruky"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "a uložil"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a propustil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty muže"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ty muže"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "a odešli"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:20.618963880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Proklet ⟨ten, kdo⟩ leží se ženou svého otce, neboť odkryl okraj ⟨roucha⟩ svého otce; a řekne veškerý lid: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "leží"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženou"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "odkryl"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "okraj ⟨roucha⟩"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řekne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerý"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:18.473855171Z",
+  "model": "glm-5.3"
+}

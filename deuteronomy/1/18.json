@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A přikázal jsem ⟨את⟩ vám v ⟨ten⟩ čas ⟨את⟩ všechny věci, které máte činit.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "A přikázal jsem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vám"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "v čase"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny věci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "věci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "máte činit"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:26.155229446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A žáby odstraněny ⟨budou⟩ od tebe a z tvých domů, od tvých sloužících a od tvého lidu — jenom v řece zůstanou.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "a odstraněny ⟨budou⟩"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "žáby"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "a z tvých domů"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "od tvých sloužících"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "a od tvého lidu"
+    },
+    {
+      "surface": "רק",
+      "gloss": "jenom"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "v řece"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "zůstanou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:40.822282903Z",
+  "model": "glm-5.3"
+}

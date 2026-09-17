@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Ten den ať ⟨je⟩ tma; ať ho Eloah nevyhledává shora, ať nad ním nezasvítí svit dne.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Ten den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ať ⟨je⟩"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "vyhledává ho"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "shora"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ať ne"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "zasvítí"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad ním"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "svit dne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:13.399418413Z",
+  "model": "glm-5.3"
+}

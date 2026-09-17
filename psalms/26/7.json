@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "aby zněl hlas díkůčinění a abych vyprávěl všechna tvá podivuhodná díla.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "aby zněl"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "díkůčinění"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "a abych vyprávěl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tvá podivuhodná díla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:36.372727350Z",
+  "model": "glm-5.3"
+}

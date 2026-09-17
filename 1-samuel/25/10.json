@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Nábal odpověděl ⟨את⟩ služebníky Davidovy a řekl: Kdo je David a kdo syn Jišajův? Dnes se rozmnožili sluhové, kteří se vymykají, každý před pánem svým.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "odpověděl"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nábal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "služebníky Davidovy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služebníky"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "je David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a kdo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišajův"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "se rozmnožili"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sluhové"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "kteří se vymykají"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "pánem svým"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:55.409969088Z",
+  "model": "glm-5.3"
+}

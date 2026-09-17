@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 92,
+  "translation": "Ještě v šedinách ponesou plod; tuční a svěží budou.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Ještě"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "ponesou plod"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "v šedinách"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "tuční"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "a svěží"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "budou"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:06.967561958Z",
+  "model": "glm-5.3"
+}

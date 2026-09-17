@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zephaniah 1:14",
+  "book": "zephaniah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Blízko je den Jahve, ⟨ten⟩ veliký, blízko a velice se blíží; hlas dne Jahve — hořce tam křičí ⟨i⟩ hrdina.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Blízko"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "blízko"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "a spěchá"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velice"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מר",
+      "gloss": "hořce"
+    },
+    {
+      "surface": "צרח",
+      "gloss": "křičí"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hrdina"
+    }
+  ],
+  "timestamp": "2026-09-17T09:05:48.830709346Z",
+  "model": "glm-5.3"
+}

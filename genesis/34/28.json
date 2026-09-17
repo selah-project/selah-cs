@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "⟨את⟩ jejich stáda ovcí a ⟨את⟩ jejich skot a ⟨את⟩ jejich osly i ⟨את⟩ to, co ⟨bylo⟩ ve městě, a ⟨את⟩ to, co ⟨bylo⟩ na poli, vzali.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich stáda ovcí"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "jejich stáda ovcí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jejich skot"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "jejich skot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jejich osly"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "jejich osly"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "to, co ve městě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "to, co na poli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "vzali"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:33.289289250Z",
+  "model": "glm-5.3"
+}

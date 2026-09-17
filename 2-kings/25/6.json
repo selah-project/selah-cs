@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A zajali ⟨את⟩ krále a přivedli ⟨את⟩ ho ke králi Babylónu do Rivly; a mluvili s ním ⟨את⟩ soudu.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "a zajali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "a přivedli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "do Rivly"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "a mluvili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "s ním"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "soudu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:53.833567968Z",
+  "model": "glm-5.3"
+}

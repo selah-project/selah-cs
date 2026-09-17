@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Juda pak táhl proti Kenaanci, který sídlil v Chevronu — Chevron se dříve jmenoval Kirjat-Arba — a porazili ⟨את⟩ Šešaje, ⟨ואת⟩ Achimana a ⟨ואת⟩ Talaje.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "táhl"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanci"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "který sídlil"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "v Chevronu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jménem"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevronu"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "dříve"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "a porazili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šešaje"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Šešaje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Achimana"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achimana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "Talaje"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talaje"
+    }
+  ],
+  "timestamp": "2026-09-17T07:11:56.638784Z",
+  "model": "glm-5.3"
+}

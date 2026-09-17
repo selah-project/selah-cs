@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 46:24",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "I řekl mi: „Toto je dům vařících, kde budou vařit tam služebníci domu ⟨את⟩ oběti lidu.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "toto je"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "המבשלים",
+      "gloss": "vařících"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "budou vařit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "služebníci"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oběti lidu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběti"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:54:12.697066699Z",
+  "model": "glm-5.3"
+}

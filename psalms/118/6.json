@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Jahve ⟨je⟩ se mnou, nebudu se bát — co mi učiní člověk?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨je⟩ se mnou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "budu se bát"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "učiní"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:18.924394298Z",
+  "model": "glm-5.3"
+}

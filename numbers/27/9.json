@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A jestliže není ⟨má⟩ dceru, dáte ⟨את⟩ jeho dědictví jeho bratrům.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "dáte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho dědictví"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "jeho dědictví"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "jeho bratrům"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:35.541343133Z",
+  "model": "glm-5.3"
+}

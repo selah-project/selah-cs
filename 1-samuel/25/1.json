@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A zemřel Šmuel, a shromáždil se celý Izrael a naříkali nad ním, a pochovali ho v jeho domě v Rámě. A vstal David a sestoupil k poušti Parán.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "A zemřel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuel"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "shromáždil se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "naříkali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nad ním"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "pochovali ho"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "v jeho domě"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "v Rámě"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "A vstal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a sestoupil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "poušti"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Parán"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:26.367265504Z",
+  "model": "glm-5.3"
+}

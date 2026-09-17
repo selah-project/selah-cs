@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A skotu nebo selu — ⟨את⟩ jeho i ⟨את⟩ jeho mládě neporcujete v jednom dni.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "A skotu"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "שה",
+      "gloss": "selu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho mládě"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho mládě"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "porcujete"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v jednom dni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednom"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:32.321172250Z",
+  "model": "glm-5.3"
+}

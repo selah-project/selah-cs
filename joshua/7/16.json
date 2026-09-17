@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A Jozue vstal časně ráno a přiblížil ⟨את⟩ Izraele podle jeho kmenů; a byl zajmut kmen Judův.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "vstal časně"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "a přiblížil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "podle jeho kmenů"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a byl zajmut"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kmen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judův"
+    }
+  ],
+  "timestamp": "2026-09-17T07:07:05.505013662Z",
+  "model": "glm-5.3"
+}

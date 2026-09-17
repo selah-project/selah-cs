@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "K vám, muži, volám, a můj hlas ⟨zní⟩ k synům člověka.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "k vám"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "muži"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "volám"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "a můj hlas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:15.828936630Z",
+  "model": "glm-5.3"
+}

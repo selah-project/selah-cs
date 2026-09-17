@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 75,
+  "translation": "Vyznáváme ⟨ti⟩, Elohime, vyznáváme ⟨ti⟩, a blízké ⟨je⟩ tvé jméno; vyprávějí tvé divy.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "vyznáváme"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "vyznáváme"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "a blízké ⟨je⟩"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "vyprávějí"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tvé divy"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:45.164113830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Viděl jsi, Jahve, ne mlč; Adonaj, nevzdaluj se ode mne.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Viděl jsi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "mlč"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "nevzdaluj se"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:42.922292719Z",
+  "model": "glm-5.3"
+}

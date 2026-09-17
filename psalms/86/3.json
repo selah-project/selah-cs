@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 86,
+  "translation": "Smiluj se nade mnou, Adonaj, neboť k tobě volám celý den.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Smiluj se nade mnou"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "volám"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:14.692637361Z",
+  "model": "glm-5.3"
+}

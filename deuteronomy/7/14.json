@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Požehnaný budeš nade všechny národy; nebude v tobě neplodného muže ani neplodná žena ⟨ani⟩ ve tvém dobytku.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Požehnaný"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "budeš"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nade všechny"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebude"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨nebude⟩ — totéž sloveso"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "neplodného muže"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ani neplodná žena"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "ve tvém dobytku"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:19.300617275Z",
+  "model": "glm-5.3"
+}

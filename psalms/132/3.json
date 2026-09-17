@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 132,
+  "translation": "Nevejdu-li do stanu svého domu, nevystoupím-li na lože své postele —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Nevejdu-li"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "vejdu"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "do stanu"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "svého domu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nevystoupím-li"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "vystoupím"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "lože"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "své postele"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:18.798667059Z",
+  "model": "glm-5.3"
+}

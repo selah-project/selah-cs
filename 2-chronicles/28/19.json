@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 28:19",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Neboť Jahve ponížil ⟨את⟩ Judu kvůli Achazovi, králi izraelskému, protože se v Judě řídil bezuzdně a těžce se previnil proti Jahvemu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הכניע",
+      "gloss": "ponížil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achazovi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "izraelskému"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "הפריע",
+      "gloss": "řídil se bezuzdně"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "v Judě"
+    },
+    {
+      "surface": "ומעול",
+      "gloss": "a těžce se previnil"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "vinou"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "proti Jahvemu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:30:40.962362385Z",
+  "model": "glm-5.3"
+}

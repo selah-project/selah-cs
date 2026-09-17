@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A David vstal časně ráno, a nechal ⟨את⟩ stádo dozorci, a vzal a šel, jak mu přikázal Jishai; a přišel k vozovému valu, a vojsko, které vycházelo k šiku, a hlučelo v boji.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "vstal časně"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "a nechal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stádo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stádo"
+    },
+    {
+      "surface": "על",
+      "gloss": "dozorci"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "dozorci"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "mu přikázal"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jishai"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "k vozovému valu"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "a vojsko"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "které vycházelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "šiku"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "hlučelo"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "v boji"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:14.240351689Z",
+  "model": "glm-5.3"
+}

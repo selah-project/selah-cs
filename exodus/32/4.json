@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A vzal ⟨to⟩ z jejich rukou a utvořil ⟨את⟩ to rydlem a udělal z ⟨toho⟩ litého býčka; a řekli: Toto ⟨jsou⟩ tví Elohim, Izraeli, kteří tě vyvedli ze země egyptské.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "A vzal"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "z jejich rukou"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "a utvořil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ to",
+      "marks": "to (zlaté předměty)"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "rydlem"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "a udělal z toho"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "býčka"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "litého"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tví Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "tě vyvedli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptské"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:36.066319110Z",
+  "model": "glm-5.3"
+}

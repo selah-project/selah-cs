@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Rozdrcenou třtinu nepoláme a kahán doutnající nehasí; podle pravdy vynese právo.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "třtinu"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "Rozdrcenou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "poláme"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "a kahán"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "doutnající"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "hasí"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "podle pravdy"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "vynese"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "právo"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:52.275511004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 10:5",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I oznámili to Davidovi, a on poslal ⟨k nim⟩ vstříc, protože mužové byli velice zahanbeni; a král řekl: „Zůstaňte v Jerichu, dokud vám nevyroste vous, a pak se vraťte.“",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "I oznámili"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "vstříc jim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mužové"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "zahanbeni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velice"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "zůstaňte"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "v Jerichu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "nevyroste"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "váš vous"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "a pak se vraťte"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:19.374227198Z",
+  "model": "glm-5.3"
+}

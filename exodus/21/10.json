@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Jestliže si vezme jinou ⟨ženu⟩, její potravu, její oděv a její manželské právo nesmí zkrátit.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "jinou"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "si vezme"
+    },
+    {
+      "surface": "לו",
+      "gloss": "si"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "její potravu"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "její oděv"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "a její manželské právo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "zkrátit"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:41.912864963Z",
+  "model": "glm-5.3"
+}

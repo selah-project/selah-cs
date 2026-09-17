@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A Jahve, tvůj Elohim, obrátí ⟨את⟩ všechny tyto kletby na tvé nepřátele a na ty, kdo tě nenávidí, kteří tě pronásledovali.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "obrátí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny tyto kletby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "kletby"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tvé nepřátele"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ty, kdo tě nenávidí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "tě pronásledovali"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:08.962191441Z",
+  "model": "glm-5.3"
+}

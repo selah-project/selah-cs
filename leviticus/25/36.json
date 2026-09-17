@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Neber od ⟨את⟩ něj úrok ani přirážku, a boj se svého Elohima, ať tvůj bratr žije s tebou.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "neber"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "úrok"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "ani přirážku"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "a boj se"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ať žije"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvůj bratr"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:51.611410553Z",
+  "model": "glm-5.3"
+}

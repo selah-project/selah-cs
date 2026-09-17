@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Davidův. Pře se, Jahve, s ⟨את⟩ mými protivníky, bojuj s ⟨את⟩ těmi, kdo bojují proti mně.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Pře se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mými protivníky"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "mými protivníky"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bojuj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "těmi, kdo bojují proti mně"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "těmi, kdo bojují proti mně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:11.560309773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 2:3",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I šla, přišla a sbírala na poli za ženci; a stalo se jí náhodou, že ⟨to byla⟩ část pole patřící Boazovi, který ⟨byl⟩ z čeledi Elimelechovy.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "i šla"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "přišla"
+    },
+    {
+      "surface": "ותלקט",
+      "gloss": "a sbírala"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "הקצרים",
+      "gloss": "ženci"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "a stalo se (náhodou)"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "náhoda"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "část"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Boazovi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "z čeledi"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelechovy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:56:12.894798833Z",
+  "model": "glm-5.3"
+}

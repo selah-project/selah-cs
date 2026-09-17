@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "pak dám vaše deště ve ⟨jejich⟩ čase a země dá svou úrodu a strom pole dá svůj plod.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "pak dám"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "vaše deště"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ve jejich čase"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "a dá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "svou úrodu"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "a strom"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "svůj plod"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:48.528552218Z",
+  "model": "glm-5.3"
+}

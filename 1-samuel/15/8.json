@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A zajal ⟨את⟩ Agaga, krále Amaleka, živého, a ⟨את⟩ všechen lid vyhubil ostrým mečem.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "zajal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agaga"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agaga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živého"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechen lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "vyhubil"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostrým"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mečem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:19.917358929Z",
+  "model": "glm-5.3"
+}

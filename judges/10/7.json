@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I vzplál hněv Jahve proti Izraeli, a prodal je do ruky Pelištejců a do ruky synů Amonu.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "a vzplál"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněv (nos)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "proti Izraeli"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "a prodal je"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "do ruky"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejců"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "a do ruky"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:16:01.528938963Z",
+  "model": "glm-5.3"
+}

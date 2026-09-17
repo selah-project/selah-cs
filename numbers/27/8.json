@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 27:8",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A synům Izraele promluvíš: Když muž zemře a nebude mít syna, převedete ⟨את⟩ jeho dědictví na jeho dceru.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "A synům"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "promluvíš"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨takto⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "a syna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nebude mít"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "והעברתם",
+      "gloss": "převedete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho dědictví"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "jeho dědictví"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "na jeho dceru"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:51.201779055Z",
+  "model": "glm-5.3"
+}

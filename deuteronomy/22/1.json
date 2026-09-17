@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Neuzříš ⟨את⟩ volu svého bratra ani ⟨את⟩ jeho ovci zbloudilé a skryješ se před nimi — navracející navrátíš je svému bratru.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uzríš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "volu svého bratra"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vol"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "svého bratra"
+    },
+    {
+      "surface": "או",
+      "gloss": "ani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho ovci zbloudilé"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "jeho ovci"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "zbloudilé"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "a skryješ se"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "před nimi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "navracející"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "navrátíš je"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "svému bratru"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:38.467208223Z",
+  "model": "glm-5.3"
+}

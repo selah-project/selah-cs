@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A vložíš do arónu ⟨את⟩ svědectví, které dám tobě.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "A vložíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arónu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svědectví"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dám"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:37.738706830Z",
+  "model": "glm-5.3"
+}

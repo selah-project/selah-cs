@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 143,
+  "translation": "Píseň Davidova. Jahve, slyš mou modlitbu, nakloň ucho k mým prosebám; ve své věrnosti mi odpověz, ve své spravedlnosti.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyš"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mou modlitbu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nakloň ucho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mým prosebám"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "ve své věrnosti"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "mi odpověz"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ve své spravedlnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:01.623339640Z",
+  "model": "glm-5.3"
+}

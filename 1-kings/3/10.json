@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A ⟨ta⟩ věc ⟨byla⟩ dobrá v očích Adonaje, že Šalomoun žádal ⟨את⟩ tuto věc.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "a ⟨byla⟩ dobrá"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "žádal"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto věc"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tuto věc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:40.861408204Z",
+  "model": "glm-5.3"
+}

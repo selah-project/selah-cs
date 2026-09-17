@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "I šel Eliáš, aby se ukázal Achabovi; ⟨a⟩ hlad byl krutý v Šomronu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i šel"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliáš"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "aby se ukázal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabovi"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "a hlad"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "krutý"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "v Šomronu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:00.970439680Z",
+  "model": "glm-5.3"
+}

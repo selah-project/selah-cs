@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 98,
+  "translation": "Zazměte Jahve na kinor, ⟨na⟩ kinor a hlasem zpěvu ⟨zaznějte⟩.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Zazměte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinor"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "⟨na⟩ kinor"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "a hlasem"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "zpěvu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:58.565813015Z",
+  "model": "glm-5.3"
+}

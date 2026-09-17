@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 25:17",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Vzal jsem ⟨את⟩ číši z ruky Jahve a napojil jsem ⟨את⟩ všechny národy, k nimž mě Jahve poslal.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "vzal jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "číši"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "číši"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשקה",
+      "gloss": "a napojil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny národy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "k nimž"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "mě poslal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k nim"
+    }
+  ],
+  "timestamp": "2026-09-17T08:27:17.252530029Z",
+  "model": "glm-5.3"
+}

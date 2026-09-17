@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 13:7",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "I poslal David k Tamar do domu ⟨a řekl⟩: „Jdi, prosím, do domu Amnona, tvého bratra, a připrav mu pokrm.“",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a-poslal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "do-domu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a-řekl⟩"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnona"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvého-bratra"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "a-připrav"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "pokrm"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:02.618124840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A udělal ⟨את⟩ tyče z dřeva šitim a potáhl ⟨את⟩ je zlatem, aby se ⟨את⟩ stůl nesl.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyče"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tyče"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z dřeva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "a potáhl"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatem"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "aby se nesl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stůl"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stůl"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:50.508666181Z",
+  "model": "glm-5.3"
+}

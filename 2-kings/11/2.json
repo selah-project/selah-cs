@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 11:2",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Vzala Jehošeba, dcera krále Jórama, sestra Achazjášova, ⟨את⟩ Jóaše, syna Achazjášova, a ukradla ⟨את⟩ ho zprostřed královských synů, kteří byli zabíjeni — ⟨את⟩ jeho i ⟨את⟩ jeho kojnou — v komnatě ⟨mezi⟩ ložnicemi; a skryli ⟨את⟩ ho před Ataljou, takže nebyl zabit.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Vzala"
+    },
+    {
+      "surface": "יהושבע",
+      "gloss": "Jehošeba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Jórama"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sestra"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjášova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jóaše, syna Achazjášova"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Jóaše"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "Achazjášova"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "ukradla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "zprostřed"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "královských"
+    },
+    {
+      "surface": "הממותתים",
+      "gloss": "kteří byli zabíjeni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho kojnou"
+    },
+    {
+      "surface": "מינקתו",
+      "gloss": "jeho kojnou"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "v komnatě"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "ložnic"
+    },
+    {
+      "surface": "ויסתרו",
+      "gloss": "skryli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataljou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "takže ne"
+    },
+    {
+      "surface": "הומת",
+      "gloss": "byl zabit"
+    }
+  ],
+  "timestamp": "2026-09-17T07:55:44.025455553Z",
+  "model": "glm-5.3"
+}

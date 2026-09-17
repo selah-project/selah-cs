@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A řekl: „Zvedni ⟨si to⟩.“ A vztáhl svou ruku a vzal ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Zvedni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨si⟩"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a vztáhl"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "a vzal ⟨to⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:37.135298733Z",
+  "model": "glm-5.3"
+}

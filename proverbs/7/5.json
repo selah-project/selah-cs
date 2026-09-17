@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 7:5",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "abych tě chránil před cizí ženou, před cizinkou, jež sama vyhladila svá slova",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "abych tě chránil"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "před ženou"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "cizí"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "před cizinkou"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "svá slova"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "vyhladila"
+    }
+  ],
+  "timestamp": "2026-09-17T09:37:32.546563434Z",
+  "model": "glm-5.3"
+}

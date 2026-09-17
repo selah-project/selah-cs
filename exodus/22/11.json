@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A ⟨pokud⟩ je zkradena — ⟨skutečně⟩ ukradnuta od něho —, nahradí ⟨ji⟩ majiteli.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a pokud"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "zkradena"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "skutečně ukradnuta"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "od něho"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "nahradí"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "majiteli"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:55.059099406Z",
+  "model": "glm-5.3"
+}

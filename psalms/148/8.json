@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 148,
+  "translation": "oheň a kroupy, sníh a pára, vichr bouře, konající jeho slovo:",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "a kroupy"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sníh"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "a pára"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vichr"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "bouře"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "konající"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jeho slovo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:42.583732855Z",
+  "model": "glm-5.3"
+}

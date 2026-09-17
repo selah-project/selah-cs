@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "Pro předního zpěváka, synům Korachovým, žalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachovým"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "žalm"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:50.174485326Z",
+  "model": "glm-5.3"
+}

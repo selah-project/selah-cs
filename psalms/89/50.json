@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Kde ⟨jsou⟩ tvé dřívější chesedy, Adonaji, které jsi přisáhl Davidovi ve své věrnosti?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Kde"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "tvé chesedy"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "dřívější"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaji"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "přisáhl jsi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "ve své věrnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:55.596684110Z",
+  "model": "glm-5.3"
+}

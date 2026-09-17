@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Po tom otevřel Ijób ⟨את⟩ svá ústa a proklel ⟨את⟩ svůj den.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tom"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "otevřel"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijób"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá ústa"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "svá ústa"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "a proklel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj den"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "svůj den"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:13.398898611Z",
+  "model": "glm-5.3"
+}

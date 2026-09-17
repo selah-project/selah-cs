@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "Dává chléb veškerému tělu, neboť na věky ⟨trvá⟩ jeho chesed.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Dává"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "veškerému"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tělu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:01.265578377Z",
+  "model": "glm-5.3"
+}

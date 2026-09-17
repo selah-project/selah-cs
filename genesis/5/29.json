@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 5:29",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "I nazval jeho jméno ⟨את⟩ Noach, řka: Tento ⟨nám⟩ ulehčí od díla našich rukou a od únavy rukou našich ⟨přicházející⟩ ze země, kterou zlořečil Jahve.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Tento"
+    },
+    {
+      "surface": "ינחמנו",
+      "gloss": "ulehčí nám"
+    },
+    {
+      "surface": "ממעשנו",
+      "gloss": "od díla našeho"
+    },
+    {
+      "surface": "ומעצבון",
+      "gloss": "a od únavy"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "rukou našich"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "země"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "אררה",
+      "gloss": "zlořečil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:59.026835233Z",
+  "model": "glm-5.3"
+}

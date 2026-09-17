@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Neboť každý muž, v němž ⟨je⟩ vada, nesmí přistoupit: muž slepý, nebo kulhavý, nebo s rozštěpeným nosem, nebo s nadbytečným údem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v němž"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "מום",
+      "gloss": "vada"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "smí přistoupit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "עור",
+      "gloss": "slepý"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "kulhavý"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "s rozštěpeným nosem"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "s nadbytečným údem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:29.531817975Z",
+  "model": "glm-5.3"
+}

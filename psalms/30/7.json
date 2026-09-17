@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A já jsem řekl ve svém klidu: Nezakolím ⟨nikdy⟩ navěky.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A já"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jsem řekl"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "ve svém klidu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "zakolím"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:56.208110163Z",
+  "model": "glm-5.3"
+}

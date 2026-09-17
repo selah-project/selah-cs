@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 9:13",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "I řekl Jahve Mojžíšovi: Vstaň časně zrána a postav se před faraóna a řekneš mu: Tak řekl Jahve, Elohim Hebrejů: Propusť ⟨את⟩ můj lid, a budou mi sloužit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi (k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "vstaň časně"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "zrána"
+    },
+    {
+      "surface": "והתיצב",
+      "gloss": "a postav se"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraóna"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "a řekneš"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrejů"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "propusť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "můj lid"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "a budou mi sloužit"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:54.172295254Z",
+  "model": "glm-5.3"
+}

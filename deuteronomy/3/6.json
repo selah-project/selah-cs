@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A zasvětili jsme ⟨את⟩ je zničením, jak jsme učinili Sichonovi, králi Cheshbonu: zasvětili jsme zničením každé město, muže ⟨i⟩ ženy a děti.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "a zasvětili jsme zničením"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "učinili jsme"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sichonovi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbonu"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "zasvětili jsme zničením"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každé"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "muže"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "a děti"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:01.063543030Z",
+  "model": "glm-5.3"
+}

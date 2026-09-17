@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Nebe, nebesa ⟨ patří ⟩ Jahve, zemi však dal synům člověka.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Nebe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "země (avšak)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:14.320009466Z",
+  "model": "glm-5.3"
+}

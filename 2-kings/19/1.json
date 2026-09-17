@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A stalo se, když král Chizkijáhu uslyšel ⟨to⟩, že roztrhl ⟨את⟩ svá roucha, přikryl se žíní a vešel do domu Jahve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "když uslyšel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijáhu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "roztrhl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá roucha"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "svá roucha"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "přikryl se"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "žíní"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a vešel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:58:57.232497327Z",
+  "model": "glm-5.3"
+}

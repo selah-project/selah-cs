@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 39:24",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "Podle jejich nečistoty a podle jejich přestoupení jsem naložil s ⟨את⟩ nimi, a skryl jsem svou tvář před nimi.",
+  "tokens": [
+    {
+      "surface": "כטמאתם",
+      "gloss": "Podle jejich nečistoty"
+    },
+    {
+      "surface": "וכפשעיהם",
+      "gloss": "a podle jejich přestoupení"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem naložil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "s nimi"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "a skryl jsem"
+    },
+    {
+      "surface": "פני",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "před nimi"
+    }
+  ],
+  "timestamp": "2026-09-17T08:52:08.698338256Z",
+  "model": "glm-5.3"
+}

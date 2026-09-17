@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 4:19",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Jahve řekl Mojžíšovi v Midjánu: Jdi, vrať se do Egypta, neboť zemřeli všichni muži, kteří usilovali o ⟨את⟩ tvůj život.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "v Midjánu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Jdi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vrať se"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "zemřeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "muži"
+    },
+    {
+      "surface": "המבקשים",
+      "gloss": "kteří usilovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvůj život"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvůj život"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:32.973509816Z",
+  "model": "glm-5.3"
+}

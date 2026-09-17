@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 2:2",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A přivede ji k synům Aharonovým, kněžím; a vezme z_ni plnou svou_hřst z_její_mouky a z_jejího_oleje, s_veškerým jejím kadidlem; a kněz spálí ⟨את⟩ její_pamětní_část na oltáři, ohnivou oběť, vůni klidu pro Jahve.",
+  "tokens": [
+    {
+      "surface": "והביאה",
+      "gloss": "a přivede ji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovým"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněžím"
+    },
+    {
+      "surface": "וקמץ",
+      "gloss": "a vezme hrst"
+    },
+    {
+      "surface": "משם",
+      "gloss": "z ní"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plnou"
+    },
+    {
+      "surface": "קמצו",
+      "gloss": "svou hřst"
+    },
+    {
+      "surface": "מסלתה",
+      "gloss": "z její mouky"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "a z jejího oleje"
+    },
+    {
+      "surface": "על",
+      "gloss": "s"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerým"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "jejím kadidlem"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a spálí (kadidlem)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její pamětní část"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "její pamětní část"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltáři"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ohnivou oběť"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "vůni"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "klidu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:15.153021223Z",
+  "model": "glm-5.3"
+}

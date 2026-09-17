@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Když byl Izrael chlapcem, miloval jsem ⟨jej⟩, a z Egypta jsem volal svého syna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "נער",
+      "gloss": "chlapcem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "miloval jsem ⟨jej⟩"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "a z Egypta"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jsem volal"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "svého syna"
+    }
+  ],
+  "timestamp": "2026-09-17T08:57:18.679643814Z",
+  "model": "glm-5.3"
+}

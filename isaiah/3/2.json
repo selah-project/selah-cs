@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Hrdinu a muže války, soudce a proroka, věštce a starce,",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Hrdinu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a muže"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "války"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "soudce"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "a proroka"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "věštce"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "a starce"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:40.344962020Z",
+  "model": "glm-5.3"
+}

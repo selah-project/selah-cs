@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A ⟨dům⟩, který vystavěl král Šalomoun ⟨pro⟩ Jahve, byl šedesát loket dlouhý, dvacet loket široký a třicet loket vysoký.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "A ⟨dům⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "vystavěl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨pro⟩ Jahve"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "šedesát"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "loket"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "dlouhý"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dvacet loket široký"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "široký"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "a třicet loket"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "loket"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "vysoký"
+    }
+  ],
+  "timestamp": "2026-09-17T13:02:50.952955658Z",
+  "model": "glm-5.3"
+}

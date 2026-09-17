@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A povstal nový král nad Micrajim, který neznal ⟨את⟩ Josefa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a povstal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nový"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:08.017325058Z",
+  "model": "glm-5.3"
+}

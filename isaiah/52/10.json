@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Obnažil Jahve ⟨את⟩ svou svatou paži před očima všech národů a uvidí všechny končiny země ⟨את⟩ spásu našeho Elohima.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "Obnažil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou svatou paži"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "paži"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svatou"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "před očima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "a uvidí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "končiny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spásu našeho Elohima"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "spásu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "našeho Elohima"
+    }
+  ],
+  "timestamp": "2026-09-17T08:14:46.605799579Z",
+  "model": "glm-5.3"
+}

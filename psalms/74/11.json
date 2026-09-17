@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Proč odvracíš svou ruku, i svou pravici? Ze středu svého náručí ⟨ji vytáhni⟩, ⟨dokonej⟩ ⟨je⟩!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "odvracíš"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "i svou pravici"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ze středu"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "svého náručí"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "⟨dokonej⟩ ⟨je⟩!"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:40.270499234Z",
+  "model": "glm-5.3"
+}

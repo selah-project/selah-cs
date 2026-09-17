@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Víc než starce ⟨jsem⟩ obeznámen, neboť tvá ustanovení jsem střežil.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "než starci"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "jsem obeznámen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tvá ustanovení"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "jsem střežil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:30.515315506Z",
+  "model": "glm-5.3"
+}

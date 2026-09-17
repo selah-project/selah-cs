@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A sklonil nebesa a sestoupil, a mrákota ⟨byla⟩ pod ⟨jeho⟩ nohama.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "a sklonil"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a sestoupil"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "a mrákota"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "⟨jeho⟩ nohama"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:53.123677113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A Egypt donutil ⟨את⟩ syny Izraele sloužit s krutostí.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "a donutil"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "s krutostí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:38.803793586Z",
+  "model": "glm-5.3"
+}

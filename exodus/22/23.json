@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "a vzplane můj hněv a zabiji vás mečem ⟨אתכם⟩, a vaše ženy budou vdovami a vaši synové sirotky.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "a vzplane"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "můj hněv"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "a zabiji"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mečem"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "a budou"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "vaše ženy"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "vdovami"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "a vaši synové"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "sirotky"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:05.000692641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A přišel k svému otci a řekl: Otče můj! A on řekl: Hle, jsem já. Kdo jsi ty, synu můj?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svému otci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Otče můj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on řekl"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hle, jsem já"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi ty"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu můj"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:22.347168200Z",
+  "model": "glm-5.3"
+}

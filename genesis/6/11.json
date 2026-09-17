@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A zkazila se země před Elohim a naplnila se země násilím.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "A zkazila se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "a naplnila se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "násilím"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:32.702943804Z",
+  "model": "glm-5.3"
+}

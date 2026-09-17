@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A žil Náchor devětadvacet let a zplodil ⟨את⟩ Teracha.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a žil"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Náchor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "devět"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "a dvacet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Teracha"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teracha"
+    }
+  ],
+  "timestamp": "2026-09-17T11:44:19.983908772Z",
+  "model": "glm-5.3"
+}

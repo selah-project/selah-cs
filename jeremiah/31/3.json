@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 31:3",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Z dálky se mi ukázal Jahve: láskou věčnou jsem tě miloval, proto jsem tě přitáhl chesedem.",
+  "tokens": [
+    {
+      "surface": "מרחוק",
+      "gloss": "Z dálky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ukázal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "láskou"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věčnou"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "jsem tě miloval"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(neutrální součást „proto“)"
+    },
+    {
+      "surface": "משכתיך",
+      "gloss": "jsem tě přitáhl"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesedem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:28:46.191396832Z",
+  "model": "glm-5.3"
+}

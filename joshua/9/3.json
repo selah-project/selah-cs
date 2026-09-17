@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A obyvatelé Gibeonu uslyšeli ⟨את⟩ to, co učinil Jozue Jerichu a Ai.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "A obyvatelé"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeonu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uslyšeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co učinil Jozue Jerichu a Ai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Jerichu"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "a Ai"
+    }
+  ],
+  "timestamp": "2026-09-17T07:06:46.698754850Z",
+  "model": "glm-5.3"
+}

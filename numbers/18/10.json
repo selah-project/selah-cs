@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Ve svatém svatých to budeš jíst; každý samec to smí jíst ⟨את⟩; svaté to bude tobě.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "Ve svatém"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svatých"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "to budeš jíst"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samec"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "to smí jíst"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svaté"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:46:01.509675478Z",
+  "model": "glm-5.3"
+}

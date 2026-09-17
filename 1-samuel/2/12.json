@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Synové Elijášovi byli synové Beliálova bezbožnosti, ⟨ti⟩ neznali ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Synové"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elijášovi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "byli synové"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliálova bezbožnosti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "neznali"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:20:11.077541844Z",
+  "model": "glm-5.3"
+}

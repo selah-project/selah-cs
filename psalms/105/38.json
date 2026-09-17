@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Mitsrajim se radoval ⟨z⟩ jejich odchodu, neboť na ně padl jejich strach.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "radoval"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "z jejich odchodu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "padl"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "jejich strach"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na ně"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:45.708955031Z",
+  "model": "glm-5.3"
+}

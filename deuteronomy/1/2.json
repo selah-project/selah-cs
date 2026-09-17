@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Jedenáct dní ⟨cesty⟩ od Chorevu cestou hory Seír až do Kádeš Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "áct"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dní"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "od Chorevu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hory"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seír"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kádeš"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-17T13:05:55.026818534Z",
+  "model": "glm-5.3"
+}

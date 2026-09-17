@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A sluha vložil ⟨את⟩ svou ruku pod stehno Abraháma, svého pána, a zapřísáhl se mu ohledně této věci.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "vložil"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "sluha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "stehno"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraháma"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "svého pána"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "zapřísáhl se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ohledně"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věci"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "této"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:23.331352092Z",
+  "model": "glm-5.3"
+}

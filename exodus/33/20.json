@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A řekl: Nemůžeš vidět ⟨את⟩ mou tvář, neboť člověk neuvidí mne a zůstane živ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "můžeš"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "vidět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou tvář"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mou tvář"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "uvidí mne"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "a zůstane živ"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:48.016353249Z",
+  "model": "glm-5.3"
+}

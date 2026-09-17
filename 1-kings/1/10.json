@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Avšak ⟨את⟩ Nátana proroka a Benajáhu a ⟨את⟩ hrdiny a ⟨את⟩ Šalomouna, svého bratra, nepozval.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "avšak ⟨את⟩",
+      "marks": "Nátana proroka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nátana"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "a Benajáhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "hrdiny"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "hrdiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Šalomouna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomouna"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svého bratra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "pozval"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:34.694116913Z",
+  "model": "glm-5.3"
+}

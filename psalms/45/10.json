@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "Dcery králů ⟨jsou⟩ mezi tvými vzácnými ⟨dámami⟩; královna stojí po tvé pravici ve zlatě Ofíru.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "Dcery"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "králů"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "mezi tvými vzácnými ⟨dámami⟩"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "stojí"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "královna"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "po tvé pravici"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ve zlatě"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofíru"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:31.666187209Z",
+  "model": "glm-5.3"
+}

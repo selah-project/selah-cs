@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Nebojím se desetitisíců lidu, kteří se kolem mě postavili.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "bojím se"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "desetitisíců"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "se postavili"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:13.118195388Z",
+  "model": "glm-5.3"
+}

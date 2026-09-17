@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A v osmáctdesátém roce krále Jarobama, syna Nevatova, kraloval Avijam nad Judskem.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "a v roce"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "osm"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraloval"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Avijam"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judskem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:50.993175883Z",
+  "model": "glm-5.3"
+}

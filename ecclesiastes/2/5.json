@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Učinil jsem si zahrady a sady ⟨parky⟩, a vysadil jsem v nich stromy všeho druhu ovoce.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "učinil jsem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "si"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "zahrady"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "a sady"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "a vysadil jsem"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "stromy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerého"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ovoce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:19:52.940067842Z",
+  "model": "glm-5.3"
+}

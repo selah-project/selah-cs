@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 16:28",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Ten, kdo ⟨את⟩ je spaluje, vyperi své šaty a umyje ⟨את⟩ své tělo vodou, a potom vejde do tábora.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "Ten, kdo je spaluje"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "vyperi"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "své šaty"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "a umyje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své tělo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "své tělo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vodou"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "a potom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(potom)"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "vejde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábora"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:10.453937521Z",
+  "model": "glm-5.3"
+}

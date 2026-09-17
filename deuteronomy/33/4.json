@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Tóru přikázal nám Moše, dědictví obce Jákobovy.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tóru"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "dědictví"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "obce"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobovy"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:11.847210381Z",
+  "model": "glm-5.3"
+}

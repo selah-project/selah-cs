@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 101,
+  "translation": "Perverzní srdce ať se odvrátí ode mne; zla nebudu znát.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "perverzní"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ať se odvrátí"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "budu znát"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:24.660842071Z",
+  "model": "glm-5.3"
+}

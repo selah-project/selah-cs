@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A vyhladil jsem ⟨את⟩ tři pastýře v jednom měsíci; a duše moje se v nich zkrátila a také jejich duše mnou zhnusena byla.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "a vyhladil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tři pastýře"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pastýře"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "v měsíci"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednom"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "a zkrátila se"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše moje"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a také"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jejich duše"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "zhnusena"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:09:55.053040322Z",
+  "model": "glm-5.3"
+}

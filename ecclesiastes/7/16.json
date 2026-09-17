@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Nebuď příliš spravedlivý a nepřeháněj moudrost; proč by ses ⟨sám⟩ ničil?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nebuď ⟨ne⟩"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "Nebuď"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "příliš"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ⟨ne⟩"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "nepřeháněj moudrost"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "příliš"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "by ses ⟨sám⟩ ničil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:44.534591397Z",
+  "model": "glm-5.3"
+}

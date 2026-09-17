@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A Achítúb zplodil ⟨את⟩ Cádóka, a Cádók zplodil ⟨את⟩ Achímaaca.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "A Achítúb"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cádóka"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cádóka"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "a Cádók"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achímaaca"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achímaaca"
+    }
+  ],
+  "timestamp": "2026-09-17T10:16:04.054288931Z",
+  "model": "glm-5.3"
+}

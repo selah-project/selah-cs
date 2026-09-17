@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A porodila syna, a on nazval ⟨את⟩ jeho jméno Geršom, neboť řekl: Přistěhovalem ⟨jsem⟩ v cizí zemi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Geršom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "גר",
+      "gloss": "přistěhovalec"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jsem byl"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "cizí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:01.763046767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Proč se skláníš, má duše, a skuhráš nade mnou? Vyčkej na Elohima, neboť ještě ho budu vyznávat, ⟨On je⟩ spasení mé tváře.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "se skláníš"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "a skuhráš"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mnou"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Vyčkej"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "na Elohima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ho budu vyznávat"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "spasení"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "mé tváře"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:50.173832484Z",
+  "model": "glm-5.3"
+}

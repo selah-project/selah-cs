@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Neboť ohavností pro Jahve je každý, kdo činí tyto věci, a kvůli těmto ohavám Jahve, tvůj Elohim, vyhání je ⟨את⟩ před tvou tváří.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ohavností"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kdo činí"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tyto věci"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "a kvůli"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "těmto ohavám"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "těmto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "vyhání"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "před tvou tváří"
+    }
+  ],
+  "timestamp": "2026-09-17T13:39:58.678518665Z",
+  "model": "glm-5.3"
+}

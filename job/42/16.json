@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A žil Jób po tomto sto čtyřicet let a viděl ⟨את⟩ své syny a ⟨את⟩ syny svých synů, čtyři pokolení.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "A žil"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jób"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tomto"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své syny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "své syny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "syny svých synů"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "svých synů"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "pokolení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:53:54.563568920Z",
+  "model": "glm-5.3"
+}

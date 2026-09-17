@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A dal je ⟨את⟩ do vazby, do domu předního ze kuchařů, do vězení, na místo, kde byl Josef uvězněn.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "A dal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "do vazby"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "předního"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ze kuchařů"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "vězení"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "(okrouhlého domova)"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "na místo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "byl uvězněn"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:15.732008456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A Pelištejci se shromáždili ⟨את⟩ se všemi svými tábory v Afeku a Izrael tábořil u pramene, který ⟨je⟩ v Jizreelu.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "A shromáždili se"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se všemi svými tábory"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "své tábory"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "v Afeku"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "a Izrael"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "tábořil"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "u pramene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "v Jizreelu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:22.448930958Z",
+  "model": "glm-5.3"
+}

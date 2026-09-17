@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A král seděl v zimním domě, v devátém měsíci, a ⟨את⟩ ohniště před ním hořelo.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "a král"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "seděl"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "zimním"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v měsíci"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "devátém"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ohniště"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ohniště"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "hořelo"
+    }
+  ],
+  "timestamp": "2026-09-17T08:31:42.376166044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Pro vedoucího ⟨zpěvu⟩. Žalm Davidův.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro vedoucího ⟨zpěvu⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Žalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:01.745539549Z",
+  "model": "glm-5.3"
+}

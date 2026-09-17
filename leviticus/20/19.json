@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 20:19",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A nahotu sestry své matky i sestry svého otce neodhalíš, neboť ⟨את⟩ svého příbuzného obnažil — svou vinu ponesou.",
+  "tokens": [
+    {
+      "surface": "וערות",
+      "gloss": "A nahotu"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sestry"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "své matky"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "i sestry"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "odhalíš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého příbuzného"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "svého příbuzného (těla)"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "obnažil"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "svou vinu"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ponesou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:25.992577547Z",
+  "model": "glm-5.3"
+}

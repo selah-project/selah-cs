@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 113,
+  "translation": "Kdo ⟨je⟩ jako Jahve, náš Elohim — ⟨ten, který⟩ se povyšuje, aby ⟨sídlil na výsostech⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "jako Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "⟨ten, který⟩ se povyšuje"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "aby sídlil na výsostech"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:54.440858077Z",
+  "model": "glm-5.3"
+}

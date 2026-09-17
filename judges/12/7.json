@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A Jiftach soudil ⟨את⟩ Izrael šest let; potom zemřel Jiftach Giladský a byl pohřben v městech Giladových.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "soudil"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Giladský"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a byl pohřben"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "v městech"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladových"
+    }
+  ],
+  "timestamp": "2026-09-17T07:16:45.321119512Z",
+  "model": "glm-5.3"
+}

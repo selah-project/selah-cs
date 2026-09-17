@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 10:7",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A viděl jsem — já, Dani'el, sám — ⟨את⟩ to vidění; muži však, kteří byli se mnou, neviděli ⟨את⟩ vidění, ale padl na ně veliký děs a utekli se skrýt.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "a viděl jsem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Dani'el"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to vidění"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "to vidění"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "muži však"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "viděli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vidění"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "vidění"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "avšak"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "děs"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "padl"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na ně"
+    },
+    {
+      "surface": "ויברחו",
+      "gloss": "a utekli"
+    },
+    {
+      "surface": "בהחבא",
+      "gloss": "se skrýt"
+    }
+  ],
+  "timestamp": "2026-09-17T10:06:27.353360317Z",
+  "model": "glm-5.3"
+}

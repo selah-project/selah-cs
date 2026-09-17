@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Od jasu před ním přehnaly ⟨jeho⟩ mraky ⟨jeho⟩, kroupy a uhlíky ohně.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "od jasu"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "mraky ⟨jeho⟩"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "přehnaly"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "kroupy"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "a uhlíky"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ohně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:28.504664625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 21:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A řekla: Kdo by byl řekl Abramovi: Sára kojí syny! Vždyť jsem mu porodila syna v jeho stáří.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "A řekla"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "byl řekl"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abramovi"
+    },
+    {
+      "surface": "היניקה",
+      "gloss": "kojí"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "syny"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sára"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Vždyť"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "jsem porodila"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "v jeho stáří"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:33.844393249Z",
+  "model": "glm-5.3"
+}

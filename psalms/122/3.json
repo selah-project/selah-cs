@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 122,
+  "translation": "Jeruzalém, ⟨ten⟩ zbudovaný ⟨jako⟩ město spojené vjedno.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "zbudovaný"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "⟨jako⟩ město"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "spojené"
+    },
+    {
+      "surface": "לה",
+      "gloss": "v"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "jedno"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:37.295667741Z",
+  "model": "glm-5.3"
+}

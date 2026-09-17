@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Vždyť jsi nás zkoušel, Elohime, přečetls nás jak rafinaci stříbra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Vždyť"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "jsi nás zkoušel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "přečetls nás"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "jak rafinaci"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbra"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:46.323214474Z",
+  "model": "glm-5.3"
+}

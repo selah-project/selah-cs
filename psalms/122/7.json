@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 122,
+  "translation": "Buď pokoj ⟨ve⟩ tvých hradbách, klid ⟨ve⟩ tvých palácích!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "buď"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "⟨ve⟩ tvých hradbách"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "klid"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "⟨ve⟩ tvých palácích"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:47.449414935Z",
+  "model": "glm-5.3"
+}

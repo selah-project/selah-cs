@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 33:18",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Když se spravedlivý odvrátí od své spravedlnosti a páchá nepravost, zemře ⟨kvůli ní⟩.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Když se odvrátí"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "מצדקתו",
+      "gloss": "od své spravedlnosti"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a páchá"
+    },
+    {
+      "surface": "עול",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "⟨kvůli ní⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T08:48:58.737146722Z",
+  "model": "glm-5.3"
+}

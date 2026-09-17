@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Pro předního zpěváka, poučné ⟨básně⟩, ⟨od⟩ Davida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poučné ⟨básně⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨od⟩ Davida"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:10.936719531Z",
+  "model": "glm-5.3"
+}

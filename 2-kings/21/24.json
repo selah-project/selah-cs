@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A porazil lid země ⟨את⟩ všechny, kdo se spikli proti králi Amonovi; a lid země učinil králem ⟨את⟩ Jošijáhu, jeho syna, místo něj.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "a porazil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny, kdo se spikli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "kdo se spikli"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonovi"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "a učinil králem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jošijáhu"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijáhu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syna"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:14.061728808Z",
+  "model": "glm-5.3"
+}

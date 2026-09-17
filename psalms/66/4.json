@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Celá země se ti pokloní a žalmuje tobě, žalmovat bude tvému jménu. Sela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Celá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "se ti pokloní"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "a žalmuje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "žalmovat bude"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvému jménu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:01.174568032Z",
+  "model": "glm-5.3"
+}

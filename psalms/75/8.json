@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 75,
+  "translation": "Neboť Elohim ⟨je⟩ soudce: tohoto poníží a onoho povýší.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "soudce"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "poníží"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "a onoho"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "povýší"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:53.689603745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A vzali ⟨את⟩ Lóta i ⟨את⟩ jeho majetek, syna bratra Avrama, a odešli; on totiž bydlel v Sedomu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "A vzali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lóta"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lóta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho majetek"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "jeho majetek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bratra"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrama"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "a odešli"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "on totiž"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bydlel"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "v Sedomu"
+    }
+  ],
+  "timestamp": "2026-09-17T13:08:43.586698749Z",
+  "model": "glm-5.3"
+}

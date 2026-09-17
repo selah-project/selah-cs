@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "Neboť jsem záviděl ⟨těm⟩ pošetilým, ⟨když⟩ vidím pokoj bezbožných.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "jsem záviděl"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "⟨těm⟩ pošetilým"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "⟨když⟩ vidím"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:49.872810493Z",
+  "model": "glm-5.3"
+}

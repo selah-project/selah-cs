@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A stalo se, když uslyšel ⟨את⟩ toto slovo — a on pil, on i králové v stáních — že řekl ke svým služebníkům: Rozestavte ⟨se⟩. A rozestavili se proti městu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "když uslyšel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toto slovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "pil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "i králové"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "v stáních"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svým služebníkům"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "rozestavte"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "a rozestavili se"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "městu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:37.268387491Z",
+  "model": "glm-5.3"
+}

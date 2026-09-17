@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 113,
+  "translation": "Buď ⟨⟨požehnáno⟩⟩ jméno Jahveho od této chvíle a až na věky.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Buď"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "požehnáno"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od této chvíle"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a až na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:02.441370065Z",
+  "model": "glm-5.3"
+}

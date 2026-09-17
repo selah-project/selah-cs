@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A Jákob šel svou cestou a potkali ho poslové Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "a Jákob"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "svou cestou"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "potkali"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "poslové"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:39.389450357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Nevrátí se do země Micrajim a Aššur — on ⟨je⟩ jeho králem, neboť odmítli se vrátit.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "vrátí se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "a Aššur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "jeho král"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "odmítli"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "se vrátit"
+    }
+  ],
+  "timestamp": "2026-09-17T08:57:45.183802563Z",
+  "model": "glm-5.3"
+}

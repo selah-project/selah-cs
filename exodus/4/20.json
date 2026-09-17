@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Vzal Mojžíš ⟨את⟩ svou ženu a ⟨את⟩ své syny, posadil je na osla a vrátil se do země egyptské; vzal také Mojžíš ⟨את⟩ hůl Elohim do své ruky.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Vzal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ženu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "svou ženu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "své syny"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "posadil je k jízdě"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "osla"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptské"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "vzal také"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hůl"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "hůl"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "do své ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:32.973707413Z",
+  "model": "glm-5.3"
+}

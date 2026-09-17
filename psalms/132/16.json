@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 132,
+  "translation": "„Její kněze oděnímu spásou a její věrní zajásají radostným pokřikem.“",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "a její kněze"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "oděnímu"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "spásou"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "a její věrní"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "pokřikem"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "zajásají"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:25.762044666Z",
+  "model": "glm-5.3"
+}

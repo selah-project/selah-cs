@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Den dni ⟨přelévá⟩ řeč, a noci noci oznamuje poznání.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Den"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "dni"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "⟨přelévá⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řeč"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "a noci"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "noci"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "oznamuje"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "poznání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:46.509593443Z",
+  "model": "glm-5.3"
+}

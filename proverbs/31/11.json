@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Srdce jejího muže v ní ⟨se⟩ důvěřuje, a kořisti nebude postrádat.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "důvěřuje"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "jejího muže"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "a kořisti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "bude postrádat"
+    }
+  ],
+  "timestamp": "2026-09-17T11:17:03.052317837Z",
+  "model": "glm-5.3"
+}

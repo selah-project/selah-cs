@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Ty jsi přikázal svá ustanovení, aby se dbalo ⟨je⟩ velmi bedlivě.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "jsi přikázal"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "svá ustanovení"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "aby se dbalo ⟨je⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi bedlivě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:51.081710102Z",
+  "model": "glm-5.3"
+}

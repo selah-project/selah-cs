@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Práce hlupáků jej unaví ⟨protože⟩ neumí jít do města.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Práce"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "hlupáků"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "jej unaví"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨protože⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "umí"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "jít"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "města"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:18.977611990Z",
+  "model": "glm-5.3"
+}

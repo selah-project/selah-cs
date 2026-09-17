@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Zbytek po gazamu sežrala kobylka, a zbytek po kobylce sežral mladý locust, a zbytek po locustovi sežral chasil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Zbytek"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "po gazamu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sežrala"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "kobylka"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "a zbytek"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "po kobylce"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sežral"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "mladý locust"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "a zbytek"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "po locustovi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sežral"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "chasil"
+    }
+  ],
+  "timestamp": "2026-09-17T08:58:08.131400949Z",
+  "model": "glm-5.3"
+}

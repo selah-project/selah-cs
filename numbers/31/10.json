@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A ⟨את⟩ všechna jejich města v jejich sídlech a ⟨את⟩ všechna jejich ohradená sídliště spálili ohněm.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechna jejich města"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "jejich města"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "v jejich sídlech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechna jejich ohradená sídliště"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "jejich ohradená sídliště"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "spálili"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    }
+  ],
+  "timestamp": "2026-09-17T06:50:50.177275352Z",
+  "model": "glm-5.3"
+}

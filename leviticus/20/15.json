@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A ⟨jestliže⟩ muž dá své lože se zvířetem, smrtí bude usmrcen a ⟨את⟩ zvíře zabijete.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A ⟨jestliže⟩ muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "své lože"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "se zvířetem"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bude usmrcen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zvíře"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zvíře"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "zabijete"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:19.146228171Z",
+  "model": "glm-5.3"
+}

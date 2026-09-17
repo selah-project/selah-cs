@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 9:5",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Přišel do domu svého otce do Ofry a zabil ⟨את⟩ své bratry, syny Jerubbaalovy, sedmdesát mužů na jednom kameni; a zbyl Jótám, syn Jerubbaalův, nejmladší, protože se ukryl.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "עפרתה",
+      "gloss": "do Ofry"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "a zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své bratry"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "své bratry"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaalovy"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sedmdesát"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kameni"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednom"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "a zbyl"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jótám"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaalův"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nejmladší"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "נחבא",
+      "gloss": "se ukryl"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:44.636643646Z",
+  "model": "glm-5.3"
+}

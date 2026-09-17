@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "I řekl Samuel: Přiveďte ke mně ⟨את⟩ Agaga, krále Amalekitů. A přišel k němu Agag v rozkoších, a řekl Agag: Jistě pominula hořkost smrti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "Přiveďte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agaga"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agaga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekitů"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "A přišel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "v rozkoších"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Jistě"
+    },
+    {
+      "surface": "סר",
+      "gloss": "pominula"
+    },
+    {
+      "surface": "מר",
+      "gloss": "hořkost"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:25.957470067Z",
+  "model": "glm-5.3"
+}

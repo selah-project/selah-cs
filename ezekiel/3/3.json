@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 3:3",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl mi: Synu člověče, svůj břich nasyť a svá nitra naplň ⟨את⟩ svitkem tímto, který já dávám tobě. A snědl jsem ho, a byl v mých ústech jako med ⟨k⟩ sladkosti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Synu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověče"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "svůj břich"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nasyť (jez)"
+    },
+    {
+      "surface": "ומעיך",
+      "gloss": "a svá nitra"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "naplň"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svitkem tímto"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "svitkem"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tímto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dávám"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "A snědl jsem"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a byl"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "v mých ústech"
+    },
+    {
+      "surface": "כדבש",
+      "gloss": "jako med"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "⟨k⟩ sladkosti"
+    }
+  ],
+  "timestamp": "2026-09-17T08:39:04.588233927Z",
+  "model": "glm-5.3"
+}

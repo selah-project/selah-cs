@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Neboť jak bych mohla a viděla zlo, které najde ⟨את⟩ můj lid? A jak bych mohla a viděla záhubu svého rodu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "bych mohla"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "a viděla"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "najde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "můj lid"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "A jak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "bych mohla"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "a viděla"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "záhubu"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "svého rodu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:21:06.858727220Z",
+  "model": "glm-5.3"
+}

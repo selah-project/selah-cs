@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "V tebe, Jahve, jsem se ukryl ⟨a⟩ doufám; nezahanbím se navěky, ve své spravedlnosti mě vyveď ⟨z nebezpečí⟩.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "v tebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "jsem se ukryl ⟨a⟩ doufám"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "zahanbím se"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ve své spravedlnosti"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "mě vyveď ⟨z nebezpečí⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:51.008067739Z",
+  "model": "glm-5.3"
+}

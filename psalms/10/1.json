@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Proč, Jahve, stojíš ⟨v⟩ dáli, skrýváš se ⟨v⟩ časech tísně?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stojíš"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "v dáli"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "skrýváš se"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "v časech"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "tísně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:30.171727549Z",
+  "model": "glm-5.3"
+}

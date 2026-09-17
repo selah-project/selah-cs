@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Elichóref a Achijáš, synové Šiši, ⟨byli⟩ písaři; Jehóšafat, syn Achílúda, ⟨byl⟩ kronikářem.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Elichóref"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "a Achijáš"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "Šiši"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "písaři"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehóšafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Achílúda"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "kronikářem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:50.942483843Z",
+  "model": "glm-5.3"
+}

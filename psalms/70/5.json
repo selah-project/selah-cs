@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 70,
+  "translation": "Ať jásají a radují se v tobě všichni, kdo tě hledají, a ať říkají stále: „Nechť je Elohim vzýván ve velikosti“, ti, kdo milují tvou spásu!",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "ať jásají"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "a ať se radují"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "kdo tě hledají"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a ať říkají"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "nechť je vzýván ve velikosti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ti, kdo milují"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "tvou spásu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:45.157756154Z",
+  "model": "glm-5.3"
+}

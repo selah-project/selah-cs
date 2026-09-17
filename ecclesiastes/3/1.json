@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Všemu ⟨je⟩ určený čas, a hodina každému záměru pod nebesy.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "všemu"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "čas"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a hodina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "každému"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "záměru"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesy"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:22.295254129Z",
+  "model": "glm-5.3"
+}

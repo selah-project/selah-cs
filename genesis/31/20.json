@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A Jákob ukradl ⟨את⟩ srdce Lávana Aramejce tím, že mu neoznámil, že prchá.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "A ukradl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lávana"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Aramejce"
+    },
+    {
+      "surface": "על",
+      "gloss": "tím, že"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "oznámil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "prchá"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:16.585503452Z",
+  "model": "glm-5.3"
+}

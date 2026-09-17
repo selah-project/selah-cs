@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 142,
+  "translation": "Nakloň ⟨ucho⟩ k mému hlasitému volání, neboť jsem velmi zesláblý; vytrhni mě mým pronásledovatelům, neboť jsou silnější nežli já.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Nakloň ⟨ucho⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "mému hlasitému volání"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "jsem zesláblý"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "vytrhni mě"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "mým pronásledovatelům"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "jsou silnější"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nežli já"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:19.161118685Z",
+  "model": "glm-5.3"
+}

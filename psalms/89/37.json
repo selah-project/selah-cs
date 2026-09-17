@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Jeho potomstvo bude na věky ⟨je⟩, a jeho trůn ⟨bude⟩ jako slunce přede mnou.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "Jeho potomstvo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "a jeho trůn"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "jako slunce"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "přede mnou"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:05.488558380Z",
+  "model": "glm-5.3"
+}

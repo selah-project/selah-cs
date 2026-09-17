@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Utěšujte, utěšujte můj lid, praví váš Elohim.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Utěšujte"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "utěšujte"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:20.299032252Z",
+  "model": "glm-5.3"
+}

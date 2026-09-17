@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A ⟨את⟩ býčka, ⟨את⟩ jeho kůži, ⟨את⟩ jeho maso a ⟨את⟩ jeho výkalisty spálil ohněm vně tábora, jak přikázal Jahve ⟨את⟩ Mojžíše.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "býčka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "býčka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho kůži"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "jeho kůži"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho maso"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jeho maso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho výkalisty"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "jeho výkalisty"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spálil"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "vně"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tábora"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:23.303133106Z",
+  "model": "glm-5.3"
+}

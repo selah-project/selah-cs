@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "I vzal Saul tři tisíce vybraných mužů z celého Izraele a šel hledat ⟨את⟩ Davida a jeho muže na čele skal divokých koz.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I vzal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisíce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "vybraných"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "z celého"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hledat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "a jeho muže"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "čele"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "skal"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "divokých koz"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:41.148525038Z",
+  "model": "glm-5.3"
+}

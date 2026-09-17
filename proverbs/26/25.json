@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Když zmírňuje svůj hlas, nevěř mu, neboť sedm ohavností je v jeho srdci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "zmírňuje (laskavě naklání)"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "věř"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ohavností"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "v jeho srdci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:36.275690661Z",
+  "model": "glm-5.3"
+}

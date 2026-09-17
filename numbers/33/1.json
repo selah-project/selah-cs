@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 33:1",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Toto ⟨jsou⟩ tašení synů Izraele, kteří vyšli z egyptské země podle svých cevot, rukou Mojžíše a Áróna.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "מסעי",
+      "gloss": "tašení"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "vyšli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z egyptské země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptské"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "podle svých cevot"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Áróna"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:00.010341208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 7:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neboť hlava Aramu je Damašek, a hlava Damašku je Recin; a ještě za šedesáti pěti let bude Efrajim zdrcen, ⟨aby nebyl⟩ lidem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlava"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damašek"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "a hlava"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damašku"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recin"
+    },
+    {
+      "surface": "ובעוד",
+      "gloss": "a ještě za"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "šedesáti"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "pěti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "bude zdrcen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "⟨aby nebyl⟩ lidem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:02:15.099831508Z",
+  "model": "glm-5.3"
+}

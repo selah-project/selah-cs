@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 48:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "anděl, jenž mě vykoupil ⟨את⟩ ze všeho zla, ať požehná ⟨את⟩ těmto hochům, ať je na nich vzýváno mé jméno i jméno mých otců Abrahama a Izáka, a ať se rozmnoží ⟨k⟩ množství ⟨uprostřed⟩ země.",
+  "tokens": [
+    {
+      "surface": "המלאך",
+      "gloss": "anděl"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "jenž vykoupil"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mě"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všeho"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ať požehná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "těmto hochům"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "těmito hochy"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ať je vzýváno"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na nich"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mé jméno"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "i jméno"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "mých otců"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "a Izáka"
+    },
+    {
+      "surface": "וידגו",
+      "gloss": "a ať se rozmnoží"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "k množství"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:46.052955179Z",
+  "model": "glm-5.3"
+}

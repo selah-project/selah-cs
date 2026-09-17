@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A Ša'úl hodil ⟨את⟩ kopím, neboť řekl: Protnu Davida ⟨a⟩ ⟨do⟩ zdi! David se však uhnul před ním dvakrát.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "a hodil"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'úl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopím"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "kopím"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "neboť řekl"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "protnu"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "⟨a do⟩ zdi"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "a uhnul"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dvakrát"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:31.522945556Z",
+  "model": "glm-5.3"
+}

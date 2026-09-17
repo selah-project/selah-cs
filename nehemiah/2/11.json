@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A přišel jsem do Jeruzaléma a byl jsem tam tři dny.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "a přišel jsem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "a byl jsem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tři"
+    }
+  ],
+  "timestamp": "2026-09-17T10:11:21.189743458Z",
+  "model": "glm-5.3"
+}

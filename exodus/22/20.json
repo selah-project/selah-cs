@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Příchozího nebudeš utlačovat a neudeřeš ⟨jej⟩ utiskováním; byli jste ⟨totiž⟩ příchozími v zemi Micrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "a příchozího"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "budeš utlačovat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "neudeřeš ⟨jej⟩ utiskováním"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨totiž⟩"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "příchozími"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "byli jste"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:27.039415413Z",
+  "model": "glm-5.3"
+}

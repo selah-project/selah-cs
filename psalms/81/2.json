@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 81,
+  "translation": "Zpívejte radostně Elohim, naší sílo, jásejte Elu Jákobovu!",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Zpívejte radostně"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "naší sílo"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "jásejte"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobovu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:48.274661515Z",
+  "model": "glm-5.3"
+}

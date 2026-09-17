@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Neboť ho předcházíš požehnáními ⟨dobrá⟩; kladeš na jeho hlavu korunu z ryzího zlata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "ho předcházíš"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "požehnáními"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨dobrá⟩"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "kladeš"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "na jeho hlavu"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "korunu"
+    },
+    {
+      "surface": "פז",
+      "gloss": "z ryzího zlata"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:06.062591746Z",
+  "model": "glm-5.3"
+}

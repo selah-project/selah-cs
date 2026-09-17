@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A král Chizkijáš vstal časně zrána a shromáždil ⟨את⟩ přední muže města a vystoupil do domu Jahve.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "vstal časně zrána"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkijáš"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "a shromáždil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "přední muže města"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "přední muže"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a vystoupil"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T10:31:16.236608327Z",
+  "model": "glm-5.3"
+}

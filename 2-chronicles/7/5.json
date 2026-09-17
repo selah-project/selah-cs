@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 7:5",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A král Šalomoun obětoval ⟨את⟩ oběť z skotu, dvacet dva tisíc, a ovcí sto dvacet tisíc; a zasvětili ⟨את⟩ dům Elohim král i všechen lid.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "a obětoval"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oběť"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "z skotu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "a ovcí"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "ויחנכו",
+      "gloss": "a zasvětili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    }
+  ],
+  "timestamp": "2026-09-17T10:26:47.454824309Z",
+  "model": "glm-5.3"
+}

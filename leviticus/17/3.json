@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Muž, ⟨každý⟩ muž z domu Izraele, který porazí vola, nebo jehně, nebo kozu, v ⟨táboře⟩, nebo který porazí ⟨něco⟩ vně tábora,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "porazí"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "jehně"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kozu"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "v táboře"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "porazí"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "vně"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tábora"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:47.960018846Z",
+  "model": "glm-5.3"
+}

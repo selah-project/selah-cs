@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 5:23",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A od té doby, kdy jsem přišel k Paroovi, abych mluvil ve tvém jménu, způsobil ⟨on⟩ zlo tomuto lidu, a ⟨ty⟩ jsi rozhodně nevytrhl ⟨את⟩ svůj lid.",
+  "tokens": [
+    {
+      "surface": "ומאז",
+      "gloss": "a od té doby"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "když jsem přišel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroovi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "abych mluvil"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ve tvém jménu"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "způsobil zlo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tomuto lidu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomuto"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "a nevytrhl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "rozhodně ne"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "jsi vytrhl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj lid"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svůj lid"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:21.624036117Z",
+  "model": "glm-5.3"
+}

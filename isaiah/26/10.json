@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Byl-li bymilostrden bezbožný, nenaučí se spravedlnosti; v zemi přímosti jedná nepřímo a nespatří vznešenost Jahveho.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "byl-li bymilostrden"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožný"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "למד",
+      "gloss": "nenaučí se"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnosti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "přímosti"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "jedná nepřímo"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nespatří"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "vznešenost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T08:07:21.953364677Z",
+  "model": "glm-5.3"
+}

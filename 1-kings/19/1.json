@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A Achab vyprávěl Izebel ⟨את⟩ všechno, co udělal Elijáš, a ⟨את⟩ všechno, jak zabil ⟨את⟩ všechny proroky mečem.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "vyprávěl"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny proroky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroky"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mečem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:50:26.510341796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 63,
+  "translation": "Když jsem si tě připomínal na svém lůžku, v nočních hlídkách o tobě přemítám.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "když"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "jsem si tě připomínal"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "svém lůžku"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "v nočních hlídkách"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "přemítám"
+    },
+    {
+      "surface": "בך",
+      "gloss": "o tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:28.471619472Z",
+  "model": "glm-5.3"
+}

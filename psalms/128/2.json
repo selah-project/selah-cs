@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 128,
+  "translation": "Úděl tvých rukou budeš jíst ⟨vskutku⟩, blaze tobě ⟨a⟩ dobré bude tobě.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Úděl"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "tvých rukou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨vskutku⟩"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "budeš jíst"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "blaze tobě"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "⟨a⟩ dobré"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bude tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:23.152685739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A řekl David Saulovi: „Proč nasloucháš ⟨את⟩ slovům lidí, kteří říkají: Hle, David usiluje o tvé zlo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saulovi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "nasloucháš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slovům"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slovům"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidí"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kteří říkají"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "usiluje"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "o tvé zlo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:46.928257521Z",
+  "model": "glm-5.3"
+}

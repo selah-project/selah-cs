@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Přikaž ⟨את⟩ synům Izraele, a ať přinesou k tobě olej olivový čistý, vytěkaný, pro svícen, aby vzhůru dával světlo stále.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Přikaž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synům Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "a ať přinesou"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olivový"
+    },
+    {
+      "surface": "זך",
+      "gloss": "čistý"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "vytěkaný"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "pro svícen"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "aby vzhůru dával"
+    },
+    {
+      "surface": "נר",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:46.146963570Z",
+  "model": "glm-5.3"
+}

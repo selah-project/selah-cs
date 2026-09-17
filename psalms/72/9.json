@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "Před ním budou poklekávat obyvatelé pouště ⟨a⟩ jeho nepřátelé budou lízat prach.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "budou poklepávat"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "obyvatelé pouště"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "jeho nepřátelé"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prach"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "budou lízat"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:04.915649117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "Který vedl svůj lid pouští, nebo na věčnost je jeho chesed.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Který vedl"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "pouští"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věčnost"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:15.326525715Z",
+  "model": "glm-5.3"
+}

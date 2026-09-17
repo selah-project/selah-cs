@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 22:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A řekl: Nevztahuj svou ruku na chlapce a nedělej mu nic, neboť nyní poznal jsem, že bojícího se Elohim jsi ty, a nešetřil jsi ⟨את⟩ svého syna, ⟨את⟩ svého jediného, ode mne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "vztahuj"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chlapce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "dělej"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nic"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "poznal jsem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bojícího se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi ty"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "šetřil jsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého syna"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého jediného"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "svého jediného"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mne"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:03.964904506Z",
+  "model": "glm-5.3"
+}

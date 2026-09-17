@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A užitek země ve všem ⟨spočívá⟩: král — poli je služebníkem.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "a užitek"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všem"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ta⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "poli"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "je služebníkem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:09.379341670Z",
+  "model": "glm-5.3"
+}

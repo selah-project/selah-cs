@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Ty povstaneš, smiluješ se nad Sijónem, neboť nastal čas ji obdarovat milostí, neboť přišel určený čas.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "povstaneš"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "smiluješ se"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "nad Sijónem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "ji obdarovat milostí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "určený čas"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:05.851114527Z",
+  "model": "glm-5.3"
+}

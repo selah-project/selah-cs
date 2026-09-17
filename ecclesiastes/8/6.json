@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Neboť pro každou věc ⟨je⟩ čas a právo, neboť zlo člověka ⟨je⟩ veliké na něm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pro každou"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "věc"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "a právo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něm"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:30.264558302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "A Adonaj se probudil jako spáč, jako hrdina hlučící ⟨od⟩ vína.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "a probudil se"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "jako spáč"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "jako hrdina"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "hlučící"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "(od) vína"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:14.369974296Z",
+  "model": "glm-5.3"
+}

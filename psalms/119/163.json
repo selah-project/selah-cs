@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Lež jsem nenáviděl a znechuceně jsem se jí zříkal, tvůj zákon jsem miloval.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Lež"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "jsem nenáviděl"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "a znechuceně jsem se jí zříkal"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvůj zákon"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "jsem miloval"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:20.029869591Z",
+  "model": "glm-5.3"
+}

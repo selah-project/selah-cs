@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Dej mi ⟨את⟩ své ženy a ⟨את⟩ své děti, za které jsem ti sloužil ⟨אתך⟩, a odejdu; neboť ty znáš ⟨את⟩ mou službu, kterou jsem ti konal.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Dej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své ženy"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "své ženy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "své děti"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "své děti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za které"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "jsem sloužil"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩ ti",
+      "marks": "ti"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "(za ně)"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "a odejdu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znáš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou službu"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "mou službu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "jsem ti konal"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:50.320210125Z",
+  "model": "glm-5.3"
+}

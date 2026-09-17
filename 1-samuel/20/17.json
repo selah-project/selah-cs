@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A Jonatán přidal k tomu zapřísahat ⟨את⟩ Davida z lásky své k němu ⟨את⟩; neboť láskou své duše miloval ho.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "A přidal"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatán"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "zapřísahat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "z lásky své k němu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (on)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "láskou"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "své duše"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "miloval ho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:36.910786939Z",
+  "model": "glm-5.3"
+}

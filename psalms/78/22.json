@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "protože neuvěřili v Elohim a nedůvěřovali ⟨v⟩ jeho spásě.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "uvěřili"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "v Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "důvěřovali"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "⟨v⟩ jeho spásě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:58.398519847Z",
+  "model": "glm-5.3"
+}

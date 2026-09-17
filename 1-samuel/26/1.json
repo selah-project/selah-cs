@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 26:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Přišli ZIPIM k Šaulovi do GIBEA s ⟨slovy⟩: „Což se David neskryvá na výšině CHACHILA, na tváři JŠIMONU?“",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Přišli"
+    },
+    {
+      "surface": "הזפים",
+      "gloss": "ZIPIM"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulovi"
+    },
+    {
+      "surface": "הגבעתה",
+      "gloss": "do GIBEA"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s ⟨slovy⟩:"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Což ne"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "skryvá"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "na výšině"
+    },
+    {
+      "surface": "החכילה",
+      "gloss": "CHACHILA"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváři"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "JŠIMONU"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:24.259981501Z",
+  "model": "glm-5.3"
+}

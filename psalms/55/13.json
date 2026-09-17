@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Neboť ne nepřítel mě tupí — ⟨tím⟩ bych to unesl; ne ten, kdo mě nenávidí, se nade mnou vyvyšuje — ⟨od toho⟩ bych se skryl.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nepřítel"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "mě tupí"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "— bych to unesl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ten, kdo mě nenávidí"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mnou"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "se vyvyšuje"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "— bych se skryl"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od něj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:51.671378595Z",
+  "model": "glm-5.3"
+}

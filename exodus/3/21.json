@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A dám ⟨את⟩ přízeň tohoto lidu v očích Mizrajimců, a stane se, až půjdete, neodejdete prázdní.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "A dám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "přízeň"
+    },
+    {
+      "surface": "חן",
+      "gloss": "přízeň"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mizrajimců"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a stane se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "až"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "půjdete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "odejdete"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "prázdní"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:02.162120703Z",
+  "model": "glm-5.3"
+}

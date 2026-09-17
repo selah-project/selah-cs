@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Neboť Jahve miluje právo, a neopustí ⟨את⟩ své zbožné — navěky budou střeženi, ale potomstvo bezbožných bude vyťato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miluje"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "právo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "opustí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své zbožné"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "své zbožné"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "budou střeženi"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "ale potomstvo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "bude vyťato"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:55.281557792Z",
+  "model": "glm-5.3"
+}

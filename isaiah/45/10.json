@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "Běda tomu, kdo říká otci: Co plodíš? a ženě: Co rodíš?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kdo říká"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "otci"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "plodíš"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "a ženě"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "rodíš"
+    }
+  ],
+  "timestamp": "2026-09-17T08:13:13.800835138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "⟨A⟩ len a ječmen byly zasaženy, neboť ječmen ⟨byl⟩ v klasu a len ⟨byl⟩ v poupatu.",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "a len"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "a ječmen"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "byly zasaženy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "ječmen"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "v klasu"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "a len"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "v poupatu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:41.084262277Z",
+  "model": "glm-5.3"
+}

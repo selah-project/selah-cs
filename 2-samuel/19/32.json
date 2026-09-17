@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A Barzilaj Gileádský sestoupil z Rogelim a převedl ⟨את⟩ krále přes Jordán, aby ho vyprovodil ⟨את⟩ na Jordánu.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "A Barzilaj"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Gileádský"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sestoupil"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "z Rogelim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "a převedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "přes Jordán"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "aby ho vyprovodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "na Jordánu"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "na Jordánu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:37.204761928Z",
+  "model": "glm-5.3"
+}

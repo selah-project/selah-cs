@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "A nebesa vyhlásí jeho spravedlnost, neboť Elohim ⟨je⟩ soudce, on ⟨sám⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "A vyhlásí"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "jeho spravedlnost"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "soudce"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on ⟨sám⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:35.962556892Z",
+  "model": "glm-5.3"
+}

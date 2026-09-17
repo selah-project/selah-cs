@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A řekl k němu: Nejsou-li tvé tváče ⟨ty, které⟩ jdou ⟨s námi⟩, nevyveď nás odtud.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nejsou-li"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvé tváče"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "jdoucí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "vyveď nás"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "odtud"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:55.819203026Z",
+  "model": "glm-5.3"
+}

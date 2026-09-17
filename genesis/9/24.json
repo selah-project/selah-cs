@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A Noach se probudil ze svého vína a poznal ⟨את⟩ to, co mu udělal jeho mladší syn.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "a se probudil"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "ze svého vína"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "a poznal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co mu udělal jeho mladší syn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syn"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "mladší"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:07.357485364Z",
+  "model": "glm-5.3"
+}

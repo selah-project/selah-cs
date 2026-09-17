@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Synové ⟨lidí⟩, dokud bude má sláva ⟨dostávat⟩ hanbě? Milujete prázdnotu, hledáte lež. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Synové"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨lidí⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨jak dlouho⟩"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "má sláva"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "hanbě"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "Milujete"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "prázdnotu"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "hledáte"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lež"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-17T13:03:54.764746037Z",
+  "model": "glm-5.3"
+}

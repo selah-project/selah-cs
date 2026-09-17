@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 81,
+  "translation": "Vždyť to ⟨je⟩ ustanovení pro Izrael, právní řád pro Elohim Jakobovým ⟨Bohem⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "חק",
+      "gloss": "ustanovení"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pro Izrael"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "právní řád"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "pro Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:08.120163314Z",
+  "model": "glm-5.3"
+}

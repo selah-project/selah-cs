@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Tvé oči viděly můj neutvořený zárodek, a na tvou knihu budou zapsáni všichni ⟨ti⟩ — dny, které byli utvořeni, a žádný z nich ⟨ještě⟩ není.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "můj neutvořený zárodek"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "viděly"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvé oči"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "tvou knihu"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "budou zapsáni"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "kteří byli utvořeni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "z nich"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:33.937898346Z",
+  "model": "glm-5.3"
+}

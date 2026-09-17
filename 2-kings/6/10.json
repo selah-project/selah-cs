@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A poslal král Izraele ⟨lidi⟩ k ⟨tomu⟩ místu, o němž mu řekl muž Elohim a vyvaroval ⟨ho⟩; a dal tam ⟨na sebe⟩ pozor — ne jednou ani dvakrát.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "místu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o němž"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "a vyvaroval"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "a dal pozor"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvakrát"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:25.446013234Z",
+  "model": "glm-5.3"
+}

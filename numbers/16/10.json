@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "a přiblížil ⟨את⟩ tebe i ⟨את⟩ všechny tvé bratry, syny Léviho, ⟨את⟩ ⟨spolu⟩ s tebou — a vy hledáte také kněžství?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a přiblížil"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tebe",
+      "marks": "přiblížil tebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "všechny tvé bratry, syny Léviho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvé bratry"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Léviho"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨spolu⟩ s tebou"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "a hledáte"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "kněžství"
+    }
+  ],
+  "timestamp": "2026-09-17T06:45:13.565511545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 67,
+  "translation": "Ať se pozná na zemi tvá cesta, mezi všemi národy tvá spása.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ať se pozná"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tvá cesta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mezi všemi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "tvá spása"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:17.836111398Z",
+  "model": "glm-5.3"
+}

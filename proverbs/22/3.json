@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Opatrný vidí zlo a skryje se, ale průnaivní přecházejí a jsou potrestáni.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Opatrný"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidí"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "a skryje se"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "ale průnaivní"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "přecházejí"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "a jsou potrestáni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:14.722453888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "Neboť tento ⟨je⟩ Elohim, Elohim náš, navěky i na věčné časy; on nás povede přes smrt.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim náš"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i na věčné časy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "nás povede"
+    },
+    {
+      "surface": "על",
+      "gloss": "přes"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrt"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:19.011647847Z",
+  "model": "glm-5.3"
+}

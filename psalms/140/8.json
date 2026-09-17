@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 140,
+  "translation": "Jahve, Adonaj, sílo spásy mé, přikryl jsi ⟨jako štítem⟩ mou hlavu v den boje.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sílo"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "spásy mé"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "přikryl jsi"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "mou hlavu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "boje"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:47.805668018Z",
+  "model": "glm-5.3"
+}

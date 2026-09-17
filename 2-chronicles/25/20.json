@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Ale Amatsjahu neposlechl, neboť ⟨to⟩ bylo od Elohim, aby je mohl vydat do ruky, protože se dotazovali ⟨את⟩ Elohim Edomu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ale ne-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslechl"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsjahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "od Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨to⟩ bylo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "mohl vydat je"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "do ruky"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "se dotazovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Edomu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:30:59.789535468Z",
+  "model": "glm-5.3"
+}

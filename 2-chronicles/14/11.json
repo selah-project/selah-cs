@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "I porazil Jahve ⟨את⟩ Kušity před Asou a před Judou, a Kušité uprchli.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "I porazil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kušity"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kušity"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asou"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "a před"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judou"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "a uprchli"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kušité"
+    }
+  ],
+  "timestamp": "2026-09-17T10:27:52.825796096Z",
+  "model": "glm-5.3"
+}

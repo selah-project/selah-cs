@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A proč jsi nedodržel ⟨את⟩ přísahu Jahveovu a ⟨את⟩ přikázání, které jsem ti uložil?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "a proč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "jsi dodržel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "přísahu Jahveovu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "přísahu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "přikázání"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jsem uložil"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:56.321873049Z",
+  "model": "glm-5.3"
+}

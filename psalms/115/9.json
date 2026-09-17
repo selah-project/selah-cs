@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Izraeli, doufej v Jahve; jejich pomocí a jejich štítem ⟨je⟩ on.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "doufej"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "jejich pomocí"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "a jejich štítem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:13.859865723Z",
+  "model": "glm-5.3"
+}

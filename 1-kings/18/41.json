@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A Eliáš řekl Achabovi: Vystup, jez a pij, neboť ⟨je⟩ zvuk hukotu deště.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliáš"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Achabovi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "vystup"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jez"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "a pij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zvuk"
+    },
+    {
+      "surface": "המון",
+      "gloss": "hukotu"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "deště"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:11.809684462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 26:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A postavil tam oltář a vzýval jméno Jahve; tam roztáhl svůj stan a tam vykopali služebníci Jicákovi studnu.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "vzýval"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "jménem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "roztáhl"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "svůj stan"
+    },
+    {
+      "surface": "ויכרו",
+      "gloss": "vykopali"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služebníci"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicákovi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "studnu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:57.562018481Z",
+  "model": "glm-5.3"
+}

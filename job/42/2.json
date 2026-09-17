@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Vím, že ty můžeš všechno, a že žádný záměr nezakryje se před tebou:",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Vím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "můžeš"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "bude zakryt (odtržen)"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "záměr"
+    }
+  ],
+  "timestamp": "2026-09-17T09:53:52.055503725Z",
+  "model": "glm-5.3"
+}

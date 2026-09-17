@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A po něm soudil ⟨את⟩ Izrael Abdon, syn Hillela, Piratonský.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "a soudil"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "po něm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillela"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "Piratonský"
+    }
+  ],
+  "timestamp": "2026-09-17T11:47:33.287906882Z",
+  "model": "glm-5.3"
+}

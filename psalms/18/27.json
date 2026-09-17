@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "S čistým se ukážeš čistý, a s pokrouceným se ukážeš pokroucený.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "čistým"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "se ukážeš čistý"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a s"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "pokrouceným"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "se ukážeš pokroucený"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:20.519748633Z",
+  "model": "glm-5.3"
+}

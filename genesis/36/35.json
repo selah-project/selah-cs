@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 36:35",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Chúšám zemřel a místo něj se stal králem Hadad, syn Bedadův, který porazil ⟨את⟩ Midján na poli Moábu; jméno jeho města bylo Avít.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "zemřel"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Chúšám"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "stal se králem"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "Bedad"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "který porazil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midján"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midján"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jméno"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "jeho města"
+    },
+    {
+      "surface": "עוית",
+      "gloss": "Avít"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:06.651573057Z",
+  "model": "glm-5.3"
+}

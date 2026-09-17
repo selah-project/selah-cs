@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A Dalvid dal Šalomounovi, svému synu, ⟨את⟩ vzor předsíní a ⟨את⟩ jeho síně, jeho poklady, jeho horní místnosti a jeho vnitřní komnaty, a dům כַּפֹּרֶת ⟨(kaporet – trůn smíření)⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "A dal"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šalomounovi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svému synovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vzor předsíně"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "vzor"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "předsíně"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho síně"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "jeho síně"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "jeho poklady"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "jeho horní místnosti"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "jeho komnaty"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "vnitřní"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "a dům"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporetu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:23:31.151910401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Nevydávej mě vůli mých útlaku, neboť povstali proti mně svědci lstiví a síla násilí.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "vydávej mě"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "vůli"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mých útlaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "povstali"
+    },
+    {
+      "surface": "בי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "svědci"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lstiví"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "a síla"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "násilí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:27.161480526Z",
+  "model": "glm-5.3"
+}

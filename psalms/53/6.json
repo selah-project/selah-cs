@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 53,
+  "translation": "Tam se zmocnila ⟨je⟩ strachy hrůza, ⟨ačkoli⟩ žádná nebyla; neboť Elohim rozptýlil kosti toho, kdo ležel ⟨proti tobě⟩ ⟨na⟩ táboře. Uvedl ⟨jsi⟩ je do hanby, neboť Elohim je zavrhl.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Tam"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "zmocnila strachy"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "hrůza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "žádná"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nebyla"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "strach"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "rozptýlil"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "kdo ležel na táboře"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "Uvedl jsi do hanby"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "je zavrhl"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:55.649789454Z",
+  "model": "glm-5.3"
+}

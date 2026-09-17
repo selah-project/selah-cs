@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimnu a ⟨את⟩ její dvory, ⟨את⟩ Nahalal a ⟨את⟩ její dvory — čtyři města.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimnu"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimnu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "její dvory"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "její dvory"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalal"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "její dvory"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "její dvory"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "města"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "čtyři"
+    }
+  ],
+  "timestamp": "2026-09-17T07:10:27.521279252Z",
+  "model": "glm-5.3"
+}

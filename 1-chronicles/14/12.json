@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A opustili tam ⟨את⟩ své bohy, a David rozkázal, a byli spáleni ohněm.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "A opustili"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své bohy"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "své bohy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a rozkázal"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "a byli spáleni"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    }
+  ],
+  "timestamp": "2026-09-17T10:19:16.877522308Z",
+  "model": "glm-5.3"
+}

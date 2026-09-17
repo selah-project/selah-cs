@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 31:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Šest dní se bude konat práce, ale dne sedmého ⟨je⟩ šabat, odpočinek svatý ⟨patřící⟩ Jahvevi; kdokoli koná práci v den šabatu, smrtí zemře.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Šest"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bude konána"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "práce"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ale dne"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmého"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "odpočinek"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvevi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kdokoli"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "konající"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "práci"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabatu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:16.740567557Z",
+  "model": "glm-5.3"
+}

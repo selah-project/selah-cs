@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "I mluvil Jahve k Mojžíšovi a k Áronovi, řka ⟨k nim⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áronovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "k nim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:41.814281813Z",
+  "model": "glm-5.3"
+}

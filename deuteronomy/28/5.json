@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Požehnán tvůj koš i tvůj hnětač.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Požehnán"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "tvůj koš"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "i tvůj hnětač"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:46.100098694Z",
+  "model": "glm-5.3"
+}

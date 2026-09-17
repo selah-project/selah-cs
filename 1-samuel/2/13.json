@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A ⟨byl⟩ zvyk kněží vůči ⟨את⟩ lidu takový: když kterýkoli muž porážel oběť, přišel chlapec kněze, když se vařilo maso — a vidlice o třech zubech v jeho ruce.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "a zvyk"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "porážel"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "נער",
+      "gloss": "chlapec"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "když se vařilo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "a vidlice"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "zuby"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v jeho ruce"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:11.347426292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A toto jsou jména mužů: pro kmen Jehuda, Kalev bin Jefune.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A toto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jsou jména"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pro kmen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehuda"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefune"
+    }
+  ],
+  "timestamp": "2026-09-17T06:51:57.959259439Z",
+  "model": "glm-5.3"
+}

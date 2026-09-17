@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 97,
+  "translation": "Kteří milujete Jahve, nenáviďte zlo; ⟨on⟩ střeží duše svých zbožných, z ruky bezbožných je vysvobodí.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Kteří milujete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "nenáviďte"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "střeží"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "duše"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "svých zbožných"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "je vysvobodí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:49.342118472Z",
+  "model": "glm-5.3"
+}

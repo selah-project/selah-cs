@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A dobyl ⟨את⟩ opevněná města, která patřila Judovi, a přitáhl až k Jeruzalému.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "A dobyl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opevněná města"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "opevněná"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "patřila Judovi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přitáhl"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "k Jeruzalému"
+    }
+  ],
+  "timestamp": "2026-09-17T10:26:35.635141395Z",
+  "model": "glm-5.3"
+}

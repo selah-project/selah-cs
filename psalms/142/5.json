@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 142,
+  "translation": "Hledím ⟨na⟩ pravou stranu a vidím, ale není mi ⟨nikoho⟩, kdo by mě poznal; zmizel útulek přede mnou, není ⟨nikoho⟩, kdo by se ptal po mé duši.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Hledím"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "pravou stranu"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a vidím"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ale není"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "kdo by mě poznal"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "zmizel"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "útulek"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "kdo by se ptal"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "po mé duši"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:37.790731022Z",
+  "model": "glm-5.3"
+}

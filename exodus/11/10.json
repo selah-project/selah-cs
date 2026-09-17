@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Moše a Árón učinili ⟨את⟩ všechna ⟨tato⟩ znamení před Faraonem; a Jahve posílil ⟨את⟩ srdce Faraonovo, a nepropustil ⟨את⟩ syny Izraele ze své země.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "A Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Árón"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učinili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechna tato znamení"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "znamení"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨tato⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonem"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "a posílil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdce Faraonovo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraonovo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "propustil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ze své země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:30.789068729Z",
+  "model": "glm-5.3"
+}

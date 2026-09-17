@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Tak řekl Jahve: Kvůli třem přestoupením Damašku a kvůli čtyřem ⟨je⟩ neodvolám, protože thrásťovali Gileád brány železnými ⟨את⟩ ⟨tím, co se týká⟩ Gileádu — v železných mlatebnících Gileád.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "Kvůli třem"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "třem"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "přestoupením"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damašku"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a kvůli čtyřem"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "čtyřem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "odvolám"
+    },
+    {
+      "surface": "על",
+      "gloss": "protože"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "thrásťovali"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "mlatebníky"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "železnými"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gileád"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileád"
+    }
+  ],
+  "timestamp": "2026-09-17T08:59:44.962521380Z",
+  "model": "glm-5.3"
+}

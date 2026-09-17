@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A přišli až k humnu Kidon, a Uza vyslal ⟨את⟩ svou ruku, aby uchopil ⟨את⟩ archu, neboť volové se potácely.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "a přišli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "humnu"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kidon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a vyslal"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "aby uchopil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "se potácely"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "volové"
+    }
+  ],
+  "timestamp": "2026-09-17T10:19:36.314211320Z",
+  "model": "glm-5.3"
+}

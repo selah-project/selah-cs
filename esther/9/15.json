@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 9:15",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A Židé, kteří byli v Šúšanu, se shromáždili také ve dne čtrnáctém měsíce adaru, a zabili v Šúšanu tři sta mužů; avšak na kořist nevztáhli ⟨את⟩ svou ruku.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "se shromáždili"
+    },
+    {
+      "surface": "היהודיים",
+      "gloss": "Židé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "v Šúšanu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "čtrnácti"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(čtyř)–náct"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "adaru"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "a zabili"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "v Šúšanu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "avšak na kořist"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "vztáhli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "svou ruku"
+    }
+  ],
+  "timestamp": "2026-09-17T13:02:42.472308785Z",
+  "model": "glm-5.3"
+}

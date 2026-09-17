@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Vložili oheň do tvé svatyně, na zem znesvětili příbytek tvého Jména.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "vložili"
+    },
+    {
+      "surface": "באש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "do tvé svatyně"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na zem"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "znesvětili"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "příbytek"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvého Jména"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:36.034242403Z",
+  "model": "glm-5.3"
+}

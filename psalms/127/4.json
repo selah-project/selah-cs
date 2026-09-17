@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 127,
+  "translation": "Jako střely v ruce hrdiny, tak jsou synové mládí.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Jako střely"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v ruce"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hrdiny"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "mládí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:23.727877823Z",
+  "model": "glm-5.3"
+}

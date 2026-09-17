@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Přidal jsi národu, Jahve, přidal jsi národu, oslaven jsi, vzdálil jsi všechny končiny země.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "Přidal jsi"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "národu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "přidal jsi"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "národu"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "oslaven jsi"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "vzdálil jsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "končiny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T08:07:26.699808675Z",
+  "model": "glm-5.3"
+}

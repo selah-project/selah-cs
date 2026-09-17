@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Svatým, kteří jsou v zemi — to jsou oni, a vznešení: veškeré mé zalíbení ⟨je⟩ v nich.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "svatým"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "a vznešení"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "mé zalíbení"
+    },
+    {
+      "surface": "בם",
+      "gloss": "v nich"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:15.928228002Z",
+  "model": "glm-5.3"
+}

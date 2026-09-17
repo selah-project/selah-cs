@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A ⟨את⟩ všechen jeho tuk přinese z něj: ⟨את⟩ tuční ocas i ⟨את⟩ tuk, který přikrývá ⟨את⟩ vnitřnosti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechen jeho tuk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "jeho tuk"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "přinese"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuční ocas"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "tuční ocas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tuk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "který přikrývá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vnitřnosti"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "vnitřnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:59.832074354Z",
+  "model": "glm-5.3"
+}

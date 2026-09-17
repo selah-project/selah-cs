@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Šabat šabaton ⟨je⟩ pro vás; budete trápit ⟨את⟩ své duše; devátého ⟨dne⟩ měsíce, večer, od večera do večera budete světit svůj šabat.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Šabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "šabaton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pro vás"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "budete trápit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své duše"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "své duše"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "devátého"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "od večera"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večera"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "budete světit"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "svůj šabat"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:40.822541247Z",
+  "model": "glm-5.3"
+}

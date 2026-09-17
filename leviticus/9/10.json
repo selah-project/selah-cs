@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A ⟨את⟩ tuk a ⟨את⟩ ledviny a ⟨את⟩ lalok od jater, od hříšné oběti, spálil na kouř na oltáři, jak přikázal Jahve ⟨את⟩ Mojžíšovi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tuk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ledviny"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ledviny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "lalok"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jater"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hříšné oběti"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "spálil na kouř"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltáři"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:06.693758125Z",
+  "model": "glm-5.3"
+}

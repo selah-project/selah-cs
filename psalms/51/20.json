@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Dobře učiž podle svého líbíti ⟨את⟩ Sijón; vystavíš hradby Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Dobře učiž"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "podle svého líbíti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sijón"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijón"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "vystavíš"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "hradby"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:30.479014754Z",
+  "model": "glm-5.3"
+}

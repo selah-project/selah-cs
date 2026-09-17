@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Já zajisté ⟨jsem⟩ hotov klopýtat a má bolest ⟨je⟩ stále přede mnou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "zajisté"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "hotov klopýtat"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "⟨jsem⟩ připraven"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "a má bolest"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:12.080471875Z",
+  "model": "glm-5.3"
+}

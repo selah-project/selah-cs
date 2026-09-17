@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 17:21",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Ale ⟨את⟩ svou smlouvu ustanovím s Jicchakem, kterého ti porodí Sára ⟨את⟩ k tomuto stanovenému času v příštím roce.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svou smlouvu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svou smlouvu"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ustanovím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchakem"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "s Jicchakem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterého"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "porodí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sára"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ke stanovenému času"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomuto"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "v roce"
+    },
+    {
+      "surface": "האחרת",
+      "gloss": "příštím"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:40.950035755Z",
+  "model": "glm-5.3"
+}

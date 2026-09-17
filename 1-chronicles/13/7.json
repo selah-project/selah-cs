@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A převezli ⟨את⟩ archu Elohim na novém voze z domu Avinadava; Uza a jeho bratři vůz řídili.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "převezli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "voze"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "novém"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadava"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "a jeho bratři"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "řídili"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "vůz"
+    }
+  ],
+  "timestamp": "2026-09-17T10:19:59.932650913Z",
+  "model": "glm-5.3"
+}

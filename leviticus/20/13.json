@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 20:13",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A ⟨jestliže⟩ muž bude ležet ⟨s⟩ ⟨את⟩ mužem ložem ženy, ohavnost spáchali oba; smrtí budou usmrceni, krev jejich ⟨bude⟩ na nich.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A ⟨jestliže⟩ muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "bude ležet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨s⟩ ⟨את⟩",
+      "marks": "mužem"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mužem"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ložem"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ohavnost"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "spáchali"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "budou usmrceni"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "krev jejich"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na nich"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:19.145283979Z",
+  "model": "glm-5.3"
+}

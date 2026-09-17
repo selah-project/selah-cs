@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "V pokoji spočinu a usnu, neboť ty, Jahve, jedině sám ⟨mě⟩ dáváš bydlet v bezpečí.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "v pokoji"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "spolu"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "spočinu"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "a usnu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "jedine sám"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "v bezpečí"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "dáváš bydlet ⟨mě⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:04.588683843Z",
+  "model": "glm-5.3"
+}

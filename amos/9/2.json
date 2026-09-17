@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Kdyby provrtali ⟨skrz⟩ do šeolu, odtud je vezme má ruka; a kdyby vystoupili na nebesa, odtud je svedu dolů.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kdyby"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "provrtali"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "do šeolu"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "má ruka"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "je vezme"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a kdyby"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "vystoupili"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "na nebesa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "je svedu dolů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:01:39.475551821Z",
+  "model": "glm-5.3"
+}

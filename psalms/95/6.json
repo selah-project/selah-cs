@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 95,
+  "translation": "Pojďme, sklánějme se a padneme na kolena, poklekněme před Jahvem, svým Tvůrcem!",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "pojďme"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "sklánějme se"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "a padneme na kolena"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "poklekněme"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "svým Tvůrcem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:32.506440451Z",
+  "model": "glm-5.3"
+}

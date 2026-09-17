@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "V prvním, čtrnáctého dne měsíce, večer budete jíst nekvašené chleby, až do dne jednoho a dvacátého měsíce, večer.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "v prvním"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(na)ce"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "budete jíst"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "nekvašené chleby"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "a dvacátého"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "večer"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:20.594095933Z",
+  "model": "glm-5.3"
+}

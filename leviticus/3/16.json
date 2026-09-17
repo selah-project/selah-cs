@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A kněz je spálí na oltáři jako pokrm ohněné oběti, vůni uklidnění; všechen tuk patří Jahve.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "A spálí je"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltáři"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "jako pokrm"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ohněné oběti"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "vůni"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "uklidnění"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "patří Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:57.080809112Z",
+  "model": "glm-5.3"
+}

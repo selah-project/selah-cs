@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A viděl Balak, syn Cipora, ⟨את⟩ všechno, co učinil Israel Emorejcům.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "A viděl"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Cipora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "Emorejcům"
+    }
+  ],
+  "timestamp": "2026-09-17T06:47:35.140841479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Jestliže ⟨nás⟩ pošleš ⟨את⟩ našeho bratra ⟨את⟩ s námi, sestoupíme a nakoupíme pro tebe jídlo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "chceš (je ti)"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "pošleš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "našeho bratra"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "našeho bratra"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ s námi"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "sestoupíme"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "a nakoupíme"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pro tebe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jídlo"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:12.344509383Z",
+  "model": "glm-5.3"
+}

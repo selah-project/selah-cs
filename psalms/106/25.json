@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "A reptili ve svých stanech, neposlechli hlasu Jahve.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "a reptili"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "ve svých stanech"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslechli"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlasu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:42.458476497Z",
+  "model": "glm-5.3"
+}

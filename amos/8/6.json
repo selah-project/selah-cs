@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "abychom kupovali za stříbro chudé a nuzného za sandály, a odpad ⟨od⟩ pšenice prodávali?",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "abychom kupovali"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "za stříbro"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "chudé"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "a nuzného"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "za"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "sandály"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "a odpad"
+    },
+    {
+      "surface": "בר",
+      "gloss": "pšenice"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "prodávali"
+    }
+  ],
+  "timestamp": "2026-09-17T09:00:58.941844885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A hodím tebe ⟨את⟩ i svou ⟨את⟩ matku tvou, která tě zrodila, na zem jinou, na níž jste se nenarodili, a tam zemřete.",
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "a hodím"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "tebe ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ i",
+      "marks": "matku tvou"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "matku tvou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "tě zrodila"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "jinou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na níž"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "jste se narodili"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a tam"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "zemřete"
+    }
+  ],
+  "timestamp": "2026-09-17T08:25:03.225003972Z",
+  "model": "glm-5.3"
+}

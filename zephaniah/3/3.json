@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Její knížata v jejím středu ⟨jsou⟩ lvové řvoucí; její soudci vlci večerní — do rána nenechali ⟨ani⟩ kosti.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Její knížata"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "v jejím středu"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "lvové"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "řvoucí"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "její soudci"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "vlci"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večerní"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "nechali kosti"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "do rána"
+    }
+  ],
+  "timestamp": "2026-09-17T09:05:56.628039807Z",
+  "model": "glm-5.3"
+}

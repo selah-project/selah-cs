@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Najde tvá ruka všechny tvé nepřátele, tvá pravice najde ty, kdo tě nenávidí.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "najde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvá ruka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tvé nepřátele"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvá pravice"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "najde"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ty, kdo tě nenávidí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:53.569807035Z",
+  "model": "glm-5.3"
+}

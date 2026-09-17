@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "I řekl David: Živý je Jahve — ⟨jenom⟩ Jahve ho zasáhne, nebo přijde jeho den a zemře, nebo sestoupí do bitvy a bude vyhlazen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Živý"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨jenom⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "ho zasáhne"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "jeho den"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "přijde"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a zemře"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "do bitvy"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sestoupí"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "a bude vyhlazen"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:56.428237304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Neboť živí vědí, že zemřou, ale mrtví nevědí už ničeho, a není jim ⟨odměna⟩ ⟨už⟩, protože jejich památka je zapomenuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "živí"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "vědí"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "že zemřou"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "ale mrtví"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nevědí už"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "(nic) nevědí"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ničeho"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "odměna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "je zapomenuta"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "jejich památka"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:12.398636322Z",
+  "model": "glm-5.3"
+}

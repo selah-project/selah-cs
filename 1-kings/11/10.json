@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "a přikázal mu ohledně této věci, aby nechodil za jinými bohy; ale nezachoval ⟨את⟩ to, co přikázal Jahve.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ohledně"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věci"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "této"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "aby ne"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "chodil"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bohy"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "jinými"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "zachoval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co přikázal Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:15.702208695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Žízní má duše po Elohim, po El živém: kdy přijdu a uvidím tvář Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "Žízní"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "po Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "po El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živém"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kdy"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "přijdu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "a uvidím"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:17.121373522Z",
+  "model": "glm-5.3"
+}

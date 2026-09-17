@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Vezmi ⟨את⟩ levity ze středů synů Izraele, a očistíš ⟨את⟩ je.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Vezmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levity"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levity"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ze středů"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "a očistíš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T06:42:27.246909004Z",
+  "model": "glm-5.3"
+}

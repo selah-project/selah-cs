@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 138,
+  "translation": "A budou zpívat o cestách Jahve, neboť veliká je sláva Jahve.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "A budou zpívat"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "o cestách"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliká"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sláva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:45.647528634Z",
+  "model": "glm-5.3"
+}

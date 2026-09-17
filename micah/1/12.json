@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Neboť zhořkla do dobra obyvatelka Marótu, neboť sestouplo zlo od ⟨את⟩ Jahveho až k bráně Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "zhořkla"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "do dobra"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "obyvatelka"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marótu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sestouplo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "zlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "k bráně"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T09:02:33.934678148Z",
+  "model": "glm-5.3"
+}

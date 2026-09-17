@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A neposlechne vás faraón; pak vložím ⟨את⟩ svou ruku na Egypt a vyvedu ⟨את⟩ svá vojska, ⟨את⟩ svůj lid, syny Izraele, z egyptské země velkými soudy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "A ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "poslechne"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "vás"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraón"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "pak vložím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Egypt"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "a vyvedu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá vojska"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "svá vojska"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj lid"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptské"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "soudy"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "velkými"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:12.752989751Z",
+  "model": "glm-5.3"
+}

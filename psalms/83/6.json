@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 83,
+  "translation": "Neboť se radili srdcem ⟨společně⟩, proti tobě smlouvu uzavřeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "se radili"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdcem"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "⟨společně⟩"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "proti tobě"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvu"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "uzavřeli"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:48.297260634Z",
+  "model": "glm-5.3"
+}

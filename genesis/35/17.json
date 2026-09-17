@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A stalo se, když jí přicházelo těžce při porodu, že jí řekla porodní babička: Neboj se, neboť i tento ⟨je⟩ ti synem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "když jí přicházelo těžce"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "při porodu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "že řekla"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "porodní babička"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:41.992447016Z",
+  "model": "glm-5.3"
+}

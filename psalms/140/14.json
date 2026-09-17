@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 140,
+  "translation": "Jistě spravedliví budou vzdávat díky tvému jménu, přímí budou bydlet ⟨את⟩ tvou tváří.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jistě"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "spravedliví"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "budou vzdávat díky"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "tvému jménu"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "budou bydlet"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "přímí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou tváří"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvou tváří"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:02.690836463Z",
+  "model": "glm-5.3"
+}

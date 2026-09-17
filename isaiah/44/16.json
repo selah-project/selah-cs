@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 44:16",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Půlku spálil v ohni, na její půlce peče maso, sní peřinu a nasytí se; zahřeje se a řekne: Hé! Zahřál jsem se, viděl jsem plamen.",
+  "tokens": [
+    {
+      "surface": "חציו",
+      "gloss": "půlku"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spálil"
+    },
+    {
+      "surface": "במו",
+      "gloss": "v"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ohni"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "půlce"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sní"
+    },
+    {
+      "surface": "יצלה",
+      "gloss": "peče"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "peřinu"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "a nasytí se"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ano"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "zahřeje se"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekne"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hé!"
+    },
+    {
+      "surface": "חמותי",
+      "gloss": "zahřál jsem se"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "viděl jsem"
+    },
+    {
+      "surface": "אור",
+      "gloss": "plamen"
+    }
+  ],
+  "timestamp": "2026-09-17T08:14:05.179730195Z",
+  "model": "glm-5.3"
+}

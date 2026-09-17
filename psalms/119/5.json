@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Kéž by ⟨byly⟩ upevněny ⟨moje⟩ cesty, abych ⟨ti⟩ zachovával ⟨tvá⟩ ustanovení!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Kéž by"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "upevněny"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "cesty"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "abych zachovával"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ustanovení"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:54.949359169Z",
+  "model": "glm-5.3"
+}

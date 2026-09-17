@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 91,
+  "translation": "Řeknu Jahveovi: ⟨on je⟩ mé útočiště a má pevnost, můj Elohim, v něž důvěřuji.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Řeknu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveovi"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mé útočiště"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "a má pevnost"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "můj Elohim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "důvěřuji"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něž"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:32.115259617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A vy, plodte a rozmnožujte se, rojte se ⟨na⟩ zemi a rozmnožujte se na ní.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "a vy"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "plodte"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "a rozmnožujte se"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "rojte se"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ zemi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "a rozmnožujte se"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ní"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:03.931691015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Přebíhej svou zemi jako řeku, dcero Taršíšská — není už ⟨opasku⟩ pouta.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Přebíhej"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "svou zemi"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "jako řeku"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcero"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taršíšská"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "⟨opasku⟩ pouta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:41.911959157Z",
+  "model": "glm-5.3"
+}

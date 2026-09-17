@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 86,
+  "translation": "Není jako ty mezi ⟨bohy⟩, Adonaji, a nejsou jako tvá díla ⟨žádná⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jako ty"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "mezi bohy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaji"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nejsou"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "jako tvá díla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:56.748425494Z",
+  "model": "glm-5.3"
+}

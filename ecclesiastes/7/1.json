@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Lépe ⟨je⟩ jméno než dobrý olej, a den smrti ⟨lépe⟩ než den ⟨jeho⟩ zrození.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Lépe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "než olej"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrý"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "a den"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "než den"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "zrození"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:56.801863153Z",
+  "model": "glm-5.3"
+}

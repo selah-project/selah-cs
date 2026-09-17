@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A lid, který byl za Omrim, přemohl ⟨את⟩ lid, který byl za Tibním, synem Ginatovým; a Tibní zemřel a Omri kraloval.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a přemohl"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibním"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginatovým"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibní"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a kraloval"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:55.135308168Z",
+  "model": "glm-5.3"
+}

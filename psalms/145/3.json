@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Veliký ⟨je⟩ Jahve a velmi chvályhodný, a jeho velikosti není možné vystopovat.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Veliký"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "a velmi chvályhodný"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "a jeho velikosti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "možné vystopovat"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:41.186459741Z",
+  "model": "glm-5.3"
+}

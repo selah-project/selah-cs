@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Pravice Jahve je vyvýšena, pravice Jahve koná hrdinství!",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "pravice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "je vyvýšena"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "pravice"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "koná"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hrdinství"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:31.176507351Z",
+  "model": "glm-5.3"
+}

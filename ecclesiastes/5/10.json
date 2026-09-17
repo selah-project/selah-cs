@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 5:10",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Když se rozmnoží dobro, rozmnoží se ty, kdo je jedí; a jaký ⟨má⟩ užitek jeho majitel? Jen ⟨to⟩, že se dívají jeho oči.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "když se rozmnoží"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "rozmnoží se"
+    },
+    {
+      "surface": "אוכליה",
+      "gloss": "ti, kdo je jedí"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "a jaký"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "užitek"
+    },
+    {
+      "surface": "לבעליה",
+      "gloss": "jeho majitel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jen"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "se dívají"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "jeho oči"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:40.665275722Z",
+  "model": "glm-5.3"
+}

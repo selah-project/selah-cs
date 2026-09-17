@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A sklonila se Batšeba a poklonila se králi; a řekl král: Co je ⟨s tebou⟩, co chceš?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "A sklonila se"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "šeba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "a poklonila se"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "לך",
+      "gloss": "je tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:45.114569447Z",
+  "model": "glm-5.3"
+}

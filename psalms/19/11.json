@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Jsou žádoucnější než zlato, ano, než hojnost ryzího zlata, a sladší než med a plástev kapající medem.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "žádoucnější"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "než zlato"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ano, než ryzí zlato"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hojnost"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "a sladší"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "než med"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "a kapající med"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "plástev"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:05.882750356Z",
+  "model": "glm-5.3"
+}

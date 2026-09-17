@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Pro předního zpěváka, Davidův. V Jahve se utíkám; jak říkáte mé duši: Uteč na svou horu jako pták?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "V Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "se utíkám"
+    },
+    {
+      "surface": "איך",
+      "gloss": "jak"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "říkáte"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mé duši"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Uteč"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "na svou horu"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "jako pták"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:35.190852597Z",
+  "model": "glm-5.3"
+}

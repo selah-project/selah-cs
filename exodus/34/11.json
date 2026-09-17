@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Střez si ⟨את⟩ to, co já ti přikazuji dnes: hle, já ženu před tvou tváří ⟨את⟩ Emorejce a Kenaanejce a Chetejce a Perizejce a Chivejce a Jebusejce.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "střez"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co já ti přikazuji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ti přikazuji"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hle, já"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "před tvou tváří"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorejce"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejce"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "a Kenaanejce"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "a Chetejce"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "a Perizejce"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "a Chivejce"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "a Jebusejce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:28.912221373Z",
+  "model": "glm-5.3"
+}

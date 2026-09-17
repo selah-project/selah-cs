@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Jahve, ty nám ustanovíš pokoj, neboť všechno, i všechny naše činy, jsi vykonal za nás.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "ustanovíš"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "naše činy"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "jsi vykonal"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "za nás"
+    }
+  ],
+  "timestamp": "2026-09-17T08:07:21.953635755Z",
+  "model": "glm-5.3"
+}

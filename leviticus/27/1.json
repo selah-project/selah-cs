@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "I mluvil Jahve k Mojžíšovi, řka:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:24.095023488Z",
+  "model": "glm-5.3"
+}

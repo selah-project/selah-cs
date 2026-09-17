@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Střež duši mou a vytrhni mě; ať nejsu zahanben, neboť k tobě se utíkám.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Střež"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duši mou"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "a vytrhni mě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "jsu zahanben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "se utíkám"
+    },
+    {
+      "surface": "בך",
+      "gloss": "k tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:16.890673725Z",
+  "model": "glm-5.3"
+}

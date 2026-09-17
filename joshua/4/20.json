@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A ⟨את⟩ těch dvanáct kamenů, které vzali z Jordánu, vztyčil Jozue v Gilgalu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dvanáct kamenů"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvanáct"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(část čísla dvanáct)"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamenů"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "těch"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "vzali"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordánu"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "vztyčil"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "v Gilgalu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:47:41.296039680Z",
+  "model": "glm-5.3"
+}

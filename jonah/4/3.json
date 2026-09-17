@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A nyní, Jahve, vezmi prosím ⟨את⟩ moji nefEši ode mne, neboť lepší je má smrt než můj život.“",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קח",
+      "gloss": "vezmi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moji nefši"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji nefši"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lepší"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "má smrt"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "než můj život"
+    }
+  ],
+  "timestamp": "2026-09-17T09:01:57.245593671Z",
+  "model": "glm-5.3"
+}

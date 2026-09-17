@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Ne — Ester nevyjádřila své příbuzenstvo ani ⟨את⟩ svůj lid, jak jí přikázal Mordokaj; a ⟨את⟩ příkaz Mordokaje Ester konala, jako byla ve výchově ⟨את⟩ s ním.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "nevyjádřila"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "své příbuzenstvo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svůj lid"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "příkaz Mordokaje"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "příkaz"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaje"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "konala"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jako"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "byla"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "ve výchově"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:16.610712167Z",
+  "model": "glm-5.3"
+}

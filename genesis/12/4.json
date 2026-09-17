@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "I šel Abram, jak k němu mluvil Jahve, a šel ⟨את⟩s ním Lot; a Abrámovi ⟨bylo⟩ pět a sedmdesát let, když vycházel z Cháranu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i šel"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩s ním",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "a Abramovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pět"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "a sedmdesát"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "když vycházel"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "z Cháranu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:58.599475570Z",
+  "model": "glm-5.3"
+}

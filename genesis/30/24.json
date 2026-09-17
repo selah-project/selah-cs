@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A nazvala ⟨את⟩ jeho jméno Josef, řkouce: Jahve mi přidá jiného syna.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "nazvala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řkouce"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "přidá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jiného"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:21.506703677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A vrátil se Ravšake a našel ⟨את⟩ krále Asšura, jak bojuje proti Libně; neboť uslyšel, že odjel z Lakíše.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "šake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "a našel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále Asšura"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asšura"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "bojuje"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libně"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uslyšel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "odjel"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "z Lakíše"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:03.130263262Z",
+  "model": "glm-5.3"
+}

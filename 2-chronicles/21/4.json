@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Jehoram povstal nad královstvím svého otce a upevnil se a zabil ⟨את⟩ všechny své bratry mečem — a také ⟨některé⟩ z předních mužů Israele.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "povstal"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "královstvím"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "a upevnil se"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "a zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny své bratry"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "své bratry"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mečem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a také"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "z předních mužů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    }
+  ],
+  "timestamp": "2026-09-17T10:29:23.038588338Z",
+  "model": "glm-5.3"
+}

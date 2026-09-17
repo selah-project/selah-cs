@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Ať se stydí a hanbí ti, kdo usilují o můj život; ať couvnou zpět a ať se ztrapní ti, kdo strojí mé zlo.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Ať se stydí"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "a hanbí"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ti, kdo usilují"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "o můj život"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ať couvnou"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "zpět"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "a ať se ztrapní"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "ti, kdo strojí"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mé zlo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:11.560803312Z",
+  "model": "glm-5.3"
+}

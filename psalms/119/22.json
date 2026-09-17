@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Odvalej ode mne potupu a pohrdání, neboť tvá svědectví jsem střežil.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "odvalej"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "potupu"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "a pohrdání"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tvá svědectví"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "jsem střežil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:59.671341801Z",
+  "model": "glm-5.3"
+}

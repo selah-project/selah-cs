@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "„A ať synové Izraele konají ⟨את⟩ pesach v jeho stanovenou dobu.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ať konají"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "v jeho stanovenou dobu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:43:02.000668131Z",
+  "model": "glm-5.3"
+}

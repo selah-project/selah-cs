@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A žil Enóš po zplodení ⟨את⟩ Kénana osm set patnáct let a zplodil syny a dcery.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "žil"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enóš"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zplodení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kénana"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kénana"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pět"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-náct"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "osm"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "a dcery"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:55.702341076Z",
+  "model": "glm-5.3"
+}

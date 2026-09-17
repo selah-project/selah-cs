@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Ubohý jsem já a umírající od mládí; nesl jsem tvé hrůzy, jsem zcela zmaten.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "ubohý"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jsem já"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "a umírající"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "od mládí"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nesl jsem"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "tvé hrůzy"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "jsem zmaten"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:55.409035375Z",
+  "model": "glm-5.3"
+}

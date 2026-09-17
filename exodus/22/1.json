@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Pokud je zloděj nalezen při vylamování ⟨do domu⟩ a je ubit a zemře, není ⟨za⟩ jeho krev viny.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Pokud"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "při vylamování"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "je nalezen"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "zloděj"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "a je ubit"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a zemře"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨za⟩ něj"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "viny krve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:59.799855843Z",
+  "model": "glm-5.3"
+}

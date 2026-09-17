@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A tito se mu narodili v Jeruzalémě: Šima a Šovav a Nátan a Šalomoun — čtyři ⟨od⟩ Bat-šuy, dcery Amielovy.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A tito"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "se narodili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Šima"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "a Šovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a Nátan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "a Šalomoun"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "⟨od⟩ Bat-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "šuy"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcery"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amielovy"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:44.426913257Z",
+  "model": "glm-5.3"
+}

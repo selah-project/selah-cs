@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "I řekl Josef k ⟨tomuto⟩ lidu: Hle, koupil jsem dnes ⟨את⟩ vás i ⟨את⟩ vaši půdu pro faraona; hle, pro vás ⟨je⟩ osivo — a vysejete ⟨את⟩ ⟨tu⟩ půdu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨tomuto⟩ lidu"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "koupil jsem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vás"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "vaši půdu"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "vaši půdu"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "pro faraona"
+    },
+    {
+      "surface": "הא",
+      "gloss": "hle"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pro vás"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "osivo"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "a vysejete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu půdu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨tu⟩ půdu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:54.978969303Z",
+  "model": "glm-5.3"
+}

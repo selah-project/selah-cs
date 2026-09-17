@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Odpočinula, ztišila se celá země, ⟨zem⟩ propukla v jasavý zpěv.",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "Odpočinula"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ztišila se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "propukly ⟨zem⟩"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "v jasavý zpěv"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:41.398747628Z",
+  "model": "glm-5.3"
+}

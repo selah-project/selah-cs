@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Nad nimi bydlí ptactvo nebes, mezi větvemi vydávají hlas.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "nad nimi"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactvo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "bydlí"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "větvemi"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "vydávají"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:58.552837394Z",
+  "model": "glm-5.3"
+}

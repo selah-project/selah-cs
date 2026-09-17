@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "I šli a udělali synové Izraele, jak přikázal Jahve ⟨את⟩ Mojžíše a Árona; tak učinili.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "i šli"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "a udělali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše a Árona"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Árona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učinili"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:26.071800258Z",
+  "model": "glm-5.3"
+}

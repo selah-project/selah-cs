@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A nyní se střez, prosím, a nepij víno ani opojný nápoj a nejez žádnou nečistou věc.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "se střez"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "pij"
+    },
+    {
+      "surface": "יין",
+      "gloss": "víno"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "opojný nápoj"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "jez"
+    },
+    {
+      "surface": "כל",
+      "gloss": "žádnou"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečistou věc"
+    }
+  ],
+  "timestamp": "2026-09-17T07:17:50.289888692Z",
+  "model": "glm-5.3"
+}

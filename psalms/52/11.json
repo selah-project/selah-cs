@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Díky ti budu vzdávat na věky, nebo jsi to učinil; a očekávám tvé jméno, neboť jest dobré před tvými zbožnými.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Díky ti budu vzdávat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi to učinil"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "a očekávám"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "jest dobré"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "před"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "tvými zbožnými"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:37.307421222Z",
+  "model": "glm-5.3"
+}

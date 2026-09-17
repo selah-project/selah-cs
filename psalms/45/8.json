@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "Miluješ spravedlnost a nenávidíš bezbožnost; proto tě pomazal Elohim, Elohim tvůj, olejem radosti ⟨více než⟩ tvé druhy.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "miluješ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "a nenávidíš"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožnost"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨tudíž⟩"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "pomazal tě"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvůj"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olejem"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "radosti"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "tvé druhy"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:41.147666231Z",
+  "model": "glm-5.3"
+}

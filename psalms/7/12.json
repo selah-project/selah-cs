@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Elohim ⟨je⟩ soudce spravedlivý, a El se hněvá ⟨na zlého⟩ každý den.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "soudce"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "se hněvá"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T11:57:24.569839728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Neboť ty ubohý lid vysvobozuješ, a pyšné oči ponižuješ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubohý"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "vysvobozuješ"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "a oči"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "pyšné"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "ponižuješ"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:20.519908862Z",
+  "model": "glm-5.3"
+}

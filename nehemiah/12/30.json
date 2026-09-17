@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A očistili se kněží a levité, a očistili ⟨את⟩ lid, ⟨את⟩ brány i ⟨את⟩ hradbu.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "A očistili se"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "a levité"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "a očistili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brány"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "brány"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hradbu"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "hradbu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:14:23.730762218Z",
+  "model": "glm-5.3"
+}

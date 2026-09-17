@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "Pozvedni se, soudce ⟨celé⟩ země, vrať odplatu pyšným!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Pozvedni se"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "soudce"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "השב",
+      "gloss": "vrať"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "odplatu"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "pyšným"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:24.103474782Z",
+  "model": "glm-5.3"
+}

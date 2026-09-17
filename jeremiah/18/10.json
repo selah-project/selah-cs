@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "a bude-li konat to zlé v mých očích, takže neposlechne mého hlasu, budu litovat dobra, o němž jsem řekl, že mu je prospěji ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "a bude-li konat"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "to zlé"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v mých očích"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "takže ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslechne"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "mého hlasu"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "budu litovat"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o němž"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jsem řekl"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "že prospěji"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ mu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:24:46.049452648Z",
+  "model": "glm-5.3"
+}

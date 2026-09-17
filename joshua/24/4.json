@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A dal jsem Jicchakovi ⟨את⟩ Jaakoba a ⟨את⟩ Ésavovi; a dal jsem Ésavovi ⟨את⟩ horu Seír k držení ⟨את⟩ ní; a Jaakob a jeho synové sestoupili do Micraimu.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "a dal jsem"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicchakovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakoba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakoba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Ésava"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésava"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "a dal jsem"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Ésavovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "horu Seír"
+    },
+    {
+      "surface": "הר",
+      "gloss": "horu"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seír"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "k držení"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ji",
+      "marks": "horu Seír"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "a Jaakob"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "a jeho synové"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "sestoupili"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Micraimu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:16.954788800Z",
+  "model": "glm-5.3"
+}

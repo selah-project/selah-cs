@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Běda, národe hříšný, lide těžký viny, semeno zločinců, synové ničemní! Opustili ⟨את⟩ Jahve, pohrdli ⟨את⟩ Svatým Izraele, odklonili se zpět.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "národe"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hříšný"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lide"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "těžký"
+    },
+    {
+      "surface": "עון",
+      "gloss": "viny"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semeno"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zločinců"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synové"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "ničemní"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Opustili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "pohrdli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Svatým Izraele"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Svatým"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "odklonili se"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "zpět"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:36.564173827Z",
+  "model": "glm-5.3"
+}

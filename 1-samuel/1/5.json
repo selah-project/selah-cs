@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A Channě dával מנה jednu, ⟨dvojitou⟩ — neboť ⟨את⟩ Channu miloval, ale Jahve zavřel její lůno.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "A Channě"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dával"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "porci (מנה)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨dvojitou⟩ (doslova 'nosů\/obličejů')"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Channu"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Channu"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miloval"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ale Jahve"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zavřel"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "její lůno"
+    }
+  ],
+  "timestamp": "2026-09-17T07:20:36.099539513Z",
+  "model": "glm-5.3"
+}

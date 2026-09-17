@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Neboť mně ⟨patří⟩ veškerá zvěř lesa, dobytek na horách ⟨tisíců⟩ ⟨býků⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mně (je)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerá"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zvěř"
+    },
+    {
+      "surface": "יער",
+      "gloss": "lesa"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "dobytek"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "na horách"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíců (býků)"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:28.772047360Z",
+  "model": "glm-5.3"
+}

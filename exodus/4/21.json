@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 4:21",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A řekl Jahve Mojžíšovi: Když se budeš vracet do Egypta, viz, že vykonáš všechny znamení, která jsem vložil do tvé ruky, před faraónem — a já ⟨budu⟩ posilovat ⟨את⟩ jeho srdce, a nepustí ⟨את⟩ lid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "(Mojžíš)"
+    },
+    {
+      "surface": "בלכתך",
+      "gloss": "když půjdeš"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "vracet se"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "viz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "znamení"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "jsem vložil"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "do tvé ruky"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "a vykonáš je"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónem"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a já"
+    },
+    {
+      "surface": "אחזק",
+      "gloss": "posilovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho srdce"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jeho srdce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "pustí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:14.013527789Z",
+  "model": "glm-5.3"
+}

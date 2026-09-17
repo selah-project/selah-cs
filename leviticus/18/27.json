@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Neboť ⟨את⟩ všechny tyto ohavnosti páchali muži země, kteří byli před vámi, a země se poskvrnila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny tyto ohavnosti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "ohavnosti"
+    },
+    {
+      "surface": "האל",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "páchali"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muži"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "byli před vámi"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "a poskvrnila se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:27.676461155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 32:14",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Neboť palác bude opuštěn, hlučné město zůstane ⟨prázdné⟩; pahorek a věž budou ⟨doupaty⟩ navěky, radostí divokých oslů, pastvištěm stád.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "palác"
+    },
+    {
+      "surface": "נטש",
+      "gloss": "bude opuštěn"
+    },
+    {
+      "surface": "המון",
+      "gloss": "hlučné"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "zůstane ⟨prázdné⟩"
+    },
+    {
+      "surface": "עפל",
+      "gloss": "pahorek"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "a věž"
+    },
+    {
+      "surface": "היה",
+      "gloss": "budou"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨doupaty⟩"
+    },
+    {
+      "surface": "מערות",
+      "gloss": "doupata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "radostí"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "divokých oslů"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "pastvištěm"
+    },
+    {
+      "surface": "עדרים",
+      "gloss": "stád"
+    }
+  ],
+  "timestamp": "2026-09-17T08:08:47.658849043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 16:48",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Živý jsem, výrok Adonaje Jahve: neučinila Sedom, tvá sestra, ona a její dcery, jak jsi učinila ⟨ty⟩ a tvé dcery.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Živý"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jsem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "výrok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne- (zajisté)"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "neučinila"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "tvá sestra"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "a její dcery"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi učinila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ty⟩",
+      "marks": "pronomen, nikoli značka předmětu"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "a tvé dcery"
+    }
+  ],
+  "timestamp": "2026-09-17T08:41:49.310731372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 92,
+  "translation": "Jak jsou veliká tvá díla, Jahve! Velmi hluboké jsou tvé myšlenky.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Jak"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "jsou veliká"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tvá díla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "Velmi"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "hluboké jsou"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "tvé myšlenky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:27.927489743Z",
+  "model": "glm-5.3"
+}

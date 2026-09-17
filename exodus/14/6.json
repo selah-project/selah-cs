@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A zapřáhl ⟨את⟩ svůj vozový tábor a ⟨את⟩ svůj lid vzal s sebou.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "a zapřáhl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj vozový tábor"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "svůj vozový tábor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svůj lid"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s sebou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:18.013380873Z",
+  "model": "glm-5.3"
+}

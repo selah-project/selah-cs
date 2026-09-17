@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A vstoupila do mne duch, když ke mně mluvil, a postavila mě na mé nohy, a slyšel jsem ⟨את⟩ toho, kdo ke mně mluvil.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "a vstoupila"
+    },
+    {
+      "surface": "בי",
+      "gloss": "do mne"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "a postavila mě"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mé nohy"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "a slyšel jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toho, kdo ke mně mluvil"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mluvícího"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    }
+  ],
+  "timestamp": "2026-09-17T08:37:51.431851210Z",
+  "model": "glm-5.3"
+}

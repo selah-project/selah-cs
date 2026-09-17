@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 27:13",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Vezmi jeho šat, neboť ⟨se⟩ zaručil za cizince, a za cizinku z něj vezmi zástavu.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "vezmi"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "jeho šat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "zaručil se"
+    },
+    {
+      "surface": "זר",
+      "gloss": "za cizince"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "a za"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "cizinku"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "vezmi z něj zástavu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:33.627924249Z",
+  "model": "glm-5.3"
+}

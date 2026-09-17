@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 33:21",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "teprv pak bude zrušena i má smlouva ⟨את⟩ Davidem, služebníkem mým, takže nebude mít syna kralujícího na trůně svém, a ⟨את⟩ levity, kněze, služebníky své.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "teprv pak"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "i má smlouva"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "bude zrušena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidem"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služebníkem mým"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "takže nebude mít"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kralujícího"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "trůně svém"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "levity"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levity"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "služebníky své"
+    }
+  ],
+  "timestamp": "2026-09-17T11:03:36.304026357Z",
+  "model": "glm-5.3"
+}

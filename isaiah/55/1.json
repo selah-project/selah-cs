@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Hé, každý žíznivý, pojďte k vodám, a kdo nemá stříbro, pojďte, kupujte a jezte; ano, pojďte, kupujte bez stříbra a bez ceny víno a mléko!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "žíznivý"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pojďte"
+    },
+    {
+      "surface": "למים",
+      "gloss": "k vodám"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a kdo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nemá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(k) sobě"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "pojďte"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kupujte"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "a jezte"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ano, pojďte"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "kupujte"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbra"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "a bez"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "ceny"
+    },
+    {
+      "surface": "יין",
+      "gloss": "víno"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "a mléko"
+    }
+  ],
+  "timestamp": "2026-09-17T08:15:10.897656669Z",
+  "model": "glm-5.3"
+}

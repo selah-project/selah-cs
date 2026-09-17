@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "Přepáseš svůj meč na stehno, mocný; svou nádheru a svou vznešenost.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Přepáseš"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "svůj meč"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "stehno"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mocný"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "svou nádheru"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "a svou vznešenost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:01.690203017Z",
+  "model": "glm-5.3"
+}

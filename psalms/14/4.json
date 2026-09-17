@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Což nevědí všichni, kdo konají ničemnost — pojídači mého lidu pojedli chléb, Jahve nevzývali?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Což ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vědí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "kdo konají"
+    },
+    {
+      "surface": "און",
+      "gloss": "ničemnost"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "pojídači"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mého lidu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "pojedli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "vzývali"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:17.538735856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "A potom ⟨odvedu⟩ zpět ⟨את⟩ zajetí synů Amónu, výrok Jahve.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "a potom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨odvedu⟩ zpět"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "odvedu zpět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zajetí"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "zajetí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amónu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T13:03:43.990336324Z",
+  "model": "glm-5.3"
+}

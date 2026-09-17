@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I řekl svému lidu: „Hle, lid synů Israela je početný a mocnější než my.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svému"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "רב",
+      "gloss": "početný"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "a mocnější"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "než my"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:28.135886373Z",
+  "model": "glm-5.3"
+}

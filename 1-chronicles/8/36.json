@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 8:36",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A Achaz zplodil ⟨את⟩ Jehoadu, a Jehoada zplodil ⟨את⟩ Alemeta, ⟨את⟩ Azmáveta a ⟨את⟩ Zimrího, a Zimrí zplodil ⟨את⟩ Mócu.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "A Achaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoadu"
+    },
+    {
+      "surface": "יהועדה",
+      "gloss": "Jehoadu"
+    },
+    {
+      "surface": "ויהועדה",
+      "gloss": "a Jehoada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemeta"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemeta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Azmáveta"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmáveta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Zimrího"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimrího"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "a Zimrí"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mócu"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Mócu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:17:53.009018884Z",
+  "model": "glm-5.3"
+}

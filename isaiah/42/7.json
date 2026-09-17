@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "abys otevřel oči slepých, abys vyvedl vězně žaláře, z domu vězení ty, kdo sedí ve tmě —",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "abys otevřel"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oči"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "slepých"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "abys vyvedl"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "z žaláře"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "vězně"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "vězení"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ty, kdo sedí"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ve tmě"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:47.342561431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 11:30",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Jiftach slíbil slib Jahvemu a řekl: „Pokud opravdu dáš ⟨את⟩ syny Amóna do mé ruky,“",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "a slíbil"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "slib"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "opravdu dáš"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dáš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Amóna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amóna"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "do mé ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T07:17:20.101421169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Vy stupněte ke mně a pomozte mi, a udeříme ⟨את⟩ Gibeon, neboť učinil mír s ⟨את⟩ Jozuem a s ⟨את⟩ syny Izraele.\"",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "vystupte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "a pomozte mi"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "a udeříme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "učinil mír"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozuem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "syny Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:07:44.467346399Z",
+  "model": "glm-5.3"
+}

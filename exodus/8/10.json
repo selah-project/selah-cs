@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A nashromáždili ⟨את⟩ je v hromadách, hromadu za hromadou, a země zasmrádla se.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "a nashromáždili"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "v hromadách"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "hromadu za hromadou"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "a zasmrádla se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:42.855415730Z",
+  "model": "glm-5.3"
+}

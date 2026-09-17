@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "V čem ⟨je⟩ slovo krále, ⟨tam je⟩ vláda; a kdo mu řekne: co děláš?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "v čem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "vláda"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a kdo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "řekne"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "děláš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:48.004363738Z",
+  "model": "glm-5.3"
+}

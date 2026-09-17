@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 32:1",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A dobytek hojný měli synové Rúbenovi a synové Gádovi, četný velmi; a viděli ⟨את⟩ zemi Jazer a ⟨את⟩ zemi Gileád, a hle, místo ⟨je⟩ místem pro dobytek.",
+  "tokens": [
+    {
+      "surface": "ומקנה",
+      "gloss": "a dobytek"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hojný"
+    },
+    {
+      "surface": "היה",
+      "gloss": "měli"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rúbenovi"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "a synové"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gádovi"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "četný"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "a viděli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi Jazer"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zemi Gileád"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileád"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místem"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "pro dobytek"
+    }
+  ],
+  "timestamp": "2026-09-17T10:43:56.450741777Z",
+  "model": "glm-5.3"
+}

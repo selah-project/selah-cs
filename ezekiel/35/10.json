@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Protože jsi řekl: ⟨את⟩ ty dva národy a ⟨את⟩ ty dvě země mé budou, a my je obsadíme — a Jahve tam ⟨byl⟩.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "protože"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "jsi řekl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty dva národy"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ty dvě země"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "země"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mé"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "budou"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "a my je obsadíme"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    }
+  ],
+  "timestamp": "2026-09-17T08:50:29.349674924Z",
+  "model": "glm-5.3"
+}

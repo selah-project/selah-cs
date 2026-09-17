@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "I řekl muž ⟨Elohim⟩ králi: Kdybys mi dal ⟨את⟩ polovinu svého domu, nepůjdu s tebou a nebudu jíst chléb ani pít vodu na tomto místě.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨Elohim⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "králi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Kdybys"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polovinu"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "polovinu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "svého domu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "půjdu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "budu jíst"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "pít"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na místě"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomto"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:51.873524286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Nevezme muž ⟨את⟩ manželku svého otce a neodhalí pokrývku svého otce.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nevezme-ne"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vezme"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manželku svého otce"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "manželku"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "odhalí"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "pokrývku (lem šatu)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:29.265957909Z",
+  "model": "glm-5.3"
+}

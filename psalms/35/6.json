@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Ať je jejich cesta tma a kluzkost a posel Jahve je pronásleduje.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ať je"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "jejich cesta"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tma"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "a kluzkost"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "a posel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "je pronásleduje"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:58.995242921Z",
+  "model": "glm-5.3"
+}

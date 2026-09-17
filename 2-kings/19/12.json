@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Zachránili ⟨את⟩ je elohim národů, které zničili moji otcové — ⟨את⟩ Gozán a ⟨את⟩ Chárán a Recef a syny Edenu, kteří byli v Telassaru?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Zachránili"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (národy)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "zničili"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "moji otcové"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozán"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozán"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chárán"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "a Chárán"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "a Recef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "a syny"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "v Telassaru"
+    }
+  ],
+  "timestamp": "2026-09-17T07:57:53.144078730Z",
+  "model": "glm-5.3"
+}

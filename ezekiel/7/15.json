@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Meč ⟨vládne⟩ venku a mor a hlad v domě; kdo je na poli, mečem zemře, a kdo je ve městě, hlad a mor jej sežerou.",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "venku"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "a mor"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "a hlad"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mečem"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a kdo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hlad"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "a mor"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "jej sežerou"
+    }
+  ],
+  "timestamp": "2026-09-17T08:38:17.882131722Z",
+  "model": "glm-5.3"
+}

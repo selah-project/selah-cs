@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Ještě než začala konat, porodila; dřív než přišla na ni bolest ⟨porodu⟩, a ⟨již⟩ porodila syna.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Ještě než"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "začala konat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dřív než"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "přišla"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "bolest ⟨porodu⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na ni"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "a ⟨již⟩ porodila"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "syna"
+    }
+  ],
+  "timestamp": "2026-09-17T08:18:43.565410311Z",
+  "model": "glm-5.3"
+}

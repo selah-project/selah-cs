@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A svolil levita zůstat ⟨u⟩ ⟨את⟩ muže, a byl mladík mu jako jeden z jeho synů.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "svolil"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levita"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "zůstat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muže"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a byl"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mladík"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "jako jeden"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "z jeho synů"
+    }
+  ],
+  "timestamp": "2026-09-17T07:18:27.018249668Z",
+  "model": "glm-5.3"
+}

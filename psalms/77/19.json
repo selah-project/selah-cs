@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Hlas tvého hromu ⟨zněl⟩ ve víru, blesky osvítil ⟨celou⟩ zemi; svět se zachvěl a otřásla se země.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "tvého hromu"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ve víru"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "osvítil"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "blesky"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "svět"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "zachvěl se"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "a otřásla se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:37.603310797Z",
+  "model": "glm-5.3"
+}

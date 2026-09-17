@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A učinil Samuel ⟨את⟩ to, co mluvil Jahve, a přišel do Betléma. A zatřásli se starší města vstříc jeho příchodu a řekl ⟨on⟩: Šalom, ⟨je⟩ tvůj příchod.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co mluvil Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-léma"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "a zatřásli se"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "vstíc němu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Šalom"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "tvůj příchod"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:55.340727465Z",
+  "model": "glm-5.3"
+}

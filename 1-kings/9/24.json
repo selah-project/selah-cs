@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 9:24",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Jenže dcera Parova vystoupila z města Davidova do svého domu, který jí ⟨Šalomoun⟩ postavil; tehdy zbudoval ⟨את⟩ Milo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "jenže"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "vystoupila"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "z města"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "svého domu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tehdy"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zbudoval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:19.162856151Z",
+  "model": "glm-5.3"
+}

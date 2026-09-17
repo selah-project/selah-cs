@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 143,
+  "translation": "Neboť nepřítel pronásleduje mou duši, rozdrtil k zemi můj život, usadil mě v temnotách jako mrtvé pradávnosti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "pronásleduje"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nepřítel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mou duši"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "rozdrtil"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "k zemi"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "můj život"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "usadil mě"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "v temnotách"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "jako mrtvé"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pradávnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:01.623759072Z",
+  "model": "glm-5.3"
+}

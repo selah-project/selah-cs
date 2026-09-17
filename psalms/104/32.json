@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Který pohlédne na zem a ta se chvěje, dotkne se hor a ty dýmají.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Který pohlédne"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na zem"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "a ta se chvěje"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "dotkne se"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "hor"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "a ty dýmají"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:05.384154680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "a ⟨את⟩ pštici, ⟨את⟩ lelek, ⟨את⟩ racka a ⟨את⟩ jestřába podle jeho druhu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "pštici"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera \/ samice"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "pštice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lelka"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "lelek (noční pták)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "racka"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "racek (mořský pták)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jestřába"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "jestřába"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "podle jeho druhu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:50.879410466Z",
+  "model": "glm-5.3"
+}

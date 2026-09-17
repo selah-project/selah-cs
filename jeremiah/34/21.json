@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 34:21",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A ⟨את⟩ Sidkijáše, krále Judova, a ⟨את⟩ jeho přední ⟨muže⟩ vydám do ruky jejich nepřátel a do ruky těch, kdo usilují o jejich život, a do ruky vojska krále Babylonského, které od vás odešlo ⟨vzhůru⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Sidkijáše, krále Judova"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkijáše"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho přední muže"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "jeho přední ⟨muže⟩"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "vydám"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "do ruky"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "jejich nepřátel"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "a do ruky"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "těch, kdo usilují"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "o jejich život"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "a do ruky"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylonského"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "které odešlo"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "od vás ⟨vzhůru⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T08:29:18.436762607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Slyš, Jahve, a smiluj se nade mnou; Jahve, buď mi pomocníkem!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Slyš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "a smiluj se nade mnou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buď"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomocníkem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:28.422550570Z",
+  "model": "glm-5.3"
+}

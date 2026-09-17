@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Z té země vyšel Asšur a vystavěl ⟨את⟩ Ninive, ⟨את⟩ Rechobot-Ir i ⟨את⟩ Kalach.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "té země"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "té"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asšur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a vystavěl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rechobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rechobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kalach"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalach"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:13.906907758Z",
+  "model": "glm-5.3"
+}

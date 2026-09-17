@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 17:9",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Vstaň, jdi do Carfatu, který ⟨patří⟩ k Cidonu, a byd ⟨tam⟩; hle, přikázal jsem tam ženě vdově, aby tě živila.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Vstaň"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "צרפתה",
+      "gloss": "do Carfatu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לצידון",
+      "gloss": "k Cidonu"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "a bydlet budeš"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "přikázal jsem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženě"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "vdově"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "aby tě živila"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:27.629140430Z",
+  "model": "glm-5.3"
+}

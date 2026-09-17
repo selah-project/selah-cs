@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A učinil David, jak mu přikázal Elohim, a porazili ⟨את⟩ tábor Pelištejců od Gibeonu až po Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "přikázal mu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "a porazili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tábor Pelištejců"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejců"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "od Gibeonu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-17T11:24:09.559028333Z",
+  "model": "glm-5.3"
+}

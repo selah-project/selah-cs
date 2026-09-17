@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 22:6",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A nyní pojď, prosím, zlořeč mi ⟨את⟩ tento lid, neboť je mocnější než já; snad budu moci udeřit ho a vyhnat ho ze země, neboť vím ⟨את⟩ to, koho žehnáš, ⟨ten⟩ je požehnán, a koho proklínáš, ⟨ten⟩ je proklet.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "pojď"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "ארה",
+      "gloss": "zlořeč"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "mocnější"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "než já"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "snad"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "budu moci"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "udeřit"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ואגרשנו",
+      "gloss": "a vyhnat ho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, koho žehnáš… proklínáš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koho"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "žehnáš"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "je požehnán"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a koho"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "proklínáš"
+    },
+    {
+      "surface": "יואר",
+      "gloss": "je proklet"
+    }
+  ],
+  "timestamp": "2026-09-17T06:47:29.495360009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A proto jsem přísahal domu Élího: neodčiní se vina domu Élího obětí ani darovou obětí až na věky.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "A proto"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jsem přísahal"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Élího"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "odčiní se"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Élího"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "obětí"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "ani darovou obětí"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na věky"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:10.692736792Z",
+  "model": "glm-5.3"
+}

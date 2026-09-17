@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A řekl k němu: Hle, pozvedl jsem tvou tvář i k tomuto slovu, abych nevyvrátil ⟨את⟩ to město, o němž jsi mluvil.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "pozvedl jsem"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvou tvář"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "k slovu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomuto"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "abych ne"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "vyvrátil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to město"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "to město"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o němž"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "jsi mluvil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:00.340837934Z",
+  "model": "glm-5.3"
+}

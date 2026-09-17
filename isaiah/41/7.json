@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 41:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "A řemeslník posílil ⟨את⟩ kovolijce, uhlazující kladivem ⟨את⟩ toho, kdo bije na kovadlinu, říkaje taviči: Dobré ⟨to⟩ je; a přibil ho hřeby, aby se nepohnul.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "A posílil"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "řemeslník"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kovolijce"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "kovolijce"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "uhlazující kladivem"
+    },
+    {
+      "surface": "פטיש",
+      "gloss": "kladivem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toho, kdo bije na kovadlinu"
+    },
+    {
+      "surface": "הולם",
+      "gloss": "toho, kdo bije"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "na kovadlinu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "říkaje"
+    },
+    {
+      "surface": "לדבק",
+      "gloss": "taviči"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Dobré"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "ויחזקהו",
+      "gloss": "a přibil ho"
+    },
+    {
+      "surface": "במסמרים",
+      "gloss": "hřeby"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "se nepohnul"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:01.739556940Z",
+  "model": "glm-5.3"
+}

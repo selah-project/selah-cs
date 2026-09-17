@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Velmi jsme zhřešili proti tobě a nezachovali jsme ⟨את⟩ přikázání, ⟨את⟩ ustanovení ani ⟨את⟩ práva, kteráž jsi přikázal ⟨את⟩ Mojžíšovi, svému sluhy.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "Velmi (zpronevěřitelsky)"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "jsme zhřešili"
+    },
+    {
+      "surface": "לך",
+      "gloss": "proti tobě"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "jsme zachovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "přikázání"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ustanovení"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ustanovení"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "práva"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "práva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteráž"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "jsi přikázal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svému sluhy"
+    }
+  ],
+  "timestamp": "2026-09-17T10:10:54.015485281Z",
+  "model": "glm-5.3"
+}

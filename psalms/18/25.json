@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A Jahve mi odplatil podle mé spravedlnosti, podle čistoty mých rukou před jeho očima.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "odplatil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "podle mé spravedlnosti"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "podle čistoty"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mých rukou"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "před"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "jeho očima"
+    }
+  ],
+  "timestamp": "2026-09-17T13:41:14.982594909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A tito jsou hlavy jejich otců a jejich rodopis, ⟨ti⟩, kteří stoupali se mnou v ⟨království⟩ Artachšasty ⟨krále⟩, z Babylónu.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a tito"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlavy"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "jejich otců"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "a jejich rodopis"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "⟨ti⟩, kteří stoupali"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "v ⟨království⟩"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artachšasty"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨krále⟩"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "z Babylónu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:10:40.058125095Z",
+  "model": "glm-5.3"
+}

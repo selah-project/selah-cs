@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A Filištín řekl: „Já jsem ⟨את⟩ zhanobil šiky Izraele tento den; dejte mi muže a budeme spolu zápolit.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filištín"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "zhanobil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šiky Izraele"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "šiky"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "dejte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "a budeme zápolit"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "spolu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:48.996620518Z",
+  "model": "glm-5.3"
+}

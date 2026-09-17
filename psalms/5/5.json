@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Neboť ne ⟨jsi⟩ El, jenž si libuje v raša; zlo u tebe nebude přebývat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "jenž si libuje"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "v raša"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "u tebe bude přebývat"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:25.318774549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "I řekl Akíš svým služebníkům: Hle, vidíte ⟨muže⟩, který se chová jako šílený — proč přivádíte ⟨את⟩ jeho ke mně?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svým"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "služebníkům"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "vidíte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "šílený"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "přivádíte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:58.609338943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Viděl jsi muže ukvapeného ve svých slovech? Pro blázna je více naděje nežli z něho.",
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "Viděl jsi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "ukvapeného"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "ve svých slovech"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "naděje"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "pro blázna"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nežli z něho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:51.747655393Z",
+  "model": "glm-5.3"
+}

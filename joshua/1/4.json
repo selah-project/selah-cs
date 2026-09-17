@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 1:4",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Od pouště a tohoto Libanonu až k velké řece, řece Prát, celé zemi Chetitů, až k velkému moři, západu slunce, bude vaše hranice.",
+  "tokens": [
+    {
+      "surface": "מהמדבר",
+      "gloss": "od pouště"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "a (tento) Libanon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "řece"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "velké"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "řeka"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Prát (Eufrat)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "Chetitů"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moři"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "velkému"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "západ (vchod)"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "גבולכם",
+      "gloss": "vaše hranice"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:32.479106399Z",
+  "model": "glm-5.3"
+}

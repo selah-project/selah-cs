@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "Blaze ⟨je⟩ lid, kterému se tak dostává; blaze ⟨je⟩ lid, jehož Elohim ⟨je⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "blaze ⟨je⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "tak se dostává"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "blaze ⟨je⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "jehož ⟨je⟩ Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim jeho"
+    }
+  ],
+  "timestamp": "2026-09-17T13:41:23.693553160Z",
+  "model": "glm-5.3"
+}

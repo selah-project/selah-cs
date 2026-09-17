@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Po něm vstal Jair, Gileádcův, a soudil ⟨את⟩ Izrael dvacet a dva roky.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "vstal"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "po něm"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Gileádský"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "a soudil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "a dva"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roky"
+    }
+  ],
+  "timestamp": "2026-09-17T07:15:56.096727931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A Šalomoun miloval ⟨את⟩ Jahveho, chodit ve ustanoveních Davida, svého otce; jen na výšinách obětoval a kadil.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "miloval"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "chodit"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "v ustanoveních"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "רק",
+      "gloss": "jen"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "na výšinách"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "obětoval"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "a kadil"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:58.918156644Z",
+  "model": "glm-5.3"
+}

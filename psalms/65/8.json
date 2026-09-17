@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 65,
+  "translation": "Utišuje hučení moří, hučení jejich vln a vřavu národů.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Utišuje"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "hučení"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "moří"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "hučení"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "jejich vln"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "a vřavu"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "národů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:40.189583556Z",
+  "model": "glm-5.3"
+}

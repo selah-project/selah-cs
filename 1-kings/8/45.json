@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "pak vyslyšíš v nebi jejich modlitbu ⟨את⟩ i jejich prosbu ⟨את⟩ a vykonáš jejich právo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "vyslyšíš"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "v nebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich modlitbu"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "jejich modlitbu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ i",
+      "marks": "jejich prosbu"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "jejich prosbu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "vykonáš"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "jejich právo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:45:02.551369680Z",
+  "model": "glm-5.3"
+}

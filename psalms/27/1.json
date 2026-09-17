@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Davidův ⟨žalm⟩. Jahve ⟨je⟩ mé světlo a moje spasení — před kým se budu bát? Jahve ⟨je⟩ pevnost mého života — před kým se budu třást?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "mé světlo"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "a moje spasení"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "před kým"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "se budu bát"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "pevnost"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mého života"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "před kým"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "se budu třást"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:02.903107384Z",
+  "model": "glm-5.3"
+}

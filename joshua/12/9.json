@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "král Jericha, jeden; král Hai, jež ⟨je⟩ při boku Bét-elu, jeden;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jericha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Hai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "při boku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bét-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-elu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-09-17T07:07:56.813233435Z",
+  "model": "glm-5.3"
+}

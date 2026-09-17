@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A bylo zastropáno cedrem shora, na příčkách, které ⟨jsou⟩ na sloupech — čtyřicet pět, patnáct v každé řadě.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "a bylo zastropáno"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "cedrem"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "shora"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "příčkách"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sloupech"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "a pět"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "patnáct"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "v řadě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:43:36.323074614Z",
+  "model": "glm-5.3"
+}

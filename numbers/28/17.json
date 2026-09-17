@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A v patnáctý den tohoto měsíce ⟨je⟩ svátek; sedm dní se budou jíst macot.",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "a v pátý… patnáctý"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(deset) -náctý"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "tohoto měsíce"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "חג",
+      "gloss": "svátek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "macot (nekvašené chleby)"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se budou jíst"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:53.765970684Z",
+  "model": "glm-5.3"
+}

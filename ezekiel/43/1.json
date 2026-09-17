@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "A zavedl mě k ⟨této⟩ bráně, bráně, jež ⟨je⟩ obrácená směrem k východu.",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "a zavedl mě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨této⟩ bráně"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bráně"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "obracená"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "směrem"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "k východu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:53:29.375938515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A Lában měl ⟨dvě⟩ dcery: jméno starší ⟨bylo⟩ Lea a jméno mladší ⟨bylo⟩ Ráchel.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "a Lában"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dcery"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "starší"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jméno"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "mladší"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ráchel"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:08.010289274Z",
+  "model": "glm-5.3"
+}

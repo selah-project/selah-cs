@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Tužbu jeho srdce jsi mu dal ⟨a⟩ prosbu jeho rtů jsi nezadržel. Sela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Tužbu"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jeho srdce"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "jsi dal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "⟨a⟩ prosbu"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "jeho rtů"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "jsi zadržel"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:06.062368934Z",
+  "model": "glm-5.3"
+}

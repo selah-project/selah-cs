@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 10:17",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A bylo oznámeno Jozuovi ⟨s tím, že se říká⟩: „Byli nalezeni ti pětí králové, ukrytí v jeskyni v Makedě.“",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a bylo oznámeno"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "Jozuovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨s tím, že se říká⟩"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "byli nalezeni"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pětí"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "králové"
+    },
+    {
+      "surface": "נחבאים",
+      "gloss": "ukrytí"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "v jeskyni"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "v Makedě"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:08.230884779Z",
+  "model": "glm-5.3"
+}

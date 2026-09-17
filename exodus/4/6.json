@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I řekl Jahve: Ještě ⟨jednou⟩ vlož prosím svou ruku do svého ḽůna. On vložil svou ruku do svého ḽůna, vytáhl ji — a hle, jeho ruka byla malomocná jako sníh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "vlož"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "do svého ḽůna"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a vložil"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "do svého ḽůna"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "a vytáhl ji"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jeho ruka"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "malomocná"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "jako sníh"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:38.028532912Z",
+  "model": "glm-5.3"
+}

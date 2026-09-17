@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Pokolení za pokolením ⟨trvá⟩ tvá věrnost; založil jsi zemi a ⟨ona⟩ stojí.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "Pokolení za"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "pokolením"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tvá věrnost"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "založil jsi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "a ⟨ona⟩ stojí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:21.301399816Z",
+  "model": "glm-5.3"
+}

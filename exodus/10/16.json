@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Tu Faraon spěchal zavolat Mojžíše a Árona a řekl: Zhřešil jsem proti Jahvemu, vašemu Elohim, a proti vám.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "spěchal"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faraon"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "zavolat"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "a Árona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "zhřešil jsem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "proti Jahvemu"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vašemu Elohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "a proti vám"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:58.741683569Z",
+  "model": "glm-5.3"
+}

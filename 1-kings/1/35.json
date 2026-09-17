@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 1:35",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A půjdete nahoru za ním, a ⟨on⟩ vejde a usedne na můj trůn, a ⟨on⟩ bude kralovat místo mě; a ⟨את⟩ jeho jsem ustanovil, aby byl náčelníkem nad Izraelem a nad Judou.",
+  "tokens": [
+    {
+      "surface": "ועליתם",
+      "gloss": "a půjdete nahoru"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za ním"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "a vejde"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a usedne"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסאי",
+      "gloss": "můj trůn"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a ⟨on⟩"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "bude kralovat"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "místo mě"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeho (předmět slovesa צויתi — ustanovil jsem)"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jsem ustanovil"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aby byl"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "náčelníkem"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a nad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judou"
+    }
+  ],
+  "timestamp": "2026-09-17T13:40:44.978780130Z",
+  "model": "glm-5.3"
+}

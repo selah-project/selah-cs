@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A král zemřel a ⟨byl⟩ přenesen do Šomronu; a pochovali ⟨את⟩ krále v Šomronu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "a byl přenesen"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "do Šomronu"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "a pochovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "v Šomronu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:51:11.744592891Z",
+  "model": "glm-5.3"
+}

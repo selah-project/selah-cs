@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Své cesty mi, Jahve, dávej poznat, své stezky mě uč.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Své cesty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "dávej mi poznat"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "své stezky"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mě uč"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:24.436573393Z",
+  "model": "glm-5.3"
+}

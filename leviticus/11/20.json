@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Každé hemžení létavého tvora, které chodí po čtyřech ⟨nohou⟩ — ohavnost je to pro vás.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "každé"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "hemžení"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "létavého tvora"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "které chodí"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "čtyřech"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ohavnost"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pro vás"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:43.774349065Z",
+  "model": "glm-5.3"
+}

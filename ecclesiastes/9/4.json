@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Neboť kdo ⟨je⟩ přiřazen ke všemu živému, ⟨má⟩ jistotu; neboť živý pes je lepší než mrtvý lev.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "⟨je přiřazen⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všemu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "živému"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "jistota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "živý pes"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lepší"
+    },
+    {
+      "surface": "מן",
+      "gloss": "než"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "mrtvý lev"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mrtvý"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:26.199017531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Služte ⟨את⟩ Jahve s bázní a jásote s chvěním.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Služte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "s bázní"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "a jásote"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "s chvěním"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:22.610993385Z",
+  "model": "glm-5.3"
+}

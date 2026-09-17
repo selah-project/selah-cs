@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Hle, zadrží vody — a vyschnou; i pošle je ⟨ven⟩ — a převrátí zemi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "zadrží"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "a vyschnou"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "i pošle je"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "a převrátí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T11:17:13.814505300Z",
+  "model": "glm-5.3"
+}

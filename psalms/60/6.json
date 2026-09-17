@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 60,
+  "translation": "Dal jsi těm, kdo se tě bojí, znamení, aby se vztyčilo ⟨před⟩ pravdou. Séla.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Dal jsi"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "těm, kdo se tě bojí"
+    },
+    {
+      "surface": "נס",
+      "gloss": "znamení (prapor)"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "aby se vztyčilo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨před⟩"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "pravdou"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla."
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:11.288533258Z",
+  "model": "glm-5.3"
+}

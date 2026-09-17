@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Když usedneš k jídlu s ⟨את⟩ vládcem, bedlivě rozvaž, co ⟨את⟩ ⟨je⟩ před tebou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "usedneš"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "k jídlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vládcem"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "s vládcem"
+    },
+    {
+      "surface": "בין",
+      "gloss": "rozvaž"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "bedlivě rozvaž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "co je před tebou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:10.552210680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Můj Elohime, nade mnou se sklánívá má duše; proto si tě připomínám ze země Jarden a z Chermonim, z hory Micar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Můj Elohime"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mnou"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "se sklánívá"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto (kvůli)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tomuto"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "si tě připomínám"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Jarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "a z Chermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "z hory"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Micar"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:50.173991316Z",
+  "model": "glm-5.3"
+}

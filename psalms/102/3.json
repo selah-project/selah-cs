@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Neukrývej svou tvář přede mnou v den ⟨mé⟩ tísně mé; přikloň ke mně své ucho; v den, kdy budu volat, rychle mi odpověz.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ukrývej"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tísně"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mé"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "přikloň"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "svoje ucho"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "budu volat"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "rychle"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "mi odpověz"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:26.161340171Z",
+  "model": "glm-5.3"
+}

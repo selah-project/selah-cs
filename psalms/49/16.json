@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Však Elohim vykoupí mou duši z ruky šeolu, neboť ⟨mě⟩ přijme. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Však"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "vykoupí"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mou duši"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeolu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "přijme ⟨mě⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:57.604257745Z",
+  "model": "glm-5.3"
+}

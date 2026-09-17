@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A dá ti ⟨את⟩ požehnání Avrahamovo — tobě i tvému potomstvu ⟨את⟩ s tebou — abys zdědil ⟨את⟩ zemi svých putování, kterou Elohim dal Avrahamovi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "požehnání Avrahamovo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "požehnání"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamovo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "i tvému potomstvu"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tebou"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "abys zdědil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "svých putování"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:27.772952417Z",
+  "model": "glm-5.3"
+}

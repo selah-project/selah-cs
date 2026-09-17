@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 100,
+  "translation": "Služte ⟨את⟩ Jahve s radostí, vstupujte před jeho tvář s písní!",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Služte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "s radostí"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vstupujte"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před jeho tvář"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "s písní"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:28.683187610Z",
+  "model": "glm-5.3"
+}

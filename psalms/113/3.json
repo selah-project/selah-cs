@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 113,
+  "translation": "Od východu slunce až po jeho západ je chváleno jméno Jahveho.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Od východu"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "jeho západ"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "je chváleno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:02.441491040Z",
+  "model": "glm-5.3"
+}

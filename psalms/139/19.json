@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Kéž bys zabil, Eloah, bezbožníka — a vy, muži krve, odejděte ode mne!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kéž"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "zabiješ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožníka"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "a muži"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krve"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "odejděte"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ode mne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:32.692355186Z",
+  "model": "glm-5.3"
+}

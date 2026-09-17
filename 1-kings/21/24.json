@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Kdo z Achabova ⟨rodu⟩ zemře ve městě, sežerou psi; a kdo zemře na poli, sežerou ptáci nebes.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Kdo zemře"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "z Achabova"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sežerou"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "a kdo zemře"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sežerou"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptáci"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:18.986193759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 150,
+  "translation": "Chvalte ho bubnem a tancem, chvalte ho strunami a ugavem!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Chvalte ho"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "bubnem"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "a tancem"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chvalte ho"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "strunami"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "a ugavem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:11.362507628Z",
+  "model": "glm-5.3"
+}

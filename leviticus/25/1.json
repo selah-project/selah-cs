@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A mluvil Jahve s Mojžíšem na hoře Sinaj ⟨a řekl⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a řekl⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:24.375329286Z",
+  "model": "glm-5.3"
+}

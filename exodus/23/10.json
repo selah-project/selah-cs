@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A šest let budeš sít ⟨את⟩ svou zemi a sklidíš ⟨את⟩ její úrodu.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "A šest"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "budeš sít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou zemi"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "svou zemi"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "a sklidíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její úrodu"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "její úrodu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:01.150662926Z",
+  "model": "glm-5.3"
+}

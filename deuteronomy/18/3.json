@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A toto bude právo kněží od ⟨את⟩ lidu: od ⟨את⟩ těch, kdo zabíjejí oběť, ať vů, či ovci — dá ⟨se⟩ knězi paži, obě líce a žaludek.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "právo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ od",
+      "marks": "lidu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ od",
+      "marks": "těch, kdo zabíjejí oběť"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "těch, kdo zabíjejí"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ať"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vů"
+    },
+    {
+      "surface": "אם",
+      "gloss": "či"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ovci"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a dá"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "knězi"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "paži"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "a obě líce"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "a žaludek"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:42.957394888Z",
+  "model": "glm-5.3"
+}

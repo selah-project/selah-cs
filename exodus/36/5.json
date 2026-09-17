@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A řekli Mojžíšovi takto: Lid přináší mnohem více, než ⟨je⟩ dost pro službu díla, které Jahve přikázal udělat ⟨את⟩ ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "⟨Mojžíšovi⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "přináší mnohem více"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "k přinášení"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "než ⟨je⟩ dost"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "pro službu"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "díla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "udělat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dílo (službu díla)"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:19.352767104Z",
+  "model": "glm-5.3"
+}

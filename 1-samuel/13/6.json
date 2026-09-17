@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A muži Izraele viděli, že ⟨je⟩ jemu těsno, neboť lid byl tvrdě tísněn; a lid ukryl se v jeskyních a v křovinách a ve skalách a ve věžích a v cisternách.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A muži"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "viděli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "צר",
+      "gloss": "těsno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "byl tvrdě tísněn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "a ukryl se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "v jeskyních"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "a v křovinách"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "a ve skalách"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "a ve věžích"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "a v cisternách"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:32.911697486Z",
+  "model": "glm-5.3"
+}

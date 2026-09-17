@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Běda nám! Kdo nás vysvobodí z ruky těchto mocných Elohim? Toto ⟨jsou ti⟩ Elohim, kteří ranili ⟨את⟩ Egypt všemi ranami na poušti.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "nás vysvobodí"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "těch Elohim"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "mocných"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨jsou ti⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "kteří ranili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egypt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "všemi"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ranami"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:00.718719508Z",
+  "model": "glm-5.3"
+}

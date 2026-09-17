@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A nebudete utlačovat nikdo ⟨את⟩ svého bližního, a budeš se bát svého Elohima; neboť já ⟨jsem⟩ Jahve, váš Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a nebudete"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "utlačovat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nikdo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého bližního"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "svého bližního"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "a budeš se bát"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:11.916747876Z",
+  "model": "glm-5.3"
+}

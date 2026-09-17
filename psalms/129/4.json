@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 129,
+  "translation": "Jahve ⟨je⟩ spravedlivý, usekl provazy bezbožných.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "usekl"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "provazy"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:14.166179378Z",
+  "model": "glm-5.3"
+}

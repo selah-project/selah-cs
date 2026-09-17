@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A Joab a Abíšaj, jeho bratr, zabili Abnera, proto že zabil ⟨את⟩ Asaela, jejich bratra, v Gibeonu v boji.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "A Joab"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "a Abíšaj"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jeho bratr"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "zabili"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Abnera"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto že"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨že⟩"
+    },
+    {
+      "surface": "המית",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asaela"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asaela"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "jejich bratra"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "v Gibeonu"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "v boji"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:59.669227691Z",
+  "model": "glm-5.3"
+}

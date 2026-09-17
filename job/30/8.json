@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Synové ničemů, ano, synové bez ⟨jakéhokoli⟩ jména, byli zbijedněni ze země.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ničemů"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jména"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "byli vyhnáni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T11:18:16.899265231Z",
+  "model": "glm-5.3"
+}

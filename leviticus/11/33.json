@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A každá nádoba hliněná, do níž by z nich ⟨co⟩ upadlo dovnitř, vše, co je v jejím nitru, bude nečisté — a ⟨את⟩ ji rozbijete.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a každá"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nádoba"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "hliněná"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "do níž"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "upadlo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "dovnitř \/ nitra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "v jejím nitru"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bude nečisté"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ ji",
+      "marks": "ji (hliněnou nádobu)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "rozbijete"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:05.220574261Z",
+  "model": "glm-5.3"
+}

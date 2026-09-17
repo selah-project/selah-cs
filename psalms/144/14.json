@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "Naši býci jsou dobře obtíženi; ⟨není⟩ průlomu ani vycházení, ani křiku na našich náměstích.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "naši býci"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "jsou obtíženi (nesou břemeno)"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "průlomu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "vycházení"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ani"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "křiku"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "na našich náměstích"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:27.342447731Z",
+  "model": "glm-5.3"
+}

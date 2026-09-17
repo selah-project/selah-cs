@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A David hledal ⟨את⟩ Elohima za chlapce; a David uložil půst, a vešel ⟨dovnitř⟩ a přenocoval a lehl si na zem.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "hledal \/ úpěnlivě prosil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohima"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chlapce"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "uložil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "půst"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "vešel"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "a přenocoval"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "a lehl si"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:48.611067618Z",
+  "model": "glm-5.3"
+}

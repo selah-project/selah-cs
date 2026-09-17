@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Kvůli všem hříchům Baášovým a hříchům Eláho, jeho syna, jichž se dopustili a jimiž ⟨את⟩ Izraele přivedli k hříchu, aby rozhněvali ⟨את⟩ Jahveho, Elohimova Izraele, svými marnostmi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "hříchům"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baášovým"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "a hříchům"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eláho"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nichž"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "se dopustili"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a jimiž"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "přivedli k hříchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "aby rozhněvali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "svými marnostmi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:28.651695168Z",
+  "model": "glm-5.3"
+}

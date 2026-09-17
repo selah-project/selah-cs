@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Vzali ⟨את⟩ všechen majetek Sodomy a Gomory a ⟨את⟩ všechen jejich pokrm, a odešli.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Vzali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechen majetek Sodomy a Gomory"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "majetek"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodomy"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "a Gomory"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechen jejich pokrm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "jejich pokrm"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "a odešli"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:33.284539457Z",
+  "model": "glm-5.3"
+}

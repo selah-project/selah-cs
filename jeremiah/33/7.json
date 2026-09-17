@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A vrátím ⟨את⟩ zajetí Judovo a ⟨את⟩ zajetí Izraele, a vybuduji je jako na počátku.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "A vrátím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zajetí Judovo"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "zajetí"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zajetí Izraele"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "zajetí"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "a vybuduji je"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "jako na počátku"
+    }
+  ],
+  "timestamp": "2026-09-17T08:29:50.794722651Z",
+  "model": "glm-5.3"
+}

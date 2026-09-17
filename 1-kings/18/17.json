@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A stalo se, když Achab spatřil ⟨את⟩ Eliáše, že řekl Achab k němu: Jsi ⟨to⟩ ty, ten, kdo čeří Izrael?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "když spatřil"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliáše"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliáš"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "že řekl"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Jsi ty"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "čeří"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:28.735018539Z",
+  "model": "glm-5.3"
+}

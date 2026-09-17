@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 24:22",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A Jóšua řekl lidu: Svědci jste proti sobě, že jste si vyvolili ⟨את⟩ Jahve, abyste ⟨את⟩ mu sloužili. A řekli: Svědci ⟨jsme⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨lid⟩"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "Svědci"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jste"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "proti sobě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jste"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "vyvolili"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "abyste sloužili"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ mu",
+      "marks": "Jahve (sloužit)"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "A řekli"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "Svědci"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:03.625815253Z",
+  "model": "glm-5.3"
+}

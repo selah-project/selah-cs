@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "a ⟨את⟩ Corea a ⟨את⟩ Ajalon a ⟨את⟩ Chebron, které ⟨jsou⟩ v Judsku a v Benjamínu, opevněná města.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Corea"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Corea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "v Judsku"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "a v Benjamínu"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "opevněná"
+    }
+  ],
+  "timestamp": "2026-09-17T11:24:38.412833289Z",
+  "model": "glm-5.3"
+}

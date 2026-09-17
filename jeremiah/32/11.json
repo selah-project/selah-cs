@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A vzal jsem ⟨את⟩ knihu koupě, ⟨את⟩ zazděnou kopii s příkazy a ustanoveními, i ⟨את⟩ otevřenou kopii —",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "a vzal jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "knihu koupě"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knihu"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "koupě"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zazděnou kopii"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "zazděnou"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "s příkazy"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "a ustanoveními"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "otevřenou kopii"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "otevřenou"
+    }
+  ],
+  "timestamp": "2026-09-17T11:03:21.848629017Z",
+  "model": "glm-5.3"
+}

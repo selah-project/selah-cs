@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A stalo se na konci čtyřiceti dní, že Noach otevřel ⟨את⟩ okno archy, které udělal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na konci"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřiceti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dní"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "otevřel"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okno"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "okno"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "archy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:17.287435704Z",
+  "model": "glm-5.3"
+}

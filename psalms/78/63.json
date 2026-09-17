@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Oheň pozřel jeho mladíky a jeho panny se nevdávaly.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "jeho mladíky"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "pozřel"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "a jeho panny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "se nevdávaly"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:21.649784416Z",
+  "model": "glm-5.3"
+}

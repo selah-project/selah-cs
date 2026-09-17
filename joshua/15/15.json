@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A ⟨tamtam⟩ vystoupil proti obyvatelum Debiru; a jmeno Debiru drive ⟨bylo⟩ Kirjat-sefer.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "vystoupil"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "obyvatelum"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debiru"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jmeno"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debiru"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "drive"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sefer"
+    }
+  ],
+  "timestamp": "2026-09-17T07:09:29.981078488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "A řekli: Prosím, pane náš, sestupovali jsme předtím, abychom nakoupili jídlo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "בי",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pane náš"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sestoupovat"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "sestoupili jsme"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "předtím"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "abychom nakoupili"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jídlo"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:15.602533128Z",
+  "model": "glm-5.3"
+}

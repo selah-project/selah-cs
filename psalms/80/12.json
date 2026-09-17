@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Vysílala své ratolesti až k moři a k Řece své výhonky.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Vysílala"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "své ratolesti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "ים",
+      "gloss": "k moři"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "Řece"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "své výhonky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:41.781178436Z",
+  "model": "glm-5.3"
+}

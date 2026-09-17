@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 20:18",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "I řekl mu Jonatán: Zítra ⟨je⟩ novměsící, a ty budeš postrádán, neboť tvé místo bude zjišťováno.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatán"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Zítra"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novměsící"
+    },
+    {
+      "surface": "ונפקדת",
+      "gloss": "a budeš postrádán"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "bude zjišťováno"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "tvé místo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:36.911064788Z",
+  "model": "glm-5.3"
+}

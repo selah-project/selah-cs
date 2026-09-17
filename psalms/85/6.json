@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 85,
+  "translation": "Zdaž navěky se budeš hněvat na nás, budeš protahovat svůj hněv z pokolení na pokolení?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Zdaž navěky"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "se budeš hněvat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na nás"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "budeš protahovat"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "svůj hněv (doslova své nozdry)"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "z pokolení"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na pokolení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:29.217771867Z",
+  "model": "glm-5.3"
+}

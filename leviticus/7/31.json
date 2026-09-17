@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A kněz zapálí ⟨את⟩ tuk na oltáři, a hruď bude ⟨patřit⟩ Aharonovi a jeho synům.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "A kněz zapálí — zapálí"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltáři"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "hruď"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "⟨patřit⟩ Aharonovi"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "a jeho synům"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:49.848152170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 14:24",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A muži Izraele byli v onen den tlačeni, a Šaul přinutil ⟨את⟩ lid tímto příkazem: Proklet muž, který by snědl chléb až do večera, dokud se nepomstím na svých nepřátelích. A žádný z lidu neokusil ⟨⟨⟩⟩ chleba.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A muži"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "byli tlačeni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "ויאל",
+      "gloss": "a přinutil přísehem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tímto příkazem"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "by snědl"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večera"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "dokud se nepomstvuji"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "na svých nepřátelích"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "A ne"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "okusil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "žádný z"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:20.135984798Z",
+  "model": "glm-5.3"
+}

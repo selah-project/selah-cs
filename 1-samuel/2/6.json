@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Jahve usmrcuje i oživuje, svrhuje do šeolu a vyvádí ⟨nahoru⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "usmrcuje"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "i oživuje"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "svrhuje"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "do šeolu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a vyvádí ⟨nahoru⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T07:20:10.998944049Z",
+  "model": "glm-5.3"
+}

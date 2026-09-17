@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Jestliže přijde sám svým tělem, sám svým tělem vyjde; jestliže ⟨je⟩ pánem ženy, vyjde jeho žena s ním.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "sám svým tělem"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "přijde"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "sám svým tělem"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vyjde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "pánem"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩ on"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "vyjde"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jeho žena"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:16.678638500Z",
+  "model": "glm-5.3"
+}

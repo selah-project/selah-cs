@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A řekneš: Tak řekl král: Dejte ⟨את⟩ tohoto do vězení a krmte ho chlebem úzkosti a vodou úzkosti, dokud se nevrátím v pokoji.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "A řekneš"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Dejte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tohoto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do vězení"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "vězení"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "krmte ho"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "úzkosti"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "a vodou"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "úzkosti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "באי",
+      "gloss": "se nevrátím"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "v pokoji"
+    }
+  ],
+  "timestamp": "2026-09-17T07:51:20.942274808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A takto jezte ⟨את⟩ je: bedra přepásána, obuv na vašich nohou a hůl ve vaší ruce; a sníte ⟨את⟩ je spěšně — je to Pesach pro Jahveho.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "A takto"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jezte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "bedra"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "přepásána"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "obuv"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "na vašich nohou"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "a hůl"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ve vaší ruce"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "a sníte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "spěšně"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:25.030208911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 13:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A bude ti to za znamení na tvé ruce a za pásku mezi tvýma očima, neboť silnou rukou nás vyvedl Jahve z Egypta.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "za znamení"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידכה",
+      "gloss": "tvé ruce"
+    },
+    {
+      "surface": "ולטוטפת",
+      "gloss": "a za pásku"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvýma očima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "silnou"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "nás vyvedl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:42.587292145Z",
+  "model": "glm-5.3"
+}

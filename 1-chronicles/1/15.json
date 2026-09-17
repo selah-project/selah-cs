@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "a ⟨את⟩ Chiveje a ⟨את⟩ Arkeje a ⟨את⟩ Sineje.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Chiveje"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chiveje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Arkeje"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arkeje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Sineje"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sineje"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:02.816561855Z",
+  "model": "glm-5.3"
+}

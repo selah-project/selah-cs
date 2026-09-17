@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Od rána do večera jsou rozbiti; bez povšimnutí navždy hynou.",
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "od rána"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "do večera"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "jsou rozbiti"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "משים",
+      "gloss": "povšimnutí"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "hynou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:16.702646250Z",
+  "model": "glm-5.3"
+}

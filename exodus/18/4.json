@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A jméno druhého Elíezer — neboť ⟨řekl⟩: „Elohim mého otce ⟨byl⟩ mé pomocníky a vytrhl mě od meče faraonova.“",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "A jméno"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "druhého"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Elíezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mého otce"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "mé pomocníky"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "a vytrhl mě"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "od meče"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:19.370903553Z",
+  "model": "glm-5.3"
+}

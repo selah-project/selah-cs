@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Záře ⟨mi⟩ uchvátila srdce kvůli bezbožným, těm, kdo opouštějí tvoji tóru.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "Záře (planoucí hněv)"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "⟨mi⟩ uchvátila srdce"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "kvůli bezbožným"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "těm, kdo opouštějí"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvoji tóru"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:48.540665024Z",
+  "model": "glm-5.3"
+}

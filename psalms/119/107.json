@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Jsem tísněn až ⟨na⟩ krajnost, Jahve; oživ mě podle svého slova.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "Jsem tísněn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "na krajnost (velmi)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "oživ mě"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "podle svého slova"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:02.465542461Z",
+  "model": "glm-5.3"
+}

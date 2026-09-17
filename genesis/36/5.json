@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A Oholibama porodila ⟨את⟩ Jeiše a ⟨את⟩ Jaalama a ⟨את⟩ Koracha; toto jsou synové Ezaua, kteří se mu narodili v zemi Kenaanu.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "a Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeiše"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeiš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Jaalama"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Koracha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ezaua"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "se narodili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:35.192417505Z",
+  "model": "glm-5.3"
+}

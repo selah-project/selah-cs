@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 26:58",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Toto ⟨jsou⟩ rody Léviho: rod Libnů, rod Chebronů, rod Machlů, rod Mušíů, rod Korachů; a Kehat zplodil ⟨את⟩ Amrama.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "rody"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Léviho"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "rod"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "Libnů"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "rod"
+    },
+    {
+      "surface": "החברני",
+      "gloss": "Chebronů"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "rod"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "Machlů"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "rod"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "Mušíů"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "rod"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "Korachů"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "a Kehat"
+    },
+    {
+      "surface": "הולד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amrama"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amrama"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:18.892067646Z",
+  "model": "glm-5.3"
+}

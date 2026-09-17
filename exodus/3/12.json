@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "I řekl: Vždyť budu s tebou, a toto ti bude znamení, že jsem tě poslal: když vyvedeš ⟨את⟩ lid z Egypta, budete sloužit ⟨את⟩ Elohimu na této hoře.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "budu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "האות",
+      "gloss": "znamení"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jsem"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "tě poslal"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "když vyvedeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "budete sloužit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimovi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimovi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "hoře"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "této"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:24.533677532Z",
+  "model": "glm-5.3"
+}

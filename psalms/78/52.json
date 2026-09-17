@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "A vyvedl jako stádo svůj lid, a vodil je jako chochol v poušti.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "A vyvedl (na cestu)"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "jako stádo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "a vodil je"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "jako chochol"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v poušti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:19.460759792Z",
+  "model": "glm-5.3"
+}

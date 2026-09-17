@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Kain vyšel z před Jahve a usadil se v zemi Nod, východně od Edenu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "z před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a usadil se"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "východně"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "od Edenu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:12.030014168Z",
+  "model": "glm-5.3"
+}

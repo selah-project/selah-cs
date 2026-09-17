@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I na cestě, když blázen jde, chybí mu srdce — ⟨a on⟩ každému říká, že je blázen.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "když blázen"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "jde"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jeho srdce"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "chybí"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a říká"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "každému"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "blázen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "že je"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:40.014682760Z",
+  "model": "glm-5.3"
+}

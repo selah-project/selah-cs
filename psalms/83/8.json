@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 83,
+  "translation": "Gebal a Amón a Amálek, Pelešet ⟨s⟩ obyvateli Córu,",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "a Amón"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "a Amálek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelešet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨s⟩"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "obyvateli"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Córu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:57.549237227Z",
+  "model": "glm-5.3"
+}

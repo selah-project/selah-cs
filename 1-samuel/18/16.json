@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A celý Isra'el i Jehuda miloval ⟨את⟩ Davida, neboť on vycházel a přicházel před nimi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isra'el"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "i Jehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miloval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "vycházel"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "a přicházel"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "před nimi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:38.630129238Z",
+  "model": "glm-5.3"
+}

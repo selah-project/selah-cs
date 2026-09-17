@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 15:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A Šaul řekl: Z od Amalekitů ⟨je⟩ přivedli, protože lid ušetřil to nejlepší z ovcí a skotu, aby ⟨to⟩ zabil v oběť Jahve, tvému Elohim, a ⟨את⟩ zbytek jsme vyobětovali ⟨zničení⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "מעמלקי",
+      "gloss": "z Amalekitů"
+    },
+    {
+      "surface": "הביאום",
+      "gloss": "je přivedli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "protože"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "ušetřil (slitoval se)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "to nejlepší"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "z ovcí"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "a skotu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zabil v oběť"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvému Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zbytek"
+    },
+    {
+      "surface": "היותר",
+      "gloss": "zbytek"
+    },
+    {
+      "surface": "החרמנו",
+      "gloss": "jsme vyobětovali"
+    }
+  ],
+  "timestamp": "2026-09-17T11:55:42.821119398Z",
+  "model": "glm-5.3"
+}

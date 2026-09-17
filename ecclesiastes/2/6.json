@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Učinil jsem si nádrže vody, abych jimi zaléval les ⟨→⟩ stromů rašících.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "učinil jsem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "si"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "nádrže"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "abych zaléval"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "jimi"
+    },
+    {
+      "surface": "יער",
+      "gloss": "les"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "rašících"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "stromů"
+    }
+  ],
+  "timestamp": "2026-09-17T11:19:52.940360851Z",
+  "model": "glm-5.3"
+}

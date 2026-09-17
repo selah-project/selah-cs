@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A Jehocadak odešel ⟨do vyhnanství⟩, když Jahve odvedl ⟨את⟩ Judu a Jeruzalém rukou Nebukadnesara.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "A Jehocadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "odešel"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "do vyhnanství"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "a Jeruzalém"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnesara"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:41.259639887Z",
+  "model": "glm-5.3"
+}

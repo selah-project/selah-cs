@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "O půlnoci vstávám, abych ⟨ti⟩ vzdával díky kvůli ⟨tvým⟩ pravým řádům.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "O půlnoci"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noci"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "vstávám"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "abych vzdával díky"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "řádům"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "pravým ⟨tvým⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:27.050848886Z",
+  "model": "glm-5.3"
+}

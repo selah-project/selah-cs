@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Stříbro ⟨za⟩ vinu a stříbro ⟨za⟩ hříchy nebylo vneseno do domu Jahve; kněžím připadlo.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "⟨za⟩ vinu"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "a stříbro"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "⟨za⟩ hříchy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "bylo vneseno"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "kněžím"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "připadlo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:41.946683743Z",
+  "model": "glm-5.3"
+}

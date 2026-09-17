@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A došla voda z měchu, a odložila ⟨את⟩ dítě pod jeden z keřů.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "a došly"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "měchu"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "a odložila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dítě"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dítě"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "z keřů"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:54.515935567Z",
+  "model": "glm-5.3"
+}

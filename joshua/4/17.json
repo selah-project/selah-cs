@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A přikázal Jóšua ⟨את⟩ kněžím, řka: Vystupte z Jordánu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "A přikázal"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kněžím"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněžím"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Vystupte"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordánu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:00.396637995Z",
+  "model": "glm-5.3"
+}

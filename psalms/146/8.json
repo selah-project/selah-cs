@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 146,
+  "translation": "Jahve otevírá oči slepým, Jahve vzpřimuje shrbené, Jahve miluje spravedlivé.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "otevírá"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "slepým"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "vzpřimuje"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "shrbené"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miluje"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "spravedlivé"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:49.380967560Z",
+  "model": "glm-5.3"
+}

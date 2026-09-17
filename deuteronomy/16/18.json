@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 16:18",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Soudce a správce si jmenuješ ve všech svých branách, které ti Jahve, tvůj Elohim, dává tvým kmenům; a budou soudit ⟨את⟩ lid spravedlivým soudem.",
+  "tokens": [
+    {
+      "surface": "שפטים",
+      "gloss": "soudce"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "a správce"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "si jmenuješ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všech"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "svých branách"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לשבטיך",
+      "gloss": "tvým kmenům"
+    },
+    {
+      "surface": "ושפטו",
+      "gloss": "a budou soudit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "soudem"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlivým"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:20.310567654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A vezmeš ⟨את⟩ berana druhého a Aharon a jeho synové vloží ⟨את⟩ své ruce na hlavu berana.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "a vezmeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berana"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhého"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "a vloží"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "a jeho synové"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své ruce"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "své ruce"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berana"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:14.151623093Z",
+  "model": "glm-5.3"
+}

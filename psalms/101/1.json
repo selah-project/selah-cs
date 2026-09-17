@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 101,
+  "translation": "Davidův mizmor. O chesedu a spravedlnosti budu zpívat, tobě, Jahve, budu ždímat struny.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "o chesedu"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "a spravedlnosti"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "budu zpívat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "budu ždímat struny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:24.660305646Z",
+  "model": "glm-5.3"
+}

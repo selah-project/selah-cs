@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 22:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A řekl Abraham svým mládencům: Sedněte si ⟨sami⟩ zde s oslem; já a chlapec půjdeme tam ⟨až tam⟩, pokloníme se a vrátíme se k vám.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svým mládencům (k)"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "svým mládencům"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "sedněte si"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨sami⟩"
+    },
+    {
+      "surface": "פה",
+      "gloss": "zde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "oslem"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "já"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "a chlapec"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "půjdeme"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ונשתחוה",
+      "gloss": "pokloníme se"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "a vrátíme se"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "k vám"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:31.702842614Z",
+  "model": "glm-5.3"
+}

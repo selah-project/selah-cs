@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 1:18",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "a řekl, aby ⟨ji⟩ vyučili syny Judovy ⟨v lukostřelbě⟩ — hle, ⟨je⟩ zapsána v Knize Jášar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "aby vyučili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovy"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "zapsána"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Knize"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "Jášar"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:52.974419329Z",
+  "model": "glm-5.3"
+}

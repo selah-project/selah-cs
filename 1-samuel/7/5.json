@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A řekl Samuel: Shromážděte ⟨את⟩ celý Izrael do Micpy a budu se modlit za vás k Jahvemu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Shromážděte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý Izrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "do Micpy"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "a budu se modlit"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "za vás"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:17.855776196Z",
+  "model": "glm-5.3"
+}

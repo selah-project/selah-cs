@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 3:7",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "V měsíci prvním — to jest měsíc nisan — ve dvanáctém roce krále Achášveróše nechali padat pur, to je los, před Hamanem, od dne k dni a od měsíce k měsíci, do dvanáctého — to je měsíc adar.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "v měsíci"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvním"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to jest"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "měsíc"
+    },
+    {
+      "surface": "ניסן",
+      "gloss": "nisan"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "v roce"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "náct"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achášveróše"
+    },
+    {
+      "surface": "הפיל",
+      "gloss": "nechali padat"
+    },
+    {
+      "surface": "פור",
+      "gloss": "pur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "los"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanem"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "od dne"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "k dni"
+    },
+    {
+      "surface": "ומחדש",
+      "gloss": "a od měsíce"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "k měsíci"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvanáct"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨náct⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to jest"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "měsíc"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "adar"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:56.905274652Z",
+  "model": "glm-5.3"
+}

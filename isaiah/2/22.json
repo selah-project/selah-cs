@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Přestaňte ⟨s⟩ ⟨s⟩ člověkem, jemuž je dech v nozdrách, neboť v čem je ⟨on⟩ uvažován?",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "Přestaňte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨s⟩ (pro vás)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨s⟩ od"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jemuž"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "dech"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "v nozdrách"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "במה",
+      "gloss": "v čem"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "je uvažován"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:28.818230243Z",
+  "model": "glm-5.3"
+}

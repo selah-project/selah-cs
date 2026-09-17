@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl jsem: Vyvedu ⟨את⟩ vás z utrpení Egypta do země Kananejského, Chetejského, Emorejského, Perizejského, Chivejského a Jebuzejského, do země vytékající mlékem a medem.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "A řekl jsem"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Vyvedu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "z utrpení"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kananejského"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "a Chetejského"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "a Emorejského"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "a Perizejského"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "a Chivejského"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "a Jebuzejského"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "vytékající"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mlékem"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "a medem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:04.559984662Z",
+  "model": "glm-5.3"
+}

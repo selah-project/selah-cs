@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "který vás vyvedl ⟨את⟩ z egyptské země, abych vám byl za Elohim; já ⟨jsem⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "který vyvedl"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vás"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "abych byl"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:12.246480678Z",
+  "model": "glm-5.3"
+}

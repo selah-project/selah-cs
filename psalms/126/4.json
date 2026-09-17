@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 126,
+  "translation": "Ovrať zpět, Jahve, ⟨את⟩ náš návrat, jako bystřiny na jihu!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Ovrať zpět"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "náš návrat"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "náš návrat"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "jako bystřiny"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "na jihu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:45.881037014Z",
+  "model": "glm-5.3"
+}

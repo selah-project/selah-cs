@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A Chizkijáh dal ⟨את⟩ všechno stříbro nalezené v domě Jahveho a v pokladnicích domu krále.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkijáh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno stříbro nalezené"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nalezené"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "a v pokladnicích"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    }
+  ],
+  "timestamp": "2026-09-17T07:58:06.974654005Z",
+  "model": "glm-5.3"
+}

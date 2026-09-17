@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Co budete dělat v den ⟨ustanoveného⟩ shromáždění a v den slavnosti Jahve?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "budete dělat"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ustanoveného shromáždění"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "a v den"
+    },
+    {
+      "surface": "חג",
+      "gloss": "slavnosti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T08:58:10.602323165Z",
+  "model": "glm-5.3"
+}

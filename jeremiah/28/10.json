@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "I vzal Chananjahu, prorok, ⟨את⟩ jho ze šíje Jirmejaha, proroka, a rozbil je.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I vzal"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chananjahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jho"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "jho"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ze"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "šíje"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Jirmejaha"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "a rozbil je"
+    }
+  ],
+  "timestamp": "2026-09-17T08:27:37.370118293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 91,
+  "translation": "Nebudeš se bát hrůzy noční, ani střely, jež letí ve dne, ⟨ani⟩ moru, který kráčí v temnotě, ⟨ani⟩ zkázy, jež pustoší v poledne.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "budeš se bát"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "hrůzy"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noční"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "střely"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "letí"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ve dne"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:11.927079246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A pro druhou stranu příbytku, pro severní stranu: dvacet trámů.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "a pro stranu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytku"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "druhou"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "pro stranu"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "severní"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "trámů"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:53.794610759Z",
+  "model": "glm-5.3"
+}

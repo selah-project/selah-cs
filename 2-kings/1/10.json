@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A odpověděl Elijáš a mluvil k veliteli padesáti: Jestliže jsem muž Elohim, ať sestoupí oheň z nebe a pohltí ⟨את⟩ tebe i ⟨את⟩ tvou padesátku. A sestoupil oheň z nebe a pohltil ⟨את⟩ jeho i ⟨את⟩ jeho padesátku.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "A odpověděl"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáš"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שר",
+      "gloss": "veliteli"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "padesáti"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jsem"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ať sestoupí"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "a pohltí"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tvou padesátku"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "tvou padesátku"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "A sestoupil"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "a pohltil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho padesátku"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "jeho padesátku"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:02.603743991Z",
+  "model": "glm-5.3"
+}

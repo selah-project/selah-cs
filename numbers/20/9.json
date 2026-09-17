@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A Mojžíš vzal ⟨את⟩ hůl z před tváři Jahve, jak mu přikázal.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hůl"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "hůl"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "z před tváři"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "přikázal mu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:46:48.045543834Z",
+  "model": "glm-5.3"
+}

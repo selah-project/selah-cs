@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Od dvacetiletého a výše, každého, kdo vychází k vojsku v Izraeli, ty ⟨jej⟩ spočítáte s ⟨את⟩ nimi podle jejich vojsk — ty a Aaron.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Od"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacetiletého"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨let⟩"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "a výše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kdo vychází"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "k vojsku"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Izraeli"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "spočítáte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "každého vycházejícího k vojsku"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "podle jejich vojsk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Aaron"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:34.359915433Z",
+  "model": "glm-5.3"
+}

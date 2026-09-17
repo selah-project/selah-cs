@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Kvůli drancování chudých, kvůli sténání nuzných — „nyní povstanu“, praví Jahve, „do záchrany ho postavím, tomu, kdo ⟨na něj⟩ duje.“",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "kvůli drancování"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "chudých"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "kvůli sténání"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "nuzných"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "povstanu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "postavím"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "do záchrany"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "duje"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tomu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:25.757249016Z",
+  "model": "glm-5.3"
+}

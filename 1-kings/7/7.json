@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A síň trůnu, na níž tam soudil, síň soudu udělal, a obložil cedrem, od podlahy až k podlaze ⟨horní⟩.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "a síň"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "trůnu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na níž"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "soudil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "síň"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "soudu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "a obložil"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "cedrem"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "od podlahy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "k podlaze"
+    }
+  ],
+  "timestamp": "2026-09-17T07:43:27.803105492Z",
+  "model": "glm-5.3"
+}

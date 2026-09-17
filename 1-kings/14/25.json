@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 14:25",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A stalo se v pátém roce krále Rechabama, že Šišak, král Micrajim, vytáhl proti Jeruzalému.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "v roce"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "pátém"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabama"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "vytáhl"
+    },
+    {
+      "surface": "שושק",
+      "gloss": "Šišak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalému"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:45.980361716Z",
+  "model": "glm-5.3"
+}

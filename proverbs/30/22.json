@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "sloužícího, když se stane králem, a hlupáka, když se nasytí chlebem —",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "⟨pod⟩"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sloužícího"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "se stane králem"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "a hlupáka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "se nasytí"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    }
+  ],
+  "timestamp": "2026-09-17T11:16:46.193018487Z",
+  "model": "glm-5.3"
+}

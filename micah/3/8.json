@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Avšak já jsem naplněn silou, ⟨את⟩ ducha Jahve, i právem a mocí, abych oznámil Jákobovi jeho přestoupení a Izraeli jeho hřích.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Avšak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "jsem naplněn"
+    },
+    {
+      "surface": "כח",
+      "gloss": "silou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ducha Jahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "i právem"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "a mocí"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "abych oznámil"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jákobovi"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "jeho přestoupení"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "a Izraeli"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "jeho hřích"
+    }
+  ],
+  "timestamp": "2026-09-17T09:02:31.856950636Z",
+  "model": "glm-5.3"
+}

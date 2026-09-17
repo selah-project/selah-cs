@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A dítě rostlo a bylo odstaveno; a Abram udělal velkou hostinu v den odstavení ⟨את⟩ Izáka.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "A rostlo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dítě"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "a bylo odstaveno"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "hostinu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velkou"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "odstavení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izáka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Izák"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:33.844571429Z",
+  "model": "glm-5.3"
+}

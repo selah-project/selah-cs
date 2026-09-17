@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A zabije ⟨את⟩ skop ⟨z bucíka⟩ před Jahvem; a přivedou synové Aharonovi, kněží, ⟨את⟩ krev a pokropí ⟨את⟩ krví oltář kolem dokola, ⟨u⟩ vchodu stanu setkávání.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "a zabije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syna skotu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "skotu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "a přivedou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krev"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "a pokropí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krev"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který je"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:08.191805661Z",
+  "model": "glm-5.3"
+}

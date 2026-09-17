@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "I řekl Juda Izraeli, svému otci: Pošli toho chlapce ⟨את⟩ se mnou, a vstaňme a pojďme, a budeme živi a nezemřeme — jak my, tak ty i naše děti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svému otci"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Pošli"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "toho chlapce"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ se mnou",
+      "marks": "se mnou"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "a vstaňme"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "a pojďme"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "a budeme živi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "zemřeme"
+    },
+    {
+      "surface": "גם",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "naše děti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:54.526819355Z",
+  "model": "glm-5.3"
+}

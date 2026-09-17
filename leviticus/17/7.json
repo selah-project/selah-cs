@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A nebudou už zabíjet ⟨את⟩ svých obětí kozlům, za kterými se ti kouří. Toto bude jim ustanovení věčné po jejich pokoleních.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "A ne"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "budou zabíjet"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svých obětí"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "svých obětí"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "kozlům"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "za které"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "se kouří (cizoloží)"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "za nimi"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ustanovení"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věčné"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "po jejich pokoleních"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:12.529721232Z",
+  "model": "glm-5.3"
+}

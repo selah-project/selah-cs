@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "A Izrael řekl Jósefovi: Ať nyní zemřu, neboť jsem viděl ⟨את⟩ tvou tvář, že jsi ještě naživu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jósefovi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "ať zemřu"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "nyní \/ tentokrát"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "protože \/ poté, co"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "jsem viděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou tvář"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvou tvář"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "jsi ještě"
+    },
+    {
+      "surface": "חי",
+      "gloss": "naživu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:14.758849789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Neboť Ijób řekl: Jsem ospravedlněn, avšak El odňal můj výrok soudu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijób"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "Jsem ospravedlněn"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "avšak El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "odňal"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "můj výrok soudu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:52:18.214532106Z",
+  "model": "glm-5.3"
+}

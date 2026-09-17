@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 84,
+  "translation": "Jahve, Elohim Cevaot, slyš mou modlitbu, nakloň ucho, Elohe Jakob. Selah",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "slyš"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mou modlitbu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nakloň ucho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:44.735458111Z",
+  "model": "glm-5.3"
+}

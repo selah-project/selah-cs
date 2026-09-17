@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "Dávejte díky Elohimovi bohů, neboť na věky trvá jeho chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Dávejte díky"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimovi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bohů"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T13:41:40.086584701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A Mojžíš představil ⟨את⟩ jejich právní případ před Jahvem.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "A představil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich právní případ"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "jejich právní případ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:51.201263726Z",
+  "model": "glm-5.3"
+}

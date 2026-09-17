@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Každý muž, který se vzepře tvým ⟨את⟩ ústům a neposlechne tvá ⟨את⟩ slova ve všem, co jim přikážeš, bude usmrcen; jen buď silný a statečný!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Každý"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "se vzepře"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvým ústům"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ústům"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a neposlechne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "neposlechne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvá slova"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "slova"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ve všem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "jim přikážeš"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bude usmrcen"
+    },
+    {
+      "surface": "רק",
+      "gloss": "jen"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "buď silný"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "a statečný"
+    }
+  ],
+  "timestamp": "2026-09-17T07:04:32.607430626Z",
+  "model": "glm-5.3"
+}

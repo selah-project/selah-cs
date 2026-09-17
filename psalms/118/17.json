@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Nezemřu, neboť budu žít, a vypravovat budu skutky Jah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "zemřu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "budu žít"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "a vypravovat budu"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "skutky"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:31.005838732Z",
+  "model": "glm-5.3"
+}

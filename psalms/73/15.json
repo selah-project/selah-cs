@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "Kdybych řekl: „Vyprávět budu tak“, hle, pokolení tvých synů bych zradil.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kdybych"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "vyprávět budu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tak"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "דור",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvých synů"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "bych zradil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:19.363303620Z",
+  "model": "glm-5.3"
+}

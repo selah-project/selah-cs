@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 141,
+  "translation": "Nenakláněj mé srdce ke slovu zlému, k páchaní činů ⟨v⟩ bezbožnosti s ⟨את⟩ muži jednajícími nicotu; a nechci požívat jejich lahůdek.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תט",
+      "gloss": "nakláněj"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ke slovu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlému"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "k páchaní"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "činů"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "bezbožnosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muži jednajícími nicotu"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "s muži"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "jedajícími"
+    },
+    {
+      "surface": "און",
+      "gloss": "nicotu"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "chci požívat"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "jejich lahůdek"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:23.949733510Z",
+  "model": "glm-5.3"
+}

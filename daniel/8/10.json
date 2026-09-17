@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vyrostla až k vojsku nebes, a shodila na zem ⟨část⟩ z vojska a z hvězd, a pošlapala je.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "A vyrostla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojsku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "a shodila"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a z"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "hvězd"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "a pošlapala je"
+    }
+  ],
+  "timestamp": "2026-09-17T10:05:25.193332009Z",
+  "model": "glm-5.3"
+}

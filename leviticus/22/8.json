@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Mršinu nebo rozsápané ⟨zvíře⟩ nebude jíst, aby se tím neposkvrnil — já ⟨jsem⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "Mršinu"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "nebo rozsápané ⟨zvíře⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebude"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "aby se poskvrnil"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tím"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:33.976730847Z",
+  "model": "glm-5.3"
+}

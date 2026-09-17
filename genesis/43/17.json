@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "A muž udělal, jak řekl Josef, a muž uvedl ⟨את⟩ muže do domu Josefova.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a uvedl"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muže"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "muže"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:15.601655011Z",
+  "model": "glm-5.3"
+}

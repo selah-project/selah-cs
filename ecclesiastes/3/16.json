@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A ještě jsem viděl pod sluncem: na místě soudu — tam ⟨je⟩ bezbožnost, a na místě spravedlnosti — tam ⟨je⟩ bezbožnost.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "A ještě"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jsem viděl"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sluncem"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "na místě"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "soudu"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "⟨je⟩ bezbožnost"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "a na místě"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "spravedlnosti"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "⟨je⟩ bezbožnost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:37.297361603Z",
+  "model": "glm-5.3"
+}

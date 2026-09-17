@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 63,
+  "translation": "Žalm Davidův, když byl na poušti Judovy země.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Žalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "když byl"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:25.189401015Z",
+  "model": "glm-5.3"
+}

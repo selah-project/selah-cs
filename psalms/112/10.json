@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 112,
+  "translation": "Zlý ⟨to⟩ uvidí a rozohní se, zuby ⟨jeho⟩ skřípe a roztaje; touha zlých zahyne.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Zlý"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "uvidí"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "a rozohní se"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "zuby ⟨jeho⟩"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "skřípe"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "a roztaje"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "touha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zlých"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "zahyne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:01.787106918Z",
+  "model": "glm-5.3"
+}

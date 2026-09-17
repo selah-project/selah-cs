@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A řekl jsem jim: Je-li ⟨to⟩ dobré ve vašich očích, dejte mou mzdu, a pokud ne, zdržte se ⟨toho⟩. A odvážili ⟨את⟩ mou mzdu — třicet ⟨plátů⟩ stříbra.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "a řekl jsem"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "ve vašich očích"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "dejte"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "mou mzdu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a pokud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "zdržte se"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "a odvážili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou mzdu"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "mou mzdu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třicet"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbra"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:48.728900913Z",
+  "model": "glm-5.3"
+}

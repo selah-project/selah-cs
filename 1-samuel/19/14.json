@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A Saul poslal posly, aby vzali ⟨את⟩ Davida, a ⟨ona⟩ řekla: Je nemocen.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posly"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "aby vzali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "řekla"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "nemocen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:52.992379907Z",
+  "model": "glm-5.3"
+}

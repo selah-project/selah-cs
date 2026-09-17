@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 4:11",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Chúram udělal ⟨את⟩ kotlíky a ⟨את⟩ lopaty a ⟨את⟩ mísy; a Chíram dokončil dělat ⟨את⟩ dílo, které dělal pro krále Šalomouna, v domě Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Chúram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kotlíky"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "kotlíky"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "lopata"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "lopata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mísy"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "mísy"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "a dokončil"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chíram"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "dělat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dílo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dělal"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pro krále"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomouna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T10:24:16.738039156Z",
+  "model": "glm-5.3"
+}

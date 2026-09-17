@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Pokud je krádež skutečně nalezena v jeho ruce — od vola až po osla, až po ovci, živá — zaplatí dvojnásob.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Pokud"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "skutečně"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "je nalezena"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v jeho ruce"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "krádež"
+    },
+    {
+      "surface": "משור",
+      "gloss": "od vola"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "osla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ovci"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živá"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvojnásob"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zaplatí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:59.802423069Z",
+  "model": "glm-5.3"
+}

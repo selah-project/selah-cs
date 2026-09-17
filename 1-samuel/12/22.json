@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Neboť Jahve neopustí ⟨את⟩ svůj lid kvůli svému velikému jménu, neboť se Jahve rozhodl učinit ⟨את⟩ vás sobě lidem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "opustí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj lid"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "svému jménu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "velikému"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "rozhodl se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "učinit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sobě"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lidem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:24:17.447749555Z",
+  "model": "glm-5.3"
+}

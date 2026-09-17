@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A jméno jeho bratra ⟨bylo⟩ Júbal; on se stal otcem všech, kdo zpívají při kinore a ugav.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "A jméno"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jeho bratra"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Júbal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "היה",
+      "gloss": "se stal"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otcem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "kdo zpívají při"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinore (harfě)"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "a ugav (píšťale)"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:58.341470911Z",
+  "model": "glm-5.3"
+}

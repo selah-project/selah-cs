@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "a ⟨את⟩ všechen králů Tyru a ⟨את⟩ všechen králů Cidonu a ⟨את⟩ králů ⟨od⟩ ostrova, který ⟨je⟩ za mořem",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechen králů Tyru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králů"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tyru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechen králů Cidonu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králů"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Cidonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "králů ostrova"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králů"
+    },
+    {
+      "surface": "האי",
+      "gloss": "⟨od⟩ ostrova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "⟨je⟩ za"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mořem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:26:04.711005413Z",
+  "model": "glm-5.3"
+}

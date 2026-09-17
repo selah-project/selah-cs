@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Nevzdaluj se ode mě, neboť soužení ⟨je⟩ blízko a není pomocníka!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "vzdaluj se"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "soužení"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "⟨je⟩ blízko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "a"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "pomocníka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:14.068439811Z",
+  "model": "glm-5.3"
+}

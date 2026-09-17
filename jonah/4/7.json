@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A ustanovil ⟨ten⟩ Elohim červa při východu úsvitu na druhý den; a ⟨ten⟩ uderil ⟨את⟩ kastyovník a uschl.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "A ustanovil"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "červa"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "při východu"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "úsvitu"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "na druhý den"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "a uderil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kastyovník"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kastyovník"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "a uschl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:02:45.209114016Z",
+  "model": "glm-5.3"
+}

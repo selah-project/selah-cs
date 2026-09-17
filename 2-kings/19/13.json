@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Kde ⟨je⟩ král Chamatu, a král Arpadu, a král města Sefarvajimu, Hena a Iva?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "Kde"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamatu"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "a král"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpadu"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "a král"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvajimu"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "a Iva"
+    }
+  ],
+  "timestamp": "2026-09-17T07:58:42.174941842Z",
+  "model": "glm-5.3"
+}

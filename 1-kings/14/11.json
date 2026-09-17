@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Kdo zemře Jeroboamovi ⟨potomek⟩ ve městě, sežerou psi; a kdo zemře na poli, sežere ptactvo nebes; neboť Jahve mluvil.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "kdo zemře"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Jeroboamovi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sežerou"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "a kdo zemře"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sežere"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactvo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvvil"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:40.418384645Z",
+  "model": "glm-5.3"
+}

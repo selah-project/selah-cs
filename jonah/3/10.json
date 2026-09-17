@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Viděl ⟨את⟩ jejich skutky, že se odvrátili od své zlé cesty; ⟨a⟩ litoval Elohim zlého, které řekl učinit jim, ⟨a⟩ neučinil ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Viděl"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich skutky"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "jejich skutky"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "se odvrátili"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "od své cesty"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zlé"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "⟨a⟩ litoval"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "z"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zlého"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "učinit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:01:32.776901736Z",
+  "model": "glm-5.3"
+}

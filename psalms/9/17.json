@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Dán ⟨byl⟩ poznán Jahve ⟨pro⟩ soud, který koná; v díle svých dlaní je lapen do pasti bezbožný. Higajon. Sela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "dán ⟨byl⟩ poznán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "soud"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "který koná"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "v díle"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "svých dlaní"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "je lapen do pasti"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožný"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higajon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:07.937005911Z",
+  "model": "glm-5.3"
+}

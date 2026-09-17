@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A dokonce-li smíření ⟨את⟩ svatyně a ⟨את⟩ stanu setkání a ⟨את⟩ oltáře, přivede ⟨את⟩ kozla živého.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "a dokonce-li"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "smíření"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svatyně"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "stanu setkání"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkání"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "oltáře"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "přivede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kozla živého"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kozla"
+    },
+    {
+      "surface": "החי",
+      "gloss": "živého"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:54.005504637Z",
+  "model": "glm-5.3"
+}

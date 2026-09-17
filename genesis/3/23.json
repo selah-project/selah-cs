@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A poslal jej Jahve Elohim ze zahrady v Edenu, aby obdělával ⟨את⟩ půdu, z níž byl vzat.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "a poslal jej"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ze zahrady"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "v Edenu"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "aby obdělával"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "půdu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "půdu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "z níž"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "byl vzat"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:27.282963829Z",
+  "model": "glm-5.3"
+}

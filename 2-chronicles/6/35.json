@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "uslyšíš z nebes ⟨את⟩ jejich modlitbu a ⟨את⟩ jejich prosbu a dopravíš jim práva.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "uslyšíš"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich modlitbu"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "jejich modlitbu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jejich prosbu"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "jejich prosbu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "a učiníš"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "jejich právo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:24:37.028005707Z",
+  "model": "glm-5.3"
+}

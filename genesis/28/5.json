@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A Jitschak poslal ⟨את⟩ Jaakoba, a ten šel do Paddan-Aramu, k Labanovi, synu Betuela Aramejce, bratra Rivky, matky Jaakoba a Esava.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaakoba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakoba"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aramu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labanovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuela"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Aramejce"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bratra"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivky"
+    },
+    {
+      "surface": "אם",
+      "gloss": "matky"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakoba"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "a Esava"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:55.170546403Z",
+  "model": "glm-5.3"
+}

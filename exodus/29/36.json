@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 29:36",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A býka za hřích učiníš denně pro ⟨⟩ smíření, a očistíš oltář, když nad ním budeš konat smíření, a pomažeš ⟨את⟩ jej, abys jej posvětil.",
+  "tokens": [
+    {
+      "surface": "ופר",
+      "gloss": "a býka"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "za hřích"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "učiníš"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "denně"
+    },
+    {
+      "surface": "על",
+      "gloss": "pro"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "⟨⟩ smíření"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "a očistíš"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "בכפרך",
+      "gloss": "když budeš konat smíření"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad ním"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "a pomažeš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej (oltář)"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "abys jej posvětil"
+    }
+  ],
+  "timestamp": "2026-09-17T11:43:30.888796515Z",
+  "model": "glm-5.3"
+}

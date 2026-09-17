@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 86,
+  "translation": "Neboť ty jsi veliký a činíš divy; ty jsi ⟨jedinný⟩ Elohim, ty sám ⟨jen⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a činíš"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "divy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ty sám ⟨jen⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:03.837175966Z",
+  "model": "glm-5.3"
+}

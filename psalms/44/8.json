@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Neboť ty jsi nás zachránil od našich protivníků, a ty, kdo nás nenávidí, jsi zahanbil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "ty jsi nás zachránil"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "od našich protivníků"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "a ty, kdo nás nenávidí"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "jsi zahanbil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:46.734739038Z",
+  "model": "glm-5.3"
+}

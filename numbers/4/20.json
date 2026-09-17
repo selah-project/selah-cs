@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "a nevejdou, aby viděli při zahlcení ⟨את⟩ svatyně, a zemřou.»",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vejdou"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby viděli"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "při zahlcení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svatyně"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "a zemřou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:10.896677326Z",
+  "model": "glm-5.3"
+}

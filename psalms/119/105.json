@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Slovo tvé ⟨je⟩ lampou mým nohám a světlem mé stezce.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "lampou"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "mým nohám"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Slovo tvé"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "a světlem"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "mé stezce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:02.465143984Z",
+  "model": "glm-5.3"
+}

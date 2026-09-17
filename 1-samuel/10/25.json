@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I Samuel promluvil k lidu ⟨את⟩ právo království a napsal je do knihy a uložil ⟨to⟩ před tváří Jahve. A Samuel propustil ⟨את⟩ všechen lid, každý ⟨muž⟩ do svého domu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "právo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "právo"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "království"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "a napsal"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "do knihy"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "a uložil"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a propustil"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechen lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý muž"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "do svého domu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:22.792900999Z",
+  "model": "glm-5.3"
+}

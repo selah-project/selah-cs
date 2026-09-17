@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 32:26",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A Mojžíš stood v bráně ⟨the⟩ tábora a řekl: Kdo ⟨je⟩ pro Jahve, ⟨ke⟩ mně! A shromáždili se k němu všichni synové Léviho.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a postavil se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "v bráně"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábora"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "a shromáždili se"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Léviho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:40.818249210Z",
+  "model": "glm-5.3"
+}

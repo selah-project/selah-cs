@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Neboť Jahve slyší chudé a ⟨את⟩ své vězně nez pohrdá.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyší"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "chudé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "své vězně"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "své vězně"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "nepohrdá"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:07.854063885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekli: „To je krev! Králové se jistě pobili, udeřil každý ⟨את⟩ svého druha! Teď tedy, Moábe, na kořist!“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto je"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "se pobili"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "jsou pobiti"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "králové"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "udeřil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého druha"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svého druha"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "teď tedy"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "na kořist"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábe"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:33.944106318Z",
+  "model": "glm-5.3"
+}

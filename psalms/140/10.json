@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 140,
+  "translation": "Hlavu těch, kdo mě obkličují, ať přikryje útrapa jejich rtů.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "těch, kdo mě obkličují"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "útrapa"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "jejich rtů"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "ať přikryje"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:15.076362142Z",
+  "model": "glm-5.3"
+}

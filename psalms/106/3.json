@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "Šťastní ⟨jsou⟩ ti, kdo střeží právo, kdo činí spravedlnost v každý čas.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Šťastní"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "kdo střeží"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "právo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kdo činí"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v každý"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:35.954696410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Neboť z dálky uvidíš ⟨את⟩ zemi, a tam nevejdeš, do země, kterou já dávám synům Jisraele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "z dálky"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uvidíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "a tam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "vejdeš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dávám"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:03.232276918Z",
+  "model": "glm-5.3"
+}

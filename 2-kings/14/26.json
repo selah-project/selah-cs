@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Neboť Jahve viděl ⟨את⟩ soužení Izraele, že ⟨je⟩ velmi hořké, a nebylo zavřeného ani opuštěného a nebylo pomocníka Izraeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soužení"
+    },
+    {
+      "surface": "עני",
+      "gloss": "soužení"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "hořké"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "a nebylo"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "zavřeného"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "a nebylo"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "opuštěného"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nebylo"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomocníka"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:49.140611934Z",
+  "model": "glm-5.3"
+}

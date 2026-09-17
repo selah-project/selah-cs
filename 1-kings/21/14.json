@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Poslali ⟨zprávu⟩ k Jezábel těmito slovy: „Nábot byl ukamenován — a zemřel.“",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "poslali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Jezábel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "těmito slovy"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "byl ukamenován"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nábot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "zemřel"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:56.303548286Z",
+  "model": "glm-5.3"
+}

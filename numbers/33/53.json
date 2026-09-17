@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 33:53",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "a vytlačíte ⟨את⟩ zemi a budete v ní bydlet, neboť vám jsem dal ⟨את⟩ zemi, abyste ji vlastnili ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והורשתם",
+      "gloss": "a vytlačíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "a budete bydlet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "abyste vlastnili"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ji",
+      "marks": "ji (zemi)"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:22.709653237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A poslal král Šelomo a vzal ⟨את⟩ Chírama z Córu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "A poslal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chírama"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chírama"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "z Córu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:00.513413068Z",
+  "model": "glm-5.3"
+}

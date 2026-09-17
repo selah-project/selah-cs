@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Tak praví Jahve Cevaot: Hle, zachraňuji ⟨svůj⟩ lid ⟨את⟩ z země východu a z země západu slunce.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "zachraňuji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨svůj⟩ lid"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lid"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z země"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "východu"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "a z země"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "západu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:08:07.578578587Z",
+  "model": "glm-5.3"
+}

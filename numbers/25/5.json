@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 25:5",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A Moš řekl soudcům Izraele: „Zabijte každý ⟨své⟩ muže z těch, kteří se připojili k Baal-Peoru.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "soudcům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "zabijte"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý (muž)"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "své muže"
+    },
+    {
+      "surface": "הנצמדים",
+      "gloss": "kteří se připojili"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "k Baalovi"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peorovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:48:57.918627717Z",
+  "model": "glm-5.3"
+}

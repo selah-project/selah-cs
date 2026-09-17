@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A lid země vzal ⟨את⟩ Jehoachaze, syna Jošijáše, a učinili jej králem místo jeho otce v Jeruzalémě.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoachaze"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaze"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijáše"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "učinili jej králem"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otce"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    }
+  ],
+  "timestamp": "2026-09-17T10:33:31.444136488Z",
+  "model": "glm-5.3"
+}

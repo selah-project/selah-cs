@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A vydá jejich krále do tvé ruky, a zničíš ⟨את⟩ jejich jména zpod nebes; nezastaví se žádný muž před tvou tváří, dokud je nezničíš ⟨את⟩ ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "a vydá"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "jejich krále"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "do tvé ruky"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "a zničíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich jména"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "jejich jména"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "zpod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "zastaví se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "před tvou tváří"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "nezničíš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T06:55:23.141165729Z",
+  "model": "glm-5.3"
+}

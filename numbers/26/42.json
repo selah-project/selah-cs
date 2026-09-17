@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 26:42",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Toto jsou synové Danův podle svých čeledí: ze Šúchama čeleď Šúchamců; toto jsou čeledi Danovy podle svých čeledí.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Danův"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle svých čeledí"
+    },
+    {
+      "surface": "לשוחם",
+      "gloss": "ze Šúchama"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "čeleď"
+    },
+    {
+      "surface": "השוחמי",
+      "gloss": "Šúchamců"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "čeledi"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Danovy"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle svých čeledí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:12.900587586Z",
+  "model": "glm-5.3"
+}

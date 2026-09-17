@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Moudrý muž se soudí ⟨s⟩ ⟨את⟩ mužem bláznivým, ať se hněví nebo směje — a klidu není.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrý"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "se soudí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mužem bláznivým"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "bláznivý"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "ať se hněví"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "nebo směje"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "klid"
+    }
+  ],
+  "timestamp": "2026-09-17T11:16:26.634930038Z",
+  "model": "glm-5.3"
+}

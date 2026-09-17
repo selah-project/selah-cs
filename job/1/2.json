@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A narodilo se mu sedm synů a tři dcery.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "A narodilo se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "a tři"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dcer"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:34.244586101Z",
+  "model": "glm-5.3"
+}

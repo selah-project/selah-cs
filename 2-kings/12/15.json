@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "neboť těm, kdo konali práci, jej dávali, a jeho silou posílili ⟨את⟩ dům Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "těm, kdo konali"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "práci"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "jej dávali"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "a posílili"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:20.888522644Z",
+  "model": "glm-5.3"
+}

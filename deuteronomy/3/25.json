@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Přeji si přejít, prosím, a vidět ⟨את⟩ dobrou zemi, která je za Jordánem, tuto dobrou horu a Libanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "přeji si přejít"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "a vidět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dobrou zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobrou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "za"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordánem"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "horu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobrou"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "a Libanon"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:49.475714001Z",
+  "model": "glm-5.3"
+}

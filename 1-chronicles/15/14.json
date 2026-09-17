@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A posvětili se kněží a levíci, aby vynesli ⟨את⟩ archu Jahve, Elohimova ⟨archu⟩ Izraele.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "a posvětili se"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "a levíci"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "aby vynesli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T10:19:50.497441336Z",
+  "model": "glm-5.3"
+}

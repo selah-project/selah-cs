@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A lid, který tábořil, uslyšel ⟨totiž, že⟩ se spikl Zimrí a také zabil ⟨את⟩ krále; i učinili všichni ⟨z⟩ Izraele králem ⟨את⟩ Omrího, velitele vojska, nad Izraelem onoho dne, v táboře.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "A uslyšel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "který tábořil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "totiž, že"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "se spikl"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimrí"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a také"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "i učinili králem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni ⟨z⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Omrího"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omrího"
+    },
+    {
+      "surface": "שר",
+      "gloss": "velitele"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "onoho dne"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onoho"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "v táboře"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:28.652341251Z",
+  "model": "glm-5.3"
+}

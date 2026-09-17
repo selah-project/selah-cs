@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 19:11",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Ale stane-li se, že muž nenávidí svého bližního a číhá na něj, povstane proti němu a udeří ho ⟨na⟩ život, a zemře, a uteče do jednoho z těchto měst —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ale stane-li se"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "že ⟨je⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nenávidí"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "svého bližního"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "a číhá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "povstane"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "proti němu"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "a udeří ho"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨na⟩ život"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a zemře"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "a uteče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednoho z"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "těch měst"
+    },
+    {
+      "surface": "האל",
+      "gloss": "těchto"
+    }
+  ],
+  "timestamp": "2026-09-17T06:58:40.917018948Z",
+  "model": "glm-5.3"
+}

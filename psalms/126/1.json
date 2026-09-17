@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 126,
+  "translation": "Píseň stupňů. Když Jahve obrátil ⟨את⟩ návrat Sijónu, byli jsme jako snící.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stupňů"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Když obrátil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "návrat Sijónu"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "návrat"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijónu"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "byli jsme"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "jako snící"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:45.880416214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Daleko budiž mi, abych vás ⟨אתכם⟩ ospravedlnil — dokud nezvyku, neodvrátím svou nevinnost od sebe.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "daleko budiž"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "abych"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "ospravedlnil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "nezvyku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "odvrátím"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "svou nevinnost"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "od sebe"
+    }
+  ],
+  "timestamp": "2026-09-17T09:50:11.483370815Z",
+  "model": "glm-5.3"
+}

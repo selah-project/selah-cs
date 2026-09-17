@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Neboť ⟨את⟩ každý skutek Elohim uvede ⟨do⟩ soudu, na každé skrytou ⟨věc⟩, ať ⟨je to⟩ dobré, či zlé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "každý skutek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "skutek"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "uvede"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨do⟩ soudu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každé"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "skrytou ⟨věc⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ať ⟨je to⟩"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "či"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlé"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:28.296573677Z",
+  "model": "glm-5.3"
+}

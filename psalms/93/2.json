@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 93,
+  "translation": "Pevný ⟨je⟩ tvůj trůn od té doby, od věků ⟨jsi⟩ ty.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "pevný"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tvůj trůn"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "od té doby"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "od věků"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:40.164400812Z",
+  "model": "glm-5.3"
+}

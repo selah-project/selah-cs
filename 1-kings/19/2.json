@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "I Izebel poslala posla k Elijášovi, aby ⟨mu⟩ řekla: Tak ať mi udělají Elohim, a tak ať přidají, že stejně jako tento čas zítra položím ⟨את⟩ tvou duši jako duši jednoho z nich.",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "poslala"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "posla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijášovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aby řekla"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ať udělají"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "a tak"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "ať přidají"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "stejně jako tento čas"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "zítra"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "položím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou duši"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvou duši"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "jako duši"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "z nich"
+    }
+  ],
+  "timestamp": "2026-09-17T07:50:26.510643674Z",
+  "model": "glm-5.3"
+}

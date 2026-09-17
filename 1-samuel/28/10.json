@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A Ša'ul se jí zapřísáhl v Jahve a řekl: Živý je Jahve — ⟨nechť⟩ se tě nedotkne trest ⟨kvůli⟩ této věci.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "zapřísáhl se"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Živý ⟨je⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže ⟨ne⟩"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "se tě dotkne"
+    },
+    {
+      "surface": "עון",
+      "gloss": "trest"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "⟨kvůli⟩ věci"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "této"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:54.899672168Z",
+  "model": "glm-5.3"
+}

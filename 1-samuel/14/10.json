@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Jestliže však takto řeknou: „Pojďte nahoru k nám!“ pak půjdeme nahoru, neboť Jahve je dal do naší ruky — a toto nám bude ⟨znamením⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Jestliže však"
+    },
+    {
+      "surface": "כה",
+      "gloss": "takto"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "řeknou"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Pojďte nahoru"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "k nám"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "pak půjdeme nahoru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "je dal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "do naší ruky"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "האות",
+      "gloss": "⟨znamením⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:18.300669486Z",
+  "model": "glm-5.3"
+}

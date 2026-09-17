@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "⟨a⟩ ⟨את⟩ stůl ⟨a⟩ ⟨את⟩ jeho náčiní, ⟨a⟩ ⟨את⟩ čistý svícen ⟨a⟩ ⟨את⟩ všecko jeho náčiní, ⟨a⟩ ⟨את⟩ oltář kadidla,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "stůl"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stůl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "jeho náčiní"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jeho náčiní"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "čistý svícen"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "čistý svícen"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "čistý"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "všecko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všecko"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "jeho náčiní"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "oltář"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadidla"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:31.060689767Z",
+  "model": "glm-5.3"
+}

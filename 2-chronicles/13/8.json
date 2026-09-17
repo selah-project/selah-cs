@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 13:8",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A nyní vy říkáte, že se chcete osílit před královstvím Jahve, ⟨které je⟩ v ruce synů Davidových; vy však ⟨jste⟩ velký houf a s vámi jsou zlatí býčci, které vám Jeroboám udělal za bohy.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "říkáte"
+    },
+    {
+      "surface": "להתחזק",
+      "gloss": "osílit se"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "královstvím"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v ruce"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidových"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "vy však"
+    },
+    {
+      "surface": "המון",
+      "gloss": "houf"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velký"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "a s vámi"
+    },
+    {
+      "surface": "עגלי",
+      "gloss": "býčci"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboám"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za bohy"
+    }
+  ],
+  "timestamp": "2026-09-17T10:27:48.265579086Z",
+  "model": "glm-5.3"
+}

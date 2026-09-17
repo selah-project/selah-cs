@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 35:14",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A Jákob vztyčil stélu na místě, kde mluvil ⟨את⟩ s ním, stélu z kamene, a vylil na ni oběť pití a vylil na ni olej.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "a vztyčil"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stélu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na místě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním",
+      "marks": "s ním (s Jákobem)"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stélu"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "z kamene"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "a vylil"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na ni"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "oběť pití"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "a vylil"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na ni"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:55.083892646Z",
+  "model": "glm-5.3"
+}

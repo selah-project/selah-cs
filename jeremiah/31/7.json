@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 31:7",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Neboť tak řekl Jahve: Zpívejte Jákobovi s radostí, jásejte na čele národů, oznamujte, chvalte a říkejte: Zachraň, Jahve, ⟨את⟩ svůj lid, ⟨את⟩ ostatek Izraele!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רנו",
+      "gloss": "zpívejte"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jákobovi"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "s radostí"
+    },
+    {
+      "surface": "וצהלו",
+      "gloss": "jásejte"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na čele"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "oznamujte"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "chvalte"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "a říkejte"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "zachraň"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj lid"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ostatek Izraele"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ostatek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T11:03:20.247430102Z",
+  "model": "glm-5.3"
+}

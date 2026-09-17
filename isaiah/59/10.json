@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Tapeme po stěně jako slepí a jako ti bez očí saháme; klopýtáme v poledne jako za soumraku, mezi zdravými ⟨jsme⟩ jako mrtví.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "tapeme"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "jako slepí"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "po stěně"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "a jako ti bez"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "očí"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "saháme"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "klopýtáme"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "v poledne"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "jako za soumraku"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "mezi zdravými"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "jako mrtví"
+    }
+  ],
+  "timestamp": "2026-09-17T08:16:46.659543916Z",
+  "model": "glm-5.3"
+}

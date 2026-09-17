@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Jahve si přál kvůli své spravedlnosti, aby zvelbil tóru a učinil ji vznešenou.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "si přál"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "své spravedlnosti"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "aby zvelbil"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "tóru"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "a učinil ji vznešenou"
+    }
+  ],
+  "timestamp": "2026-09-17T10:59:52.525212635Z",
+  "model": "glm-5.3"
+}

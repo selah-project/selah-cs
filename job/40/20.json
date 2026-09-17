@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Vždyť plody hor nesou ⟨mu⟩, a všechna zvěř pole si tam hraje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "בול",
+      "gloss": "plody"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hor"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "nesou"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mu⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechna"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zvěř"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "si hraje"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T09:53:31.025451880Z",
+  "model": "glm-5.3"
+}

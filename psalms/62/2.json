@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "Jen k Elohim ⟨je⟩ má duše v tichosti, ode ⟨něho⟩ ⟨je⟩ má spása.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "v tichosti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ode ⟨něho⟩"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "má spása"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:30.216549763Z",
+  "model": "glm-5.3"
+}

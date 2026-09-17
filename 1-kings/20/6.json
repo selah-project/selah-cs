@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Neboť zítra v tuto dobu pošlu k tobě ⟨את⟩ své sloužící, aby prohledali ⟨את⟩ tvůj dům a ⟨את⟩ domy tvých sloužících; a stane se, že všechno, co je milé tvým očím, vloží do své ruky a odvezou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨totiž⟩"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "v tuto dobu"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "zítra"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "pošlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své sloužící"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "své sloužící"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "aby prohledali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvůj dům"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tvůj dům"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "domy tvých sloužících"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "domy"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tvých sloužících"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a stane se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "co je milé"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvým očím"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "vloží"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "do své ruky"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "a odvezou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:40.931975084Z",
+  "model": "glm-5.3"
+}

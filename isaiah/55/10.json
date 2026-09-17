@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Neboť jako sestupuje déšť a sníh z nebes a nevrací se tam, dokud nenapojí ⟨את⟩ zemi a nedarují jí plod a nespraví růst, a dá sem rozsévači a chléb jedlíku —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jako"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sestupuje"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "déšť"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "a sníh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se nevrací"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "אם",
+      "gloss": "než"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "nenapojí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "a nedarují jí plod"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "a nespraví růst"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a dá"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "sem"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "rozsévači"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "a chléb"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jedlíku"
+    }
+  ],
+  "timestamp": "2026-09-17T08:15:20.860997481Z",
+  "model": "glm-5.3"
+}

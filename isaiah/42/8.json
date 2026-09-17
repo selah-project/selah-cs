@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Já jsem Jahve, to ⟨je⟩ mé jméno, a svou slávu jinému nedám, ani svou chválu tesaným modlám.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mé jméno"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "a svou slávu"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "jinému"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nedám"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ani svou chválu"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "tesaným modlám"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:47.342692394Z",
+  "model": "glm-5.3"
+}

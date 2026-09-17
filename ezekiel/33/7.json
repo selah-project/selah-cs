@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 33:7",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A ty, synu člověka, za hlídače jsem tě ustanovil domu Izraele, a uslyšíš z mých úst slovo a varuješ ⟨את⟩ je ode mne.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ty"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "hlídače"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "jsem tě ustanovil"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "a uslyšíš"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "z mých úst"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "a varuješ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mne"
+    }
+  ],
+  "timestamp": "2026-09-17T08:49:36.546448896Z",
+  "model": "glm-5.3"
+}

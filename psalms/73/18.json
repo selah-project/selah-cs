@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "Jenže je kladeš na kluzká místa, shazuješ je do záhub.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jenže"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "na kluzká místa"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "kladeš"
+    },
+    {
+      "surface": "למו",
+      "gloss": "je"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "shazuješ"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "do záhub"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:12.193047725Z",
+  "model": "glm-5.3"
+}

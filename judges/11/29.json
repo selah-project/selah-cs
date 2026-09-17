@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 11:29",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A ⟨stala se⟩ nad Jiftachem ruka — duch Jahve, a přešel ⟨את⟩ Gilead a ⟨את⟩ Manasesa, a přešel ⟨את⟩ Micpe Gilead; a z Micpe Gilead přešel k synům Amóna.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "a stala se"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftachem"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "a přešel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Manasesa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasesa"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "a přešel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micpe Gilead"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "Micpe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "וממצפה",
+      "gloss": "a z Micpe"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "přešel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "k synům"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amóna"
+    }
+  ],
+  "timestamp": "2026-09-17T07:17:20.099043090Z",
+  "model": "glm-5.3"
+}

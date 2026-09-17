@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Své stříbro nedal na lichvu a úplatek proti nevinnému nevzal — kdo činí ⟨tyto věci⟩, nebude nikdy pohnut, na věky.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "své stříbro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "na lichvu"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "a úplatek"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinnému"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kdo činí"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tyto ⟨věci⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bude pohnut"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    }
+  ],
+  "timestamp": "2026-09-17T12:59:57.712489614Z",
+  "model": "glm-5.3"
+}

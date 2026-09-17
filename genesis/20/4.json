@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Abímelek se však k ní nepřiblížil a řekl: Adonaji, copak i národ spravedlivý zabiješ?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Abímelek však"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "se přiblížil"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k ní"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaji"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "copak národ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "zabiješ"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:45.222718987Z",
+  "model": "glm-5.3"
+}

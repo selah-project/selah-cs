@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A uděláš z ⟨něj⟩ ⟨את⟩ olej pomazání svatosti, směs voňavá, dílo voňavkářovy práce; olej pomazání svatosti bude.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "a uděláš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "olej"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "pomazání"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatosti"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "směs voňavá"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "voňavá"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "voňavkářovy práce"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "pomazání"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatosti"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:39.147475748Z",
+  "model": "glm-5.3"
+}

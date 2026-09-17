@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Vstaň, Elohime, přej svůj pří; pamatuj na svou potupu ⟨od⟩ bezbožného, celý den.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "vstaň"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "přej"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "svůj pří"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pamatuj"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "na svou potupu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨od⟩"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "bezbožného"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:16.393217544Z",
+  "model": "glm-5.3"
+}

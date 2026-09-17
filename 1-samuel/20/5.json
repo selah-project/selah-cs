@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 20:5",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A David řekl Jonatánovi: Hle, zítra ⟨je⟩ nový měsíc a já mám usednout s králem k jídlu — pošli mě, a ukryji se na poli až do třetího večera.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jonatánovi (k)"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatán"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nový měsíc"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "zítra"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a já"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mám usednout"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "usednu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "k jídlu"
+    },
+    {
+      "surface": "ושלחתני",
+      "gloss": "pošli mě"
+    },
+    {
+      "surface": "ונסתרתי",
+      "gloss": "a ukryji se"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večera"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "třetího"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:33.747952188Z",
+  "model": "glm-5.3"
+}

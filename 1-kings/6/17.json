@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A čtyřicet loket ⟨byla délka⟩ domu — to ⟨jest⟩ síň před ⟨ním⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "a čtyřicet"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "loket"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byla"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "síň"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před ⟨ním⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T07:42:55.079246443Z",
+  "model": "glm-5.3"
+}

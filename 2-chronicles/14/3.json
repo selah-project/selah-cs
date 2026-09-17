@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A řekl Judovi, aby hledali ⟨את⟩ Jahve, Elohima svých otců, a konali tóru a micvu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judovi"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "aby hledali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "jejich otců"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "a konali"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tóru"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "a micvu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:27:37.220313792Z",
+  "model": "glm-5.3"
+}

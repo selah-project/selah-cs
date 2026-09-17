@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Oni však nevěděli, že Josef rozumí, neboť tlumočník ⟨byl⟩ mezi nimi.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "oni však"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "věděli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "rozumí"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "tlumočník"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "mezi nimi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:08.208396120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A ⟨את⟩ obě ledviny a ⟨את⟩ tuk, který je na nich, který je na bedrech, a ⟨את⟩ lalok na játrech — na ledvinách odstraní ⟨ho⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "A ⟨את⟩",
+      "marks": "obě ledviny"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "obě"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ledviny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tuk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "je na nich"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "je na"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "bedrech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "lalok"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "játrech"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ledvinách"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "odstraní ⟨ho⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:57.080614798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Bedlivě budete střežit ⟨את⟩ přikázání Jahve, vašeho Elohima, i ⟨jeho⟩ svědectví a ⟨jeho⟩ ustanovení, která vám přikázal.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "bedlivě střežit"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "budete střežit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "přikázání"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vašeho Elohima"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "i jeho svědectví"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "a jeho ustanovení"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "vám přikázal"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:31.757086838Z",
+  "model": "glm-5.3"
+}

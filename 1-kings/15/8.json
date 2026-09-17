@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 15:8",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "I uléhl Abijam k svým otcům a pochovali ⟨את⟩ ⟨jej⟩ v městě Davidově; a kraloval Asa, jeho syn, místo něj.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "I uléhl"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Abijam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "k"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svým otcům"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "a pochovali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨jej⟩",
+      "marks": "v městě Davidově"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v městě"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidově"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a kraloval"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:16.552818227Z",
+  "model": "glm-5.3"
+}

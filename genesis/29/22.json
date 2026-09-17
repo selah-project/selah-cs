@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A Laban shromáždil ⟨את⟩ všechny muže ⟨the⟩ toho místa a udělal hostinu.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "shromáždil"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny muže"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muže"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "toho místa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "hostinu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:46.648569408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A je-li tvůj dar oběť míncha na pánvi, bude to jemná mouka zmíchaná v oleji, nekvašená ⟨bude⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a je-li"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "oběť míncha"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "pánvi"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "tvůj dar"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "jemná mouka"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "zmíchaná"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "v oleji"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "nekvašená"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:48.004649905Z",
+  "model": "glm-5.3"
+}

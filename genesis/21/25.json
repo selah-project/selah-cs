@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Abraham výtkou káral ⟨את⟩ Abímeleka kvůli studni vody, kterou mu sluhové Abímeleka násilím vzali.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "a výtkou káral"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abímeleka"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abímeleka"
+    },
+    {
+      "surface": "על",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "באר",
+      "gloss": "studni"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "násilím vzali"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluhové"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abímeleka"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:35.555996827Z",
+  "model": "glm-5.3"
+}

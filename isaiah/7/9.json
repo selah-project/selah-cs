@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A hlavou Efrajima ⟨je⟩ Šomron, a hlavou Šomronu ⟨je⟩ syn Remaljahu. Nebudete-li věřit, jistě nebudete utvrzeni.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "a hlavou"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "a hlavou"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomronu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Nebudete-li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "budete věřit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "budete utvrzeni"
+    }
+  ],
+  "timestamp": "2026-09-17T08:02:14.867759116Z",
+  "model": "glm-5.3"
+}

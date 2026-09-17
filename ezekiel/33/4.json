@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "a ten, kdo slyší ⟨את⟩ hlas šofaru a nedá se varovat — meč přijde a vezme ⟨jej⟩, jeho krev bude na jeho vlastní hlavě.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "a ten, kdo slyší"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "slyšící"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "šofaru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "dá se varovat"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "přijde"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "vezme ⟨jej⟩"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jeho krev"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na jeho hlavě"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    }
+  ],
+  "timestamp": "2026-09-17T08:48:56.504453849Z",
+  "model": "glm-5.3"
+}

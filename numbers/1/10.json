@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Za syny Josefovy: za Efrajim, Elíšama, syn Ammihudův; za Manasese, Gamliel, syn Pédacurův.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "za syny"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefovy"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "za Efrajim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elíšama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Ammihudův"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "za Manasese"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pédacurův"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:41.857103246Z",
+  "model": "glm-5.3"
+}

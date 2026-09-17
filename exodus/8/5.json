@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 8:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A Mojžíš řekl faraónovi: ⟨Vyber si⟩ nade mnou — do kdy mám orodovat za tebe, za tvé sluhy a za tvůj lid, aby ⟨byly⟩ žáby vyhlazeny od tebe a z tvých domů? Jenom v řece zůstanou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "התפאר",
+      "gloss": "⟨Vyber si⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mnou"
+    },
+    {
+      "surface": "למתי",
+      "gloss": "do kdy"
+    },
+    {
+      "surface": "אעתיר",
+      "gloss": "mám orodovat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "za tebe"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "a za tvé sluhy"
+    },
+    {
+      "surface": "ולעמך",
+      "gloss": "a za tvůj lid"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "aby ⟨byly⟩ vyhlazeny"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "žáby"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "a z tvých domů"
+    },
+    {
+      "surface": "רק",
+      "gloss": "jenom"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "v řece"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "zůstanou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:40.820337107Z",
+  "model": "glm-5.3"
+}

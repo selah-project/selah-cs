@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Zachránili vůbec Elohim národů každého ⟨את⟩ svou zemi z rukou krále Asýrie?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "vůbec zachránili"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "zachránili"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou zemi"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "svou zemi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z rukou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asýrie"
+    }
+  ],
+  "timestamp": "2026-09-17T07:58:16.457213972Z",
+  "model": "glm-5.3"
+}

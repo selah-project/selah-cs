@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A král Kóreš vynesl ⟨את⟩ nádoby domu Jahve, které vyvlekl Nevukadnecar z Jeruzaléma, a uložil je v domě svých Elohim.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "A král"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Kóreš"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "vynesl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nádoby"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nádoby"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "vyvlekl"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnecar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "z Jeruzaléma"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "a uložil je"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svých Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T11:21:56.790050358Z",
+  "model": "glm-5.3"
+}

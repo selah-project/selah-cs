@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A jestliže lid země skryje ⟨את⟩ své oči před tím mužem, když dává ze svého semene Molochovi, takže ho nezahubí ⟨את⟩ ⟨on⟩ smrtí,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A jestliže"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "skryje"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "— zatají"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své oči"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "své oči"
+    },
+    {
+      "surface": "מן",
+      "gloss": "před"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "tím mužem"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tím"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "když dává"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "ze svého semene"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molochovi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "takže ne"
+    },
+    {
+      "surface": "המית",
+      "gloss": "zahubí smrtí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨on⟩",
+      "marks": "ho"
+    }
+  ],
+  "timestamp": "2026-09-17T11:48:13.896112824Z",
+  "model": "glm-5.3"
+}

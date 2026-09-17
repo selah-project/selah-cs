@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 58,
+  "translation": "který neslyší hlas zaříkávačů, mistra zaklínadel ⟨ať je⟩ sebechytrější.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "slyší"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "zaříkávačů"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "mistra zaklínadel"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "zaklínadel"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "sebechytrější"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:57.899016733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A soudil ⟨את⟩ Izrael dvacet a tři roky; pak zemřel a byl pohřben v Šamiru.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "a soudil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "a tři"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roky"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a byl pohřben"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "v Šamiru"
+    }
+  ],
+  "timestamp": "2026-09-17T07:15:56.096531522Z",
+  "model": "glm-5.3"
+}

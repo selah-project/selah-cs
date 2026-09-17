@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A uprchl Adoni-Bezek, a pronásledovali ho, a chytili ⟨את⟩ jeho, a usekli ⟨את⟩ palce jeho rukou a nohou.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "a uprchl"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "a pronásledovali"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "a chytili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jeho",
+      "marks": "jeho (Adoni-Bezeka)"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "a usekli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palce jeho rukou a nohou"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "palce"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "jeho rukou"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "a nohou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:32.719555973Z",
+  "model": "glm-5.3"
+}

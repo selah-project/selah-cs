@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 133,
+  "translation": "Jako rosa Chermónu, která stéká na hory Cijónu, neboť tam přikázal Jahve ⟨את⟩ požehnání — život až na věky.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Jako rosa"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermónu"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "která stéká"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "hory"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijónu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "požehnání"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "požehnání"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "život"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až na"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "věky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:12.644669302Z",
+  "model": "glm-5.3"
+}

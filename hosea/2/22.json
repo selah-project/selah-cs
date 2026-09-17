@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A zasnoubím tě ⟨se⟩ ⟨sebou⟩ ve věrnosti, a poznáš ⟨את⟩ Jahveho.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "a zasnoubím tě"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi \/ ⟨se sebou⟩"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ve věrnosti"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "a poznáš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T08:55:59.491903992Z",
+  "model": "glm-5.3"
+}

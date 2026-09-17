@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Celými kameny budeš stavět ⟨את⟩ oltář Jahveho, svého Elohima, a budeš na něm přinášet celopaly Jahvovi, svému Elohimovi.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "Celými"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "budeš stavět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltář"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "a budeš přinášet (vyzdvíhat)"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něm"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "celopaly"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svému Elohimovi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:30.811432615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A v pátém roce smíte jíst ⟨את⟩ jeho plod, aby vám přibyl jeho výnos; já ⟨jsem⟩ Jahve, váš Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "A v pátém roce… v roce"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "pátém"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smíte jíst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho plod"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "jeho plod"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "aby přibyl"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "jeho výnos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:20.413221099Z",
+  "model": "glm-5.3"
+}

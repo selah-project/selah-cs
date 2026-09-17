@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Učiň sobě archu z goferového dřeva; příhrady uděláš ⟨v⟩ ⟨את⟩ arše a pokryješ ⟨את⟩ ji smolou zevnitř i zvenku.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Učiň"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sobě"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "archu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z dřeva"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer(ového)"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "příhrady"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uděláš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arše"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "⟨v⟩ arše"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "a pokryješ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ji",
+      "marks": "ji (archu)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "zevnitř"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "i zvenku"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "smolou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:37.595766893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A archa Elohim ⟨byla⟩ vzata, a dva synové Éliho zemřeli, Chofni a Pinchas.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "A archa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "vzata ⟨byla⟩"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "a dva"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éliho"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "zemřeli"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Chofni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "a Pinchas"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:45.093112504Z",
+  "model": "glm-5.3"
+}

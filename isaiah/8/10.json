@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Radte se radou ⟨a⟩ bude zmařena; promluvte slovo, a nevzejde — neboť ⟨s⟩ námi ⟨je⟩ El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Radte se"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "radou"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "a bude zmařena"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "promluvte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "vzejde (nevzejde)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "s námi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:34.318336643Z",
+  "model": "glm-5.3"
+}

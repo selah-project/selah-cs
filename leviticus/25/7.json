@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "i tvému dobytku i zvěři, jež ⟨je⟩ v tvé zemi — veškerá její úroda bude za pokrm.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "i tvému dobytku"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "i zvěři"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "v tvé zemi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerá"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "její úroda"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "za pokrm"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:56.483740714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A král přikázal ⟨את⟩ Joábovi i ⟨את⟩ Abišajovi i ⟨את⟩ Itajovi, říkaje: Zacházejte šetrně se mnou s mladíkem, s Abšalómem. A všichni lidé slyšeli, když král přikazoval ⟨את⟩ všechny velitele ohledně Abšalóma.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joábovi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joábovi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Abišajovi"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abišajovi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Itajovi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itajovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkaje"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "šetrně"
+    },
+    {
+      "surface": "לי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "s mladíkem"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "s Abšalómem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všichni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidé"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slyšeli"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "když přikazoval"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny velitele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "velitele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ohledně"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "věci"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abšalóma"
+    }
+  ],
+  "timestamp": "2026-09-17T07:37:08.958967600Z",
+  "model": "glm-5.3"
+}

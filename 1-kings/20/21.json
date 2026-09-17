@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A vyšel král Jisraele a porazil ⟨את⟩ koně a ⟨את⟩ vozataje, a uderil v Aramejcích velkou ranou.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "A vyšel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a porazil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koně"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "koně"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "vozataje"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "vozataje"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "a uderil"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "v Aramejcích"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ránou"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "velkou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:50:06.393693493Z",
+  "model": "glm-5.3"
+}

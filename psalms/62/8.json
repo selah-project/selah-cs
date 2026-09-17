@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "Na Elohim ⟨spočívá⟩ spása má a sláva má; skála síly mé, útočiště mé — v Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "spása má"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "a sláva má"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skála"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "síly mé"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "útočiště mé"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "v Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:03.187228426Z",
+  "model": "glm-5.3"
+}

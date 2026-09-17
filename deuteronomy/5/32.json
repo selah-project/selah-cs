@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A budete dbát, abyste konali, přesně jak přikázal Jahve, váš Elohim, ⟨את⟩ vás; ne odbočíte napravo ani nalevo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "A budete dbát"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "abyste konali"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "přesně jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "odbočíte"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "napravo"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "ani nalevo"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:13.817425772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Neboť tvé šípy ve mně uvázly a tvá ruka se na mě přitiskla",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "tvé šípy"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "uvázly (sestoupily)"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ve mně"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "a přitiskla ses"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mě"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvá ruka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:20.845509796Z",
+  "model": "glm-5.3"
+}

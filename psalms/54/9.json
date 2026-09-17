@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 54,
+  "translation": "Neboť ze vší tísně ⟨mě⟩ vysvobodil, a na mé nepřátele spatřilo oko mé ⟨svou touhu⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze vší"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tísně"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "vysvobodil ⟨mě⟩"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "a na mé nepřátele"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "spatřilo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oko mé"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:22.930103783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "I viděl farao, že nastala úleva, a zatvrdil ⟨את⟩ své srdce a neposlechl je, jak mluvil Jahve.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i viděl"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nastala"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "úleva"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "a zatvrdil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své srdce"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslechl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "je"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:42.855602292Z",
+  "model": "glm-5.3"
+}

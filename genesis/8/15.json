@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A Elohim mluvil k Noachovi, řka:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:23.535424511Z",
+  "model": "glm-5.3"
+}

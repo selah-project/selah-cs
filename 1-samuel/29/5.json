@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Což není to David, o němž odpovídali v tancích, říkaje: Šaúl usmrtil v tisících svých a David v deseti tisících svých?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "což ne"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o němž"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "odpovídali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "v tancích"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkaje"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "usmrtil"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúl"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "v tisících svých"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "v deseti tisících svých"
+    }
+  ],
+  "timestamp": "2026-09-17T07:31:00.807724851Z",
+  "model": "glm-5.3"
+}

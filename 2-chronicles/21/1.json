@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Jóšafat uložil ⟨se⟩ k odpočinku se svými otci a byl pohřben se svými otci v ⟨městě⟩ Davidově; a jeho syn Jehoram kraloval místo něj.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "uložil k odpočinku"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jóšafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svými otci"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a byl pohřben"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svými otci"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v ⟨městě⟩"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidově"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a kraloval"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    }
+  ],
+  "timestamp": "2026-09-17T10:29:23.037771267Z",
+  "model": "glm-5.3"
+}

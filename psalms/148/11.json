@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 148,
+  "translation": "králové země a všechny národy, knížata a všichni soudci země,",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "králové"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechny"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "knížata"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všichni"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "soudci"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:15.454138602Z",
+  "model": "glm-5.3"
+}

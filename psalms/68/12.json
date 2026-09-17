@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Adonaj dává slovo; ⟨těšitelky⟩ — veliký je zástup ⟨těšitelek⟩.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "těšitelky"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "zástup"
+    },
+    {
+      "surface": "רב",
+      "gloss": "veliký"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:47.164314664Z",
+  "model": "glm-5.3"
+}

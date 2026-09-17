@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A šel jinou cestou a nevrátil se na cestě, kterou přišel do Bet-elu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "A šel"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jinou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vrátil se"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "בה",
+      "gloss": "do ní"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-elu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:24.461081645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 123,
+  "translation": "Píseň výstupů. K tobě jsem pozvedl ⟨את⟩ své oči, ⟨ty⟩ ⟨jenž⟩ trůníš v nebesích.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "výstupů"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "K tobě"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "jsem pozvedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své oči"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "své oči"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "trůníš"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "v nebesích"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:10.841534247Z",
+  "model": "glm-5.3"
+}

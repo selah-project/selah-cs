@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Čekali jsme pokoj, ale není dobra; ⟨čekali jsme⟩ čas uzdravení — a hle, děs!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "čekali jsme"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "uzdravení"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "děs"
+    }
+  ],
+  "timestamp": "2026-09-17T08:22:03.162625917Z",
+  "model": "glm-5.3"
+}

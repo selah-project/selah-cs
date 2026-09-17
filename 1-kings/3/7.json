@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A nyní, Jahve, Elohim můj, ty jsi učinil králem ⟨את⟩ svého služebníka místo Davida, otce mého; a já jsem chlapec mladý, neznám vycházení ani přicházení.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim můj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "jsi učinil králem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého služebníka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svého služebníka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otce mého"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a já"
+    },
+    {
+      "surface": "נער",
+      "gloss": "chlapec"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mladý"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "znám"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "vycházení"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ani přicházení"
+    }
+  ],
+  "timestamp": "2026-09-17T10:53:59.657560126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "král Jeruzaléma, jeden; král Chebronu, jeden;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebronu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-09-17T07:07:56.813429076Z",
+  "model": "glm-5.3"
+}

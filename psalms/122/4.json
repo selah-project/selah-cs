@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 122,
+  "translation": "Neboť tam vystupují kmeny, kmeny Jah, svědectví ⟨pro⟩ Izrael, děkovat jménu Jahve.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "vystupují"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "kmeny"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kmeny"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "⟨pro⟩ Izrael"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "děkovat"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:37.295782430Z",
+  "model": "glm-5.3"
+}

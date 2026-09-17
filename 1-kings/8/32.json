@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "pak ty slyš z ⟨nebes⟩ a učin, a rozsuď ⟨את⟩ své služebníky: zprohlásit vinu bezbožného, vrátit jeho cestu na jeho vlastní hlavu, a ospravedlnit spravedlivého, dát mu podle jeho spravedlnosti.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "pak ty"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "slyšíš"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "z nebes"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "a učin"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "a rozsoudíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své služebníky"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "své služebníky"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "zprohlásit vinu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožného"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "vrátit"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jeho cestu"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na jeho hlavu"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "a ospravedlnit"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivého"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "podle jeho spravedlnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T07:45:34.714014291Z",
+  "model": "glm-5.3"
+}

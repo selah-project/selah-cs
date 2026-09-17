@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A hledali dívku krásnou na celém území Izraele, a našli ⟨את⟩ Abišag Šunamitku, a přivedli ⟨את⟩ ji králi.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "A hledali"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "dívku"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "krásnou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na celém"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "území"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "a našli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abišag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abišag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Šunamitka"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "a přivedli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ji",
+      "marks": "(přivedli ji) králi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:51.601759940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 84,
+  "translation": "Jak šťastní jsou obyvatelé tvého domu, stále tě budou chválit. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Jak šťastní"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "obyvatelé"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tvého domu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "tě budou chválit"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:17.058078698Z",
+  "model": "glm-5.3"
+}

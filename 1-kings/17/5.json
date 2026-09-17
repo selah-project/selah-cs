@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "I šel a učinil podle slova Jahveho; a šel a bydlel u potoka Kerit, který ⟨je⟩ naproti Jordánu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "podle slova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a bydlel"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "u potoka"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváři"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordánu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:39.591480219Z",
+  "model": "glm-5.3"
+}

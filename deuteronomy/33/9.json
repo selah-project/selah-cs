@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Který řekl svému otci a své matce: Neviděl jsem ho, a ⟨את⟩ své bratry nepoznal, a ⟨את⟩ své syny neznal; neboť zachovali tvé slovo a tvou smlouvu budou střežit.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Který řekl"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "svému otci"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "a své matce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne(viděl)"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "jsem ho viděl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "své bratry"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "své bratry"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "nepoznal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "své syny"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "své syny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "znal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "zachovali"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tvé slovo"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "a tvou smlouvu"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "budou střežit"
+    }
+  ],
+  "timestamp": "2026-09-17T07:02:49.772831284Z",
+  "model": "glm-5.3"
+}

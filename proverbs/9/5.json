@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Pojďte, jezte můj chléb a pijte víno, které jsem smíchal(a).",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Pojďte"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "jezte"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "můj chléb"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "a pijte"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "víno"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "které jsem smíchal(a)"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:43.694900193Z",
+  "model": "glm-5.3"
+}

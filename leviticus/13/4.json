@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 13:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A je-li bělavá skvrna na kůži jeho těla a její vzhled není hlubší než kůže a chlup v ní se neobrátil v bělo, pak kněz zavře ⟨את⟩ ránu na sedm dní.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a je-li"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "bělavá skvrna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "bělavá"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ta⟩"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "na kůži"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jeho těla"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "a není hlubší"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "vzhled"
+    },
+    {
+      "surface": "מן",
+      "gloss": "než"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kůže"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "a chlup v ní"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "se obrátil"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "v bělo"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "zavře"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ránu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ránu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    }
+  ],
+  "timestamp": "2026-09-17T06:33:46.026908874Z",
+  "model": "glm-5.3"
+}

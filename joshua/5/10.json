@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "I utábořili se synové Izraele v Gilgalu a vykonali ⟨את⟩ pesach čtrnáctého dne měsíce večer v Aravót Jericha.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "a utábořili se"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "v Gilgalu"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "a vykonali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "čtrnáctého"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "čtrnáctého"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "v Aravót"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jericha"
+    }
+  ],
+  "timestamp": "2026-09-17T07:04:41.749267519Z",
+  "model": "glm-5.3"
+}

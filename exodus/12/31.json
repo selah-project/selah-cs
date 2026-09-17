@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A zavolal v noci Mošeho a Ahrona a řekl: Vstaňte, vyjděte z prostředku mého lidu, i vy, i synové Jisra'elu, a jděte, služte ⟨את⟩ Jahve, jak jste řekli.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a zavolal"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošeho"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "a Ahrona"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Vstaňte"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "vyjděte"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "z prostředku"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mého lidu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'elu"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "a jděte"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "služte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "jak jste řekli"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:38.101194747Z",
+  "model": "glm-5.3"
+}

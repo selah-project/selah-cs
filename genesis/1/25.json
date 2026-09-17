@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A učinil Elohim ⟨את⟩ zvěř země podle jejího druhu, a ⟨את⟩ dobytek podle jeho druhu, a ⟨את⟩ veškerou plazi země podle jejího druhu; a viděl Elohim, že ⟨to je⟩ dobré.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvěř země"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zvěř"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "podle jejího druhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dobytek"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dobytek"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "podle jeho druhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "veškerou plazi země"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "plaz"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "země (půdy)"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "podle jejího druhu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:07.263597470Z",
+  "model": "glm-5.3"
+}

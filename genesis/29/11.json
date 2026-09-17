@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A Jakub políbil Ráchel, pozvedl ⟨את⟩ svůj hlas a rozplakal se.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "a políbil"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakub"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Ráchel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "pozvedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj hlas"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "a rozplakal se"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:52.316807805Z",
+  "model": "glm-5.3"
+}

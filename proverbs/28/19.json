@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Kdo obdělavá svou půdu, nasytí se chlebem; kdo honí marnosti, nasytí se chudobou.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "obdělavá"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "svou půdu"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "nasytí se"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "honí"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "marnosti"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "nasytí se"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "chudobou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:20.997999750Z",
+  "model": "glm-5.3"
+}

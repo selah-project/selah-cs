@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A řekl Jahve Mojžíšovi: I ⟨את⟩ toto slovo, jsiž jsi mluvil, učiním, neboť nalezl jsi milost v mých očích a znám tě jménem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšov(i)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "I"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toto slovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "mluvil jsi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "učiním"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "nalezl jsi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v mých očích"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "a znám tě"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "jménem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:48.015781411Z",
+  "model": "glm-5.3"
+}

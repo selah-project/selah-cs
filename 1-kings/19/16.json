@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A ⟨את⟩ Jehúa, syna Nimšiho, pomážeš za krále nad Izraelem; a ⟨את⟩ Elíšu, syna Šáfata z Abel-Mecholy, pomážeš za proroka místo tebe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehúa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimšiho"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "pomážeš"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za krále"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elíšu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elíšu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Šáfata"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "z Abel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "-Mecholy"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "pomážeš"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "za proroka"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "místo tebe"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:52.722562248Z",
+  "model": "glm-5.3"
+}

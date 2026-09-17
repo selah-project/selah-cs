@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Když nastane spor mezi muži a přistoupí k soudu, a ⟨soudci⟩ je soudí, ⟨tak⟩ ospravedlní ⟨את⟩ spravedlivého a odsoudí ⟨את⟩ bezbožného.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nastane"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "spor"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "muži"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "a přistoupí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "soudu"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "a soudí je"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "ospravedlní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spravedlivého"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "spravedlivého"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "a odsoudí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bezbožného"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bezbožného"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:36.777814135Z",
+  "model": "glm-5.3"
+}

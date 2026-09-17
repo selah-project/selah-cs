@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A umyladlo ⟨את⟩ umývadlo postavil mezi stanem setkávání a ⟨mezi⟩ oltářem, a dal tam vody k umývání.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umývadlo"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umývadlo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanem"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a ⟨mezi⟩ oltářem"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltářem"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "k umývání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:32.139271461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 63,
+  "translation": "Neboť tvůj chesed je lepší než život, mé rty tě chválí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "je lepší"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvůj chesed"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "než život"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mé rty"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "tě chválí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:25.189960140Z",
+  "model": "glm-5.3"
+}

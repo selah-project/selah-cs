@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A budete střežit ⟨את⟩ nekvašené chleby, neboť právě tohoto dne jsem vyvedl ⟨את⟩ vaše zástupy z země Egypta; budete střežit ⟨את⟩ tento den pro vaše pokolení — ustanovení věčné.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "a budete střežit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nekvašené chleby"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "nekvašené chleby"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "právě"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "jsem vyvedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše zástupy"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "vaše zástupy"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "budete střežit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento den"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "pro vaše pokolení"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ustanovení"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věčné"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:20.593773450Z",
+  "model": "glm-5.3"
+}

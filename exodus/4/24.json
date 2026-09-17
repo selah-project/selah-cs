@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A stalo se na cestě, v noclehu, že ho potkal Jahve a usiloval ho usmrtit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "v noclehu"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "že ho potkal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "a usiloval"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "ho usmrtit"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:14.014114783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A řekl Jóhu: „Vydekretoval zvláštní shromáždění ⟨pro⟩ Baala.“ A vyhlásili ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jóhu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Vydekretoval zvláštní shromáždění"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "pro Baala"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "a vyhlásili"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:34.793564473Z",
+  "model": "glm-5.3"
+}

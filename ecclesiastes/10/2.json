@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Srdce moudrého ⟨je⟩ k jeho pravici, a srdce blázna k jeho levici.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrého"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "k jeho pravici"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "a srdce"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "blázna"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "k jeho levici"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:40.014546768Z",
+  "model": "glm-5.3"
+}

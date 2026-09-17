@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "I povolal také faraón moudré a čarodějníky; a učinili také oni, jmenovitě písaři-čarodějové Egypta, svými zaklínáními totéž.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i povolal"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraón"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "moudré"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "a čarodějníky"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "a učinili"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "písaři-čarodějové"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "svými zaklínáními"
+    },
+    {
+      "surface": "כן",
+      "gloss": "totéž"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:16.129031885Z",
+  "model": "glm-5.3"
+}

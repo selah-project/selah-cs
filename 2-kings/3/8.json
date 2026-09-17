@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl: „Kudy budeme stoupat ⟨nahoru⟩?“ A on řekl: „Cestou pouště Edómu.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kudy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tato"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "cesta"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "budeme stoupat"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pouště"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edómu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:17.250477964Z",
+  "model": "glm-5.3"
+}

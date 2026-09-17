@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neuvidí mě oko toho, kdo mě vidí; tvé oči ⟨jsou⟩ na mně — a já už ⟨nejsem⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "neuvidí mě"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "mého vidění ⟨toho, kdo mě vidí⟩"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvé oči"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na mně"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "a já už nejsem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:02.439081779Z",
+  "model": "glm-5.3"
+}

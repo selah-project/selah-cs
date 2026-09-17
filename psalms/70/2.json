@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 70,
+  "translation": "Elohime, ⟨abys⟩ ⟨mě⟩ zachránil! Jahve, ku pomoci mé pospěš!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "⟨abys⟩ ⟨mě⟩ zachránil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ku pomoci mé"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pospěš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:28.742794227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Poučím ⟨את⟩ vás o ruce El; co je se Šaddaj, nezatajím.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "Poučím"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vy (přátelé Jóbovy)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "o ruce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šaddaj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "zatajím"
+    }
+  ],
+  "timestamp": "2026-09-17T09:50:08.235399542Z",
+  "model": "glm-5.3"
+}

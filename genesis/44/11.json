@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "A pospíchali a snesl každý ⟨את⟩ svůj pytel na zem, a otevřel každý svůj pytel.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "a pospíchali"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "a snesli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj pytel"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "svůj pytel"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zem"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "a otevřeli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "svůj pytel"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:07.570229867Z",
+  "model": "glm-5.3"
+}

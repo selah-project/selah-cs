@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A Pelíštec se rozhlédl a spatřil ⟨את⟩ Dawida a pohrdl jím, neboť ⟨byl⟩ mladík, ruměný a krásného vzhledu.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "se rozhlédl"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelíštec"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "a spatřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "a pohrdl jím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨byl⟩"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mladík"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "a ruměný"
+    },
+    {
+      "surface": "עם",
+      "gloss": "a spolu"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "krásný"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "vzhled"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:28.105238852Z",
+  "model": "glm-5.3"
+}

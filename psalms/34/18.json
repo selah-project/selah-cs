@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Zvolali a Jahve ⟨je⟩ slyšel a ze všech jejich úzkostí je vysvobodil.",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "Zvolali"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyšel"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "a ze všech"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "jejich úzkostí"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "je vysvobodil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:47.096178628Z",
+  "model": "glm-5.3"
+}

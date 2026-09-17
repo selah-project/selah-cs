@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Sod Jahve ⟨patří⟩ těm, kdo se ho bojí, a jeho smlouvu jim dává poznat.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "sod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "těm, kdo se ho bojí"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "a jeho smlouvu"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": " jim dává poznat"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:23.194588209Z",
+  "model": "glm-5.3"
+}

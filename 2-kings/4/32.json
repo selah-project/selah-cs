@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Elíša vešel do domu — a hle, chlapec ⟨byl⟩ mrtvý, položený na svém lůžku.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a vešel"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elíša"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chlapec"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtvý"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "položený"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "svém lůžku"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:03.951843269Z",
+  "model": "glm-5.3"
+}

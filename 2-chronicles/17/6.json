@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A jeho srdce bylo povzneseno v cestách Jahve, a ještě odstranil ⟨את⟩ výšiny a ⟨את⟩ ašéry z Judá.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "a bylo povzneseno"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jeho srdce"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "v cestách"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "a ještě"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "odstranil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "výšiny"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "výšiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ašéry"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ašéry"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "z Judá"
+    }
+  ],
+  "timestamp": "2026-09-17T11:25:24.208917963Z",
+  "model": "glm-5.3"
+}

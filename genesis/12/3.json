@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A požehnám těm, kdo žehnají tobě, a toho, kdo tě zlořečí, prokleju; a v tobě budou požehnány všechny čeledi půdy.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "a požehnám"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "těm, kdo žehnají tobě"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "a tomu, kdo tě zlořečí"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "prokleju"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "budou požehnány"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "čeledi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "půdy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:58.599296902Z",
+  "model": "glm-5.3"
+}

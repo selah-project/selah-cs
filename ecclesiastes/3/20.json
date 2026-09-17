@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Všecko jde na jedno místo; všecko ⟨bylo⟩ z prachu a všecko se vrací k prachu.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Všecko"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "jde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "všecko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "prachu"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "a všecko"
+    },
+    {
+      "surface": "שב",
+      "gloss": "se vrací"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "prachu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:56.300724201Z",
+  "model": "glm-5.3"
+}

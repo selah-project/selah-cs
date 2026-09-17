@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "⟨את⟩ všechno toto jsem viděl, a dal jsem ⟨את⟩ své srdce ke každému dílu, jež se děje pod sluncem — ⟨čas⟩, kdy člověk vládl nad člověkem ke škodě jeho.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno toto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jsem viděl"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své srdce"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "své srdce"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ke každému"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "se děje"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sluncem"
+    },
+    {
+      "surface": "עת",
+      "gloss": "⟨čas⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdy"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "vládl"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "nad člověkem"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ke škodě"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jeho"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:27.301613486Z",
+  "model": "glm-5.3"
+}

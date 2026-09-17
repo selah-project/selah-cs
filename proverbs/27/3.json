@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Tíha ⟨je⟩ kámen a břemeno písek, ale hněv blázna je těžší než oba dva.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "tíha"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kámen"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "a břemeno"
+    },
+    {
+      "surface": "החול",
+      "gloss": "písek"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ale hněv"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "blázna"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "je těžší"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "než oba dva"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:46.392138421Z",
+  "model": "glm-5.3"
+}

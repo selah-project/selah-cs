@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Řekl Adonaj: Z Bašanu přivedu zpět, přivedu zpět z hlubin moře.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Řekl"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "z Bašanu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "přivedu zpět"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "přivedu zpět"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "z hlubin"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moře"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:51.740346412Z",
+  "model": "glm-5.3"
+}

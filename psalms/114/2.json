@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 114,
+  "translation": "Juda se stal jeho svatyní, Izrael jeho panstvími.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "se stala"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "jeho svatyní"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "jeho panstvími"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:56.302801554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Místo mé lásky obviňují mě — a já ⟨jsem⟩ modlitba.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mé lásky"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "obviňují mě"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a já"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "⟨jsem⟩ modlitba"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:55.900651544Z",
+  "model": "glm-5.3"
+}

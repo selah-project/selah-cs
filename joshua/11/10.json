@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Jojšua se v ten čas obrátil zpět a dobyl ⟨את⟩ Chacor a ⟨את⟩ jeho krále porazil mečem — neboť Chacor byl dříve hlavou všech těchto království.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "obrátil se zpět"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jojšua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "v čas"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a dobyl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chacor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chacor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho krále"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "jeho krále"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "porazil"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mečem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chacor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "dříve"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "království"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "těchto"
+    }
+  ],
+  "timestamp": "2026-09-17T07:08:30.436227876Z",
+  "model": "glm-5.3"
+}

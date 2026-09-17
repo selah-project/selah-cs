@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Neukrývej svou tvář před svým služebníkem, neboť ⟨je mi⟩ tísně; pospěš, odpověz mi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ukrývej"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "před svým služebníkem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tísně"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨je mi⟩"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "pospěš"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odpověz mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:31.981758568Z",
+  "model": "glm-5.3"
+}

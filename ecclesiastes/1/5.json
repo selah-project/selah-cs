@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A vychází slunce a zapadá slunce, a ke svému místu ⟨se⟩ honí ⟨ten, jenž⟩ tam vychází.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "a vychází"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "a zapadá"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ke"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "svému místu"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "se honí (funí)"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "vychází"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ten, jenž⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:03.697035530Z",
+  "model": "glm-5.3"
+}

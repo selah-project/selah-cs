@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "⟨את⟩ Kenijce, ⟨את⟩ Kenizijce a ⟨את⟩ Kadmonijce —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenijce"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Kenijce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kenizijce"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "Kenizijce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kadmonijce"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "Kadmonijce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:18.403722032Z",
+  "model": "glm-5.3"
+}

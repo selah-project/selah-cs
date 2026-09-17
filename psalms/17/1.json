@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Modlitba Davidova. Vyslyš spravedlnost, Jahve, přilož ucho k mému volání, nakloň sluch k mé modlitbě ⟨jenž jde⟩ z rtů bez lsti.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Modlitba"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Vyslyš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "přilož ucho"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "k mému volání"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nakloň sluch"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "k mé modlitbě"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "bez"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "z rtů"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "lesti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:43.801905664Z",
+  "model": "glm-5.3"
+}

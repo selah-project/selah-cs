@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 28:10",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A nyní říkáte, že syny Judy a Jeruzaléma podmaníte sobě za otroky a otrokyně — nejsou-li však i s vámi samými viny proti Jahveovi, vašemu Elohim?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "a Jeruzaléma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "říkáte"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "podmaníte"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "za otroky"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "a otrokyně"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sobie"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "nejsou-li však"
+    },
+    {
+      "surface": "רק",
+      "gloss": "i jen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy sami"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vámi"
+    },
+    {
+      "surface": "אשמות",
+      "gloss": "viny"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "proti Jahveovi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vašemu Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T10:31:14.552428668Z",
+  "model": "glm-5.3"
+}

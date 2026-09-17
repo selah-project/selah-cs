@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A při shromáždění ⟨את⟩ shromáždění zatroubíte, ale poplach nezatroubíte.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "a při shromáždění"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shromáždění"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "zatroubíte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "poplach nezatroubíte"
+    }
+  ],
+  "timestamp": "2026-09-17T06:42:38.115557053Z",
+  "model": "glm-5.3"
+}

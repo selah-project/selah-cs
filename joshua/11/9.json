@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Jojšua jim učinil tak, jak mu řekl Jahve: ⟨את⟩ jejich koně vykastroval ohnul-kliem a ⟨את⟩ jejich vozy spálil ohněm.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jojšua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak, jak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich koně"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "jejich koně"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "vykastroval\/ohlavil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jejich vozy"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "jejich vozy"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spálil"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    }
+  ],
+  "timestamp": "2026-09-17T07:08:30.435964344Z",
+  "model": "glm-5.3"
+}

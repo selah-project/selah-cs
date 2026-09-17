@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A kdo se dotkne těla ⟨toho⟩ s výtokem, vyprává svá roucha a umyje se ve vodě a je nečistý až do večera.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "a kdo se dotkne"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "těla"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "⟨toho⟩ s výtokem"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "vyprává"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "svá roucha"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "a umyje se"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ve vodě"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "a je nečistý"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večera"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:06.406030133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 32:20",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A řekl jim Mojžíš: pokud učiníte ⟨את⟩ tuto věc, pokud se vyzbrojíte před Jahve k boji,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "učiníte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto věc"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "תחלצו",
+      "gloss": "vyzbrojíte se"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "k boji"
+    }
+  ],
+  "timestamp": "2026-09-17T06:51:32.611016110Z",
+  "model": "glm-5.3"
+}

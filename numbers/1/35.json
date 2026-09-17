@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Jejich sečtení ⟨bylo⟩ pro kmen Manasese: dva a třicet tisíc a dvě stě.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "jejich sečtení"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pro kmen"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasese"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "a třicet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "a dvě stě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:52.047971729Z",
+  "model": "glm-5.3"
+}

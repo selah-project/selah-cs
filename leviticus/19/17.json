@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Ve svém srdci nebudeš nenávidět ⟨את⟩ svého bratra; důrazně budeš usvědčovat ⟨את⟩ svého bližního a neneseš na něm hřích.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nebudeš"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "nenávidět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého bratra"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "svého bratra"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "usvědčovat"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "důrazně budeš usvědčovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého bližního"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "svého bližního"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "neseš"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něm"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hřích"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:56.830452863Z",
+  "model": "glm-5.3"
+}

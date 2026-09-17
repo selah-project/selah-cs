@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Eber žil po zplodení ⟨את⟩ Pelega třicet let a čtyři sta let a zplodil syny a dcery.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a žil"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zplodení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelega"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelega"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "a čtyři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "a dcery"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:20.886394479Z",
+  "model": "glm-5.3"
+}

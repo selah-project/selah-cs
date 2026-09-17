@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Stalo ⟨se⟩ na konci dvaceti let, v nichž Šalomoun postavil ⟨את⟩ oba ⟨ty⟩ domy, ⟨את⟩ dům Jahve a ⟨את⟩ dům krále.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo ⟨se⟩"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "na konci"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvaceti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v nichž"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oba domy"
+    },
+    {
+      "surface": "שני",
+      "gloss": "oba"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "⟨ty⟩ domy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům Jahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dům krále"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:18.168463584Z",
+  "model": "glm-5.3"
+}

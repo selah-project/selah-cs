@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A volali jsme k Jahve, Elohim otců našich, a uslyšel Jahve hlas náš ⟨את⟩, a viděl bídu naši ⟨את⟩ i námahu naši ⟨את⟩ i úzkost naši ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "a volali jsme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "otců našich"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "a uslyšel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas náš"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "hlas náš"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bídu naši"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "bídu naši"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "námahu naši"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "námahu naši"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "úzkost naši"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "úzkost naši"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:27.448656Z",
+  "model": "glm-5.3"
+}

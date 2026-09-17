@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Píseň písní, která ⟨je⟩ Šalomounova.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "písní"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šalomounova"
+    }
+  ],
+  "timestamp": "2026-09-17T09:54:23.356625015Z",
+  "model": "glm-5.3"
+}

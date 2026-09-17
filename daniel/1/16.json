@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A stalo se, že správce odnášel ⟨את⟩ jejich pokrmy i víno jejich nápoje a dával jim zeleninu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "správce"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "odnášel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich pokrmy"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "jejich pokrmy"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "i víno"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "jejich nápoje"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a dával"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "zeleninu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:13.329701480Z",
+  "model": "glm-5.3"
+}

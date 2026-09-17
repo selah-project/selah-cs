@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 4:12",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A vezmou ⟨את⟩ všechny nádoby služby, kterými slouží ⟨v⟩ nich ve svatyni, a dají ⟨je⟩ na plášť z modři a přikryjí ⟨את⟩ je pokrývkou z kůže tachaše a dají ⟨to⟩ na nosítko.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "a vezmou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny nádoby služby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nádoby"
+    },
+    {
+      "surface": "השרת",
+      "gloss": "služby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterými"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "slouží"
+    },
+    {
+      "surface": "בם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ve svatyni"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "a dají"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "plášť"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "z modři"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "a přikryjí"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "je (nádoby)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "pokrývkou"
+    },
+    {
+      "surface": "עור",
+      "gloss": "z kůže"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tachaše"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "a dají"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "nosítko"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:40.730200466Z",
+  "model": "glm-5.3"
+}

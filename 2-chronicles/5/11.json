@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 5:11",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "I stalo se, když kněží vyšli ze svatyně — neboť všichni kněží, kteří se tam nacházeli, se posvětili a nebylo ⟨třeba⟩ dbát na oddíly —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "když vyšli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "kteří se nacházeli"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "se posvětili"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nebylo ⟨třeba⟩"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "dbát"
+    },
+    {
+      "surface": "למחלקות",
+      "gloss": "na oddíly"
+    }
+  ],
+  "timestamp": "2026-09-17T10:24:48.766762935Z",
+  "model": "glm-5.3"
+}

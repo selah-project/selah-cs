@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A Azarja zplodil ⟨את⟩ Seraju, a Seraja zplodil ⟨את⟩ Jehocadaka.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "a Azarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraju"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraja"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "a Seraja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehocadaka"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehocadak"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:46.079338781Z",
+  "model": "glm-5.3"
+}

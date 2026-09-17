@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 82,
+  "translation": "Nevědí a nechápou, ve tmě chodí sem a tam, kymácí se všechny základy ⟨země⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vědí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "chápou"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "ve tmě"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "chodí sem a tam"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "kymácí se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "základy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:42.059038896Z",
+  "model": "glm-5.3"
+}

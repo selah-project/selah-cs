@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "I zavolal Samuel k Jahve, a Jahve dal hlasy (hromy) a déšť v ten den; a všichni lidé se velmi báli ⟨את⟩ Jahve a ⟨את⟩ Samuela.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "zavolal"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "hlasy (hromy)"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "a déšť"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "bál se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Samuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuela"
+    }
+  ],
+  "timestamp": "2026-09-17T07:24:18.306776030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Neboť sněhu říká: Buď zemi; i dešti přívalu, i dešťům přívalů ⟨své⟩ moci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "sněhu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "říká"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Buď"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "i dešti"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "přívalu"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "i dešťům"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "přívalů"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "⟨své⟩ moci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:52:44.305334218Z",
+  "model": "glm-5.3"
+}

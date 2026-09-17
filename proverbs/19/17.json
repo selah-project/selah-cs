@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Kdo se slitovává nad chudým, půjčuje Jahve, a Jeho skutku mu ⟨On⟩ zaplatí.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "půjčuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "slitovává se"
+    },
+    {
+      "surface": "דל",
+      "gloss": "nad chudým"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "a Jeho skutku"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zaplatí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:58.539701787Z",
+  "model": "glm-5.3"
+}

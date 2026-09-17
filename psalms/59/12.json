@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Nezabíjej je, aby můj lid nezapomněl; rozmítej je svou silou a skloň je dolů, Adonaj, štíte náš.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "zabíjej je"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aby ne"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "nezapomněl"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "rozmítej je"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "svou silou"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "a skloň je dolů"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "štíte náš"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:42.518864522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A pokud nastane újma, dáš duši za duši,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A pokud"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "újma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nastane"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "dáš"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duši"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duši"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:44.523528283Z",
+  "model": "glm-5.3"
+}

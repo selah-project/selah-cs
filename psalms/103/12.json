@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Jako je dálek východ od západu, tak daleko ⟨od nás⟩ odeňal ⟨את⟩ naše přestoupení.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "jako je dálek"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "východ"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "od západu"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "odenjal (do dálky)"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nás"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naše přestoupení"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "naše přestoupení"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:25.524488775Z",
+  "model": "glm-5.3"
+}

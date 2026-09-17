@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A synové Izraele vešli do středu moře po suché zemi, a vody jim byly ⟨zdí⟩ zprava i zleva.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "a vešli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "do středu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "po suché zemi"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "a vody"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "⟨zdí⟩"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "zprava"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "i zleva"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:01.032568382Z",
+  "model": "glm-5.3"
+}

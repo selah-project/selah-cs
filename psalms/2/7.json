@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Vypravím o výnosu: Jahve mi řekl: „Syn můj jsi ty, já jsem tě dnes zplodil.“",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Vypravím"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "חק",
+      "gloss": "výnosu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Syn můj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi ty"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "jsem tě zplodil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:44.555728158Z",
+  "model": "glm-5.3"
+}

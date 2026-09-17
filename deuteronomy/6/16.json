@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Nebudete pokoušet ⟨את⟩ Jahve, svého Elohima, jako ⟨jejž⟩ jste pokoušeli v Massa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "budete pokoušet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, svého Elohima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jako"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "jste pokoušeli"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "v Massa"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:15.320163688Z",
+  "model": "glm-5.3"
+}

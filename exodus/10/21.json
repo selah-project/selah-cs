@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I řekl Jahve Mojžíšovi: Vztáhni svou ruku k nebesům, ať je tma nad zemí Egypta a tma ⟨bude⟩ hmatatelná.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Vztáhni"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesům"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ať je"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tma"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemí"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "hmatatelná"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tma"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:33.426983960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "I řekl náš otec: Vraťte se, nakupte ⟨pro⟩ nás trochu pokrmu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "náš otec"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "vraťte se"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "nakupte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "trochu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pokrmu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:47.033432825Z",
+  "model": "glm-5.3"
+}

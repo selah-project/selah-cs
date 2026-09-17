@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 85,
+  "translation": "Věrnost ze země vyraší a spravedlnost z nebes shlíží.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Věrnost"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "vyraší"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "a spravedlnost"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z nebes"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "shlíží"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:37.340720907Z",
+  "model": "glm-5.3"
+}

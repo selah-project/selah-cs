@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A šel a vzal ⟨את⟩ Gómer, dceru Diblajim; a ona počala a porodila mu syna.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gómer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gómer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblajim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "a počala"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    }
+  ],
+  "timestamp": "2026-09-17T11:07:54.746209342Z",
+  "model": "glm-5.3"
+}

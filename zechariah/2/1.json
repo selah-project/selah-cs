@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A pozdvihl jsem ⟨את⟩ své oči a viděl jsem — a hle, čtyři rohy.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "a pozdvihl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své oči"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "své oči"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "a viděl jsem"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "rohy"
+    }
+  ],
+  "timestamp": "2026-09-17T11:09:30.412303109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 21:7",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A lid přišel k Mojžíšovi a řekli: Zhřešili jsme, neboť jsme mluvili proti Jahve a proti tobě; modli se k Jahve, ať od nás odstraní ⟨את⟩ hada. A Mojžíš se modlil za lid.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "A přišel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Zhřešili jsme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "jsme mluvili"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "proti Jahve"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "a proti tobě"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "modli se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ať odstraní"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "od nás"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hada"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "hada"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "A modlil se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "za"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    }
+  ],
+  "timestamp": "2026-09-17T06:47:20.231758313Z",
+  "model": "glm-5.3"
+}

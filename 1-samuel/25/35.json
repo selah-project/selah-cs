@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 25:35",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "I vzal David z její ruky ⟨את⟩ to, co mu přinesla, a řekl jí: Vyjdi v pokoji do svého domu; viz, vyslechl jsem tvůj hlas a pozvedl jsem tvou tvář.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "z její ruky"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co mu přinesla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "přinesla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "a jí"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "vyjdi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "v pokoji"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "do svého domu"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "viz"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "vyslechl jsem"
+    },
+    {
+      "surface": "בקולך",
+      "gloss": "tvůj hlas"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "a pozvedl jsem"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvou tvář"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:10.552457112Z",
+  "model": "glm-5.3"
+}

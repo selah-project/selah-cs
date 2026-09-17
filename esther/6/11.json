@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "I vzal Haman ⟨את⟩ šat a ⟨את⟩ koně a oděl ⟨את⟩ Mordekaie a posadil jej na koně na náměstí města a volal před ním: Tak se udělá muži, v jehož cti král nalézá zalíbení.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I vzal"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šat"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "šat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "koně"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "koně"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "a oděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekaie"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekaie"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "a posadil jej na koně"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "na náměstí"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a volal"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se udělá"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v jehož"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nalézá zalíbení"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "v cti jeho"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:32.400255433Z",
+  "model": "glm-5.3"
+}

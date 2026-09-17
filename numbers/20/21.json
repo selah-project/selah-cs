@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A Edom odmítl dát ⟨את⟩ Izraeli přejít přes svou hranici, a Izrael se od něj odvrátil.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "a odmítl"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dát"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "přejít"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "přes svou hranici"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "a odvrátil se"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "od něj"
+    }
+  ],
+  "timestamp": "2026-09-17T06:46:45.355666219Z",
+  "model": "glm-5.3"
+}

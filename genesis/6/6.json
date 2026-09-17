@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A Jahve litoval, že udělal ⟨את⟩ člověka na zemi, a zarmoutil se ve svém srdci.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "a litoval"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "člověka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "a zarmoutil se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "svému srdci"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:23.320926414Z",
+  "model": "glm-5.3"
+}

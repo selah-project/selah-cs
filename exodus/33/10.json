@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A viděl všude ⟨celý⟩ lid ⟨את⟩ sloup oblaku, jak stál u vchodu stanu, a vstal všude ⟨celý⟩ lid a klaněl se, každý u vchodu svého stanu.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "A viděl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všude ⟨celý⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sloup oblaku"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "sloup"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "oblaku"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "jak stál"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u vchodu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "a vstal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všude ⟨celý⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "a klaněl se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u vchodu"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "svého stanu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:54.651572228Z",
+  "model": "glm-5.3"
+}

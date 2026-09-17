@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A řekl Jahve Mojžíšovi: Jdi k lidu a posvěť je dnes a zítra, a vypere si své šaty.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Jdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "a posvěť je"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "a zítra"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "a vypere si"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "své šaty"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:33.345444857Z",
+  "model": "glm-5.3"
+}

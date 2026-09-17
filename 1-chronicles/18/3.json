@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A porazil David ⟨את⟩ Hadadezera, krále Cóby, u Chamatu, když šel upevnit svou ruku ⟨vládu⟩ při řece Prat.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "a porazil"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezera"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Cóby"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "u Chamatu"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "když šel"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "upevnit"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku ⟨vládu⟩"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "při řece"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Prat"
+    }
+  ],
+  "timestamp": "2026-09-17T10:20:20.552414334Z",
+  "model": "glm-5.3"
+}

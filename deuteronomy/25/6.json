@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A bude tak: prvorozený, kterého porodí, povstane na jméno svého mrtvého bratra, a jeho jméno nebude vymazáno z Izraele.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "A bude"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorozený"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterého"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "porodí"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "povstane"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svého bratra"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mrtvého"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "bude vymazáno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "z Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:46.121978536Z",
+  "model": "glm-5.3"
+}

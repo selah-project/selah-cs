@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Kdo je to ⟨za⟩ muže, který se bojí Jahve? Tomu ⟨on⟩ ukáže cestu, kterou ⟨si⟩ vyvolí.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "je to"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "který se bojí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "tomu ⟨on⟩ ukáže"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "vyvolí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:21.622122192Z",
+  "model": "glm-5.3"
+}

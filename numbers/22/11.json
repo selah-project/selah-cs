@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 22:11",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "„Hle, ⟨ten⟩ lid, který vychází z Egypta, a přikryl ⟨את⟩ tvář země; nyní pojď, proklej mi ⟨את⟩ ho; snad budu moci bojovat proti němu a vyženout jej.“",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ten⟩ lid"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "který vychází"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "a přikryl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvář"
+    },
+    {
+      "surface": "עין",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "pojď"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "proklej"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ho",
+      "marks": "⟨את⟩ ho — ukazuje na lid (doslova ‚jej‘)"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "snad"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "budu moci"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "bojovat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "proti němu"
+    },
+    {
+      "surface": "וגרשתיו",
+      "gloss": "a vyženout jej"
+    }
+  ],
+  "timestamp": "2026-09-17T10:43:31.421603927Z",
+  "model": "glm-5.3"
+}

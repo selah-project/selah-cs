@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Spravedlnost, spravedlnost budeš pronásledovat, abys žil a aby jsi obsadil ⟨את⟩ zemi, kterou Jahve, tvůj Elohim, ti dává.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Spravedlnost"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "budeš pronásledovat"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abys"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "žil"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "a aby jsi obsadil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:45.945505474Z",
+  "model": "glm-5.3"
+}

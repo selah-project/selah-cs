@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Ve čtvrtém roce byl ⟨založen⟩ základ domu Jahve, v měsíci Ziv.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "v roce"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "čtvrtém"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "byl založen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "v měsíci"
+    },
+    {
+      "surface": "זו",
+      "gloss": "Ziv"
+    }
+  ],
+  "timestamp": "2026-09-17T07:42:28.644202276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "I otevřel jsem ⟨את⟩ svá ústa, a ⟨on⟩ mě nakrmil ⟨את⟩ svitkem tímto.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "I otevřel jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá ústa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "svá ústa"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "a ⟨on⟩ mě nakrmil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svitkem tímto"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "svitkem"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tímto"
+    }
+  ],
+  "timestamp": "2026-09-17T08:39:04.588015725Z",
+  "model": "glm-5.3"
+}

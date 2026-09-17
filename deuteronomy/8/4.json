@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Tvůj šat se na tobě nerozpadl a tvá noha nenaběhla — těchto čtyřicet let.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Tvůj šat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "se rozpadl"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "na tobě"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "a tvá noha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "naběhla"
+    },
+    {
+      "surface": "זה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:31.713028477Z",
+  "model": "glm-5.3"
+}

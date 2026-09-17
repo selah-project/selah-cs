@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "David viděl, že Ša'ul vyšel, aby hledal ⟨את⟩ jeho duši; David pak ⟨byl⟩ v poušti Zíf, v Chořešu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "aby hledal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho duši"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jeho duši"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "David pak"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v poušti"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zíf"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "v Chořešu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:36.886849417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Davidův mizmor. Jahvemu ⟨patří⟩ země a její plnost, obydlelná země a ti, kdož v ní bydlí.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "a její plnost"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "obydlelná země"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "a kteří bydlí"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v ní"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:43.015340658Z",
+  "model": "glm-5.3"
+}

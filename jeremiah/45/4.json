@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "Tak mu řekneš: Tak řekl Jahve: Hle, co jsem postavil, já ⟨to⟩ bourám, a ⟨את⟩ co jsem vysadil, já ⟨to⟩ vytrhuji, ⟨את⟩ celou tu zemi ⟨sama⟩.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "řekneš"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "jsem postavil"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "bourám"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "co jsem vysadil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "jsem vysadil"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "vytrhuji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "celou tu zemi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tu zemi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨sama⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:04:09.852986077Z",
+  "model": "glm-5.3"
+}

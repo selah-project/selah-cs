@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Loket jeho délka a loket jeho šířka, čtverhranný ⟨bude⟩; a dvě lokte jeho výška; z něho samého ⟨budou⟩ jeho rohy.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "loket"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "jeho délka"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a loket"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jeho šířka"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "čtverhranný"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨bude⟩"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "a dvě lokte"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jeho výška"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něho samého"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "jeho rohy"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:12.041601697Z",
+  "model": "glm-5.3"
+}

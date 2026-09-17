@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A přiblížili jste se a postavili jste se pod ⟨the⟩ horu, a hora hořela ohněm až do srdce nebes — tma, mrak a hustá temnota.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "A přiblížili jste se"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "a postavili jste se"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨the⟩ horu"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "a hora"
+    },
+    {
+      "surface": "בער",
+      "gloss": "hořela"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tma"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "mrak"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "a hustá temnota"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:09.519538418Z",
+  "model": "glm-5.3"
+}

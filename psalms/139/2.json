@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Ty znáš mé sezení i mé vstávání; rozumíš myšlenkám mým z dálky.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znáš"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "mé sezení"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "i mé vstávání"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "rozumíš"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "myšlenkám mým"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "z dálky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:23.378879759Z",
+  "model": "glm-5.3"
+}

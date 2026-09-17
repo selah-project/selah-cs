@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Vy jste viděli, co jsem udělal Egyptu, a nesl jsem vás ⟨את⟩ na orlích křídlech a přivedl jsem vás ⟨את⟩ k sobě.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Vy"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "jste viděli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem udělal"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Egyptu"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "a nesl jsem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vy (na orlích křídlech)"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "křídlech"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "orlích"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "a přivedl jsem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vy (k sobě)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k sobě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:38.081668091Z",
+  "model": "glm-5.3"
+}

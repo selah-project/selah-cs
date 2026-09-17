@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A setkali se ⟨את⟩ Mojžíše a ⟨את⟩ Árona, jak stáli naproti nim, když vycházeli od ⟨את⟩ faraona.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "setkali se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Árona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "stojící"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "naproti nim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "když vycházeli"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:55.038222684Z",
+  "model": "glm-5.3"
+}

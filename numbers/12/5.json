@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A Jahve sestoupil v sloupu oblaku, postavil se u vchodu ⟨do⟩ stanu a zavolal Ahrona a Mirjam, a vyšli oba dva.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "a sestoupil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "v sloupu"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "oblaku"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "postavil se"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u vchodu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a zavolal"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "a Mirjam"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "a vyšli"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba dva"
+    }
+  ],
+  "timestamp": "2026-09-17T11:48:33.312376009Z",
+  "model": "glm-5.3"
+}

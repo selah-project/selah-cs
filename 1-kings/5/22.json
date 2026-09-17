@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A poslal Chirám Šalomounovi, řka: Slyšel jsem ⟨את⟩ to, což jsi poslal ke mně; já vykonám ⟨את⟩ veškerou tvou vůli v dřevích cedrových i v dřevích cypřišových.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "A poslal"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chirám"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomounovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Slyšel jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "což"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "jsi poslal"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "vykonám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškerou tvou vůli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "tvou vůli"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "v dřevích"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedrových"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "i v dřevích"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "cypřišových"
+    }
+  ],
+  "timestamp": "2026-09-17T07:43:21.498663403Z",
+  "model": "glm-5.3"
+}

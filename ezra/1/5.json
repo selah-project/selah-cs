@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A povstali přední z otců Judova a Benjamínova <i>(kmene)<\/i>, kněží a levité — ⟨את⟩ ducha každého, jehož Elohim probudil, aby vystoupil a vystavěl ⟨את⟩ dům Jahve, který ⟨je⟩ v Jeruzalémě.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "a povstali"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "přední"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "z otců"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judova"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "a Benjamínova"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "a levité"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "probudil"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ducha každého"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "jehož ducha"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "aby vystoupil"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "a vystavěl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům Jahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    }
+  ],
+  "timestamp": "2026-09-17T11:21:41.800645282Z",
+  "model": "glm-5.3"
+}

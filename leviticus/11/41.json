@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A vše, co hemží se hemžící po zemi, ⟨to⟩ je ohavnost — nebude snědeno.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a vše"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "co hemží se"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "hemžící"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ohavnost"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩ je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bude snědeno"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:43.431033611Z",
+  "model": "glm-5.3"
+}

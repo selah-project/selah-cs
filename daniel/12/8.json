@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A já jsem slyšel, ale nerozuměl ⟨jsem⟩; řekl jsem: Můj Adonaji, jaká je ⟨budoucnost⟩ těchto ⟨věcí⟩?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A já"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jsem slyšel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "rozumím"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "řekl jsem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Můj Adonaji"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jaká"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "budoucnost"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "těchto"
+    }
+  ],
+  "timestamp": "2026-09-17T11:22:29.697706233Z",
+  "model": "glm-5.3"
+}

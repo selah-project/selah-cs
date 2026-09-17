@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Človék vychází ke své práci a ke své službě až do večera.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "vychází"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "ke své práci"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "a ke své službě"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "až do"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večera"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:02.468558018Z",
+  "model": "glm-5.3"
+}

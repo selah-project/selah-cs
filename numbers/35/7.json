@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Všech měst, která dáte levitům, čtyřicet osm měst, ⟨את⟩ je ⟨i⟩ ⟨את⟩ jejich pastviny.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "měst"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dáte"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levitům"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "osm"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "měst"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jejich pastviny"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "jejich pastviny"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:23.937207930Z",
+  "model": "glm-5.3"
+}

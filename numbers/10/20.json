@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A nad vojskem kmene synů Gádu ⟨byl⟩ Eljásaf, syn Deúela.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "a nad"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojskem"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kmene"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gádu"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Eljásaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deúela"
+    }
+  ],
+  "timestamp": "2026-09-17T06:42:37.864326947Z",
+  "model": "glm-5.3"
+}

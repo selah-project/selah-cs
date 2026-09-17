@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A je-li tvůj dar oběť míncha z hrnce, bude učiněna z jemné mouky s olejem.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a je-li"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "oběť míncha"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "z hrnce"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "tvůj dar"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "jemná mouka"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "s olejem"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "bude učiněna"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:48.005015973Z",
+  "model": "glm-5.3"
+}

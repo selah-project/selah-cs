@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Také mně ⟨jest⟩ srdce jako vám; já nepadám pod vás; ⟨את⟩ koho se tyto věci nedotýkají?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mně"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "jako vám"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "padám"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "pod vás"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "koho"
+    },
+    {
+      "surface": "מי",
+      "gloss": "koho"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není \/ se nedotýkají"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jako"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tyto věci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:47:03.788330034Z",
+  "model": "glm-5.3"
+}

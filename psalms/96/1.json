@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 96,
+  "translation": "Zpívejte Jahvemu novou píseň, zpívejte Jahvemu, celá země!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Zpívejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novou"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "zpívejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:02.368880611Z",
+  "model": "glm-5.3"
+}

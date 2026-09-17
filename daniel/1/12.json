@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "„Vyzkoušej, prosím, ⟨את⟩ své sluhy deset dní; a ať nám dají ze zeleniny, a budeme jíst, a vodu, a budeme pít.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "vyzkoušej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své sluhy"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "své sluhy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "a ať dají"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "zeleniny"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "a budeme jíst"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "a vodu"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "a budeme pít"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:57.478545866Z",
+  "model": "glm-5.3"
+}

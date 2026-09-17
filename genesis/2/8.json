@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A vysadil Jahve Elohim zahradu v Edenu, na východě, a umístil tam ⟨את⟩ člověka, kterého utvořil.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "a vysadil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "zahradu"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "v Edenu"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "na východě"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a umístil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "člověka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterého"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "utvořil"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:57.757519019Z",
+  "model": "glm-5.3"
+}

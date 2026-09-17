@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A stalo se při návratu roku, že Ben-Hadad provolal ⟨את⟩ Arama a vytáhl do Afeku k bitvě s Izraelem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "při návratu"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "roku"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "provolal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arama"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "vytáhl"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "do Afeku"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "k bitvě"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:50:15.422286793Z",
+  "model": "glm-5.3"
+}

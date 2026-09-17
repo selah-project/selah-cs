@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Poslal proti nim roj much, ⟨který⟩ je sežral, a žáby, ⟨které⟩ je zničily.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Poslal"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "proti nim"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "roj much"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "sežral je"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "a žáby"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "zničily je"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:22.125956072Z",
+  "model": "glm-5.3"
+}

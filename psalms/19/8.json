@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Tóra Jahve je dokonalá, navrací duši ⟨k životu⟩; svědectví Jahve je spolehlivé, činí moudrým prostoduchého.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tóra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "dokonalá"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "navrací"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duši"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "svédectví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "spolehlivé"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "činí moudrým"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "prostoduchého"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:55.584515741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A přijdou Aharon a jeho synové, když tábor bude pocházet, a svezou ⟨את⟩ oponu ⟨the⟩ závěsu a přikryjí ji ⟨את⟩ skříň svědectví,",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "a přijdou"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "a jeho synové"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "když bude pocházet"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "a svezou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oponu"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "oponu"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "závěsu"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "a přikryjí"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skříň svědectví"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "skříň"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svědectví"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:49.993446115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Nebudeš utlačovat ⟨את⟩ svého bližního a nebudeš loupit; nezdržíš u sebe ⟨את⟩ mzdu dělníka ⟨u tebe⟩ až do rána.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "budeš utlačovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého bližního"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "svého bližního"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "budeš loupit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "zdržíš\/přenocuje"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mzda (odměna za práci)"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "nádeníka\/dělníka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ u tebe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rána"
+    }
+  ],
+  "timestamp": "2026-09-17T13:00:20.924226132Z",
+  "model": "glm-5.3"
+}

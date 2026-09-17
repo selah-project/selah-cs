@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "A udělali ⟨את⟩ destičku ⟨kvetoucí blanku⟩ svaté korony z ryzího zlata a napsali na ni nápis, rytý pečetidlem: ‚Svatost patří Jahvovi.‘",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "a udělali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "destičku"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "destička kvetoucí"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "koruny"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svaté"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ryzí"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "a napsali"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na ni"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "nápis"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "rytý"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "pečetidlem"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatost"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:56.909850561Z",
+  "model": "glm-5.3"
+}

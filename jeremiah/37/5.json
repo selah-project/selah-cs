@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 37:5",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A vojsko Paroa vyšlo z Egypta; a když Kasdejové, kteří obléhali Jeruzalém, uslyšeli ⟨את⟩ zprávu o nich, vytáhli od Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "וחיל",
+      "gloss": "A vojsko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vyšlo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "a když uslyšeli"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdejové"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "kteří obléhali"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zprávu o nich"
+    },
+    {
+      "surface": "שמעם",
+      "gloss": "zprávu o nich"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "vytáhli"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "od"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T11:02:54.120065138Z",
+  "model": "glm-5.3"
+}

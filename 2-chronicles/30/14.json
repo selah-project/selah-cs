@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A vstali a odstranili ⟨את⟩ oltáře, které byly v Jeruzalémě; a ⟨את⟩ všechna kadidlová oltáří odstranili a vhodili ⟨je⟩ do potoka Kidron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "a vstali"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "a odstranili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltáře"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechna kadidlová oltáří"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "kadidlová oltáří"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "odstranili"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "a vhodili"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "do potoka"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-09-17T10:32:12.432182609Z",
+  "model": "glm-5.3"
+}

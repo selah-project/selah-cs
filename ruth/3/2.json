@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A nyní — není Boaz náš známý, s ⟨את⟩ jehož dívkami jsi byla? Hle, on této noci věje ⟨את⟩ humno ⟨the⟩ ječmenů.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "není"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "náš známý"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jehož"
+    },
+    {
+      "surface": "היית",
+      "gloss": "jsi byla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "s jeho dívkami"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "dívkami"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "věje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "humno"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "humno"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ječmenů"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "této noci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:56:24.322810846Z",
+  "model": "glm-5.3"
+}

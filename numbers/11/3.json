@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "I nazval ⟨se⟩ jméno toho místa Tabera, neboť vzplál v nich oheň Jahveho.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "i nazval"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "toho místa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tamtoho"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tabera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "vzplál"
+    },
+    {
+      "surface": "בם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:43:20.090875142Z",
+  "model": "glm-5.3"
+}

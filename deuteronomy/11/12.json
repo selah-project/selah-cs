@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "země, o niž se Jahve, tvůj Elohim, stará ⟨את⟩ stále; oči Jahve, tvého Elohim, jsou na ní od počátku roku až do konce roku.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o niž"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "se stará"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ji (ta země)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvého Elohim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ní"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "od počátku"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "roku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "konce"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roku"
+    }
+  ],
+  "timestamp": "2026-09-17T06:55:35.978691800Z",
+  "model": "glm-5.3"
+}

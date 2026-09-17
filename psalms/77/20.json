@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Na moři ⟨je⟩ tvá cesta a tvé stezky v mnohých vodách — a tvé stopy ⟨nejsou⟩ poznány.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "na moři"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tvá cesta"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "a tvé stezky"
+    },
+    {
+      "surface": "במים",
+      "gloss": "v vodách"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnohých"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "a tvé stopy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "poznány"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:37.603482132Z",
+  "model": "glm-5.3"
+}

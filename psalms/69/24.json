@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Ať se ztmaví jejich oči, aby neviděly, a jejich bedra ať neustále klopýtají.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "Ať se ztmaví"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "jejich oči"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "aby neviděly"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "a jejich bedra"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neustále"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "klopýtají"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:51.651036731Z",
+  "model": "glm-5.3"
+}

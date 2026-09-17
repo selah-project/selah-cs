@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Úděl ⟨údolí⟩ vidění. Co ⟨je⟩ ti ⟨nyní⟩, že jsi vystoupila, celá ty, na střechy?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Úděl"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "údolí"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "vidění"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "jsi vystoupila"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "celá ty"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "na střechy"
+    }
+  ],
+  "timestamp": "2026-09-17T08:06:45.593943800Z",
+  "model": "glm-5.3"
+}

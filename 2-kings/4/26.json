@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Nyní běž, prosím, jí vstříc a řekni jí: Je ti šalom? Je šalom tvému muži? Je šalom dítěti? A ona řekla: Šalom.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nyní"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "běž"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "jí vstříc"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řekni"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Je ti šalom?"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Je šalom"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "tvému muži"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Je šalom"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "dítěti"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "A ona řekla"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Šalom"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:57.617694828Z",
+  "model": "glm-5.3"
+}

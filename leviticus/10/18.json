@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Hle, nebyla ⟨את⟩ její krev vnesena do svatyně dovnitř — jíst máte ⟨את⟩ ji ve svatyni, jak jsem přikázal.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "nebyla vnesena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její krev"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "její krev"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "dovnitř"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "máte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ji",
+      "marks": "ji (oběť)"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ve svatyni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jsem přikázal"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:08.494536402Z",
+  "model": "glm-5.3"
+}

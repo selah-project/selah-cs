@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Vpravdě, Jahve, zpustošili králové Asšuru ⟨את⟩ národy a ⟨את⟩ jejich zemi.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Vpravdě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "zpustošili"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králové"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asšuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "národy"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jejich zemi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "jejich zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:56:43.796207830Z",
+  "model": "glm-5.3"
+}

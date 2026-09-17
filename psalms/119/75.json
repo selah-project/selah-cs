@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Poznávám, Jahve, že spravedlivé ⟨jsou⟩ tvé výroky, a věrně jsi mě pokořil.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Poznávám"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlivé"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tvé výroky"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "věrně"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "jsi mě pokořil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:14.591659343Z",
+  "model": "glm-5.3"
+}

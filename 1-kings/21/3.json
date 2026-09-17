@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Nabot řekl Achabovi: „Hákel mi to od Jahve, abych ⟨ti⟩ dal ⟨את⟩ dědictví svých otců tobě!“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabovi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Hákel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "od Jahve"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "abych dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dědictví"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dědictví"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "svých otců"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:15.018978315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Jozua si udělal nože z pazourku a obřezal ⟨את⟩ syny Izraele na pahorku předkožek.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "si"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "nože"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "z pazourku"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "obřezal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "pahorku"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "předkožek"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:26.525500698Z",
+  "model": "glm-5.3"
+}

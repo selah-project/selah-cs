@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 18:10",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Jeho provaz ⟨je⟩ ukryt v zemi a jeho past na stezce ⟨leží⟩.",
+  "tokens": [
+    {
+      "surface": "טמון",
+      "gloss": "ukryt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "חבלו",
+      "gloss": "jeho provaz"
+    },
+    {
+      "surface": "ומלכדתו",
+      "gloss": "a jeho past"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "stezce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:47:40.847058418Z",
+  "model": "glm-5.3"
+}

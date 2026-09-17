@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A nyní odhalím ⟨את⟩ její hanbu před očima jejích milenců, a nikdo ji nevytrhne z mé ruky.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "odhalím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její hanbu"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "její hanbu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "před očima"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "jejích milenců"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a nikdo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "ji vytrhne"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "z mé ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:04.338355060Z",
+  "model": "glm-5.3"
+}

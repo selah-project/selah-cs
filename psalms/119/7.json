@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Vyznám ti ⟨s⟩ pravým srdcem, když se učím ⟨ tvým ⟩ řádným výrokům tvé spravedlnosti.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Vyznám ti"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "⟨s⟩ pravým"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srdcem"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "když se učím"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "výrokům"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tvé spravedlnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:46.456771913Z",
+  "model": "glm-5.3"
+}

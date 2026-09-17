@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "Neboť soud se navrátí ⟨k⟩ spravedlnosti a za ním všichni přímočilí srdcem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨až⟩ k"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnosti"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se navrátí"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "soud"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "a za ním"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "přímočilí"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdcem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:28.280343210Z",
+  "model": "glm-5.3"
+}

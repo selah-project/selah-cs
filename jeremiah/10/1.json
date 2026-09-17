@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Slyšte ⟨את⟩ slovo, které promluvil Jahve k vám, dome Izraele.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slyšte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "k vám"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dome"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T08:22:19.758232288Z",
+  "model": "glm-5.3"
+}

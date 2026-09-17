@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "„Nesahejte na mé pomazané a prorokům mým nečiňte zle!“",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "sahejte"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "na mé pomazané"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "a prorokům mým"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nečiňte"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "zle"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:12.272140252Z",
+  "model": "glm-5.3"
+}

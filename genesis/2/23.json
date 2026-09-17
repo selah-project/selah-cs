@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 2:23",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A člověk řekl: Toto ⟨je⟩ konečně kost z mých kostí a maso z mého masa; ta bude nazvána 'žena', neboť z muže byla vzata.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "konečně (tentokrát)"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "kost"
+    },
+    {
+      "surface": "מעצמי",
+      "gloss": "z mých kostí"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "a maso"
+    },
+    {
+      "surface": "מבשרי",
+      "gloss": "z mého masa"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bude nazvána"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "z muže"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "byla vzata"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tato"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:39.037590992Z",
+  "model": "glm-5.3"
+}

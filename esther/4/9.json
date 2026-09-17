@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Hatach přišel a vyprávěl Ester ⟨את⟩ slova Mordechajova.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatach"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a vyprávěl"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slova Mordechajova"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechajova"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:44.494329501Z",
+  "model": "glm-5.3"
+}

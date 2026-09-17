@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A odstavila ⟨את⟩ Lo-Ruchamu, a počala a porodila syna.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "A odstavila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruchamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruchama"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "a počala"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:26.564147555Z",
+  "model": "glm-5.3"
+}

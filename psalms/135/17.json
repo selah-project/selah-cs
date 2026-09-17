@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Uši mají, ale neslyší; také není dechu ⟨v⟩ jejich ústech.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Uši"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mají"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "neslyší"
+    },
+    {
+      "surface": "אף",
+      "gloss": "také"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨jest⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dechu"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "v jejich ústech"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:46.432844365Z",
+  "model": "glm-5.3"
+}

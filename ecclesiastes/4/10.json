@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Neboť kdyby padli, jeden ⟨ten druhý⟩ pozdvihne ⟨את⟩ svého druha; a pokud by ten jeden padl a nebyl druhý, ⟨kdo by ho⟩ pozdvihl ⟨ho⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kdyby"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "padli"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "pozdvihne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého druha"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "svého druha"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "a pokud"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ten jeden"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "padl"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nebyl"
+    },
+    {
+      "surface": "שני",
+      "gloss": "druhý"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "pozdvihl ⟨ho⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:27.406655583Z",
+  "model": "glm-5.3"
+}

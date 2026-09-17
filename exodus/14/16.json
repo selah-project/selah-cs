@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A ty pozvedni ⟨את⟩ svou hůl a vy Extenduj ⟨את⟩ svou ruku na moře a rozťej ho, a vejdou synové Izraele do středu moře po suchu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ty"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "pozvedni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou hůl"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "svou hůl"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "a vy Extenduj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "a rozťej ho"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "a vejdou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "do středu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "po suchu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:48.356955394Z",
+  "model": "glm-5.3"
+}

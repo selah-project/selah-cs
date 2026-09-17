@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A vyprávěl Mojžíš Áronovi ⟨את⟩ všechna slova Jahveho, kteréž jej poslal, i ⟨את⟩ všechna znamení, kteráž mu přikázal.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a vyprávěl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Áronovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechna slova Jahveho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteréž"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "jej poslal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechna znamení"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "znamení"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteráž"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "mu přikázal"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:41.230687700Z",
+  "model": "glm-5.3"
+}

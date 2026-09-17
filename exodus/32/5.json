@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 32:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A Aharon viděl ⟨to⟩ a postavil oltář před ⟨něj⟩; a Aharon volal a řekl: „Svátek Jahvemu ⟨bude⟩ zítra!“",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ⟨něj⟩"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a volal"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "חג",
+      "gloss": "svátek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "zítra"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:08.096842535Z",
+  "model": "glm-5.3"
+}

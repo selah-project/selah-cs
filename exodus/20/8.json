@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Pamatuj ⟨na⟩ ⟨את⟩ den šabatu, abys jej posvětil.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Pamatuj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den šabatu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabatu"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "abys jej posvětil"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:18.567585645Z",
+  "model": "glm-5.3"
+}

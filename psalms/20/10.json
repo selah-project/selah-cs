@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Jahve, spas ⟨krále⟩! Když voláme, ať nás Král odpoví v den ⟨našeho⟩ volání.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "spas"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨krále⟩"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ať nás odpoví"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "volání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:46.970960222Z",
+  "model": "glm-5.3"
+}

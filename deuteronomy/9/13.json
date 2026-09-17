@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A mluvil Jahve ke mně ⟨tak⟩: Viděl jsem ⟨את⟩ tento lid, a hle, ⟨je to⟩ lid tvrdé šíje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨tak⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Viděl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tvrdé"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "šíje"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je to⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:14.053795999Z",
+  "model": "glm-5.3"
+}

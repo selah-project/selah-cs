@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "a střežit ⟨את⟩ stráž stanu setkávání a ⟨את⟩ stráž ⟨the⟩ svatyně a stráž synů Árona, jejich bratří, ke službě domu Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "a střežit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stráž stanu setkávání"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "stráž"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stráž svatyně"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "stráž"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "a stráž"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "jejich bratří"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ke službě"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T11:24:26.568108897Z",
+  "model": "glm-5.3"
+}

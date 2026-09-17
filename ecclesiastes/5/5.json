@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Nedávej ⟨את⟩ svá ústa, aby dalo hříchit ⟨את⟩ tvé tělo, a neříkej před poslem: „Byl to omyl“ — proč by se Elohim hněval na tvůj hlas a zničil ⟨את⟩ dílo tvých rukou?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nedávej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá ústa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "svá ústa"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "aby hříchilo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé tělo"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "tvé tělo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "neříkej"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "poslem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "omyl"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "by se hněval"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "tvůj hlas"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "a zničil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dílo tvých rukou"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tvých rukou"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:09.378723594Z",
+  "model": "glm-5.3"
+}

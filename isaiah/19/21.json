@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A Jahve se dá poznat Egyptu, a Egypt pozná ⟨את⟩ Jahve v onen den; a budou sloužit obětí a darovou obětí, a zaslíbí slib Jahvovi a splní ⟨ho⟩.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "a dá se poznat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Egyptu"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "a pozná"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "a budou sloužit"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "obětí"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "a darovou obětí"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "a zaslíbí"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "slib"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "a splní"
+    }
+  ],
+  "timestamp": "2026-09-17T08:05:54.398699890Z",
+  "model": "glm-5.3"
+}

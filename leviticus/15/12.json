@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A hliněná nádoba, které se dotkne ten, kdo má výtok, se rozbije; a každý dřevěný předmět se vypláchne ve vodě.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "a nádoba"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "hliněná"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "se dotkne"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jí"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ten, kdo má výtok"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "se rozbije"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a každý"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "předmět"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dřevěný"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "se vypláchne"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ve vodě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:15.658148891Z",
+  "model": "glm-5.3"
+}

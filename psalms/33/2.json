@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Vyznávejte Jahve kinorem, na nevelu deseti strun hravte mu.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Vyznávejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinorem"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "na nevelu"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "deseti strun"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "hravte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:02.127157025Z",
+  "model": "glm-5.3"
+}

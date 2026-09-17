@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 40:2",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A vzal velitel katanů Jeremjáše a řekl mu: Jahve, tvůj Elohim, promluvil ⟨את⟩ toto zlo na toto místo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "A vzal"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velitel"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "katanů"
+    },
+    {
+      "surface": "לירמיהו",
+      "gloss": "Jeremjáše"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toto zlo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toto"
+    }
+  ],
+  "timestamp": "2026-09-17T08:32:55.681000885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Reu žil dvě a třicet let a zplodil ⟨את⟩ Seruga.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a žil"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "a třicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seruga"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seruga"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:20.887075208Z",
+  "model": "glm-5.3"
+}

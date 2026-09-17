@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 58,
+  "translation": "Pro předního zpěváka — Ne nič — Davidův miktam ⟨útvar⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "nič"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:36.032859700Z",
+  "model": "glm-5.3"
+}

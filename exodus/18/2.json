@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A vzal Jitro, tchán Mojžíše, ⟨את⟩ Ciporu, ženu Mojžíšovu, poté, co ji ⟨byl⟩ poslal ⟨zpět⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "A vzal"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "tchán"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciporu"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ciporu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "poté, co"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "ji poslal"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:41.518556609Z",
+  "model": "glm-5.3"
+}

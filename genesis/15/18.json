@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "V onen den uzavřel Jahve smlouvu s Abramem ⟨את⟩ tím, že řekl: „Tvému potomstvu jsem dal tuto zemi ⟨את⟩, od řeky Egypta až k velké řece, řece Perat.“",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "uzavřel (doslova 'rozťal')"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abramem"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "s Abramem"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tím, že řekl"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "tvému potomstvu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "od řeky"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "řece"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "velké"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "řece"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:18.403494890Z",
+  "model": "glm-5.3"
+}

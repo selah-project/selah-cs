@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A Moše řekl svému tchánovi: Protože lid přichází ke mně dotazovat se Elohima.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "svému tchánovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Protože"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "přichází"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "dotazovat se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:31.544189588Z",
+  "model": "glm-5.3"
+}

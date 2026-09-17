@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 33:11",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "I uvedl Jahve na ně ⟨את⟩ velitele vojska krále asyrského; zajali ⟨את⟩ Manasse háky a spoutali ho okovy z bronzu a odvlekli ho do Babylonu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "uvedl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na ně"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "velitele vojska"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "velitele"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨kteří patřili⟩"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "asyrského"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "zajali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Manasse"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasse"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "háky"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "spoutali ho"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "okovy z bronzu"
+    },
+    {
+      "surface": "ויוליכהו",
+      "gloss": "odvlekli ho"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "do Babylonu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:31:30.785377850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "a jíst jsem jedl svůj kousek ⟨jeden⟩ sám, a sirotek z něj nejedl;",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "a jíst jsem jedl"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "svůj kousek"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sám"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jedl"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sirotek"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "z něj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:51:21.642268783Z",
+  "model": "glm-5.3"
+}

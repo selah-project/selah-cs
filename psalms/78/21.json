@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Proto Jahve slyšel a rozhněval se, a oheň se vznítil v Jákobovi, i hněv vystoupil v Izraeli —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Proto"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyšel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "a rozhněval se"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "a oheň"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "se vznítil"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "v Jákobovi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněv"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "vystoupil"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:58.398284043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 79,
+  "translation": "Vydali ⟨את⟩ mrtvá těla tvých služebníků za pokrm ptactvu nebes, těla tvých zbožných zemiální zvěři — maso tvých věrných šelmám země.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Vydali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mrtvá těla tvých služebníků"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "mrtvá těla"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tvých služebníků"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "za pokrm"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ptactvu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "tvých věrných"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "šelmám"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:07.501663123Z",
+  "model": "glm-5.3"
+}

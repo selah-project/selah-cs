@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Počítat naše dny tak ⟨nám⟩ dávej znát, a přineseme srdce moudrosti.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "počítat"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "naše dny"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "dávej znát"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "a přineseme"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:47.954579134Z",
+  "model": "glm-5.3"
+}

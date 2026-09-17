@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Vejdi do skály a schovej se v prachu před tváří zděšení Jahve a před nádherou jeho vznešenosti!",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "vejdi"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "do skály"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "a schovej se"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "v prachu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "zděšení"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "a před nádherou"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "jeho vznešenosti"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:34.994008074Z",
+  "model": "glm-5.3"
+}

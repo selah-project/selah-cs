@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 86,
+  "translation": "Chraň moji duši, neboť jsem zbožný; vysvoboď svého služebníka — ty jsi můj Elohim — ⟨ten⟩, který doufá v tebe.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Chraň"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji duši"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "zbožný"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jsem"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "vysvoboď"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svého služebníka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "můj Elohim"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "doufající"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "v tebe"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:14.692503953Z",
+  "model": "glm-5.3"
+}

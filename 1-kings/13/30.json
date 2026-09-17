@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "I uložil ⟨את⟩ jeho mrtvolu do jeho hrobu; a truchlili nad ním: „Hoj, bratrů můj!“",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "uložil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho mrtvolu"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "jeho mrtvolu"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "do jeho hrobu"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "a truchlili"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad ním"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Hoj"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bratrů můj"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:27.439131855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Jen maso ⟨s⟩ jeho duší — jeho krev — nebudete jíst.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "⟨s⟩ jeho duší"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jeho krev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "budete jíst"
+    }
+  ],
+  "timestamp": "2026-09-17T11:44:51.954837526Z",
+  "model": "glm-5.3"
+}

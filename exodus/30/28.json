@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "a ⟨את⟩ oltář zápalných obětí se vším ⟨את⟩ jeho náčiním, ⟨את⟩ umyvadlo a ⟨את⟩ jeho podstavec,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oltář zápalných obětí"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalných obětí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vším jeho náčiním"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vším"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jeho náčiním"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umyvadlo"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umyvadlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho podstavec"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jeho podstavec"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:17.615571008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Který kladře trámy svých patier do vod, který činí mraky svým vozem, který kráčí na křídlech větru.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Který kladře trámy"
+    },
+    {
+      "surface": "במים",
+      "gloss": "do vod"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "svých patier"
+    },
+    {
+      "surface": "השם",
+      "gloss": "který činí"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "mraky"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "svým vozem"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "který kráčí"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "křídlech"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "větru"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:40.063554240Z",
+  "model": "glm-5.3"
+}

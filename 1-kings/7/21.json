@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 7:21",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A postavil ⟨את⟩ sloupy ⟨k⟩ předsíně ⟨chrámu⟩, a postavil ⟨את⟩ sloup pravý, a nazval ⟨את⟩ jeho jméno Jachin, a postavil ⟨את⟩ sloup levý, a nazval ⟨את⟩ jeho jméno Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sloupy"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sloupy"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "⟨k⟩ předsíně"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "⟨chrámu⟩"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sloup"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "sloup"
+    },
+    {
+      "surface": "הימני",
+      "gloss": "pravý"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jachin"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sloup"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "sloup"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "levý"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-17T07:43:56.733956352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 35:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A Jákob postavil stélu na jejím hrobě; to ⟨je⟩ stéla hrobu Rachel až podnes.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "A postavil"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stélu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "jejím hrobě"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "stéla"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "hrobu"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "היום",
+      "gloss": "podnes"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:41.995834806Z",
+  "model": "glm-5.3"
+}

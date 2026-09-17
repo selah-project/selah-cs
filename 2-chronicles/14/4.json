@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A odstranil ze všech měst Judy ⟨את⟩ výšiny a ⟨את⟩ chamany, a království ⟨bylo⟩ klidné před ním.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "a odstranil"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "měst"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "výšiny"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "výšiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "chamany"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "chamany"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "a bylo klidné"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "království"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    }
+  ],
+  "timestamp": "2026-09-17T10:27:37.220454953Z",
+  "model": "glm-5.3"
+}

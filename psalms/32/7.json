@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Ty jsi mi úkryt, před soužením mě ochráníš, výkřiky záchrany mě obehneš. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "úkryt"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "před soužením"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "mě ochráníš"
+    },
+    {
+      "surface": "רני",
+      "gloss": "výkřiky"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "záchrany"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "mě obehneš"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:37.903866063Z",
+  "model": "glm-5.3"
+}

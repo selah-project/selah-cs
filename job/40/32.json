@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Polož na něj svou dlaň, pamatuj na ⟨ten⟩ boj — nechceš ⟨to⟩ už dělat ⟨znovu⟩.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "Polož"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "svou dlaň"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "pamatuj"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "na boj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "už dělat znovu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:18:54.044311224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "⟨Ten, kdo⟩ dává vítězství králům, ⟨kdo⟩ vysvobozuje ⟨את⟩ Davida, svého služebníka, od meče zlého.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "vítězství"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "králům"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "vysvobozuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "svého služebníka"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "od meče"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlého"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:27.622913641Z",
+  "model": "glm-5.3"
+}

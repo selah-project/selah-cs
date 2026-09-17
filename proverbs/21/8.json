@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Zvrácená je cesta člověka provinilého, ale čistého ⟨je⟩ jeho dílo přímé.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "zvrácená"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cesta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "provinilého"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "ale čistého"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "přímé"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "jeho dílo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:40.764062729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A počátek jeho království ⟨byl⟩ Babylon, Erek, Akad a Kalne, v zemi Šinear.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "A byl"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "počátek"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "jeho království"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylon"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "a Erek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "a Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "a Kalne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Šinear"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:13.906682152Z",
+  "model": "glm-5.3"
+}

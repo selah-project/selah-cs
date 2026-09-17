@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A Kalev utišil ⟨את⟩ lid před Mošem a řekl: Vzhůru, vystoupíme a obsadíme ⟨את⟩ ji, neboť jistě dokážeme ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "A utišil"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "před"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Vzhůru"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "vystoupíme"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "a obsadíme"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ji (zemi)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "dokážeme (jistě)"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "dokážeme"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨to⟩ (ji)"
+    }
+  ],
+  "timestamp": "2026-09-17T06:44:55.142955794Z",
+  "model": "glm-5.3"
+}

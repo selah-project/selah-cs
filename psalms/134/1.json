@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 134,
+  "translation": "Píseň stupňů. Hle, velebte ⟨את⟩ Jahve, všichni sluhové Jahve, ⟨kteří⟩ stojí v domě Jahve v nociḱch!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stupňů"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "velebte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluhové"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "stojící"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "v nocích"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:02.129299147Z",
+  "model": "glm-5.3"
+}

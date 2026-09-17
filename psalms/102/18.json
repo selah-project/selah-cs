@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Obrátil se k modlitbě ⟨toho⟩ opuštěného a nevzhlédl s opovržením ⟨את⟩ jejich modlitbu.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Obrátil se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "modlitbě"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "opuštěného"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "opovrhl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich modlitbu"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "jejich modlitbu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:07.816001101Z",
+  "model": "glm-5.3"
+}

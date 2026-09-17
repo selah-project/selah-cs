@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 13:17",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "I zavolal ⟨את⟩ svého pacholka, svého služebníka, a řekl: Vyžeňte nyní tuhle ⟨את⟩ ode mne ven, a zastraň dveře za ní.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "zavolal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého pacholka"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "svého pacholka"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "svého služebníka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "vyžeňte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhle"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tuhle"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ven"
+    },
+    {
+      "surface": "ונעל",
+      "gloss": "a zastraň"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "dveře"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "za ní"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:32.967600295Z",
+  "model": "glm-5.3"
+}

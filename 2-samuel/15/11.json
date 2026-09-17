@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A s ⟨את⟩ Avšalomem šlo dvě stě mužů z Jeruzaléma, pozvaní, kteří šli ve své prostotě, a nevěděli vůbec nic.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "s ⟨את⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomem"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "šlo"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dvě stě"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "z Jeruzaléma"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "pozvaní"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "kteří šli"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "ve své prostotě"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "věděli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vůbec nic (všechen)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-17T07:36:23.525223951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Nebo dřív než pozná chlapec volat 'můj otče' a 'má matko', odnese ⟨את⟩ bohatství Damašku a ⟨את⟩ kořist Šomronu před krále Asyrie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dřív než"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pozná"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chlapec"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "volat"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "můj otče"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "a má matko"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "odnese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohatství Damašku"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bohatství"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damašku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "kořist Šomronu"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "kořist"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomronu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyrie"
+    }
+  ],
+  "timestamp": "2026-09-17T08:02:44.704932524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A celá ⟨země⟩ přišla do lesa, a bylo med na povrchu pole.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a celá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "do lesa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a bylo"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "med"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "povrchu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:03.499442994Z",
+  "model": "glm-5.3"
+}

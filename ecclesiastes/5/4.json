@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Lépe je, že neslibuješ, než kdybys sliboval a nesplnil.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lépe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "slibuješ"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "než kdybys sliboval"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "splnil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:23.331256321Z",
+  "model": "glm-5.3"
+}

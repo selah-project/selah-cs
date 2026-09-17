@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Zpívejte mu píseň novou; dobře hrajte v hlaholu.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Zpívejte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novou"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "dobře"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "hrajte"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "v hlaholu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:02.127323541Z",
+  "model": "glm-5.3"
+}

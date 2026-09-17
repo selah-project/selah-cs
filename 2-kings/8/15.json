@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 8:15",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Stalo se následujícího dne: vzal ⟨ten⟩ přikrývku, namočil ji do vody a rozprostřel ji na jeho tvář, takže zemřel; a Chazael se stal králem místo něj.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "následujícího dne"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "המכבר",
+      "gloss": "přikrývku"
+    },
+    {
+      "surface": "ויטבל",
+      "gloss": "a namočil"
+    },
+    {
+      "surface": "במים",
+      "gloss": "do vody"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "a rozprostřel"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "jeho tvář"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a stal se králem"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Chazael"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:34.090045226Z",
+  "model": "glm-5.3"
+}

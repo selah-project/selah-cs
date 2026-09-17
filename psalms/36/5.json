@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Ničemnost plánuje na svém lůžku, postaví se na cestu, jež není dobrá, zla se nezřekne.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ničemnost"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "plánuje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "svém lůžku"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "postaví se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "není"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrá"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "zřekne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:07.384466914Z",
+  "model": "glm-5.3"
+}

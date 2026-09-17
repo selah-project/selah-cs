@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Žalm Davidův. Přiznejte Jahveovi, synové Elů, přiznejte Jahveovi slávu a sílu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Žalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Přiznejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveovi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Elů"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "přiznejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveovi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slávu"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "a sílu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:40.192162115Z",
+  "model": "glm-5.3"
+}

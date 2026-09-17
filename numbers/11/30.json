@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Mojžíš se vrátil do tábora, on ⟨sám⟩ a starší Izraele.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "a byl shromážděn (vrátil se)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábora"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "a starší"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T06:44:36.572993755Z",
+  "model": "glm-5.3"
+}

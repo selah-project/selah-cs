@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "I řekli mládenci krále jemu: Hle, Háman stojí na dvoře. A řekl král: Ať vejde.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "I řekli"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mládenci"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Háman"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stojí"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "na dvoře"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "Ať vejde"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:29.198009659Z",
+  "model": "glm-5.3"
+}

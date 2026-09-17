@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Mnozí říkéjí mému nefši: „Není spasení pro něj v Elohim.“ Selá.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Mnozí"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "říkají"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mému nefši"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Není"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "spasení"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pro něj"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "v Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selá"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:02.720357448Z",
+  "model": "glm-5.3"
+}

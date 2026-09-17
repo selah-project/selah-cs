@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Každá věc ⟨vyloučená z⟩ obecného užívání (חרם), která je z ⟨lidí⟩ vyloučena z obecného užívání, nebude vykoupena; smrtí zemře.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "každá"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "věc vyloučená z obecného užívání (cherem)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "je vyloučena z obecného užívání"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "lidí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "bude vykoupena"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:44.088299190Z",
+  "model": "glm-5.3"
+}

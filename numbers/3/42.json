@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A spočítal Mojžíš, jak přikázal Jahve ⟨את⟩ ⟨jemu⟩, ⟨את⟩ veškeré prvorozence mezi syny Izraele.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "a spočítal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨jemu⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškeré prvorozence"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "prvorozence"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mezi syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:53.524594623Z",
+  "model": "glm-5.3"
+}

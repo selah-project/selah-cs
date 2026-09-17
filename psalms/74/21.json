@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Nechť se nevrátí zahanben zdolačený; ponížený a nuzák ať chválí tvé jméno.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "se nevrátí"
+    },
+    {
+      "surface": "דך",
+      "gloss": "zdolačený"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "zahanben"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ponížený"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "a nuzák"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ať chválí"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:16.392924465Z",
+  "model": "glm-5.3"
+}

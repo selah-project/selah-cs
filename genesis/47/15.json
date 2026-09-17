@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 47:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "A když se vyčerpalo stříbro v zemi Egypta i v zemi Kenaanu, přišel všechen Egypt k Josefovi a řekl: Dej nám chleba, proč bychom měli zemřít před tebou? Vždyť stříbra zmizelo.",
+  "tokens": [
+    {
+      "surface": "ויתם",
+      "gloss": "vyčerpalo se"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "i v zemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "dej"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "zemřít"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "zmizelo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbra"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:21.916012758Z",
+  "model": "glm-5.3"
+}

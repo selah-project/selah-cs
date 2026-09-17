@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Oči Jahve ⟨jsou⟩ k spravedlivým a jeho uši k jejich volání.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Oči"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "spravedlivým"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "a jeho uši"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "k jejich volání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:48.723428378Z",
+  "model": "glm-5.3"
+}

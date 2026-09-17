@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "I usadil se Ezau na hoře Seír — Ezau, ten je Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "I usadil se"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ezau"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seír"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ezau"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ten je"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:35.194943242Z",
+  "model": "glm-5.3"
+}

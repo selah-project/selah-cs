@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Jestliže ne, ať vyjde oheň z Abímeleka a sežehne ⟨את⟩ pány Šekemu a ⟨את⟩ dům Miló, a ať vyjde oheň od pánů Šekemu a z domu Miló a sežehne ⟨את⟩ Abímeleka.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ať vyjde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "z Abímeleka"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "a sežehne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pány Šekemu"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "pány"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dům Miló"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Miló"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "a ať vyjde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "od pánů"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekemu"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "a z domu"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Miló"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "a sežehne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abímeleka"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abímeleka"
+    }
+  ],
+  "timestamp": "2026-09-17T07:15:46.624815681Z",
+  "model": "glm-5.3"
+}

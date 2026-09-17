@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Budiž nepravost jeho otců připomínána před Jahvem a hřích jeho matky ať není vymazán.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "budiž připomínána"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "jeho otců"
+    },
+    {
+      "surface": "אל",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "a hřích"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jeho matky"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "není vymazán"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:57.778260592Z",
+  "model": "glm-5.3"
+}

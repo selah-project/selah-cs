@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A Jahve vznesl ⟨את⟩ své slovo, které promluvil, a já jsem povstal na místo Davida, svého otce, a usedl jsem na trůn Izraele, jak promluvil Jahve, a postavil jsem ⟨ten⟩ dům jménu Jahve, Elohim Izraele.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "vznesl — A ustanovil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své slovo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "povstal jsem — a"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na místo — místo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "usedl jsem — a"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trůn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "postavil jsem — a"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨ten⟩ dům"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:56.670957597Z",
+  "model": "glm-5.3"
+}

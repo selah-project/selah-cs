@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Neboť z domu vězňů vyšel ⟨ten, kdo se má⟩ stát králem, i když se v jeho království narodil chudý.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "vězňů"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨stát se⟩ králem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "i když"
+    },
+    {
+      "surface": "גם",
+      "gloss": "totiž"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "v jeho království"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "se narodil"
+    },
+    {
+      "surface": "רש",
+      "gloss": "chudý"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:39.573370997Z",
+  "model": "glm-5.3"
+}

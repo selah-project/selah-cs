@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Svou tvář rozjasni nad svým služebníkem ⟨a⟩ nauč mě ⟨את⟩ svá ustanovení.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "האר",
+      "gloss": "rozjasni"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "nad svým služebníkem"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "a nauč mě"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá ustanovení"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "svá ustanovení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:33.191637514Z",
+  "model": "glm-5.3"
+}

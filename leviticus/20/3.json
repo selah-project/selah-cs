@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A já obrátím ⟨את⟩ svou tvář proti tomu muži a vytnu ⟨אתו⟩ z prostředku jeho lidu, neboť ze svého semene dal Molochovi, aby ⟨את⟩ svatyni mou znesvětil a ⟨את⟩ jméno své svatosti znesvětil.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A já"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "obrátím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou tvář"
+    },
+    {
+      "surface": "פני",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "proti tomu muži"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tomu"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "a vytnu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "z prostředku jeho lidu"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "z prostředku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeho lidu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "ze svého semene"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molochovi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "znesvětil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svatyni mou"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "svatyni mou"
+    },
+    {
+      "surface": "ולחלל",
+      "gloss": "a znesvětil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jméno své svatosti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svatosti"
+    }
+  ],
+  "timestamp": "2026-09-17T11:48:27.000930416Z",
+  "model": "glm-5.3"
+}

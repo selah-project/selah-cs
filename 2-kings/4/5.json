@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Odešla od ⟨את⟩něj a zavřela dveře za sebou a za svými syny; oni přibližovali k ní ⟨nádoby⟩ a ona lila.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "a odešla"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "od ⟨את⟩něj",
+      "marks": "od něj (od muže Elohim)"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "a zavřela"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "dveře"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "za sebou"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "a za"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "svými syny"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "přibližovali"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k ní"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "a ona"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "lila"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:22.866903497Z",
+  "model": "glm-5.3"
+}

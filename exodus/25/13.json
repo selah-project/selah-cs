@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A uděláš berle z dřeva šitim a potáhneš ⟨את⟩ je zlatem.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "a uděláš"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "berle"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z dřeva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "a potáhneš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (berle)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:37.738149311Z",
+  "model": "glm-5.3"
+}

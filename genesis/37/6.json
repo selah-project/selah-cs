@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "I řekl jim: Slyšte, prosím, ⟨ten⟩ sen, který jsem zdál.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Slyšte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "⟨ten⟩ sen"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "jsem zdál"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:47.358065125Z",
+  "model": "glm-5.3"
+}

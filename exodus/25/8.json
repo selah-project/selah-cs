@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A udělají mi svatyni, a budu bydlet uprostřed nich.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "A udělají"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "svatyni"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "a budu bydlet"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "uprostřed nich"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:25.535006135Z",
+  "model": "glm-5.3"
+}

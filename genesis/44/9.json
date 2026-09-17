@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "U ⟨kteréhož⟩ z tvých služebníků ⟨to⟩ bude nalezeno, zemře, a také my budeme otroky ⟨את⟩ mého pána.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kterýž"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "bude nalezeno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním",
+      "marks": "nalezenou věc (pozdději: pohár)"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "z tvých služebníků"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a zemře"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a také"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "budeme"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "otroky pána"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "jako služebníci"
+    }
+  ],
+  "timestamp": "2026-09-17T13:39:03.564596427Z",
+  "model": "glm-5.3"
+}

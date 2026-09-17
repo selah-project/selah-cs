@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A změřil ⟨את⟩ předseň brány u domu, jednu třtinu.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "a změřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "předseni brány"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "předseni"
+    },
+    {
+      "surface": "השער",
+      "gloss": "brány"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "třtinu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:52:38.838286353Z",
+  "model": "glm-5.3"
+}

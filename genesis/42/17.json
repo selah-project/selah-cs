@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A shromáždil je ⟨את⟩ do střežení na tři dny.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "A shromáždil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "střežení"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:59.467907658Z",
+  "model": "glm-5.3"
+}

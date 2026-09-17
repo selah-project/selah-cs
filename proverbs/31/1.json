@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Slova Lemuela, krále — břemeno, jímž ho poučovala jeho matka.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Slova"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "משא",
+      "gloss": "břemeno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ho poučovala"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jeho matka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:45.833401688Z",
+  "model": "glm-5.3"
+}

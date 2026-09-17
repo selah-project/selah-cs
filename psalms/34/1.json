@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Davidovi, když měnil ⟨את⟩ svou chování před Abimelekem, a ⟨ten⟩ jej vyhnal a odešel.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "když měnil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou chování"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "svou chování"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekem"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "vyhnal jej"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a odešel"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:51.137437505Z",
+  "model": "glm-5.3"
+}

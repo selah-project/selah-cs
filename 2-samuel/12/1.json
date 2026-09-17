@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "I Jahve poslal ⟨את⟩ Nátana k Davidovi; přišel k němu a řekl mu: „Dva muži byli v jednom městě, jeden bohatý a jeden chudý.“",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nátana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nátan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "muži"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v městě"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednom"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bohatý"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "a jeden"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "chudý"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:05.274399110Z",
+  "model": "glm-5.3"
+}

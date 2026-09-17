@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Co bylo, ⟨to⟩ bude, a co bylo učiněno, ⟨to⟩ bude učiněno — a není nic nového pod sluncem.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "a co"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "bylo učiněno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "bude učiněno"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nic"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nového"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sluncem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:23.148354440Z",
+  "model": "glm-5.3"
+}

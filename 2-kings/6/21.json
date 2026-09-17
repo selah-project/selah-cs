@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A řekl král Izraele Elišovi, když je spatřil: Zdám ⟨את⟩ nich udeřit, udeřit, můj otče?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elišovi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "⟨Eliša⟩"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "když je spatřil"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nich"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "zdám udeřit"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "udeřit"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "můj otče"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:11.647733097Z",
+  "model": "glm-5.3"
+}

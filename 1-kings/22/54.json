@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-kings 22:54",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A sloužil ⟨את⟩ Baalovi a klaněl se mu a popudil ⟨את⟩ Jahve, Elohim Izraele, podle všeho, co učinil jeho otec.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "A sloužil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalovi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalovi"
+    },
+    {
+      "surface": "וישתחוה",
+      "gloss": "a klaněl se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "a popudil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otec"
+    }
+  ],
+  "timestamp": "2026-09-17T07:51:01.480356569Z",
+  "model": "glm-5.3"
+}

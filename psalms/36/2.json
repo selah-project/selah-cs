@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Výrok přestoupení ⟨k⟩ bezbožnému ⟨zní⟩ v hloubi mého srdce: není bázně Elohim před jeho očima.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Výrok"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "přestoupení"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "⟨k⟩ bezbožnému"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "v hloubi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mého srdce"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "bázně"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "před"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "jeho očima"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:24.103016870Z",
+  "model": "glm-5.3"
+}

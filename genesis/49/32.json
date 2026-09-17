@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Náklad ⟨the⟩ pole a jeskyně, jež je v něm, ⟨se koupil⟩ od ⟨את⟩ synů Cheta.",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "náklad"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "a jeskyně"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "synů Cheta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Cheta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:27.334170630Z",
+  "model": "glm-5.3"
+}

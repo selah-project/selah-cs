@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 10:21",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A všechen lid se vrátil k ⟨táboru⟩, k Jóšuovi, do Makkedy, v pokoji; nikdo z synů Izraele si nedovolil ⟨ostrit⟩ svůj jazyk ⟨proti⟩ ⟨žádnému⟩ muži ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "a vrátili se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "táboru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšuovi"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makkedy"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "v pokoji"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "חרץ",
+      "gloss": "ostrit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "žádnému muži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj jazyk"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "svůj jazyk"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:08.762847306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A poslal Achab mezi všechny syny Izraele a shromáždil ⟨את⟩ proroky na horu Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "A poslal"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mezi všechny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "a shromáždil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "proroky"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroky"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "horu"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:28.735594845Z",
+  "model": "glm-5.3"
+}

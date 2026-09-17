@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A ⟨את⟩ podlahu domu potáhl zlatem, ⟨jak⟩ uvnitř, tak i zvenku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "podlahu domu"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "podlahu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "potáhl"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatem"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "uvnitř"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "tak i zvenku"
+    }
+  ],
+  "timestamp": "2026-09-17T07:43:25.250270133Z",
+  "model": "glm-5.3"
+}

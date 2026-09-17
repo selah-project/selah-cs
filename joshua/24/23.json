@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 24:23",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A nyní odstraňte ⟨את⟩ cizí elohim, kteří jsou ve vašem středu, a nakloňte ⟨את⟩ své srdce k Jahve, Elohimovi Izraele.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "odstraňte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cizí elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "cizí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří jsou"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ve vašem středu"
+    },
+    {
+      "surface": "והטו",
+      "gloss": "a nakloňte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své srdce"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "své srdce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:03.626001395Z",
+  "model": "glm-5.3"
+}

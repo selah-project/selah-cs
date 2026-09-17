@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Opírá se o svůj dům, ale nevydrží; zachytí se ho, ale nevstane.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "Opírá se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svůj dům"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "vydrží"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "Zachytí se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "vstane"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:07.309655900Z",
+  "model": "glm-5.3"
+}

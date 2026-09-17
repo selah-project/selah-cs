@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 93,
+  "translation": "Tvá svědectví jsou ⟨pevně⟩ potvrzena velice; tvému domu přísluší svatost, Jahve, na dlouhé dny.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "Tvá svědectví"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "jsou potvrzena"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velice"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "tvému domu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "přísluší"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "na dlouhé"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:13.286639137Z",
+  "model": "glm-5.3"
+}

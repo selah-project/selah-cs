@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I zavolal král Micrajimu porodní báby a řekl jim: Proč jste udělaly ⟨tu⟩ věc ⟨tuto⟩, a nechaly jste žít chlapce — oživovaly jste ⟨את⟩ děti?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a zavolal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "porodní báby"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "להן",
+      "gloss": "jim"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "proč"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "udělaly jste"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "a nechaly jste žít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "děti"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "děti"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:52.523292421Z",
+  "model": "glm-5.3"
+}

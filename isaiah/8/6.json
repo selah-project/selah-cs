@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Protože tento lid zavrhnl ⟨את⟩ vody Šíloachu, které plyňou tiše, a těší se ⟨את⟩ Recinem a synem Remaljovým;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Protože"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "zavrhnl"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tento lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vody Šíloachu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vody"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "Šíloachu"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "které plyňou"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "tiše"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "a těší se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Recinem a synem Remaljovým"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recinem"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "a synem"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljovým"
+    }
+  ],
+  "timestamp": "2026-09-17T08:03:07.231491719Z",
+  "model": "glm-5.3"
+}

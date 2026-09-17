@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 65,
+  "translation": "Pro vedoucího ⟨orchestru⟩, zpěv Davidův, píseň.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro vedoucího"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zpěv"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:14.236080520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A kněz vezme z krve hříchové oběti na svůj prst a dá ⟨ji⟩ na rohy oltáře holocaustu a ⟨את⟩ jeho krev vyleje k základně oltáře holocaustu.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "a vezme"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "z krve"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hříchové oběti"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "na svůj prst"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a dá"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "rohy"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "holocaustu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho krev"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jeho krev"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "vyleje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "základně"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "holocaustu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:37.628565116Z",
+  "model": "glm-5.3"
+}

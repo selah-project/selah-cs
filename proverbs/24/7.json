@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Moudrost je příliš vysoko pro hlupáka; v bráně neotevře svá ústa.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "příliš vysoko"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "pro hlupáka"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "v bráně"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "otevře"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "svá ústa"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:31.933993324Z",
+  "model": "glm-5.3"
+}

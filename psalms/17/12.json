@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Jeho podoba je jako lev dychtící ⟨roztrhat⟩ ⟨kořist⟩, jako mladý lev sedící v skrýších.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "jeho podoba"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "jako lev"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "dychtící"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "roztrhat"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "jako mladý lev"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sedící"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "v skrýších"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:43.386464114Z",
+  "model": "glm-5.3"
+}

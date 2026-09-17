@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Slyšte slovo Jahvo, dome Jákobův, a všechny čeledi domu Izraelova!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "slyšte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dome"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobův"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechny"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "čeledi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelova"
+    }
+  ],
+  "timestamp": "2026-09-17T08:18:14.379358163Z",
+  "model": "glm-5.3"
+}

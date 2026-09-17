@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "který byl odveden do vyhnanství z Jeruzaléma s vyhnanstvím, jež bylo odvedeno s Jekonjášem, králem Judska, jež odvedl Nevukadnecar, král Babylónu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "byl odveden do vyhnanství"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "z Jeruzaléma"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "vyhnanstvím"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "bylo odvedeno"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Jekonjášem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judska"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "odvedl"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnecar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:47.746343036Z",
+  "model": "glm-5.3"
+}

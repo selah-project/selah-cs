@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A posvětím ⟨את⟩ stan setkávání a ⟨את⟩ oltář, a ⟨את⟩ Áróna a ⟨את⟩ jeho syny posvětím, aby mi sloužili jako kněží.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "A posvětím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stan setkávání"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oltář"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Áróna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áróna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho syny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho syny"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "posvětím"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "jako kněží"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:11.140335283Z",
+  "model": "glm-5.3"
+}

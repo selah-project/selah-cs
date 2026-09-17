@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 143,
+  "translation": "Dopřej mi zrána slyšet tvé milosrdenství, neboť v tebe jsem doufal. Dej mi poznat cestu, kterou mám jít, neboť k tobě jsem pozvedl svou duši.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "Dopřej mi slyšet"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "zrána"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvé milosrdenství"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tebe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "jsem doufal"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "Dej mi poznat"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mám jít"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "jsem pozvedl"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svou duši"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:06.307386257Z",
+  "model": "glm-5.3"
+}

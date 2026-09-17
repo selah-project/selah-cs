@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A odstraní ⟨את⟩ jeho vole s jeho peřím a hodí ⟨את⟩ ní k východní straně oltáře, na místo popela.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "a odstraní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho vole"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "jeho vole"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "s jeho peřím"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "a hodí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ní"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "východní straně"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "popela"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:01.773016142Z",
+  "model": "glm-5.3"
+}

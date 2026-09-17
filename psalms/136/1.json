@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "Vzdejte vděčnost Jahve, neboť ⟨on⟩ je dobrý, neboť na věky ⟨trvá⟩ jeho chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Vzdejte vděčnost"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrý"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:15.830020201Z",
+  "model": "glm-5.3"
+}

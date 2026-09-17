@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Jméno prvního je Pišon; to je ten, který obepíná ⟨את⟩ celou zemi Chavíla, kde ⟨je⟩ zlato.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "prvního"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pišon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je ten"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "který obepíná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celou zemi Chavíla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Chavíla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlato"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:50.955707253Z",
+  "model": "glm-5.3"
+}

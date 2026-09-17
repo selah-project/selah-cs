@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "V roce tohoto juble se každý z vás navrátí ke svému držení.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "V roce"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "tohoto juble"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "se navrátí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "svému držení"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:10.633993295Z",
+  "model": "glm-5.3"
+}

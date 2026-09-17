@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A muž bude bez viny od nepravosti, ale ta žena ponese ⟨את⟩ svou nepravost.",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "A bude bez viny"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "od nepravosti"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "ale ta žena"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ponese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou nepravost"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "svou nepravost"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:13.501162708Z",
+  "model": "glm-5.3"
+}

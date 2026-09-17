@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A Jehoachaz se ucházel o ⟨את⟩ tvář Jahve, a Jahve ho vyslyšel, neboť viděl ⟨את⟩ úzkost Izraele, že ⟨את⟩ je tísnil král Aramu.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ucházel se o"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvář"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "vyslyšel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "úzkost"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "úzkost"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "tísnil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:53.878866709Z",
+  "model": "glm-5.3"
+}

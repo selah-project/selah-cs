@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A budeš střežit ⟨את⟩ tuto ústavu v jejím určeném čase, od dnů do dnů.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "A budeš střežit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto ústavu"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "tuto ústavu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "v jejím určeném čase"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "od dnů"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "do dnů"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:01.576180377Z",
+  "model": "glm-5.3"
+}

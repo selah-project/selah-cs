@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Ponese ⟨את⟩ požehnání od Jahve a spravedlnost od Elohim ⟨též → od⟩ svého spasitele.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "ponese"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "požehnání"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "požehnání"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "a spravedlnost"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "od Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "svého spasitele"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:47.770129968Z",
+  "model": "glm-5.3"
+}

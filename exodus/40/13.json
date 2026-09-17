@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A oblečeš ⟨את⟩ Árona ⟨את⟩ roucha svatosti a pomaežeš ⟨את⟩ jeho a posvětíš ⟨את⟩ jeho a bude knězem mně.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "a oblečeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Árona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roucha svatosti"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "roucha"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatosti"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "a pomaežeš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeho"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "a posvětíš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeho"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "a bude knězem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mně"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:31.880659060Z",
+  "model": "glm-5.3"
+}

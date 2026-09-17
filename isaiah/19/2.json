@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A popletu Egypta s Egyptem, a budou bojovat muž s bratrem svým a muž s přítelem svým, město s městem, království s královstvím.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "A popletu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "s Egyptem"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "a budou bojovat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "s bratrem svým"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a muž"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "s přítelem svým"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "s městem"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "království"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "s královstvím"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:54.923549468Z",
+  "model": "glm-5.3"
+}

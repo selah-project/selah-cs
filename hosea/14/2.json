@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Vrať se, Izraeli, k Jahve, svému Elohim, neboť jsi klopýtl ve svém provinění.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Vrať se"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svému Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "jsi klopýtl"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "ve svém provinění"
+    }
+  ],
+  "timestamp": "2026-09-17T08:57:59.023549143Z",
+  "model": "glm-5.3"
+}

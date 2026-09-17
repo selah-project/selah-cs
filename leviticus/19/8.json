@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Kdo ji pojí, ponese svou vinu, neboť ⟨את⟩ svatost Jahve znesvětil; ta duše bude vyťata ze svého lidu.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "kdo ji pojí"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "svou vinu"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ponese"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svatost"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "znesvětil"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "bude vyťata"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ta duše"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ta"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ze svého lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:44.271716062Z",
+  "model": "glm-5.3"
+}

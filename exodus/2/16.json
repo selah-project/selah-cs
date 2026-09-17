@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Knězi midjánskému bylo sedm dcer; ty přišly, nabíraly ⟨vodu⟩ a naplnily ⟨את⟩ koryta, aby napojily stádo svého otce.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "Knězi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "midjánskému"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dcer"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "přišly"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "nabíraly"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "naplnily"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koryta"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "koryta"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "aby napojily"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "stádo"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "svého otce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:00.017373629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "I řekl král Izraele Jóšafatovi: Což jsem ti neřekl, že on neprorokuje o mně dobré, nežli zlé?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jóšafatovi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Což ne"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jsem řekl"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "prorokuje"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "o mně"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "כי",
+      "gloss": "než"
+    },
+    {
+      "surface": "אם",
+      "gloss": "li"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlé"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:20.500733075Z",
+  "model": "glm-5.3"
+}

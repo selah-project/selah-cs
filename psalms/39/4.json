@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "Zahřálo se mi srdce v mém nitru; když jsem přemítal, vzplál oheň — promluvil jsem svým jazykem:",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "Zahřálo se"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srdce (mé)"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "v mém nitru"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "když jsem přemítal"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "vzplál"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "promluvil jsem"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "svým jazykem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:24.814434709Z",
+  "model": "glm-5.3"
+}

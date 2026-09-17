@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A Mojžíš volal k Jahveovi řka: El, prosím, uzdrav, prosím, ji.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "a volal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "uzdrav"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji"
+    }
+  ],
+  "timestamp": "2026-09-17T06:43:33.440051535Z",
+  "model": "glm-5.3"
+}

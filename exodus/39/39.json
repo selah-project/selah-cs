@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 39:39",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "⟨את⟩ měděný oltář, a ⟨את⟩ měděnou mřížku, která k němu ⟨patří⟩, ⟨את⟩ jeho tyče, a ⟨את⟩ všechny jeho nádoby, ⟨את⟩ umyvadlo a ⟨את⟩ jeho podstavec,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "měděný oltář"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "měděný"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "měděnou mřížku"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "mřížku"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "měděnou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "לו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho tyče"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "jeho tyče"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechny jeho nádoby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jeho nádoby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyvadlo"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umyvadlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho podstavec"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jeho podstavec"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:40.267246367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A Moše vyvedl ⟨את⟩ lid vstříc Elohim z tábora, a postavili se dole pod horou.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "a vyvedl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vstříc"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábora"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "a postavili se"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "dole pod"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "horou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:33.338139353Z",
+  "model": "glm-5.3"
+}

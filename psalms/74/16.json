@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Tvůj je den, také tvá je noc; ty jsi ustálil světlo i slunce.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tvůj"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "אף",
+      "gloss": "také"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tvá"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noc"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty jsi"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "ustálil jsi"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "i slunce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:41.804895429Z",
+  "model": "glm-5.3"
+}

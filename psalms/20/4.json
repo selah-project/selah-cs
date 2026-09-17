@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Kéž si pamatuje všechny tvé oběti ⟨mincha⟩ a tvou zápalnou oběť vyhlídne ⟨s přízní⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Kéž si pamatuje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "tvé oběti ⟨mincha⟩"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "a tvou zápalnou oběť"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "vyhlídne ⟨s přízní⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:26.277767206Z",
+  "model": "glm-5.3"
+}

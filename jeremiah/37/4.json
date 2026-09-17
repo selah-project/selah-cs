@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A Jeremiáš vcházel a vycházel uprostřed lidu, neboť ho nevsadili do ⟨את⟩ domu vězení.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "A Jeremiáš"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vcházel"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a vycházel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "neboť ne"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nevsadili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "do domu vězení"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "vězení"
+    }
+  ],
+  "timestamp": "2026-09-17T08:31:22.204606882Z",
+  "model": "glm-5.3"
+}

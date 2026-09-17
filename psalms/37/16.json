@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Lépe ⟨je⟩ málo ⟨pro⟩ spravedlivého než hojnost mnoha bezbožných.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lépe"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "málo"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "⟨pro⟩ spravedlivého"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "hojnost"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnoha"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:26.988005083Z",
+  "model": "glm-5.3"
+}

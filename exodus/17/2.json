@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A lid se hádal s Mojžíšem a řekli: Dejte nám vody, ať pijeme! Mojžíš jim však řekl: Proč se hádáte se mnou? Proč zkoušíte ⟨את⟩ Jahve?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "hádal se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšem"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Dejte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ať pijeme"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "se hádáte"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "zkoušíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:25.708855406Z",
+  "model": "glm-5.3"
+}

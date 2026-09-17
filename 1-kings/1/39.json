@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 1:39",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A Cádók kněz vzal ⟨את⟩ roh oleje z ⟨the⟩ stanu a pomazal ⟨את⟩ Šalamouna; a zatroubili na šofar a řekl všechen ⟨the⟩ lid: Ať žije král Šalamoun!",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cádók"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roh oleje"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "roh"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oleje"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "⟨the⟩ stanu"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "pomazal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šalamouna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalamouna"
+    },
+    {
+      "surface": "ויתקעו",
+      "gloss": "zatroubili"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "na šofar"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "řekli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Ať žije"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalamoun"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:15.977940380Z",
+  "model": "glm-5.3"
+}

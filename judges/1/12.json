@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Káleb řekl: „Kdo porazí ⟨את⟩ Kirjat-Sefer a dobude ⟨ji⟩, dám ⟨mu⟩ ⟨את⟩ Aksu, svou dceru, za manželku.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Káleb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "porazí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Sefer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "a dobude ji"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dám"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksu"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksu"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "svou dceru"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za manželku"
+    }
+  ],
+  "timestamp": "2026-09-17T07:11:56.639151115Z",
+  "model": "glm-5.3"
+}

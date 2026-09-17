@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "Jahve si libuje v ⟨את⟩ těch, kdo se ho bojí, v ⟨את⟩ těch, kdo doufají v jeho chesed.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "si libuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "těch, kdo se ho bojí"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "těch, kdo se ho bojí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "těch, kdo doufají v jeho chesed"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "těch, kdo doufají"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "v jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:22.256666446Z",
+  "model": "glm-5.3"
+}

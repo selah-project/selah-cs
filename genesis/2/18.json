@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A řekl Jahve Elohim: Není dobré, aby byl člověk sám; učiním mu pomoc odpovídající jemu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "není"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "היות",
+      "gloss": "aby byl"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sám"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "učiním"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomoc"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "odpovídající jemu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:08.895751749Z",
+  "model": "glm-5.3"
+}

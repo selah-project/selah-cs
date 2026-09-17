@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A on řekl: Protože sedm oveček přijmeš ⟨את⟩ ode mne, aby ⟨to⟩ bylo mně za svědectví, že jsem vykopal tu studnu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a on řekl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedm oveček"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "oveček"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "přijmeš"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "aby"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mně"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "za svědectví"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "jsem vykopal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu studnu"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "tu studnu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:41.743920619Z",
+  "model": "glm-5.3"
+}

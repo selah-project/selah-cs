@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 16:35",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A synové Izraele jedli ⟨את⟩ manu čtyřicet let, dokud nepřišli do země obydlené; ⟨את⟩ manu jedli, dokud nepřišli k kraji země kenaanské.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "A synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jedli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "manu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "באם",
+      "gloss": "nepřišli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "נושבת",
+      "gloss": "obydlené"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "manu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jedli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "באם",
+      "gloss": "nepřišli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "kraji"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanské"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:38.259460969Z",
+  "model": "glm-5.3"
+}

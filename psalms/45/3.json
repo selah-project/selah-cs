@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "Nejkrásnější jsi ze synů člověka; vléván ⟨je⟩ půvab na tvých rtech; proto tě požehnal Elohim navěky.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "Nejkrásnější jsi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ze synů"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "vléván"
+    },
+    {
+      "surface": "חן",
+      "gloss": "půvab"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "na tvých rtech"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(proto)"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "tě požehnal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:01.690036432Z",
+  "model": "glm-5.3"
+}

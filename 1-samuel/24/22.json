@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A nyní mi přísahej při Jahvem, že nevyhladíš ⟨את⟩ mé potomstvo po mně a nevyhubíš ⟨את⟩ mé jméno z domu svého otce.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "přísahej"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "při Jahvem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "že ⟨ne⟩"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "nevyhladíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mé potomstvo"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mé potomstvo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po mně"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a že ⟨ne⟩"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "nevyhubíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mé jméno"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mé jméno"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "svého otce"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:26.137742355Z",
+  "model": "glm-5.3"
+}

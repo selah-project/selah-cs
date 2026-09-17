@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Za Jordánem, v zemi moábské, pojal Mojžíš ⟨v úmyslu⟩ vyložit ⟨את⟩ tuto tóru a říci:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "za Jordánem"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "(Jordánem)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moábské"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "pojal ⟨v úmyslu⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "באר",
+      "gloss": "vyložit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto tóru"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tóru"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a říci"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:19.356581898Z",
+  "model": "glm-5.3"
+}

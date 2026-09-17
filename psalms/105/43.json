@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Vyvedl svůj lid s jásotem, své vyvolené s radostným zpěvem ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "vyvedl"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "s jásotem"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "s radostným zpěvem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své vyvolené"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "své vyvolené"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:01.953948860Z",
+  "model": "glm-5.3"
+}

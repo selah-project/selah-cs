@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I řekl Jahve Kainovi: Proč ti vzplálo ⟨hněvem⟩ a proč padla tvá tvář?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kainovi (k)"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kainovi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ti vzplálo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "a proč"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padla"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvá tvář"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:43.773835351Z",
+  "model": "glm-5.3"
+}

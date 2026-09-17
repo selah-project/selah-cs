@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A stalo se jednoho dne, že jeho synové a jeho dcery jedli a pili víno v domě svého bratra, prvorozence.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "היום",
+      "gloss": "jednoho dne"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "jeho synové"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "jeho dcery"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "jedli"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "a pili"
+    },
+    {
+      "surface": "יין",
+      "gloss": "víno"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "svého bratra"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorozence"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:25.265516197Z",
+  "model": "glm-5.3"
+}

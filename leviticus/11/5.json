@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A ⟨את⟩ hašana — poněvadž přežvykuje ⟨⟩ žvanec, ale kopyto nerozděluje — nečistý je vám.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hašana"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "hašana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poněvadž"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "přežvykuje"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "žvanec"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ale kopyto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "rozděluje"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečistý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:26.220989306Z",
+  "model": "glm-5.3"
+}

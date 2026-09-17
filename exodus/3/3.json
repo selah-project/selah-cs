@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl Mojžíš: Uhněž stranou, prosím, a uvidím ⟨את⟩ tento velký úkaz — proč keř neshoří?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Uhněž stranou"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "a uvidím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento velký úkaz"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "úkaz"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "velký"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "proč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "neshoří"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "keř"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:11.389533890Z",
+  "model": "glm-5.3"
+}

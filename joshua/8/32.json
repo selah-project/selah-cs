@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A napsal tam na kameních ⟨את⟩ opis tóry Mojžíšovy, kterou napsal před tváří synů Izraele.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "A napsal"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kameních"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "opis tóry"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "opis"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tóry"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "napsal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:07:24.482344720Z",
+  "model": "glm-5.3"
+}

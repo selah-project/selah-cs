@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 138,
+  "translation": "Jahve dokončí ⟨to, co se mě týká⟩; tvůj chesed, Jahve, ⟨trvá⟩ navěky; díla svých rukou neopouštěj!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "dokončí"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨to, co se mě týká⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvůj chesed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "díla"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "svých rukou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "opouštěj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:45.648067294Z",
+  "model": "glm-5.3"
+}

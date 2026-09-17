@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A toto ⟨je⟩ zápis, který ⟨byl⟩ napsán: MENE, MENE, TEKEL UFARSIN.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "A toto"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "zápis"
+    },
+    {
+      "surface": "די",
+      "gloss": "který"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "napsán"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "UFARSIN"
+    }
+  ],
+  "timestamp": "2026-09-17T10:03:24.566957594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Malý ⟨jsem⟩ a opovrhovaný, tvá nařízení jsem nezapomněl.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "Malý"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jsem"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "a opovrhovaný"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "tvá nařízení"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "jsem zapomněl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:34.545455428Z",
+  "model": "glm-5.3"
+}

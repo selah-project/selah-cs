@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 75,
+  "translation": "A já budu vypravovat na věky, budu žalozpěv hrát ⟨Elohimovi⟩ Jákobovu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a já"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "budu vypravovat"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "budu hrát (žalozpěv)"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimovi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobovu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:57:19.476858856Z",
+  "model": "glm-5.3"
+}

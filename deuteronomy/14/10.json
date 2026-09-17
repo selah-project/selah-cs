@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A cokoli nemá ploutev a šupiny, nesmíte jíst — nečistý je to pro vás.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "A cokoli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(co)"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nemá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ploutev"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "a šupiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smíte jíst"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečistý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pro vás"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:48.341915936Z",
+  "model": "glm-5.3"
+}

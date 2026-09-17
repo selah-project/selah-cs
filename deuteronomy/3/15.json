@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A Machírovi jsem dal ⟨את⟩ Gileád.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "A Machírovi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gileád"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileád"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:24.738503692Z",
+  "model": "glm-5.3"
+}

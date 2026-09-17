@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A řekl: Proklet buď Kenaan, otrokem otroků bude svým bratřím.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "otrokem"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "otroků"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "svým bratřím"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:06.458954865Z",
+  "model": "glm-5.3"
+}

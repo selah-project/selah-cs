@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A důvěřují v tebe ti, kdo znají tvé jméno, neboť jsi neopustil ty, kdo tě hledají, Jahve.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "a důvěřují"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tebe"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "ti, kdo znají"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "jsi opustil"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "ty, kdo tě hledají"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:57.137354620Z",
+  "model": "glm-5.3"
+}

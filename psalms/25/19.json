@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Pohleď na nepřátele mé, neboť se rozmnožili, a nenávistí násilnou nenávidí mě.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Pohleď"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "na nepřátele mé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "se rozmnožili"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "a nenávistí"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "násilnou"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "nenávidí mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:16.890415151Z",
+  "model": "glm-5.3"
+}

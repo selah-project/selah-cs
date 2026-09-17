@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Po mé pravici povstane chátra, postrčili mé nohy a navezli proti mně náspy svého neštěstí.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "mé pravici"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "chátra"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "povstane"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mé nohy"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "postrčili"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "a navezli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "cesty ⟨jako náspy⟩"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "svého neštěstí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:51:01.948465925Z",
+  "model": "glm-5.3"
+}

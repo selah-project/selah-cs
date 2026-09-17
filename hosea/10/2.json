@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Their heart is divided ⟨is⟩; now they shall bear guilt; ⟨He⟩ shall demolish their altars, their pillars He shall destroy.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "is divided"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "their heart"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "they shall bear guilt"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "He"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "shall demolish"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "their altars"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "He shall destroy"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "their pillars"
+    }
+  ],
+  "timestamp": "2026-09-17T08:58:11.496370949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "A udělali ⟨את⟩ kameny šohamu, vsazené do zlatých vsazenin, ryté rytím pečetidla podle jmen synů Jisraele.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "A udělali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kameny šohamu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "šohamu"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "vsazené"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "do vsazenin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatých"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "ryté"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "rytím"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "pečetidla"
+    },
+    {
+      "surface": "על",
+      "gloss": "podle"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jmen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:12.397551641Z",
+  "model": "glm-5.3"
+}

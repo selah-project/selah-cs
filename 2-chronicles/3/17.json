@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A postavil ⟨את⟩ sloupy před ⟨čelem⟩ chrámu, jeden napravo a jeden nalevo; a dal jméno pravému Jakin a jméno levému Bóaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "A postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sloupy"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sloupy"
+    },
+    {
+      "surface": "על",
+      "gloss": "před"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨čelem⟩"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "chrámu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "napravo"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "a jeden"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "nalevo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a dal jméno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "pravému"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Jakin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jméno"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "levému"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Bóaz"
+    }
+  ],
+  "timestamp": "2026-09-17T10:23:54.462987849Z",
+  "model": "glm-5.3"
+}

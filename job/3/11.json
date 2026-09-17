@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Proč jsem neumřel ⟨ještě⟩ v lůně? Z břicha jsem vyšel — a ⟨teď⟩ umírám.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "v lůně"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "umřel jsem"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "z břicha"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "jsem vyšel"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "a umírám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:57.046524084Z",
+  "model": "glm-5.3"
+}

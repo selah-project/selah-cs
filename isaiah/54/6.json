@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 54,
+  "translation": "Neboť jako ženu opuštěnou a zasmušilou duchem tě povolal Jahve, a jako ženu z mládí, jež bys byla zavrhována — praví tvůj Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "jako ženu"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "opuštěnou"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "a zasmušilou"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duchem"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "tě povolal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "a jako ženu"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "z mládí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jež"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "bys byla zavrhována"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T08:15:07.368218748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "I řekla Ester: Muž protivník a nepřítel — ten zlý Haman. A Haman se zděsil před králem ⟨i⟩ královnou.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "i řekla"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "צר",
+      "gloss": "protivník"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "a nepřítel"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlý"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "a Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "zděsil se"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "královnou"
+    }
+  ],
+  "timestamp": "2026-09-17T10:03:06.280896793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Marnost nad marnostmi, pravil Kohelet, všechno ⟨je⟩ marnost.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Marnost"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "nad marnostmi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pravil"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "marnost"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:56.178069284Z",
+  "model": "glm-5.3"
+}

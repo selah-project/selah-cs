@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A skryl se David na poli. A nastal nový měsíc a usedl král k jídlu, aby jedl.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "a skryl se"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a nastal"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "nový měsíc"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a usedl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "jídlu"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "aby jedl"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:32.938929385Z",
+  "model": "glm-5.3"
+}

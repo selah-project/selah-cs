@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Žehnej, duše má, ⟨את⟩ Jahveho, a nezapomeň na žádný z jeho dobrodiní!",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Žehnej"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše má"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "zapomeň"
+    },
+    {
+      "surface": "כל",
+      "gloss": "žádný"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "z jeho dobrodiní"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:22.323798777Z",
+  "model": "glm-5.3"
+}

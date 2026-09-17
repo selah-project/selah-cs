@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A Jahve stanovil určený čas ⟨slovy⟩: Zítra učiní Jahve ⟨tuto⟩ věc v zemi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "stanovil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "určený čas"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨slovy⟩"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "zítra"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "učiní"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨tuto⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:00.627531219Z",
+  "model": "glm-5.3"
+}

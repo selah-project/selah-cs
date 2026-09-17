@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A král mluvil s Gechazím, služebníkem muže Elohim, řka: Vyprávěj mi, prosím, ⟨את⟩ všechny velké skutky, které učinil Elíša.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "A král"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechazím"
+    },
+    {
+      "surface": "נער",
+      "gloss": "služebníkem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Vyprávěj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny velké skutky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "velké skutky"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elíša"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:36.097485161Z",
+  "model": "glm-5.3"
+}

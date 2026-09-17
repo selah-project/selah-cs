@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 10:9",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Buď žehnán Jahve, tvůj Elohim, kterýž se v tobě zalíbil, aby tě postavil na trůn Israele, protože Jahve miluje ⟨את⟩ Israela navěky, a učinil tě králem, abys činil soud ⟨a⟩ spravedlnost.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Buď"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "žehnán"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterýž"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "zalíbil"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    },
+    {
+      "surface": "לתתך",
+      "gloss": "aby tě postavil"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trůn"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "protože miluje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "וישימך",
+      "gloss": "a učinil tě"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "abys činil"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "soud"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "a spravedlnost"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:06.046635851Z",
+  "model": "glm-5.3"
+}

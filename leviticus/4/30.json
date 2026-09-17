@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A kněz vezme z její krve na svůj prst a dá ⟨ji⟩ na rohy oltáře ⟨holocaustu⟩; ⟨את⟩ všechnu její krev vyleje k patě oltáře.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "A vezme"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "z její krve"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "na svůj prst"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a dá"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "rohy"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "⟨holocaustu⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechnu její krev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "její krev"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "vyleje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "patě"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:30:18.407225614Z",
+  "model": "glm-5.3"
+}

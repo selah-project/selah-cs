@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Řekla Eliášovi: Co ⟨je⟩ mezi mnou a tebou, muži Elohim? Přišel jsi ke mně připomenout ⟨את⟩ moji vinu a usmrtit ⟨את⟩ mého syna?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "řekla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliášovi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "a tobě"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "přišel jsi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "připomenout"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moji vinu"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "moji vinu"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "a usmrtit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mého syna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mého syna"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:58.196248465Z",
+  "model": "glm-5.3"
+}

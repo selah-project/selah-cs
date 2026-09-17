@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 85,
+  "translation": "Snesl jsi vinu svého lidu, přikryl jsi všechen jejich hřích. Séla.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Snesl jsi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vinu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svého lidu"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "přikryl jsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "jejich hřích"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:34.996436176Z",
+  "model": "glm-5.3"
+}

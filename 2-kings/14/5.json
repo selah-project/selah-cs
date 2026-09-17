@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Stalo se, jakmile se království upevnilo v jeho ruce, že zabil ⟨את⟩ své služebníky, kteří zabili ⟨את⟩ krále, jeho otce.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jakmile"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "upevnilo se"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "království"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v jeho ruce"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své služebníky"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "své služebníky"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "kteří zabili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otce"
+    }
+  ],
+  "timestamp": "2026-09-17T13:41:14.637281579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Adam poznal opět ⟨את⟩ svou ženu, a ta porodila syna a nazvala ⟨את⟩ jeho jméno Šét, neboť „ustanovil mi Elohim jiné semeno místo Hebela, neboť Kain ho zabil.“",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "poznal"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ženu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "svou ženu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "nazvala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Šét"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ustanovil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semeno"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jiné"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:23.201845441Z",
+  "model": "glm-5.3"
+}

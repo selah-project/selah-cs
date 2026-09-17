@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "A slovy nenávisti mě obklopili, bojovali proti mně bez příčiny.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "a slovy"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nenávisti"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mě obklopili"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "bojovali proti mně"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez příčiny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:55.900522117Z",
+  "model": "glm-5.3"
+}

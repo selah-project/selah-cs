@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "a dám trávu na tvých polích tvému dobytku, a budeš jíst a nasytíš se.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "a dám"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "trávu"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "na tvých polích"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "tvému dobytku"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "a budeš jíst"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "a nasytíš se"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:12.837592344Z",
+  "model": "glm-5.3"
+}

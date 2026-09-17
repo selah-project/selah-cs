@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Naproti rámci byly prstence ⟨jako⟩ domy pro tyče, aby se ⟨את⟩ stůl nesl.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "rámci"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byly"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "prstence"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "⟨jako⟩ domy"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "pro tyče"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "aby se nesl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stůl"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stůl"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:50.508533332Z",
+  "model": "glm-5.3"
+}

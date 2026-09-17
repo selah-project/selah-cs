@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 30:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A ona jí řekla: „Je málo, že jsi vzala ⟨את⟩ mého muže, a chceš vzít i ⟨את⟩ duda mého syna?“ A Rachela řekla: „Proto s tebou bude ležet tuto noc za duda tvého syna.“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "je málo"
+    },
+    {
+      "surface": "קחתך",
+      "gloss": "že jsi vzala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mého muže (iši)"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mého muže"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "a chceš vzít"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duda mého syna"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "duda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mého syna"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachela"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "proto"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "bude ležet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tuto noc"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za (výměnou za)"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "duda"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvého syna"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:44.834365035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Jákob se zeptal a řekl: Oznam mi prosím své jméno. On však řekl: Proč se ptáš po mém jméně? A požehnal ⟨את⟩ mu tam.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "a zeptal se"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "oznam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "své jméno"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "se ptáš"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "po mém jméně"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a požehnal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:52.802034874Z",
+  "model": "glm-5.3"
+}

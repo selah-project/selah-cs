@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "a Jahve vzdálí ⟨את⟩ člověka a veliké opuštění bude ve středu země.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "a vzdálí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "člověka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "a veliké"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "opusťení"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ve středu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T08:03:02.654834857Z",
+  "model": "glm-5.3"
+}

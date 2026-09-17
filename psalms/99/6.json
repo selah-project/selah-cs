@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 99,
+  "translation": "Moše a Aharon mezi kněžími jeho, a Šmu'el mezi vzývajícími jméno jeho — volali k Jahve a on jim odpovídal.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "mezi kněžími jeho"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "a Šmu'el"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "mezi vzývajícími"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jméno jeho"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "volali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "jim odpovídal"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:20.611858067Z",
+  "model": "glm-5.3"
+}

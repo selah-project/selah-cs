@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A zbořil ⟨את⟩ domy posvátných, které ⟨byly⟩ v domě Jahve, kde ženy tkaly tam domy ⟨tkané věnce⟩ pro Ašeru.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "A zbořil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domy posvátných"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "domy"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "posvátných"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "tkaly"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "domy"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "pro Ašeru"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:12.749983581Z",
+  "model": "glm-5.3"
+}

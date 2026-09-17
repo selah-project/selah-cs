@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 111,
+  "translation": "Potravu dal těm, kdo se ho bojí, navždy si pamatuje svou smlouvu.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "Potravu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "těm, kdo se ho bojí"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "pamatuje si"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "svou smlouvu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:28.545832765Z",
+  "model": "glm-5.3"
+}

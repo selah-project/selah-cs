@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "Ze všech svých přestoupení ⟨mě⟩ vytrhni; potupou blázna mě nečiň.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Ze všech"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "svých přestoupení"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "vytrhni ⟨mě⟩"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "potupou"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "blázna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "čiň mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:16.912235851Z",
+  "model": "glm-5.3"
+}

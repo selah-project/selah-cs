@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A ⟨את⟩ druhého učiní jako oběť zápalnou podle řádu, a kněz za něj vykoná smíření za jeho hřích, kterého se dopustil, a bude mu odpuštěno.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "druhého"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhého"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "učiní"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "oběť zápalnou"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "podle řádu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a vykoná smíření"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "za něj"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "za jeho hřích"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterého"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "se dopustil"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "a bude odpuštěno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:59.819671204Z",
+  "model": "glm-5.3"
+}

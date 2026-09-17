@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 111,
+  "translation": "Počátek moudrosti ⟨je⟩ bázeň Jahvova; všem, kdo je činí, ⟨dává⟩ dobrý rozum; jeho chvála stojí navěky.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Počátek"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrosti"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "bázeň"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvova"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "rozum"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrý"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "kdo je činí"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "jeho chvála"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stojí"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "navěky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:57.331693942Z",
+  "model": "glm-5.3"
+}

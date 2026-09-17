@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "I řekl: Nechte ho, ať žádný muž nepřemísťuje jeho kosti. A uchránili jeho kosti ⟨spolu⟩ s ⟨את⟩ kostmi proroka, který přišel ze Šomronu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "Nechte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "přemísťuje"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "jeho kosti"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "a uchránili"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "jeho kosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kostem proroka"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kostmi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "ze Šomronu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:29.005265378Z",
+  "model": "glm-5.3"
+}

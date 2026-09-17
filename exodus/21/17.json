@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Kdo zlořečí svému otci a své matce, smrtí zajisté zemře.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "zlořečí"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svému otci"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "a své matce"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zajisté zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:13.363888595Z",
+  "model": "glm-5.3"
+}

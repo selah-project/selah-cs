@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Ať jsou zpustošeni za následek své hanby ti, kdo mi říkají: „Haha, haha!“",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ať jsou zpustošeni"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "následek"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "své hanby"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "kdo říkají"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "„Haha!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "haha!“"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:20.639728343Z",
+  "model": "glm-5.3"
+}

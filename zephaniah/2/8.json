@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Slyšel jsem potupu Moábu a výsměch synů Amónových, kteří tupili ⟨את⟩ můj lid a vyzvýšili se proti jejich hranici.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "slyšel jsem"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "potupu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábu"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "a výsměch"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amónových"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "tupili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "můj lid"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "a vyzvýšili se"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "jejich hranici"
+    }
+  ],
+  "timestamp": "2026-09-17T11:09:34.124604844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Já jsem Jahve, tvůj Elohim, který tě vyvedl ze země Egypta, z domu otroctví.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "tě vyvedl"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "otroctví"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:06.862915155Z",
+  "model": "glm-5.3"
+}

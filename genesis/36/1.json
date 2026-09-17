@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A toto ⟨jsou⟩ rodokmeny Esavovy — on ⟨je⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A toto"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "rodokmeny"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavovy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:22.149472826Z",
+  "model": "glm-5.3"
+}

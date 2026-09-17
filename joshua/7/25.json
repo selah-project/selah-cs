@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 7:25",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A Jozue řekl: Což jsi nás zkalil? Nechť tě Jahve zkalí v tenhle den! A celý Izrael ho ⟨את⟩ kamenoval kamením a spálili je ⟨את⟩ ohněm a naházeli na ně ⟨את⟩ kameny.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "מה",
+      "gloss": "což"
+    },
+    {
+      "surface": "עכרתנו",
+      "gloss": "jsi nás zkalil"
+    },
+    {
+      "surface": "יעכרך",
+      "gloss": "nechť tě zkalí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tenhle"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "a kamenovali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kamením"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "a spálili"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "ויסקלו",
+      "gloss": "a naházeli kameny"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "na ně"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kameny"
+    }
+  ],
+  "timestamp": "2026-09-17T07:06:23.620844940Z",
+  "model": "glm-5.3"
+}

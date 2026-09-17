@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Jahve podpírá všechny padající a vzpřimuje všechny skroucené.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "podpírá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "padající"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "a vzpřimuje"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "skroucené"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:29.410424039Z",
+  "model": "glm-5.3"
+}

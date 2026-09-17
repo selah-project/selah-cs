@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A Jakob viděl, že je obilí v Egyptě; a Jakob řekl svým synům: Proč se na sebe díváte?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "obilí"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Egyptě"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakob"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "svým synům"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "se díváte"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:17.291293071Z",
+  "model": "glm-5.3"
+}

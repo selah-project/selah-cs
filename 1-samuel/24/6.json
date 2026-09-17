@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "I stalo se poté, že srdce Davidovo zasáhlo ⟨את⟩ ho, protože odřízl ⟨את⟩ cíp, který byl Šaúlův.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "I stalo se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poté"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tomu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "že zasáhlo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ho",
+      "marks": "Davida"
+    },
+    {
+      "surface": "על",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tomu, co"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "odřízl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cíp"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "cíp"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "byl Šaúlův"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:34.997548654Z",
+  "model": "glm-5.3"
+}

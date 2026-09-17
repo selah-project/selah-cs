@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 129,
+  "translation": "jež nenaplní dlaň žence ani náruč svazeče snopů.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "jež ne"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "naplní"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "dlaň"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "žence"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ani náruč"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "svazeče snopů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:32.056973886Z",
+  "model": "glm-5.3"
+}

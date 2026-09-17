@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Čas hledat a čas ztratit; čas zachovat a čas odhodit.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hledat"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a čas"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ztratit"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "zachovat"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a čas"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "odhodit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:23.594863841Z",
+  "model": "glm-5.3"
+}

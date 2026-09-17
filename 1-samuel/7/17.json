@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A jeho návrat ⟨byl⟩ do Rámy, neboť tam ⟨byl⟩ jeho dům, a tam soudil ⟨את⟩ Izraele; a vybudoval tam oltář Jahvemu.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "A jeho návrat"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "do Rámy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jeho dům"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a tam"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "soudil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a vybudoval"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:32.538893066Z",
+  "model": "glm-5.3"
+}

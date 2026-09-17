@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Jahve, Elohim můj, jestliže jsem toto učinil, jestliže je nepravost na mých dlaních,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim můj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem učinil"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "na mých dlaních"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:49.571189816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "neboť Jahve uzavřel, byl uzavřil každou dělohu ⟨domu⟩ Avimelechova domu kvůli Saře, ženě Abrahamově.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "uzavřel"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "byl uzavřil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každou"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "dělohu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu ⟨domu⟩"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelechova"
+    },
+    {
+      "surface": "על",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "věci"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sáry"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamovy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:15.304061421Z",
+  "model": "glm-5.3"
+}

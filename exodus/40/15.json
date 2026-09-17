@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A pomaežeš ⟨את⟩ je, jako jsi pomazal ⟨את⟩ jejich otce, a budou kněžími mně; a bude ⟨to⟩ jejich pomazání jim k kněžství věčném⟨u⟩ po jejich pokoleních.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "a pomaežeš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jako"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "jsi pomazal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich otce"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "jejich otce"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "a budou kněžími"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mně"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "להית",
+      "gloss": "⟨to⟩ být"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "jejich pomazání"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "k kněžství"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věčném"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "po jejich pokoleních"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:31.881021705Z",
+  "model": "glm-5.3"
+}

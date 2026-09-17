@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "A požehnané buď jméno jeho slávy navěky, a nechť jeho sláva naplní ⟨את⟩ celou zemi. Amen a amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "a požehnané buď"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "jeho slávy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "a nechť naplní"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "jeho sláva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celou zemi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "a amen"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:20.434622628Z",
+  "model": "glm-5.3"
+}

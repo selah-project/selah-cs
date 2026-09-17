@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Slyšte to, starci, a nakloňte ucho, všichni obyvatelé země: stalo-li se ⟨to⟩ za vašich dnů, aneb i za dnů vašich otců?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slyšte"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starci"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "a nakloňte ucho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "obyvatelé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "stalo-li se"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "za vašich dnů"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "aneb i"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "za dnů"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "vašich otců"
+    }
+  ],
+  "timestamp": "2026-09-17T08:58:08.131080071Z",
+  "model": "glm-5.3"
+}

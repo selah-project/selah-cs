@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Neboť pastýři zhloupli a ⟨את⟩ Jahve nehledali, proto se neosvědčili a celé jejich stádo je rozprášeno.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "zlhoupli"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pastýři"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "nehledali"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "neosvědčili se"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celé"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "jejich stádo"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "rozprášeno"
+    }
+  ],
+  "timestamp": "2026-09-17T08:21:36.670797371Z",
+  "model": "glm-5.3"
+}

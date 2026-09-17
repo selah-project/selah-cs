@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Jahve řekl Mojžíšovi: „Je ruka Jahve krátká? Nyní uvidíš, zda tě mé slovo dostihne, či ⟨nikoliv⟩.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ruka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "Je… krátká"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Nyní"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uvidíš"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "zda tě dostihne"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mé slovo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "či"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨nikoliv⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T13:09:03.699643223Z",
+  "model": "glm-5.3"
+}

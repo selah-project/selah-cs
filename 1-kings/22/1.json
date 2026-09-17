@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A seděli tři roky, není války mezi Aramem a mezi Izraelem.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "A seděli"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roky"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "války"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramem"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:51:35.855326978Z",
+  "model": "glm-5.3"
+}

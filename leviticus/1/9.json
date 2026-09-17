@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A jeho vnitřnosti a jeho nohy vymyje ve vodě; a kněz zazápalí ⟨את⟩ všechno na oltáři — zápalná oběť, ohnivá oběť, vůně klidu pro Jahve.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "A jeho vnitřnosti"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "a jeho nohy"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "vymyje"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ve vodě"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a zazápalí"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltáři"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "zápalná oběť"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ohnivá oběť"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "vůně"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "klidu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:18.523806829Z",
+  "model": "glm-5.3"
+}

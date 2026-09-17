@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A dám tobě i tvému potomstvu po tobě ⟨את⟩ zemi tvého pohostinství, ⟨את⟩ celou zemi Kenaan, ve věčné držení; a budu jim za Elohim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "a dám"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "i tvému potomstvu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "po tobě"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi tvého pohostinství"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "tvého pohostinství"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celou zemi Kenaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "ve držení"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věčné"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "a budu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:03.205797969Z",
+  "model": "glm-5.3"
+}

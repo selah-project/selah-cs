@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A stalo se ráno, že Dawid napsal list Joabovi a poslal ho rukou Urije.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "napsal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "list"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Joabovi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabovi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urije"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:56.106725056Z",
+  "model": "glm-5.3"
+}

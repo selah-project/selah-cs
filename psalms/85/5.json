@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 85,
+  "translation": "Navrať nás, Elohime našeho vysvobození, a zruš svůj hněv proti nám!",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Navrať nás"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "našeho vysvobození"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "a zruš"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "svůj hněv"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "proti nám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:29.217478928Z",
+  "model": "glm-5.3"
+}

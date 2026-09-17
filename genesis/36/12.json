@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 36:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A Timna byla přiležnicí Elífaze, syna Esavova, a porodila Elífazovi ⟨את⟩ Amáleka; toto jsou synové Ady, ženy Esavovy.",
+  "tokens": [
+    {
+      "surface": "ותמנע",
+      "gloss": "A Timna"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "byla"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "přiležnicí"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "Elífazovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavova"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "Elífazovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amáleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amáleka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "jsou synové"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ady"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavovy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:08.344491849Z",
+  "model": "glm-5.3"
+}

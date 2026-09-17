@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Z dobytčat čistých a z dobytčat, která nejsou čistá, a z ptactva a ze všeho, co se plazí po zemi —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Z"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dobyteckých"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "čistých"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a z"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dobyteckých"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "nejsou"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "čistá"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a z"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ptactva"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "se plazí"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:00.617142883Z",
+  "model": "glm-5.3"
+}

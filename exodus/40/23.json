@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 40:23",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A rozložil na něj řadu chlebů před tváří Jahve, jak přikázal Jahve ⟨את⟩ Mojžíše.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "a rozložil"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "řadu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebů"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:28.593035363Z",
+  "model": "glm-5.3"
+}

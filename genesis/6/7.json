@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A Jahve řekl: Vymažu ⟨את⟩ člověka, kterého jsem stvořil, z povrchu země — od člověka až po dobytek, až po plazy a až po ptáky nebes, neboť lituji, že jsem je udělal.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Vymažu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "člověka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterého"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "jsem stvořil"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "פני",
+      "gloss": "povrchu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "země"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "od člověka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dobytěk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "plazy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a až po"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptáky"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "lituji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "jsem je udělal"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:23.321304216Z",
+  "model": "glm-5.3"
+}

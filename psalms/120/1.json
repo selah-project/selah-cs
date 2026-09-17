@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 120,
+  "translation": "Píseň stupňů. K Jahvovi jsem v své tísní volal, a on mi odpověděl.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stupňů"
+    },
+    {
+      "surface": "אל",
+      "gloss": "K"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "v tísní"
+    },
+    {
+      "surface": "לי",
+      "gloss": "své (mi)"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jsem volal"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "a on mi odpověděl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:49.438412109Z",
+  "model": "glm-5.3"
+}

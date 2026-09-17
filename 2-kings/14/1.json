@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Ve druhém roce Joaše, syna Joachazova, krále Izraele, se stal králem Amacjáš, syn Joaše, král Judska.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Ve druhém roce"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "druhém"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "Joaše"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Joachazova"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "stal se králem"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amacjáš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaše"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judska"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:36.234860022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Jeho dny ať jsou krátké, jeho úřad vezmě jiný.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ať jsou"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jeho dny"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "krátké"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "jeho úřad"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vezmě"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jiný"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:16.530208664Z",
+  "model": "glm-5.3"
+}

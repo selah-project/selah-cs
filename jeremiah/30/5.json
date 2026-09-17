@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Neboť tak řekl Jahve: Hlas chvění jsme slyšeli — děs, a ⟨není⟩ pokoje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Hlas"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "chvění"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "jsme slyšeli"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "děs"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a ⟨není⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoje"
+    }
+  ],
+  "timestamp": "2026-09-17T08:28:42.361028754Z",
+  "model": "glm-5.3"
+}

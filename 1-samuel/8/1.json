@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A stalo se, když Samuel zestárnul, že ustanovil ⟨את⟩ své syny soudciemi pro Izrael.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "zestárnul"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ustanovil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své syny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "své syny"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "soudciemi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "pro Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:51.868798886Z",
+  "model": "glm-5.3"
+}

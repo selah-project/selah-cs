@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Toto je pokolení těch, kdo se ptají po něm, těch, kdo hledají tvou tvář — Jákob. Séla.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "דור",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "kdo se ptají po něm"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "těch, kdo hledají"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvou tvář"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:47.770328752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A má duše ⟨se⟩ zajásá v Jahve, zajásá v jeho spáse.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "a má duše"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "zajásá"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "zajásá"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "v jeho spáse"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:43.575063875Z",
+  "model": "glm-5.3"
+}

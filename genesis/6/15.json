@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A to je to, jak ⟨את⟩ ji uděláš: tři sta loket délka arše, padesát loket její šířka a třicet loket její výška.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "A to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uděláš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ji",
+      "marks": "ji (archu)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "loket"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "délka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arše"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "padesát"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "loket"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "šířka"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "a třicet"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "loket"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "výška"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:37.595994524Z",
+  "model": "glm-5.3"
+}

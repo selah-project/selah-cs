@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "⟨את⟩ toto budete jíst ze všeho, co ⟨je⟩ ve vodách: vše, co má ploutvi a šupiny, ve vodách, v mořích a v potocích — ⟨את⟩ ty budete jíst.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "budete jíst"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ve vodách"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "má"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ploutvi"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "a šupiny"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ve vodách"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "v mořích"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "a v potocích"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ty"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "budete jíst"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:06.995539338Z",
+  "model": "glm-5.3"
+}

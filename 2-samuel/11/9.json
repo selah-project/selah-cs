@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Uriáš spal u vchodu ⟨do⟩ královského domu ⟨את⟩ všech sluhů svého pána a nesestoupil do svého domu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a spal"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriáš"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u vchodu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "královského"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všech sluhů svého pána"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluhů"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "svého pána"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sestoupil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svého domu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:46.480863247Z",
+  "model": "glm-5.3"
+}

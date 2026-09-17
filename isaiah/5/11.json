@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 5:11",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Běda těm, kdož brzy zrána vstávají, aby ⟨lihovinu⟩ honili, kdož se do večera zdržují, než je víno rozpálí!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "kdož brzy vstávají"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "zrána"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "lihovinu"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "honí(aby honili)"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "kdož se zdržují"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "do večera"
+    },
+    {
+      "surface": "יין",
+      "gloss": "víno"
+    },
+    {
+      "surface": "ידליקם",
+      "gloss": "je rozpálí"
+    }
+  ],
+  "timestamp": "2026-09-17T10:58:12.787222312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A když řeknete: Co budeme jíst v sedmém roce, hle, nesejeme a nesklidíme ⟨את⟩ svou úrodu?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a když"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "řeknete"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "budeme jíst"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "v roce"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "sedmém"
+    },
+    {
+      "surface": "הן",
+      "gloss": "hle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "nesejeme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "nesklidíme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou úrodu"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "svou úrodu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:11.917827082Z",
+  "model": "glm-5.3"
+}

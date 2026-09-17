@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "Podle tvého jména, Elohim, ⟨tak⟩ i tvá chvála ⟨je⟩ na končinách země; spravedlnost naplnila tvou pravici.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "podle tvého jména"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨tak⟩ i"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tvá chvála"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "končinách"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "naplnila"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvou pravici"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:31.805052620Z",
+  "model": "glm-5.3"
+}

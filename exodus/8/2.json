@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A Áron vztyčil ⟨את⟩ svou ruku nad vody Egypta, a vystoupila žába a pokryla ⟨את⟩ zemi Egypta.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "a vztyčil"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "vody"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "a vystoupila"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "žába"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "a pokryla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:02.720996858Z",
+  "model": "glm-5.3"
+}

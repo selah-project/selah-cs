@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 3:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl: Já ⟨jsem⟩ Elohim otce tvého, Elohim Abrahamův, Elohim Jicchakův a Elohim Jaakovův. A skryl Mojžíš tvář svou, neboť bál se pohlédnout na ⟨toho⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Já"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otce tvého"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamův"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchakův"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakovův"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "a skryl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tvář svou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bál se"
+    },
+    {
+      "surface": "מהביט",
+      "gloss": "pohlédnout"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨toho⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:12.327012112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 149,
+  "translation": "Ať chválí jeho jméno v tanci, s tamburínou a harbou ať mu hudou.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "ať chválí"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "v tanci"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "s tamburínou"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "a harbou"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ať hudou"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:12.689467835Z",
+  "model": "glm-5.3"
+}

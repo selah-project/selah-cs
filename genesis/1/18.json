@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "a aby vládly ve dne a v noci a oddělovaly mezi světlem a mezi tmou. A viděl Elohim, že ⟨to je⟩ dobré.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "a aby vládly"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ve dne"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "a v noci"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "a aby oddělovaly"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "האור",
+      "gloss": "světlem"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tmou"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:17.246551518Z",
+  "model": "glm-5.3"
+}

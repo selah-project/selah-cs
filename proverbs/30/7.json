@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Dvě věci jsem tě požádal ⟨את⟩; neodepři mi je dříve, než zemřu.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Dvě"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "jsem požádal"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ tě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "odepři"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dříve, než"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "zemřu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:19.342293609Z",
+  "model": "glm-5.3"
+}

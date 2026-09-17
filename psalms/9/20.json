@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Povstaň, Jahve, ať nepřemůže smrtelný člověk; ať jsou národy souzeny před tvou tváří!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Povstaň"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "přemůže"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtelný člověk"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ať jsou souzeny"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "על",
+      "gloss": "před"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvou tváří"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:07.937477727Z",
+  "model": "glm-5.3"
+}

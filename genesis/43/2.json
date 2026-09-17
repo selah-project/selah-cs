@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "A stalo se, když dojedli ⟨את⟩ obilí, které přinesli z Egypta, že jim jejich otec řekl: Vraťte se, nakupte nám trochu jídla.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "dojedli"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obilí"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "obilí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "přinesli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "že řekl"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "jejich otec"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Vraťte se"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "nakupte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "trochu"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jídla"
+    }
+  ],
+  "timestamp": "2026-09-17T13:08:22.514599289Z",
+  "model": "glm-5.3"
+}

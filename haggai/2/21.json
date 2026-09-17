@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Mluv k Zerubábelovi, pečalovi Judska, ⟨a⟩ řekni: Já roztřásám ⟨את⟩ nebe a ⟨את⟩ zemi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Mluv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubábelovi"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "pečalovi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judska"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řekni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "roztřásám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "země"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:09:33.983403012Z",
+  "model": "glm-5.3"
+}

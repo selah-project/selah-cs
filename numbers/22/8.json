@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 22:8",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A řekl jim: Přenocujte zde tuto noc, a já vám vrátím ⟨את⟩ slovo, jak mluví Jahve ke mně. A zůstali knížata Moábu s Bilámem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "לינו",
+      "gloss": "Přenocujte"
+    },
+    {
+      "surface": "פה",
+      "gloss": "zde"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tuto noc"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "a já vám vrátím"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vám",
+      "marks": "slovo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "mluví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "A zůstali"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knížata"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilámem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:47:29.495748289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 87,
+  "translation": "A o Cijónu bude řečeno: člověk, a zas člověk, se ⟨v⟩ ní narodil; a On sám, Elijon, ji upevní.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "A o Cijónu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bude řečeno"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a zas člověk"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "se narodil"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a On sám"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ji upevní"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:58.514915650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Jedna tóra bude ⟨pro⟩ domorodce i ⟨pro⟩ cizince, který pohostí mezi vámi.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "jedna tóra"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedna"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "⟨pro⟩ domorodce"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "i ⟨pro⟩ cizince"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "který pohostí"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mezi vámi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:40.575719079Z",
+  "model": "glm-5.3"
+}

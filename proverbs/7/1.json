@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Synu můj, střež má slova a má přikázání uschovej ⟨u⟩ ⟨את⟩ sebe.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Synu můj"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "střež"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "má slova"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "a má přikázání"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "uschovej"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "u sebe"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:40.482219727Z",
+  "model": "glm-5.3"
+}

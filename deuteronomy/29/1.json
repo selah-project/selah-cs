@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 29:1",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "I zavolal Mojžíš ke všemu Izraeli a řekl jim: Vy jste viděli ⟨את⟩ všechno, co učinil Jahve před vašima očima v zemi Egypta faraónovi i všem jeho služebníkům i celé jeho zemi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "zavolal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všemu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "jste viděli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "před vašima očima"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "i všem"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeho služebníkům"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "i celé"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "jeho zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:02:25.636314690Z",
+  "model": "glm-5.3"
+}

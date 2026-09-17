@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 65,
+  "translation": "⟨Je to⟩ lid, který ⟨את⟩ mne dráždí stále před svou tváří — obětují v zahradách a kadí na cihlách.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "který dráždí"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mne",
+      "marks": "mne (předmět dráždí)"
+    },
+    {
+      "surface": "על",
+      "gloss": "před"
+    },
+    {
+      "surface": "פני",
+      "gloss": "svou tváří"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "obětují"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "v zahradách"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "a kadí"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "cihlách"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:18.342343787Z",
+  "model": "glm-5.3"
+}

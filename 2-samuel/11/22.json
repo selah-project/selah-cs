@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "I šel ⟨onen⟩ posel, přišel a oznámil Davidovi ⟨את⟩ všechno, s čím ho poslal Jóab.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "I šel"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "⟨onen⟩ posel"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a oznámil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "s čím"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ho poslal"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóab"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:27.301486479Z",
+  "model": "glm-5.3"
+}

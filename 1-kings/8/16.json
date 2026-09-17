@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 8:16",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Od dne, kdy jsem vyvedl ⟨את⟩ lid svůj, ⟨את⟩ Izraele, z Egypta, nevyvolil jsem si město ze všech kmenů Izraele, abud vystavěl dům, aby tam bylo jméno mé; ale vyvolil jsem si Davida, aby byl nad lidem mým Izraelem.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "vyvedl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid svůj"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lid svůj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "vyvolil jsem si"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kmenů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "abud vystavěl"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aby bylo"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "jméno mé"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "ale vyvolil jsem si"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aby byl"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lidem mým"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:45:02.680372365Z",
+  "model": "glm-5.3"
+}

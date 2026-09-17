@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 24:2",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Synu člověče, napiš si ⟨את⟩ jméno dne, ⟨את⟩ tentýž ⟨jest⟩ tenhle den: přitáhl král Babylónu k Jeruzalému právě v ten samý den.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Synu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověče"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "napiš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jméno dne"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tentýž den"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "tentýž"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tenhle"
+    },
+    {
+      "surface": "סמך",
+      "gloss": "přitáhl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalému"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "právě v ten samý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-17T08:46:34.465055922Z",
+  "model": "glm-5.3"
+}

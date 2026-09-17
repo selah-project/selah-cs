@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "a ⟨budeš⟩ je vštěpovat svým synům a budeš o nich mluvit, ⟨když⟩ budeš sedět ve svém domě, ⟨když⟩ půjdeš cestou, ⟨když⟩ budeš ulehávat a ⟨když⟩ budeš vstávat.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "vštěpovat budeš"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "svým synům"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "a budeš mluvit"
+    },
+    {
+      "surface": "בם",
+      "gloss": "o nich"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "když budeš sedět"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ve svém domě"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "když půjdeš"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "když budeš ulehávat"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "když budeš vstávat"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:31.918992538Z",
+  "model": "glm-5.3"
+}

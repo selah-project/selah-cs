@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 126,
+  "translation": "Jde a jde, pláče, nese měřici semene — přijde, přijde s radostným zpěvem, nese své snopy.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Jde a jde ( jdouc)"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "jde"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "pláče"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nese"
+    },
+    {
+      "surface": "משך",
+      "gloss": "měřici semene"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "semene"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přijde, přijde ( přicházeje)"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "přijde"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "s radostným zpěvem"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nese"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "své snopy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:11.829588191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 3:1",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A toto ⟨jsou⟩ národy, které Jahve nechal ⟨zůstat⟩, aby jimi zkoušel ⟨את⟩ Izrael — ⟨את⟩ všechny, kdo neznali ⟨את⟩ všechny války Kenaánu.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A toto"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "nechal ⟨zůstat⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "aby zkoušel"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny války"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "války"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaánu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:13:01.962809812Z",
+  "model": "glm-5.3"
+}

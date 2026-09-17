@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Ve tvé ruce jsou mé časy; vytrhni mě z ruky mých nepřátel a z rukou mých pronásledovatelů.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Ve tvé ruce"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "mé časy"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "vytrhni mě"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "mých nepřátel"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "z rukou mých pronásledovatelů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:39.498201711Z",
+  "model": "glm-5.3"
+}

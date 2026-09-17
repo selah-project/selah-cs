@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A postavil ⟨את⟩ stůl do stanu setkávání, na stěnu příbytku severní strany, vně opony.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stůl"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stůl"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "do stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "stěnu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytku"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "severní strany"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "vně"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "opony"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:28.592868220Z",
+  "model": "glm-5.3"
+}

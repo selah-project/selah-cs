@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Salmon zplodil ⟨את⟩ Boaze, a Boaz zplodil ⟨את⟩ Obeda.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "a Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaze"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaze"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "a Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obeda"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obeda"
+    }
+  ],
+  "timestamp": "2026-09-17T09:55:08.732803899Z",
+  "model": "glm-5.3"
+}

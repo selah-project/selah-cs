@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 5:14",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A toto jsou jména ⟨těch, kteří se⟩ mu narodili v Jeruzalémě: Šamua a Šobab a Nátan a Šalomoun.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jsou jména"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "⟨těch, kteří se⟩ narodili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Šamua"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "a Šobab"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a Nátan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "a Šalomoun"
+    }
+  ],
+  "timestamp": "2026-09-17T07:33:11.337673508Z",
+  "model": "glm-5.3"
+}

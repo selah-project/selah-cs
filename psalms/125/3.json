@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 125,
+  "translation": "Neboť neodpočine žezlo bezbožnosti na úděle spravedlivých, aby spravedliví nevztáhli své ruce k nepravosti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "neodpočine"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "žezlo"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bezbožnosti"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "údělu"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "spravedlivých"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "nevztáhli"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "spravedliví"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "k nepravosti"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "své ruce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:34.267975794Z",
+  "model": "glm-5.3"
+}

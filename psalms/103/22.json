@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Žehnejte Jahve, všechna jeho díla, na všech místech jeho vlády; žehnej, má duše, ⟨את⟩ Jahve!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Žehnejte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "jeho díla"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na všech"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "místech"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "jeho vlády"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "žehnej"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:50.109809403Z",
+  "model": "glm-5.3"
+}

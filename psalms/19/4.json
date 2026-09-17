@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Není řeči a nejsou slov — bez ⟨toho, aby⟩ byl slyšen jejich hlas.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Není"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řeči"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nejsou"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "slov"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "byl slyšen"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "jejich hlas"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:46.509738724Z",
+  "model": "glm-5.3"
+}

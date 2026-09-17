@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "Východním větrem rozbíjíš lodi taršišské.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "větrem"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "východním"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "rozbíjíš"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "lodi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "taršišské"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:38.902830469Z",
+  "model": "glm-5.3"
+}

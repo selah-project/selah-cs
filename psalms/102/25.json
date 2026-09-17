@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Říkám: El můj, nevyzvedávej mě v polovině mých dnů; v pokolení pokolení ⟨jsou⟩ tvá léta.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "říkám"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El můj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "vyzvedávej mě"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "v polovině"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mých dnů"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "v pokolení"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "tvá léta"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:14.890397428Z",
+  "model": "glm-5.3"
+}

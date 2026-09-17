@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 2:20",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Elí požehnal ⟨את⟩ Elkánovi a ⟨את⟩ jeho ženě a řekl: Ustanoví Jahve tobě potomka z této ženy místo té prosby, kterou vyprosil ⟨od⟩ Jahve. A odcházeli na své místo.",
+  "tokens": [
+    {
+      "surface": "וברך",
+      "gloss": "a požehnal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elkánovi"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkánovi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho ženě"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jeho ženě"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "ustanoví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "potomka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "této ženy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "této"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "השאלה",
+      "gloss": "té prosby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "vyprosil"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "od Jahve"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "a odcházeli"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "na své místo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:10.942656715Z",
+  "model": "glm-5.3"
+}

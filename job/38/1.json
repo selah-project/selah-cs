@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "A odpověděl Jahve ⟨את⟩ Jóba z vichřice a řekl:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "A odpověděl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jóba"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jóba"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "z"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "vichřice"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:53:22.659071024Z",
+  "model": "glm-5.3"
+}

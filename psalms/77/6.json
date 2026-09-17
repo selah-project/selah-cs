@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Přemítal jsem o dnech dávných, o letech věků.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Přemítal jsem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "o dnech"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "dávných"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "o letech"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "věků"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:36.638450798Z",
+  "model": "glm-5.3"
+}

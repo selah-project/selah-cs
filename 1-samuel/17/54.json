@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A vzal David ⟨את⟩ hlavu toho Pelištejce a přinesl ji do Jeruzaléma, ⟨ale⟩ ⟨את⟩ jeho zbroj uložil ve svém stanu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlavu toho Pelištejce"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "toho Pelištejce"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "a přinesl ji"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruzaléma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho zbroj"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jeho zbroj"
+    },
+    {
+      "surface": "שם",
+      "gloss": "uložil"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "ve svém stanu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:01.903214967Z",
+  "model": "glm-5.3"
+}

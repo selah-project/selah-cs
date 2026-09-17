@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "A vedl je k bezpečí, takže se nebáli, ale mořem přikryl ⟨את⟩ jejich nepřátele.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "a vedl je"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "k bezpečí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "takže ne"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "báli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ale ⟨את⟩",
+      "marks": "jejich nepřátele"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "jejich nepřátele"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "přikryl"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mořem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:32.503065493Z",
+  "model": "glm-5.3"
+}

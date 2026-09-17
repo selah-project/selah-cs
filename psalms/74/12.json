@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "A Elohim je můj král odpradávna, působící spásy uprostřed země.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "A Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "můj král"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "odpradávna"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "působící"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "spásy"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:40.270622933Z",
+  "model": "glm-5.3"
+}

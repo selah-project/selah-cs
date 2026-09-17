@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Kdo ublíží hovadu, nahradí ⟨ho⟩; ale kdo ublíží člověku, bude usmrcen.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "kdo ublíží"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hovado"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "nahradí ⟨ho⟩"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "kdo ublíží"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověku"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bude usmrcen"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:44.394984633Z",
+  "model": "glm-5.3"
+}

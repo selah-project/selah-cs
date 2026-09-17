@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 142,
+  "translation": "Svým hlasem k Jahve volám, svým hlasem k Jahve se modlím o slitování.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Svým hlasem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "volám"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "svým hlasem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "se modlím o slitování"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:27.043765657Z",
+  "model": "glm-5.3"
+}

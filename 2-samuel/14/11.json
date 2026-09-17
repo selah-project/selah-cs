@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 14:11",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "I řekla: Vzpomeň, prosím, král, na ⟨את⟩ Jahve, tvého Elohima, aby ručitel krve nerozmnožoval zahubení a nevyhladili ⟨את⟩ mého syna. I řekl: Jako živ je Jahve — nepadne-li z vlasů tvého syna ⟨jediný⟩ na zem.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I řekla"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "Vzpomeň"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvého Elohima"
+    },
+    {
+      "surface": "מהרבית",
+      "gloss": "nerozmnožoval"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ručitel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krve"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "zahubení"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ישמידו",
+      "gloss": "vyhladili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mého syna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mého syna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Jako živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "nepadne"
+    },
+    {
+      "surface": "משערת",
+      "gloss": "z vlasů"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvého syna"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:40.025759932Z",
+  "model": "glm-5.3"
+}

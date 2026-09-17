@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Ano, Elohim tě zboří navždy, ⟨tě⟩ vezme a vytrhne tě ze stanu, tvůj kořen vytrhne ze země živých. Sela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "zboří tě"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "vezme tě"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "a vytrhne tě"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "ze stanu"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "tvůj kořen"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živých"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:54.527448253Z",
+  "model": "glm-5.3"
+}

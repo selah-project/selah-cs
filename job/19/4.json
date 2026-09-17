@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A byť jsem opravdu bloudil, moje zbloudění zůstává ⟨את⟩ se mnou.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "a byť"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "opravdu"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "jsem bloudil"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ se mnou",
+      "marks": "moje zbloudění zůstává se mnou"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "zůstává"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "moje zbloudění"
+    }
+  ],
+  "timestamp": "2026-09-17T09:48:26.967415374Z",
+  "model": "glm-5.3"
+}

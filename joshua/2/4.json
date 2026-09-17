@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A vzala ta žena ⟨את⟩ oba muže a ukryla je, a řekla takto: „Ano, přišli ti muži ke mně, ale nevím, odkud jsou.“",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "A vzala"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ta žena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oba muže"
+    },
+    {
+      "surface": "שני",
+      "gloss": "oba"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "muže"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "a ukryla je"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "כן",
+      "gloss": "takto"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ti muži"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vím"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "odkud"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jsou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:30.704402211Z",
+  "model": "glm-5.3"
+}

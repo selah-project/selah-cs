@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "nýbrž ⟨jen⟩ na místě, které si vyvolí Jahve, tvůj Elohim, aby tam přebývalo jeho Jméno — tam budeš obětovat ⟨את⟩ pesach v podvečer, při západu slunce, v určenou dobu svého vyjití z Egypta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nýbrž"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨jen⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "místě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "si vyvolí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "aby přebývalo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho Jméno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "budeš obětovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "v podvečer"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "při západu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "v určenou dobu"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "svého vyjití"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:48.288753938Z",
+  "model": "glm-5.3"
+}

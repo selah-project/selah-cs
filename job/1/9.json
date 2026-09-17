@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A satan odpověděl Jahvovi ⟨את⟩ a řekl: Zdali zadarmo se bojí Jób Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a odpověděl"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvovi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "zdali zadarmo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se bojí"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jób"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:26.577030566Z",
+  "model": "glm-5.3"
+}

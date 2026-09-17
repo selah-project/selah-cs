@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A maso oběti díkůvzdání jeho pokojných obětí se sní v den jeho obětování; nesmí z něj nic nechat až do rána.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "a maso"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběti"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "díkůvzdání"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "jeho pokojných obětí"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "jeho obětování"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se sní"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "nechá"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rána"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:55.136000425Z",
+  "model": "glm-5.3"
+}

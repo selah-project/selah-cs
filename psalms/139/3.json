@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Mou cestu i mé odpočívání zpytuješ, ⟨a⟩ se všemi mými cestami jsi dobře seznámen.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Mou cestu"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "i mé odpočívání"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "zpytuješ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "se všemi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mými cestami"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "jsi dobře seznámen"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:23.379021060Z",
+  "model": "glm-5.3"
+}

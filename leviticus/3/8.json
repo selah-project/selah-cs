@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A ⟨položí⟩ svou ruku ⟨את⟩ na hlavu svého korbanu a zabije ⟨את⟩ jej před stanem setkávání; a synové Aharonovi pokropí ⟨את⟩ jeho krví oltář dokola.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "a ⟨položí⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "svého korbanu"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "a zabije"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej (oběť)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanem"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "a pokropí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho krev"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jeho krví"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokola"
+    }
+  ],
+  "timestamp": "2026-09-17T13:39:19.997698966Z",
+  "model": "glm-5.3"
+}

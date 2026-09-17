@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A řekli jsme mu: ⟨jsme⟩ poctiví ⟨my⟩; nejsme ⟨a nebyli jsme⟩ vyzvědači.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "a řekli jsme"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "poctiví"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "jsme byli"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vyzvědači"
+    }
+  ],
+  "timestamp": "2026-09-17T13:08:13.891359561Z",
+  "model": "glm-5.3"
+}

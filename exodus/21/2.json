@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Když koupíš hebrejského sluhu, šest let bude sloužit, a v sedmém vyjde na svobodu bezplatně.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "koupíš"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sluhu"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "hebrejského"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "bude sloužit"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "a v sedmém"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vyjde"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "na svobodu"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bezplatně"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:16.678458155Z",
+  "model": "glm-5.3"
+}

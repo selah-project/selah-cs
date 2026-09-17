@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 56,
+  "translation": "Smiluj se nade mnou, Elohim, neboť smrtelník mě polyká; celý den bojuje ⟨a⟩ utlačuje mě.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Smiluj se nade mnou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "mě polyká"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtelník"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bojuje"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "utlačuje mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:13.115335991Z",
+  "model": "glm-5.3"
+}

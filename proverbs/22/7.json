@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Bohatý vládne nad chudými a dlužník je sluhou věřícího ⟨muže⟩.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Bohatý"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "nad chudými"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "vládne"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "a je sluhou"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "dlužník"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "člověku"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "věřícímu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:15.850576691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Zrušil jsi smlouvu svého služebníka, jeho korunu pošpinil ⟨jsi⟩ na zemi.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "zrušil jsi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svého služebníka"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "pošpinil jsi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na zemi"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "jeho korunu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:16.826905485Z",
+  "model": "glm-5.3"
+}

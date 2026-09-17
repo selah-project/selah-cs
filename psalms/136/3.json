@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "Vyznávejte Adonaje pánů, neboť na věčnost ⟨trvá⟩ jeho chesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Vyznávejte"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "pánů"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "na věčnost"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T13:41:14.482291187Z",
+  "model": "glm-5.3"
+}

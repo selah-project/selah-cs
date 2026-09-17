@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A člověk se sklonil, a muž se ponížil — a ty jim neodpouštěj ⟨ jim neznevažuj ⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "a sklonil se"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "a ponížil se"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "neznevažuj"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:34.993758647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Požehnaný ⟨budiž⟩ Adonaj, den co den nás obtěžkuje — ⟨ten⟩ El, naše spása. Séla.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Požehnaný"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "יום",
+      "gloss": "co den"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "nás obtěžkuje"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨ten⟩ El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "naše spása"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:29.272713418Z",
+  "model": "glm-5.3"
+}

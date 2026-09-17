@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 2:16",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A byla Ester uvedena ke králi Achášveróšovi, do jeho královského domu, v desátém měsíci — to je měsíc tevet — v sedmém roce jeho vlády.",
+  "tokens": [
+    {
+      "surface": "ותלקח",
+      "gloss": "byla uvedena"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achášveróšovi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "jeho královského"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v měsíci"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "desátém"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "měsíc"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "tevet"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "v roce"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedmém"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "jeho vlády"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:52.930071444Z",
+  "model": "glm-5.3"
+}

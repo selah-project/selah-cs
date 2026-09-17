@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Neboť ještě velmi krátce,⟨a⟩ zuřivost se dokoná, a můj hněv ⟨se obrátí⟩ na jejich záhubu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "krátce"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "se dokoná"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "zuřivost"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "a můj hněv"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "jejich záhubu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:44:58.476499273Z",
+  "model": "glm-5.3"
+}

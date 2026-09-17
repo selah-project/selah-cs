@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 34:24",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Neboť vytlačím národy před tebou a rozšířím ⟨את⟩ tvou hranici, a nebude nikdo toužit po ⟨את⟩ tvé zemi, když budeš stoupat, aby ses ukázal ⟨את⟩ tváři Jahve, Elohim tvého, třikrát do roka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אוריש",
+      "gloss": "vytlačím"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "והרחבתי",
+      "gloss": "a rozšířím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou hranici"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "tvou hranici"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nebude"
+    },
+    {
+      "surface": "יחמד",
+      "gloss": "nikdo toužit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nikdo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé zemi"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "tvé zemi"
+    },
+    {
+      "surface": "בעלתך",
+      "gloss": "když budeš stoupat"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby ses ukázal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tváři Jahve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváři"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvého"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "třikrát"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "(pېkrát)"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "do roka"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:41.842829299Z",
+  "model": "glm-5.3"
+}

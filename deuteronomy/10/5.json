@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A obrátil jsem se a sestoupil jsem z hory a vložil jsem ⟨את⟩ desky do archy, kterou jsem udělal; a jsou tam, jak mi přikázal Jahve.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "A obrátil jsem se"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "a sestoupil jsem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "hory"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "a vložil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "desky"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "desky"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "do archy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem udělal"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "a jsou"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "mi přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:10.391453087Z",
+  "model": "glm-5.3"
+}

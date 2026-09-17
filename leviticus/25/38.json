@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Já ⟨jsem⟩ Jahve, váš Elohim, který jsem ⟨את⟩ vás vyvedl ze země micrajimské, abych vám dal ⟨את⟩ zemi kenaanskou, abych vám byl za Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "vyvedl jsem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajimské (Egypta)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "abych dal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi kenaanskou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanskou"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "abych byl"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:20.124673255Z",
+  "model": "glm-5.3"
+}

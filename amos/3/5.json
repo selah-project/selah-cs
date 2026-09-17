@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Padne-li pták na past ⟨na⟩ zemi, aniž by tam ⟨pro něj⟩ byla návnada? Zvedne se past z hlíny, když nic nechytila?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "padne-li"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "pták"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פח",
+      "gloss": "past"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "aniž by návnada"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne-byla"
+    },
+    {
+      "surface": "לה",
+      "gloss": "pro něj"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "zvedne se"
+    },
+    {
+      "surface": "פח",
+      "gloss": "past"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hlíny"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "když chytit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nic ne-"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "chytila"
+    }
+  ],
+  "timestamp": "2026-09-17T08:59:24.875362006Z",
+  "model": "glm-5.3"
+}

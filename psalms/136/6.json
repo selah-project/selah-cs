@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "Tomu, kdo rozprostřel zemi nad vodami, neboť na věčnost ⟨trvá⟩ jeho chesed:",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "Tomu, kdo rozprostřel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vodami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věčnost"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:03.037560167Z",
+  "model": "glm-5.3"
+}

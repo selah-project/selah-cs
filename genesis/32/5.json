@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A přikázal ⟨את⟩ je, říkaje: Takto řeknete mému pánu Ezavovi: Takto praví tvůj služebník Jákob: U Lábana jsem pobýval jako host a zdržel ⟨jsem tam⟩ až podnes.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je (posly)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkaje"
+    },
+    {
+      "surface": "כה",
+      "gloss": "takto"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "řeknete"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "mému pánu"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Ezavovi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "takto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvůj služebník"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "עם",
+      "gloss": "u"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lábana"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "jsem pobýval jako host"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a zdržel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "podnes"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:57.839429100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "A připravili ⟨את⟩ dar, dokud nepřišel Josef v poledne; neboť slyšeli, že tam budou jíst chléb.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "A připravili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dar"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "nepřišel"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "v poledne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slyšeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "budou jíst"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:48.933025904Z",
+  "model": "glm-5.3"
+}

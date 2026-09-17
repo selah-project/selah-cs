@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 19:22",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A také kněží, kteří přistupují k Jahve, ať se posvětí, aby v nich Jahve nevybuchl.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "A také"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "kteří přistupují"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "ať se posvětí"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aby ne"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "nevybuchl"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:44.281325845Z",
+  "model": "glm-5.3"
+}

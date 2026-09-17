@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Kde je král Chamatu, a král Arpadu, a král města Sefarvajimu, Hena a Ivva?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Kde je"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamatu"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "a král"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpadu"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "a král"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvajimu"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "a Ivva"
+    }
+  ],
+  "timestamp": "2026-09-17T08:10:50.255946940Z",
+  "model": "glm-5.3"
+}

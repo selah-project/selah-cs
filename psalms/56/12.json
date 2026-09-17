@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 56,
+  "translation": "V Elohim doufám, nebudu se bát — co mi učiní člověk?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "v Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "doufám \/ spoléhám"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "budu se bát"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "učiní"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:51.774586921Z",
+  "model": "glm-5.3"
+}

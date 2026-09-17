@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A promluvil jsem k vyhnaným ⟨את⟩ všechna slova Jahve, která mi ukázal.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "a promluvil jsem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "vyhnaným"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechna slova Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "mi ukázal"
+    }
+  ],
+  "timestamp": "2026-09-17T08:39:40.294276211Z",
+  "model": "glm-5.3"
+}

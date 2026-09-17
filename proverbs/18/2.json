@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Nemá zálibu blázen v porozumění, nýbrž ⟨jen⟩ v tom, aby se odhalilo jeho srdce.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nemá"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "zálibu"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "blázen"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "v porozumění"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nýbrž"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨jen⟩ v tom"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "v odhalení"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jeho srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:17.699689151Z",
+  "model": "glm-5.3"
+}

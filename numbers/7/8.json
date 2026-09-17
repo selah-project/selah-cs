@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A ⟨את⟩ čtyři vozy a ⟨את⟩ osm kusů skotu dal synům Merárího, podle jejich služby, pod rukou Itamára, syna Áróna kněze.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "A ⟨את⟩",
+      "marks": "čtyři vozy"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "vozy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "osm kusů skotu"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "osm"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kusů skotu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merárího"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "podle"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "jejich služby"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "pod rukou"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamára"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áróna"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněze"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:57.658211298Z",
+  "model": "glm-5.3"
+}

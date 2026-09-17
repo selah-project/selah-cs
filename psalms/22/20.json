@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A ty, Jahve, nebuď daleko; má sílo, k mé pomoci pospěš!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "nebuď daleko"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "má sílo"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "k mé pomoci"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pospěš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:34.711414344Z",
+  "model": "glm-5.3"
+}

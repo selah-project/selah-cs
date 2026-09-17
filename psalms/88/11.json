@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Zdál i mrtvým učiníš zázrak? Zdál povstanou refaimové, aby tě vyznávali? Sela.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "Zdál mrtvým"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "učiníš"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "zázrak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Zdál"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "refaimové"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "povstanou"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "aby tě vyznávali"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:29.614293966Z",
+  "model": "glm-5.3"
+}

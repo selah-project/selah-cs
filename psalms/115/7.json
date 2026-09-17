@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Ruce mají, ale nehmýbají ⟨jimi⟩; nohy mají, ale nechodí; nevydávají hlas svým hrdlem.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "ruce jejich"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "nehmýbají"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "nohy jejich"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "nechodí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "nevyslovují \/ nevydávají hlas"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "svým hrdlem"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:56.635869051Z",
+  "model": "glm-5.3"
+}

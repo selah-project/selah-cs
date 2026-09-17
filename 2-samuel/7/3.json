@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Nátan však řekl králi: „Jdi, udělej všechno, co ⟨je⟩ ve tvém srdci, neboť Jahve ⟨je⟩ s tebou.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nátan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "králi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ve tvém srdci"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:33:38.689765271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A Jakub oznámil Ráchel, že je bratr jejího otce a že je syn Rebeky; a ⟨ona⟩ běžela a oznámila to svému otci.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a oznámil"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakub"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Ráchel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bratr"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "jejího otce"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "a že"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebeky"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "a běžela"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "a oznámila"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "svému otci"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:52.316964611Z",
+  "model": "glm-5.3"
+}

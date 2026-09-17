@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "A když jsem přemýšlel, abych to poznal, bylo to únavné v mých očích.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "a přemýšlel jsem"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "abych poznal"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "únavné"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v mých očích"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:19.363416143Z",
+  "model": "glm-5.3"
+}

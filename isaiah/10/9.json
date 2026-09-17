@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Zdali ne jako Karchemiš, ⟨i⟩ Kalno? Zdali ne jako Arpad, ⟨i⟩ Chamat? Zdali ne jako Damašek, ⟨i⟩ Šomron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Zdali ne"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "jako Karchemiš"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "⟨i⟩ Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Zdali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "jako Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "⟨i⟩ Chamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Zdali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "jako Damašek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "⟨i⟩ Šomron"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:17.109962726Z",
+  "model": "glm-5.3"
+}

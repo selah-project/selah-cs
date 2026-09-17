@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 146,
+  "translation": "Jahve kraluje na věky, tvůj Elohim, Sione, z pokolení na pokolení. Halelu — Jah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "kraluje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sione"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "z pokolení"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na pokolení"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:07.791936300Z",
+  "model": "glm-5.3"
+}

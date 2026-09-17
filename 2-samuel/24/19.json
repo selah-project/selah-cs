@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A vystoupil Dawid podle slova Gadova, jak přikázal Jahve.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a vystoupil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "podle slova"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadova"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:33.804378470Z",
+  "model": "glm-5.3"
+}

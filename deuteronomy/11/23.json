@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "pak vytlačí Jahve ⟨את⟩ všechny tyto národy před vámi a vy vytlačíte národy větší a silnější než vy.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "pak vytlačí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny tyto národy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "před vámi"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "vy vytlačíte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "větší"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "a silnější"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "než vy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:55:45.577166430Z",
+  "model": "glm-5.3"
+}

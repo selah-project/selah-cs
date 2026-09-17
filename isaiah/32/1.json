@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Hle, král bude kralovat ve spravedlnosti a knížata budou vládnout v soudu.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "ve spravedlnosti"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "bude kralovat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "a knížata"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "v soudu"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "budou vládnout"
+    }
+  ],
+  "timestamp": "2026-09-17T08:08:45.965098071Z",
+  "model": "glm-5.3"
+}

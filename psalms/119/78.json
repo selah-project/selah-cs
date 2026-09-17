@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Ať se zardí pyšní, neboť křivě mě podvedli ⟨lží⟩; já však rozjímám o tvých ustanoveních.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ať se zardí"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "pyšní"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "⟨lží⟩"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "křivě mě podvedli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já však"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "rozjímám"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "o tvých ustanoveních"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:47.240157428Z",
+  "model": "glm-5.3"
+}

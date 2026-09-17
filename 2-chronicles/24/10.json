@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "I radovali se všichni knížata i všechen lid, a přinášeli a házeli do truhly, dokud ⟨to⟩ neskončili.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "I radovali se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "knížata"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "a přinášeli"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "a házeli"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "do truhly"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "neskončili"
+    }
+  ],
+  "timestamp": "2026-09-17T10:29:55.066068209Z",
+  "model": "glm-5.3"
+}

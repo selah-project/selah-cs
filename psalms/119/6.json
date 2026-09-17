@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Tehdy ⟨se⟩ nebudu stydět, pohlédnou-li ⟨na⟩ všechna ⟨tvá⟩ přikázání.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tehdy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "budu stydět"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "pohlédnou-li"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "přikázání"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:54.949622562Z",
+  "model": "glm-5.3"
+}

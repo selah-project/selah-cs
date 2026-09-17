@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Jako pes se vrací ke svému ⟨zvracení⟩, tak hlupák opakuje svou hloupost.",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "Jako pes"
+    },
+    {
+      "surface": "שב",
+      "gloss": "se vrací"
+    },
+    {
+      "surface": "על",
+      "gloss": "ke"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "⟨zvracení⟩"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "tak hlupák"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "opakuje"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "svou hloupost"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:45.485673739Z",
+  "model": "glm-5.3"
+}

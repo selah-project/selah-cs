@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A řekl mu Elohim: „Tvým jménem ⟨je⟩ Jákob; už nebudeš nazýván jménem Jákob, nýbrž Izrael bude tvým jménem.“ A nazval ⟨את⟩ jeho jméno Izrael.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvým jménem"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bude nazýván"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvým jménem"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nýbrž"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(z частей 'ký im')"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvým jménem"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:40.409045855Z",
+  "model": "glm-5.3"
+}

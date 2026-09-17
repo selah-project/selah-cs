@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A souhlasili kněží s tím, aby nevzímali stříbro od ⟨את⟩ lidu a aby neopravovali ⟨את⟩ trhliny domu.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "a souhlasili"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "aby ne"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "vzímali"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "od lidu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ani aby"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "opravovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trhliny"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "trhliny"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:57:16.908029808Z",
+  "model": "glm-5.3"
+}

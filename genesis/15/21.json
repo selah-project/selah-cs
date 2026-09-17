@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "a ⟨את⟩ Emorejce, a ⟨את⟩ Kenaanejce, a ⟨את⟩ Girgašejce a ⟨את⟩ Jebusejce.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Emorejce"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanejce"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanejce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Girgašejce"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgašejce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jebusejce"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jebusejce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:01.618475476Z",
+  "model": "glm-5.3"
+}

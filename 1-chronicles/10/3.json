@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Bitva se zdůraznila na Šaule a lučištníci ho našli, a zděsil se před lučištníky.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "zdůraznila se (ztížila)"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "bitva"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulem"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "našli ho"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "lučištníci (střelci)"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "lukem"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "zděsil se"
+    },
+    {
+      "surface": "מן",
+      "gloss": "před (z)"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "střelci"
+    }
+  ],
+  "timestamp": "2026-09-17T10:18:47.190941191Z",
+  "model": "glm-5.3"
+}

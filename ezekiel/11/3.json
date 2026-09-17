@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "kteří říkají: Není ⟨to⟩ blízko — budujme domy! ⟨Ona⟩ ⟨je⟩ ⟨to⟩ hrnec a my jsme ⟨to⟩ maso.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "kteří říkají"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "blízko"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "budujme"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "domy"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "hrnec"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a my"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "maso"
+    }
+  ],
+  "timestamp": "2026-09-17T08:40:53.962693972Z",
+  "model": "glm-5.3"
+}

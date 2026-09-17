@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A udělal slitováčník z ryzího zlata, dvě lokte a půl jeho délky a loket a půl jeho šíře.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "slitováčník"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "z ryzího zlata"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "z"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dvě lokte"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "a půl"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "jeho délky"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a loket"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "a půl"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "jeho šíře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:20.884581265Z",
+  "model": "glm-5.3"
+}

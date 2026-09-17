@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Cestou tvých přikázání poběžím, neboť ty rozšiřuješ mé srdce.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tvých přikázání"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "poběžím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "rozšiřuješ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:48.050359798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "K sluchu ucha uslyší ⟨mne⟩; synové cizího budou mi lžít.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "K sluchu"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ucha"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "uslyší"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mne⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "cizího"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "budou lžít"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:01.806040511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A jeho vojsko a jejich vyčíslení: čtyři ⟨a⟩ sedmdesát tisíc a šest set.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "A jeho vojsko"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "a jejich vyčíslení"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "sedmdesát"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "a šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:02.257257203Z",
+  "model": "glm-5.3"
+}

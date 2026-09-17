@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "A nebesa budou vyznávat tvá divy, Jahve, i tvou věrnost ve shromáždění svatých.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "a budou vyznávat"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "tvá divy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tvou věrnost"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ve shromáždění"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svatých"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:57.067404619Z",
+  "model": "glm-5.3"
+}

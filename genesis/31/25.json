@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A Lában dostihl ⟨את⟩ Jákoba; Jákob pak rozbil ⟨את⟩ svůj stan na hoře, a Lában rozbil ⟨את⟩ své bratry na hoře Gileád.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "a dostihl"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lában"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jákoba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "a Jákob"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "rozbil (stan)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj stan"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "svůj stan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "a Lában"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "rozbil (stan)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své bratry"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "své bratry"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileádu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:18.815065639Z",
+  "model": "glm-5.3"
+}

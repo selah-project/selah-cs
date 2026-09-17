@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "O tvých přikázáních budu přemýšlet a pozoru tvé stezky.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "o tvých přikázáních"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "budu přemýšlet"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "a pozoru"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "tvé stezky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:41.256355053Z",
+  "model": "glm-5.3"
+}

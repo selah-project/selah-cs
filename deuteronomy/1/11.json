@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Jahve, Elohim vašich otců, ať k vám přidá jako vás tisíckrát, a ať vás požehná ⟨אתכם⟩, jak k vám promluvil!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "vašich otců"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ať přidá"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "k vám"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "jako vás"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "-krát"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a ať požehná"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "k vám"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:42.572957749Z",
+  "model": "glm-5.3"
+}

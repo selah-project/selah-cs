@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Své stříbro ⟨את⟩ mu nedáš za nešech a za marbit nedáš své jídlo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své stříbro"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "své stříbro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dáš"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "za nešech (úrok)"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "a za marbit (úročení)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nedáš"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "své jídlo"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:20.124255500Z",
+  "model": "glm-5.3"
+}

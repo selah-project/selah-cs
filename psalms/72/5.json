@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "Budou se tě bát se ⟨sluncem⟩ a před měsícem, pokolení pokoleními.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Budou se tě bát"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "sluncem"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "a před"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "měsícem"
+    },
+    {
+      "surface": "דור",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "pokoleními"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:01.866478015Z",
+  "model": "glm-5.3"
+}

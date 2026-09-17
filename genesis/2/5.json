@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 2:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A žádný keř polního porostu ještě nebyl na zemi a žádná bylina pole jeře nevyrašila, neboť Jahve Elohim nepršel na ⟨tu⟩ zemi a člověk nebyl, kdo by obdělával ⟨את⟩ tu půdu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a žádný"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "keř"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nebyl"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a žádná"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bylina"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "nevyrašila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "pršel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "a člověk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nebyl"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kdo by obdělával"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu půdu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tu půdu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:57.756374996Z",
+  "model": "glm-5.3"
+}

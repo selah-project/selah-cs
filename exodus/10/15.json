@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 10:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A pokryly ⟨את⟩ oko celé země, takže země se zatměla; a sežraly ⟨את⟩ veškerou bylinu země i ⟨את⟩ veškeré ovoce stromů, které kroupy zanechaly, a nezůstalo žádné zeleno na stromech ani na bylinách pole v celé zemi Egypta.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "pokryly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko celé země"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ותחשך",
+      "gloss": "zatměla se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "sežraly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškerou bylinu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bylinu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "veškeré ovoce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ovoce"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "stromů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "zanechaly"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "kroupy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "zůstalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "žádné"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "zeleno"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "na stromech"
+    },
+    {
+      "surface": "ובעשב",
+      "gloss": "ani na bylinách"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v celé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:58.741482829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Protože jste řekli: Jahve nám vystoupil proroky v Babylóně.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Protože"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "jste řekli"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "vystoupil"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "proroky"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "v Babylóně"
+    }
+  ],
+  "timestamp": "2026-09-17T08:28:54.669334238Z",
+  "model": "glm-5.3"
+}

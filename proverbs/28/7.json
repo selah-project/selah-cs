@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 28:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Ten, kdo střeží tóru, ⟨je⟩ syn rozumný; ale ten, kdo se drží darmojedů, přivádí hanbu na svého otce.",
+  "tokens": [
+    {
+      "surface": "נוצר",
+      "gloss": "střeží"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "tóru"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "rozumný"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "a drží se"
+    },
+    {
+      "surface": "זוללים",
+      "gloss": "darmojedů"
+    },
+    {
+      "surface": "יכלים",
+      "gloss": "přivádí hanbu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "na svého otce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:16:28.170272888Z",
+  "model": "glm-5.3"
+}

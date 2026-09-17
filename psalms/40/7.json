@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Oběť a dar ⟨obědní⟩ jsi nechtěl, uši jsi mi vyhloubil ⟨otevřel⟩; celopal ani oběť za hřích jsi nežádal.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Oběť"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "a dar ⟨obědní⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "jsi chtěl"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "uši"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "jsi vyhloubil ⟨otevřel⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "celopal"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "ani oběť za hřích"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "jsi žádal"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:46.774317150Z",
+  "model": "glm-5.3"
+}

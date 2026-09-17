@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 25:21",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A David řekl: Jistě marně jsem střežil ⟨את⟩ všecko, co ⟨patří⟩ tomuhle, na poušti, a nebylo zmeškáno ze všeho, co má, nic — a on mi vrátil zlo za dobro.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "A David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "marně"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "jsem střežil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všecko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všecko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "tomuhle"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nebylo"
+    },
+    {
+      "surface": "נפקד",
+      "gloss": "zmeškáno"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "má"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nic"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:22.979828776Z",
+  "model": "glm-5.3"
+}

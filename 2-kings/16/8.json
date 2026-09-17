@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A Achaz vzal ⟨את⟩ stříbro a ⟨את⟩ zlato nalezené v domě Jahve a v pokladnicích domu krále, a poslal ⟨to⟩ králi Asýrie jako úplatek.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stříbro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zlato"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nalezené"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "a v pokladnicích"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asýrie"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "úplatek"
+    }
+  ],
+  "timestamp": "2026-09-17T11:40:56.196582614Z",
+  "model": "glm-5.3"
+}

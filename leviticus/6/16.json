@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A každá oběť kněze — úplná ⟨bude⟩; nebude snědena.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "A každá"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "úplná"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "snědena"
+    }
+  ],
+  "timestamp": "2026-09-17T06:30:15.463485786Z",
+  "model": "glm-5.3"
+}

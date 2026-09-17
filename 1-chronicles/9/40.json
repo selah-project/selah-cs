@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A synem Jonatánových ⟨byl⟩ Merí-baal; a Merí-baal zplodil ⟨את⟩ Míku.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "a synem"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatánových"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Merí-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "a Merí-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Míku"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Míku"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:06.340020740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 26:33",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A pověsíš ⟨את⟩ oponu pod háčky a přineseš tam, dovnitř za oponu, ⟨את⟩ skříň svědectví; a opona vám oddělí ⟨mezi⟩ svatyní a svatyní svatých.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "a pověsíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oponu"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "oponu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "háčky"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "a přineseš"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "dovnitř"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "za oponu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "skříň svědectví"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "skříň"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "והבדילה",
+      "gloss": "a oddělí"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "opona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatyní"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatyní"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svatých"
+    }
+  ],
+  "timestamp": "2026-09-17T06:24:05.405000908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 140,
+  "translation": "Řekl jsem Jahvemu: „Můj El jsi ⟨ty⟩.“ Naslouchej, Jahve, hlasu mých proseb!",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Řekl jsem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Můj El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi ⟨ty⟩"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Naslouchej"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlasu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mých proseb"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:47.805523364Z",
+  "model": "glm-5.3"
+}

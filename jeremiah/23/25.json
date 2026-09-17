@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 23:25",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Slyšel jsem ⟨את⟩ to, co řekli proroci, ti prorokující ve jménu mém ⟨lež⟩: „Snil jsem, snil jsem.“",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Slyšel jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co řekli proroci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "řekli"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "proroci"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ti prorokující"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ve jménu mém"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "⟨lež⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řkouce"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "Snil jsem"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "snil jsem"
+    }
+  ],
+  "timestamp": "2026-09-17T11:02:24.657412720Z",
+  "model": "glm-5.3"
+}

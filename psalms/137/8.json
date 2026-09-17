@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 137,
+  "translation": "Dcero Babylónu, zpustošená, blaze tomu, kdo tobě odplatí ⟨את⟩ tvou odplatu, kterou jsi nám odplatila!",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Dcero"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "zpustošená"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "blaze"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "tomu, kdo odplatí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou odplatu"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "tvou odplatu"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "kterou jsi odplatila"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:39.654980896Z",
+  "model": "glm-5.3"
+}

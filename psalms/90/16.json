@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Zjev se svým služebníkům ve svém díle a svou nádheru nad jejich syny.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Zjev se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svým služebníkům"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "služebníkům"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "svém díle"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "a svou nádheru"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "jejich syny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:57.198199777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A svlékne ⟨את⟩ své šaty a oblékne jiné šaty, a vynese ⟨את⟩ popel ven z tábora na čisté místo.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "a svlékne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své šaty"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "své šaty"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "a oblékne"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "šaty"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "jiné"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "a vynese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popel"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "popel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ven"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "z tábora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čisté"
+    }
+  ],
+  "timestamp": "2026-09-17T06:30:39.547958077Z",
+  "model": "glm-5.3"
+}

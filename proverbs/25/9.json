@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Převeď ⟨את⟩ svůj spor se svým druhem, ale tajemství jiného neodhaluj.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "svůj spor"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "převeď"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj spor"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "se svým druhem"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "a tajemství"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jiného"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "odhaluj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:30.260029763Z",
+  "model": "glm-5.3"
+}

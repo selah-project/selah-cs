@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "A udeřil své nepřátele ⟨zadu⟩, věčnou potupu jim dal.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "a udeřil"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "své nepřátele"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "zadu (dozadu)"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "potupu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věčnou"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:14.370280365Z",
+  "model": "glm-5.3"
+}

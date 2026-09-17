@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A pomáhá jim Jahve a vysvobozuje je, vysvobozuje je od bezbožných a spásí je, neboť se k němu utíkají.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "A pomáhá jim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "a vysvobozuje je"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "vysvobozuje je"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "od bezbožných"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "a spásí je"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "se utíkají"
+    },
+    {
+      "surface": "בו",
+      "gloss": "k němu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:57.425142548Z",
+  "model": "glm-5.3"
+}

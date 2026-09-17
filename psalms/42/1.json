@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Pro vedoucího ⟨sboru⟩. Poučná ⟨báseň⟩ synů Korachových.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro vedoucího ⟨sboru⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Poučná ⟨báseň⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachových"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:18.940560417Z",
+  "model": "glm-5.3"
+}

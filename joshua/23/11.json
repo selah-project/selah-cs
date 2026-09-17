@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A střežte se velmi kvůli svým životům, abyste milovali ⟨את⟩ Jahve, svého Elohima.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "a střežte se"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "kvůli svým životům"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "abyste milovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, svého Elohima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "svého Elohima"
+    }
+  ],
+  "timestamp": "2026-09-17T07:11:43.087768690Z",
+  "model": "glm-5.3"
+}

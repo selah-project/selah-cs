@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A přešel všechen lid ⟨את⟩ Jordán a král přešel; a král políbil Barzilaje a požehnal mu, a on se vrátil na své místo.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "a přešel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "a král"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "přešel"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "a políbil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barzilaje"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "a požehnal mu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "na své místo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:01.339915395Z",
+  "model": "glm-5.3"
+}

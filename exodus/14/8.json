@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A Jahve posílil ⟨את⟩ srdce Paroa, krále mitsrajského, a pronásledoval syny Izraele; a synové Izraele vycházeli zdviženou rukou.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a posílil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdce Paroa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mitsrajského"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "a pronásledoval"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "a synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "vycházeli"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "zdviženou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:18.013708036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Dáváš nám ustupovat před protivníkem a ti, kdo nás nenávidí, drancují ⟨pro sebe⟩.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Dáváš nám ustupovat"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "vzad"
+    },
+    {
+      "surface": "מני",
+      "gloss": "před"
+    },
+    {
+      "surface": "צר",
+      "gloss": "protivníkem"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "a ti, kdo nás nenávidí"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "drancují"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨pro sebe⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:12.161938144Z",
+  "model": "glm-5.3"
+}

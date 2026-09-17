@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Činíš nás potupou našim sousedům, posměchem a výsměchem ⟨těm⟩ okolo nás.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Činíš nás"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "potupou"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "našim sousedům"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "posměchem"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "a výsměchem"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "⟨těm⟩ okolo nás"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:10.330827914Z",
+  "model": "glm-5.3"
+}

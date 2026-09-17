@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "I řekl Mojžíš Elohimu: Kdo jsem já, že mám jít k faraónovi a že mám vyvést ⟨את⟩ syny Izraele z Egypta?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimovi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jsem já"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mám jít"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "a že"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "mám vyvést"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:24.533477001Z",
+  "model": "glm-5.3"
+}

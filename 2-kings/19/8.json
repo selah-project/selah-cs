@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A vrátil se Ravšake a našel ⟨את⟩ krále Aššura, jak bojuje proti Libně, neboť uslyšel, že odjel z Lachiše.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav(šake)"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "(-šake)"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "a našel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále Aššura"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Aššura"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "bojuje"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libně"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uslyšel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "odjel"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "z Lachiše"
+    }
+  ],
+  "timestamp": "2026-09-17T07:58:07.695436253Z",
+  "model": "glm-5.3"
+}

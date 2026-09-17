@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A Achaz uléhl ⟨k⟩ ⟨svým⟩ otcům a byl pohřben ⟨k⟩ ⟨svým⟩ otcům v ⟨městě⟩ Davidově; a Chizkijáhu, jeho syn, kraloval místo něj.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "uléhl"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨k⟩ ⟨svým⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otcům"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a byl pohřben"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨k⟩ ⟨svým⟩"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otcům"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v ⟨městě⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidově"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a kraloval"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijáhu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    }
+  ],
+  "timestamp": "2026-09-17T11:40:54.978310899Z",
+  "model": "glm-5.3"
+}

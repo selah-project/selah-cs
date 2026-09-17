@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 8:19",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A stane se, když zapomeneš — skutečně zapomeneš — ⟨את⟩ Jahve, svého Elohim, a půjdeš za cizími elohim a budeš jim sloužit a budeš se jim klanět, svědčím proti vám dnes, že zhynete — zajisté zahynete.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "A stane se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "když"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "zapomeneš"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "skutečně zapomeneš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svého Elohim"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "a půjdeš"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "cizími"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "a budeš jim sloužit"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "a budeš se klanět"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "העדתי",
+      "gloss": "svědčím"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "proti vám"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "zhynete"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "zajisté zahynete"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:08.134622564Z",
+  "model": "glm-5.3"
+}

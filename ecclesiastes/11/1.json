@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Vyšli svůj chléb na tvář vod, neboť v množství dnů ⟨ho⟩ najdeš.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Vyšli"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "svůj chléb"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "v množství"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "⟨ho⟩ najdeš"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:12.022041300Z",
+  "model": "glm-5.3"
+}

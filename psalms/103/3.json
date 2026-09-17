@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Který odpouští všechna tvá provinění, který uzdravuje všechny tvé nemoci —",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Který odpouští"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "tvá provinění"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "který uzdravuje"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "tvé nemoci"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:20.181876803Z",
+  "model": "glm-5.3"
+}

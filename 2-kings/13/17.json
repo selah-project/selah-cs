@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A řekl: Otevři okno k východu, a otevřel ⟨je⟩. A Elíša řekl: Vystřel! A vystřelil. A řekl: Šíp záchrany Jahveho, šíp záchrany proti Aramu; a udeříš ⟨את⟩ Aram v Afeku, až ⟨jej⟩ dokonale zkrotíš.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Otevři"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "okno"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "k východu"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "a otevřel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elíša"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "Vystřel"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "a vystřelil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "Šíp"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "záchrany"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "a šíp"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "záchrany"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "proti Aramu"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "a udeříš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "v Afeku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "dokonale zkrotíš"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:55.651865035Z",
+  "model": "glm-5.3"
+}

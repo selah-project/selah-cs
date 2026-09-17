@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A udělal ⟨את⟩ stůl z dřeva akáciového: dva lokty ⟨byla⟩ jeho délka a jeden loket jeho šířka a loket a půl jeho výška.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stůl"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stůl"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z dřeva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akáciového"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dva lokty"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "jeho délka"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a jeden loket"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jeho šířka"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a loket"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "a půl"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jeho výška"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:27.962260571Z",
+  "model": "glm-5.3"
+}

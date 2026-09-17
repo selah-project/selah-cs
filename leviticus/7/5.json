@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A kněz je spálí ⟨את⟩ na oltáři jako ohnivou oběť pro Jahvea; ⟨je to⟩ oběť za vinu.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "a spálí"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je (tučné části a ledviny)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltáři"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ohnivou oběť"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahvea"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "oběť za vinu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je to⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:31.372554086Z",
+  "model": "glm-5.3"
+}

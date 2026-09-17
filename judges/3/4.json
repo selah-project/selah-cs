@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A byli tam, aby jimi zkoušeli ⟨את⟩ Izrael, aby poznali, zda poslechnou ⟨את⟩ příkazy Jahve, které přikázal ⟨את⟩ jejich otcům rukou Mošeho.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "A byli"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "aby zkoušeli"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "aby poznali"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "zda poslechnou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "příkazy"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "příkazy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich otcům"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "jejich otcům"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:13:01.963554590Z",
+  "model": "glm-5.3"
+}

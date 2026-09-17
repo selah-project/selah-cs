@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 149,
+  "translation": "činit pomstu na národech, ⟨a⟩ důtky na kmeních ⟨ne-židovských⟩;",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "činit"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "pomstu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "na národech"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "důtky"
+    },
+    {
+      "surface": "בל",
+      "gloss": "na kmeních"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "(elidováno v struktuře)"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:01.714473683Z",
+  "model": "glm-5.3"
+}

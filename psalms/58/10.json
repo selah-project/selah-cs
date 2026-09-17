@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 58,
+  "translation": "Dříve než vaše hrnce poznají trn, odnese ⟨je⟩ jako vichřicí, jak zelené, tak hořící.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "dříve než"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "poznají"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "vaše hrnce"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "trn"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jako"
+    },
+    {
+      "surface": "חי",
+      "gloss": "zelené"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tak"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "hořící"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "odnese vichřicí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:59.821434054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "malachi 2:11",
+  "book": "malachi",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Juda jednal věrolomně a ohavnost se stala v Izraeli a v Jeruzalémě, neboť Juda znesvětil svatost Jahve, kterou miloval, a ženil se s dcerou cizího boha.",
+  "tokens": [
+    {
+      "surface": "בגדה",
+      "gloss": "jednal věrolomně"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "ותועבה",
+      "gloss": "a ohavnost"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "se stala"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Izraeli"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "a v Jeruzalémě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "znesvětil"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miloval"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "a ženil se"
+    },
+    {
+      "surface": "בת",
+      "gloss": "s dcerou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "boha"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "cizího"
+    }
+  ],
+  "timestamp": "2026-09-17T09:09:49.944303417Z",
+  "model": "glm-5.3"
+}

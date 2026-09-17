@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 17:12",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Řekni nyní domu vzpurnému: Což nevíte, co ⟨tyto věci znamenají⟩? Řekni: Hle, přišel král Babylónu do Jeruzaléma, vzal ⟨את⟩ jeho krále a ⟨את⟩ jeho knížata a přivedl ⟨את⟩ je k sobě do Babylónu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Řekni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "vzpurnému"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Což ne"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "víte"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Řekni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruzaléma"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho krále"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "jeho krále"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho knížata"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "jeho knížata"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přivedl"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k sobě"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "do Babylónu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:41:46.998012947Z",
+  "model": "glm-5.3"
+}

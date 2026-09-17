@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Mladý jsem byl, i zestárnul jsem, a neviděl jsem spravedlivého opuštěného, ani jeho potomstvo že by chléb hledalo.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "Mladý"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jsem byl"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "zestárnul jsem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "viděl jsem"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivého"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "opuštěného"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ani jeho potomstvo"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "hledalo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:55.281012986Z",
+  "model": "glm-5.3"
+}

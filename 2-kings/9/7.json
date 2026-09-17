@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "a porazíš ⟨את⟩ dům Achaba, pána svého; a pomstím krev svých služebníků proroků a krev všech služebníků Jahveových z ruky Jezábel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "a porazíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům Achaba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "pána svého"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "a pomstím"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krev"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "svých služebníků"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroků"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "a krev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služebníků"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveových"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Jezábel"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:49.018020796Z",
+  "model": "glm-5.3"
+}

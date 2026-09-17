@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A Cham, otec Kenaana, viděl ⟨את⟩ nahotu svého otce a vypravil ⟨o tom⟩ oběma svým bratřím venku.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otec"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nahotu svého otce"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nahotu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a vypravil"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "oběma"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svým bratřím"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "venku"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:07.356868406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "Mé ⟨dobré⟩ ⟨šťastné⟩ ⟨porozumění⟩, má pevnost, má vysoká věž a můj zachránce, můj štít ⟨a⟩ ⟨v⟩ ⟨něm⟩ ⟨jsem⟩ ⟨se⟩ ⟨ukryl⟩, ten, který podrobuje ⟨mé⟩ lid pod mě.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "má laska-vesla"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "a má pevnost"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "má výšina-věž"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "a můj zachránce"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "můj štít"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "a v něm"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ukryl jsem se"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "podrobuje"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lid"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "pod"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:55.729534240Z",
+  "model": "glm-5.3"
+}

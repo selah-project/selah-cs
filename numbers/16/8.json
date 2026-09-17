@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "I řekl Mojžíš Korachovi: Slyšte nyní, synové Lévi!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Korachovi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "⟨Korachovi⟩"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Slyšte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:45:16.481017535Z",
+  "model": "glm-5.3"
+}

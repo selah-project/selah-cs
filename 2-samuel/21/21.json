@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A zesměšňoval ⟨את⟩ Izrael, a porazil ho Jonatan, syn Šimy, bratra Davidova.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "a zesměšňoval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "a porazil ho"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bratra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-09-17T07:37:53.427031451Z",
+  "model": "glm-5.3"
+}

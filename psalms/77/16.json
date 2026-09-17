@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Vykoupil jsi ramenem svůj lid, syny Jákoba a Jósefa. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Vykoupil jsi"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ramenem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "a Jósefa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:34.756859775Z",
+  "model": "glm-5.3"
+}

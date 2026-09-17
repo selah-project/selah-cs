@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A žil Šét pět let a sto let a zplodil ⟨את⟩ Enoše.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "A žil"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Šét"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pět"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "a sto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoše"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoše"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:40.644941838Z",
+  "model": "glm-5.3"
+}

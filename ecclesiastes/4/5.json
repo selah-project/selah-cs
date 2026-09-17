@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Ten blázen svírá ⟨את⟩ své ruce a požírá ⟨את⟩ vlastní tělo.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Ten blázen"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "svírá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své ruce"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "své ruce"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "a požírá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vlastní tělo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "vlastní tělo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:40.419691737Z",
+  "model": "glm-5.3"
+}

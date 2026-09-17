@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Neboť ⟨את⟩ celou zemi, kterou vidíš, tobě ji dám, i tvému semeni až na věky.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celou zemi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidíš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "ji dám"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "i tvému semeni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na věky"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:34.406926336Z",
+  "model": "glm-5.3"
+}

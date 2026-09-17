@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Kdo přináší ⟨את⟩ krev pokojných obětí a ⟨את⟩ tuk, ze synů Árónových, jemu bude pravá lýtka jako podíl.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "kdo přináší"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krev pokojných obětí"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "pokojných obětí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tuk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ze synů"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árónových"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lýtka"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "pravá"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "jako podíl"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:52.778374413Z",
+  "model": "glm-5.3"
+}

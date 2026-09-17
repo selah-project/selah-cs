@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Věštba ⟨je⟩ na rtech krále, v soudním výroku jeho ústa neproviní.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "věštba"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "rtech"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "v soudním výroku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "proviní"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "jeho ústa"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:32.551562897Z",
+  "model": "glm-5.3"
+}

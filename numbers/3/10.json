@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A ⟨את⟩ Árona a ⟨את⟩ jeho syny ustanovíš, a budou střežit ⟨את⟩ své kněžství; cizozemec, který by se přiblížil, bude usmrcen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Árona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho syny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho syny"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "ustanovíš"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "a budou střežit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své kněžství"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "své kněžství"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "a cizozemec"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "který by se přiblížil"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bude usmrcen"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:10.323543358Z",
+  "model": "glm-5.3"
+}

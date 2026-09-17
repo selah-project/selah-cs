@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "I mluvil Jahve Mojžíši {slovy}:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíši"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "{slovy}"
+    }
+  ],
+  "timestamp": "2026-09-17T06:42:30.830231740Z",
+  "model": "glm-5.3"
+}

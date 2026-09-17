@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 30:8",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A poznají, že já ⟨jsem⟩ Jahve, když dám oheň do Egypta, a budou zlomeni všichni jeho pomocníci.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "A poznají"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "když dám"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "a budou zlomeni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "jeho pomocníci"
+    }
+  ],
+  "timestamp": "2026-09-17T08:47:47.358894978Z",
+  "model": "glm-5.3"
+}

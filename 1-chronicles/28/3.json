@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Ale Elohim mi řekl: Nepostavíš dům pro mé Jméno, protože jsi muž válek a krev jsi vylil.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Ale Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "postavíš"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "pro mé Jméno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "válek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "a krev"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "jsi vylil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:23:45.032767367Z",
+  "model": "glm-5.3"
+}

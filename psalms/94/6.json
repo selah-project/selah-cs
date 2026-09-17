@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "Vdovu a příchozího zabíjejí a sirotky vraždí.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "vdovu"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "a příchozího"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "zabíjejí"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "a sirotky"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "vraždí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:41.718450019Z",
+  "model": "glm-5.3"
+}

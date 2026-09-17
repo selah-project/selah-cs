@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "Jahve, co ⟨je⟩ člověk, že jej znáš, syn smrtelníka, že na něj pamatuješ!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "že jej znáš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtelníka"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "že na něj pamatuješ"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:55.729703480Z",
+  "model": "glm-5.3"
+}

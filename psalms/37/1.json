@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Davidův. Nerozhněvej se kvůli ⟨těm, kdo činí⟩ zlo, nezavid ⟨těm, kdo⟩ páchají nepravost.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "nerozhněvej se"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "kvůli zlým"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "nezavid"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "těm, kdo činí"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nepravost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:21.581764796Z",
+  "model": "glm-5.3"
+}

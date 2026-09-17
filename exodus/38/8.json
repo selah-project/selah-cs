@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "A udělal ⟨את⟩ umyvadlo z mědi a ⟨את⟩ jeho podstavec z mědi — ze zrcal sloužících žen, které sloužily u vchodu stanu setkání.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyvadlo"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "umyvadlo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "z mědi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho podstavec"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jeho podstavec"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "z mědi"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "ze zrcal"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "sloužících"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "sloužily"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:37.314074110Z",
+  "model": "glm-5.3"
+}

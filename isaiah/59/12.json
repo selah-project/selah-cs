@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Neboť se rozmnožily naše vzpoury před tebou a naše hříchy dosvědčují proti nám; naše vzpoury ⟨jsou⟩ ⟨את⟩ s námi a své nepravosti známe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "se rozmnožily"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "naše vzpoury"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "a naše hříchy"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "dosvědčují"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "proti nám"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "naše vzpoury"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ s námi",
+      "marks": "naše vzpoury"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "a naše nepravosti"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "známe je"
+    }
+  ],
+  "timestamp": "2026-09-17T08:16:46.659984721Z",
+  "model": "glm-5.3"
+}

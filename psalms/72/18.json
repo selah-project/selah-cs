@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "Požehnaný ⟨budiž⟩ Jahve, Elohim, Elohim Izraele, jenž činí divy sám ⟨od sebe⟩.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "požehnaný"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "činí"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "divy"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sám ⟨od sebe⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:30.997690932Z",
+  "model": "glm-5.3"
+}

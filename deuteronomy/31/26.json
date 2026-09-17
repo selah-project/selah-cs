@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Vezměte ⟨את⟩ knihu této tóry a položte ⟨את⟩ ji po boku archy smlouvy Jahve, vašeho Elohima, a bude tam u vás ⟨jako⟩ svědek na věky.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "Vezměte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "knihu této tóry"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knihu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "této tóry"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "této"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "a položte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ji",
+      "marks": "ji (knihu)"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "po boku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archy"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vašeho Elohima"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "בך",
+      "gloss": "u vás"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na věky"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:08.168014302Z",
+  "model": "glm-5.3"
+}

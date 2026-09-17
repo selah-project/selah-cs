@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A udělal padesát spon z mědi, aby spojil ⟨את⟩ stan, aby byl jeden.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "spon"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "z mědi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "padesát"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "aby spojil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "להית",
+      "gloss": "aby byl"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:55.414877209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Neboť co má moudrý navíc než hlupák? Co ⟨má⟩ chudák, který zná chodit před ⟨těmi⟩ živými?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "navíc"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "má moudrý"
+    },
+    {
+      "surface": "מן",
+      "gloss": "než"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "hlupák"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "chudák"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "který zná"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "chodit"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "před"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "živými"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:09.631895826Z",
+  "model": "glm-5.3"
+}

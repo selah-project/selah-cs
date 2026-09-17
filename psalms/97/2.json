@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 97,
+  "translation": "Oblak a mrákota ⟨jsou⟩ kolem něj, spravedlnost a právo ⟨jsou⟩ pevní ⟨jeho⟩ trůnu.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Oblak"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "a mrákota"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "kolem něj"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "a právo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "pevní"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "trůnu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:17.590942601Z",
+  "model": "glm-5.3"
+}

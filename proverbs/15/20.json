@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Syn moudrý raduje otce, ale člověk hloupý pohrdá svou matkou.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrý"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje"
+    },
+    {
+      "surface": "אב",
+      "gloss": "otce"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ale hloupý"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "pohrdá"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "svou matkou"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:51.199167242Z",
+  "model": "glm-5.3"
+}

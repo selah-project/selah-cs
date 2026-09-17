@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A synové Ahrona ji spálí ⟨את⟩ na ⟨⟩oltáři, na zápalné oběti, jež ⟨je⟩ na dříví, jež ⟨je⟩ na ohni — ohnivá oběť, vůně klidu pro Jahveho.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "a spálí (kadidlem)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ji",
+      "marks": "tučnou část oběti (předmět spalování)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltáři"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalné oběti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dříví"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ohni"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ohnivá oběť"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "vůně"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "klidu (lahodná)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T13:40:51.371947776Z",
+  "model": "glm-5.3"
+}

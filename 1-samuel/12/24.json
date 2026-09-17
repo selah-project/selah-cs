@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Jen se bojte ⟨את⟩ Jahve a sloužte ⟨את⟩ jemu v pravdě celým svým srdcem, neboť vizte ⟨את⟩ to, jak veliké věci vám vykonal.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jen"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "a sloužte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jemu"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "v pravdě"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "celým"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "svým srdcem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vizte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, jak veliké věci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, jak"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "veliké věci vykonal"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "vám"
+    }
+  ],
+  "timestamp": "2026-09-17T07:24:17.448126584Z",
+  "model": "glm-5.3"
+}

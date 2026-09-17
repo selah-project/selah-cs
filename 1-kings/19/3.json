@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A ⟨když⟩ to viděl, vstal a šel ⟨kvůli⟩ své duši, a přišel do Beer-ševy, která ⟨patří⟩ Judovi, a nechal tam ⟨את⟩ svého sluhu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "vstal"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "své duši"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ševa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judovi"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "nechal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého sluhu"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "svého sluhu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T07:50:26.510860967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 9:3",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A všichni knížata provincií i achšdarpenové i pehové i vykonavatelé služby, jež patří králi, pozvedali ⟨את⟩ Židy, neboť padl strach Mordechaje na ně.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "A všichni"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knížata"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "provincií"
+    },
+    {
+      "surface": "והאחשדרפנים",
+      "gloss": "i achšdarpenové"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "i pehové"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "i vykonavatelé"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "služby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "patří králi"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "pozvedali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Židy"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Židy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "padl"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "strach"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaje"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na ně"
+    }
+  ],
+  "timestamp": "2026-09-17T11:21:24.910448445Z",
+  "model": "glm-5.3"
+}

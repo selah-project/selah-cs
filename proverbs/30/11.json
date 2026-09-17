@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Pokolení ⟨je⟩, jež svého otce zlořečí ⟨a⟩ ⟨את⟩ svou matku nedobřeřečí.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "zlořečí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svou matku"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "svou matku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "nedobřeřečí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:01.889723312Z",
+  "model": "glm-5.3"
+}

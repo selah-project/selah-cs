@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 4:19",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Šalomoun udělal ⟨את⟩ všechny nádoby ⟨, které jsou⟩ v domě Elohim, a ⟨את⟩ zlatý oltář, a ⟨את⟩ stoly — a na nich chléb tváří.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny nádoby v domě Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "nádoby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které jsou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zlatý oltář"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatý"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stoly"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "stoly"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "a na nich"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "tváří"
+    }
+  ],
+  "timestamp": "2026-09-17T10:24:14.078490923Z",
+  "model": "glm-5.3"
+}

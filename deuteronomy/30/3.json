@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A obrátí Jahve, tvůj Elohim, tvé zajetí ⟨את⟩, a smiluje se nad tebou, a vrátí se a shromáždí tě ze všech národů, kam tě rozptýlil Jahve, tvůj Elohim.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "a obrátí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé zajetí"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "tvé zajetí"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "a smiluje se nad tebou"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "a vrátí se"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "a shromáždí tě"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kam"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "tě rozptýlil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:47.728024133Z",
+  "model": "glm-5.3"
+}

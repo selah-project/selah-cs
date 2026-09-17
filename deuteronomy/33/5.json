@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A byl v Jišurunu král, když se shromáždili hlavy ⟨lidu⟩, pospolu kmeny Izraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a byl"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "v Jišurunu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "když se shromáždili"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlavy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨lidu⟩"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pospolu"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kmeny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:22.156758609Z",
+  "model": "glm-5.3"
+}

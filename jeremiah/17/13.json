@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 17:13",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Naděje Izraele ⟨je⟩ Jahve; všichni, kdož tě opouštějí, budou zahanbeni, odcházející ⟨ode mě⟩ budou zapsáni v zemi, neboť opustili pramen živé vody, ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "מקוה",
+      "gloss": "naděje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "עזביך",
+      "gloss": "kdož tě opouštějí"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "budou zahanbeni"
+    },
+    {
+      "surface": "יסורי",
+      "gloss": "odcházející"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "budou zapsáni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "opustili"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "pramen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T08:24:38.292183408Z",
+  "model": "glm-5.3"
+}

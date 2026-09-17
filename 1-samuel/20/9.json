@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 20:9",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A Jónatán řekl: Zachovej si to daleko ode mne! Neboť kdybych věděl, že zlo je rozhodnuto od mého otce přijít na tebe, nezjevil bych ⟨את⟩ tobě to?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jónatán"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "zachovej si to daleko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ode tebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kdyby"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "věděl bych"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "vědět"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "je rozhodnuto"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mého otce"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "přijít"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tobě to"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "zjevil bych"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:34.553098913Z",
+  "model": "glm-5.3"
+}

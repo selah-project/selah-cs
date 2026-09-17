@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Dej pozor na sebe, abys nezapomněl ⟨את⟩ Jahve, svého Elohima, takže bys nechránil jeho přikázání, jeho práva a jeho ustanovení, která ti já přikazuji dnes.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "dej pozor"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na sebe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abys ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "nezapomněl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, svého Elohima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "takže bys ne"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "chránil"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "jeho přikázání"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "jeho práva"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "jeho ustanovení"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "přikazuji"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:27.634496831Z",
+  "model": "glm-5.3"
+}

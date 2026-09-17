@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Můj je ⟨the⟩ stříbro a můj je zlato, je výrok Jahveho Cevaot.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "můj je"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "a můj je"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "je výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    }
+  ],
+  "timestamp": "2026-09-17T09:06:01.213007782Z",
+  "model": "glm-5.3"
+}

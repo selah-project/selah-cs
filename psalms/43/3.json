@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Vyšli své světlo a svou pravdu — ony mě povedou, přivedou mě k své svaté hoře a ke svým příbytkům.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Vyšli"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "své světlo"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "a svou pravdu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ony"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "mě povedou"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "přivedou mě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hoře"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "svaté své"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "svým příbytkům"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:46.259278892Z",
+  "model": "glm-5.3"
+}

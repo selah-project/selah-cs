@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Vždyť když člověk najde ⟨את⟩ svého nepřítele a propustí ho dobrou cestou — a Jahve ti ať odplatí dobrou za tento den, který jsi mi učinil.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Vždyť když"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "najde"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého nepřítele"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "svého nepřítele"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "a propustí ho"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobrou"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "ti ať odplatí"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobrou"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tento den"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "jsi učinil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:17.285373882Z",
+  "model": "glm-5.3"
+}

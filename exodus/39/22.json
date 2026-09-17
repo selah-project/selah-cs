@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "A udělal ⟨את⟩ plášť efodu, dílo tkalce, celý z modři.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plášť"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "plášť"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "tkalce"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "z modři"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:16.612422984Z",
+  "model": "glm-5.3"
+}

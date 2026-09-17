@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "⟨את⟩ hlavu jeho výhonků utrhl a přivedl jej do země kenaanské, do města obchodníků ho postavil.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlavu jeho výhonků"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "jeho výhonků"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "utrhl"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "a přivedl jej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanské"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "do města"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "obchodníků"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ho postavil"
+    }
+  ],
+  "timestamp": "2026-09-17T11:04:52.734076785Z",
+  "model": "glm-5.3"
+}

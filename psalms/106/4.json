@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "Pamatuj na mě, Jahve, v přízni tvého lidu, navštiv mě ve tvé spáse.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Pamatuj na mě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "v přízni"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvého lidu"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "navštiv mě"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ve tvé spáse"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:35.954824021Z",
+  "model": "glm-5.3"
+}

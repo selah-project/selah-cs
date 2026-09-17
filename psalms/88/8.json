@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Na mně spočívá tvá prchlivost, a všemi svými vlnami jsi mě soužil. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Na mně"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "spočívá"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "tvá prchlivost"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všemi"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "svými vlnami"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "jsi soužil"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:57.715384724Z",
+  "model": "glm-5.3"
+}

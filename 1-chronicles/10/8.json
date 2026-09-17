@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A stalo se na druhý den, že přišli Pelištejci oloupiť ⟨את⟩ padlé, a našli ⟨את⟩ Šaúla a ⟨את⟩ jeho syny ležící na hoře Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "na druhý den"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "že přišli"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejci"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "oloupiť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padlé"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "padlé"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "a našli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaúla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho syny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho syny"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ležící"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-17T10:18:46.374343219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Viděl jsem sluhy ⟨jedoucí⟩ na koních a knížata kráčející jako sluzové po zemi.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "viděl jsem"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sluhy"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "koních"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "a knížata"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "kráčející"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "jako sluzové"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:16.593503906Z",
+  "model": "glm-5.3"
+}

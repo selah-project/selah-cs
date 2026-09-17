@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Toto ⟨jsou⟩ synové Izraele: Rúben, Šimeón, Lévi a Juda, Isachar a Zabulon.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rúben"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Šimeón"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lévi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Juda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Isachar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "a Zabulon"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:28.228793136Z",
+  "model": "glm-5.3"
+}

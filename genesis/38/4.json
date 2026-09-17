@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Opět počala a porodila syna, a nazvala ⟨את⟩ jeho jméno Onán.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "počala"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opět"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "nazvala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onán"
+    }
+  ],
+  "timestamp": "2026-09-17T06:11:40.861347877Z",
+  "model": "glm-5.3"
+}

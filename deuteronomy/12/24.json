@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Nebudeš jíst ⟨ji⟩; na zem ji vyleješ jako vodu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "budeš jíst ⟨ji⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ji vyleješ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jako vodu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:26.298439774Z",
+  "model": "glm-5.3"
+}

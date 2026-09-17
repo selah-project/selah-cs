@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 1:26",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekla: Prosím, můj pane — živá je tvá duše, pane — já jsem ta žena, která stála zde s tebou, aby se modlila k Jahveovi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "A řekla"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Prosím"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "můj pane"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živá je"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvá duše"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já jsem"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ta žena"
+    },
+    {
+      "surface": "הנצבת",
+      "gloss": "která stála"
+    },
+    {
+      "surface": "עמכה",
+      "gloss": "s tebou"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "zde"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "aby se modlila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveovi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:20:56.888946726Z",
+  "model": "glm-5.3"
+}

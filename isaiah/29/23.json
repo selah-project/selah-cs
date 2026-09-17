@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Neboť když uvidí své děti, dílo mých rukou, ve svém středu, posvětí mé jméno; a posvětí ⟨את⟩ Svatého Jákoba a ⟨את⟩ Elohim Jisra'ela budou ctít v bázni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "když uvidí"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "své děti"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mých rukou"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ve svém středu"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "posvětí"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mé jméno"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "a posvětí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Svatého Jákoba"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Svatého"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Jisra'ela"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'ela"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "budou ctít v bázni"
+    }
+  ],
+  "timestamp": "2026-09-17T13:41:35.191428788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Jen ⟨že⟩ lid obětoval na výšinách, protože nebyl vystavěn dům jménu Jahveho až do těch dnů.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "jen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "obětoval"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "na výšinách"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebyl"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "vystavěn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "těch"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:58.917793232Z",
+  "model": "glm-5.3"
+}

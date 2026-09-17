@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A toto ⟨jsou⟩ jména synů Árona: prvorozený Nadav a Avihú, Elazar a Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A toto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jména"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorozený"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "a Avihú"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "a Itamar"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:34.935290711Z",
+  "model": "glm-5.3"
+}

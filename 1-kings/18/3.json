@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A povolal Achab Obadjahu, který ⟨byl⟩ nad ⟨tím⟩ domem; a Obadjah se bál ⟨את⟩ Jahve velice.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a povolal"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadjahovi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "a Obadjah"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨byl⟩"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se bál"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velice"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:00.970629664Z",
+  "model": "glm-5.3"
+}

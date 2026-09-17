@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A ⟨את⟩ vás vzal Jahve a vyvedl ⟨את⟩ vás z železné tavící pece, z Egypta, abyste mu byli lidem dědictví jako tento den",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "A ⟨את⟩ vás",
+      "marks": "vás"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "vyvedl"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "z železné pece"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "z tavící pece"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "železné"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "abyste byli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lidem"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dědictví"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jako tento den"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:53.462969334Z",
+  "model": "glm-5.3"
+}

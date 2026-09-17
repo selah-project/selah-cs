@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Uzavřel ⟨jsem⟩ smlouvu se svým vyvoleným, přisáhl ⟨jsem⟩ Davidovi, svému služebníku.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "uzavřel jsem"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvu"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "se svým vyvoleným"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "prisáhl jsem"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "svému služebníku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:04.275793203Z",
+  "model": "glm-5.3"
+}

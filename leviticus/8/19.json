@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A zabil jej, a Mojžíš stříkl ⟨את⟩ krev na oltář kolem dokola.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "A zabil"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "a stříkl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krev"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:23.303721218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Když budeš obdělávat ⟨את⟩ zemi, nepřidá-tě-ji dát svou sílu tobě; tulák a poutník budeš v zemi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "budeš obdělávat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "nepřidá"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dát"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "svou sílu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "נע",
+      "gloss": "tulák"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "a poutník"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "budeš"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:51.393078778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A když Aaron bude rozsvěcet ⟨את⟩ lampy mezi večery, bude na něm kadit; kadidlo ustavičné před tváří Jahve ve vašich pokoleních.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "a když bude rozsvěcet"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampy"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lampy"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "večery"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "bude na něm kadit"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadidlo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ustavičné"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ve vašich pokoleních"
+    }
+  ],
+  "timestamp": "2026-09-17T06:24:51.061114422Z",
+  "model": "glm-5.3"
+}

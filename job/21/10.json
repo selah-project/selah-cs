@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Jeho býk se páří a nezahazuje, jeho kráva se otelí bez potratu.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "jeho býk"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "se páří"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "zahazuje"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "se otelí bez potratu"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "jeho kráva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "potratí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:48:59.999299663Z",
+  "model": "glm-5.3"
+}

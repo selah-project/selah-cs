@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Nepříteli — skončily trosky navždy, a města jsi vytrhl, zahynula jejich památka, ⟨oni⟩ sami.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "nepříteli"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "skončily"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "trosky"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "a města"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "jsi vytrhl"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "zahynula"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "jejich památka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨oni⟩ sami"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:54.409741340Z",
+  "model": "glm-5.3"
+}

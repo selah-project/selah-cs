@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A budete mne hledat a najdete ⟨את⟩ mne, neboť mne budete hledat celým svým srdcem.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "A budete hledat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mne",
+      "marks": "mne"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "a najdete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "mne budete hledat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "celým"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "svým srdcem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:28:54.668864447Z",
+  "model": "glm-5.3"
+}

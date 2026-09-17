@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Ve dne i v noci obcházejí po jejích hradbách, a nepravost a trápení ⟨jsou⟩ v jejím středu.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Ve dne"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i v noci"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "obcházejí"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "jejích hradbách"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "a nepravost"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "a trápení"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "v jejím středu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:36.414577362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Toto je rodopis Noema: Noem, muž spravedlivý, bezúhonný, byl ve svých pokoleních; s ⟨את⟩ Elohim Noem chodil.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "rodopis"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noema"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bezúhonný"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "ve svých pokoleních"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "chodil"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:32.702395295Z",
+  "model": "glm-5.3"
+}

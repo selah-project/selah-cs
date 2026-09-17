@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Jahve sám jej vedl a nebyl s ním žádný cizí El.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "sám"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "vedl"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nebyl"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "cizí"
+    }
+  ],
+  "timestamp": "2026-09-17T07:02:46.664959058Z",
+  "model": "glm-5.3"
+}

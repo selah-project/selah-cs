@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "I řekl Elohim Abrahámovi: Saraj, tvá manželka — nebudeš nazývat ⟨את⟩ její jméno Saraj, neboť Sara ⟨je⟩ její jméno.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Abrahámovi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahám"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tvá manželka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "budeš nazývat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její jméno"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "její jméno"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "je její jméno"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:00.436120006Z",
+  "model": "glm-5.3"
+}

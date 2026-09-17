@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 2:5",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A David poslal posly k mužům jábešských gileádských a řekl jim: Požehnáni jste ⟨od⟩ Jahve, že jste prokázali toto milosrdenství s pány svými, se Šaulem, a pochovali ⟨את⟩ jeho.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mužům"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "jábešských"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "gileádských"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "požehnáni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jste"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "jste prokázali"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "milosrdenství"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "pány svými"
+    },
+    {
+      "surface": "עם",
+      "gloss": "se"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulem"
+    },
+    {
+      "surface": "ותקברו",
+      "gloss": "a pochovali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeho (Šaula)"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:18.571825602Z",
+  "model": "glm-5.3"
+}

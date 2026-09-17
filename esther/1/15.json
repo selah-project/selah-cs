@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "„Podle zákona, co udělat s královnou Vašti za to, že nevykonala ⟨את⟩ rozkazu krále Ach_ašveróše rukou komorníků?“",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "Podle zákona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "udělat"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "s královnou"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    },
+    {
+      "surface": "על",
+      "gloss": "za to, že"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "vykonala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rozkazu"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "rozkazu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ach_ašveróše"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "komorníků"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:10.374019833Z",
+  "model": "glm-5.3"
+}

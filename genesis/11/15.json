@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A žil Shelach po zplodení ⟨את⟩ Evera tři sta tři roky a zplodil syny a dcery.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "A žil"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zplodení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Evera"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Evera"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sta"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "a tři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roky"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "a dcery"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:20.863696166Z",
+  "model": "glm-5.3"
+}

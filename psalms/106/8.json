@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "A vysvobodil je pro své Jméno, aby dal poznat ⟨את⟩ svou moc.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "vysvobodil je"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pro"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "své Jméno"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "aby dal poznat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou moc"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "svou moc"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:44.880316660Z",
+  "model": "glm-5.3"
+}

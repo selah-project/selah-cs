@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 16:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A kozel, na něhož padl los pro Azazela, bude postaven živý před Jahve, aby se ⟨nad ním⟩ konalo smíření ⟨skrze něj⟩, aby byl ⟨את⟩ poslán k Azazelovi na poušť.",
+  "tokens": [
+    {
+      "surface": "והשעיר",
+      "gloss": "A kozel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na něhož"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "padl"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "los"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "pro Azazela"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "bude postaven"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živý"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "aby se konalo smíření"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad ním"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "aby byl poslán"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (kozla pro Azazela)"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "k Azazelovi"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "na poušť"
+    }
+  ],
+  "timestamp": "2026-09-17T13:00:02.931510537Z",
+  "model": "glm-5.3"
+}

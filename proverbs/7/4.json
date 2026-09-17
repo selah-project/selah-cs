@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Řekni Moudrosti: „Sestrou mou ⟨את⟩“, a Porozumění nazvi svým známým.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Řekni"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "Moudrosti"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Sestrou mou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svým známým (Porozumění)"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "a svým známým"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "Porozumění"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "nazvi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:09.564279079Z",
+  "model": "glm-5.3"
+}

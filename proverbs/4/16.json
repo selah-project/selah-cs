@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Neboť neusnou, pokud nekonají zlo, a spánek ⟨jim⟩ je odňat, pokud někoho nepřivedou k pádu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "usnou"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "konají zlo"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "⟨jim⟩ je odňat"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "spánek"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "nepřivedou k pádu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:46.949552593Z",
+  "model": "glm-5.3"
+}

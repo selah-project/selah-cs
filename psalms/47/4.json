@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "Podmaní ⟨si⟩ národy pod nás a kmeny pod nohy naše.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Podmaní"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "pod nás"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "a kmeny"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "nohy naše"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:50.175080282Z",
+  "model": "glm-5.3"
+}

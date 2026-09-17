@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A ⟨stane se⟩, když spatří ⟨את⟩ tebe Egypťané, že řeknou: '⟨Tohle je⟩ jeho žena' — a zabijou ⟨את⟩ mne, a ⟨את⟩ tebe nechají žít.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "a stane se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "spatří"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Egypťané"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "a řeknou"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jeho žena"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tohle"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "a zabijou"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mne"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "nechají žít"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:45.089569427Z",
+  "model": "glm-5.3"
+}

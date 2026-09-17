@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "A já jsem se jim stal hanbou; když mě vidí, potřásají svou hlavou.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a já"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jsem se stal"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hanbou"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "když mě vidí"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "potřásají"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "svou hlavou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:22.278226315Z",
+  "model": "glm-5.3"
+}

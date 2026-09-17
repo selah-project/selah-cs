@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "I řekl: Nemohu se vrátit ⟨את⟩ s tebou ani vejít ⟨את⟩ s tebou; ani nebudu jíst chléb ani pít ⟨את⟩ s tebou vodu na tomto místě.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mohu"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "se vrátit"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tebou",
+      "marks": "vrátit se s tebou"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "ani vejít"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tebou",
+      "marks": "vejít s tebou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "budu jíst"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani ne"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "budu pít"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tebou",
+      "marks": "pít s tebou vodu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na místě"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomto"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:50.449017829Z",
+  "model": "glm-5.3"
+}

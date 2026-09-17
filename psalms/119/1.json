@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Jak blaze tem, kdož jsou bez úhony na cestě, těm, kdo chodí v tóře Jahve.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Jak blaze"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "bez úhony"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "těm, kdo chodí"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "v tóře"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:51.081179753Z",
+  "model": "glm-5.3"
+}

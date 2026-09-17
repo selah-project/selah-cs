@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 6:21",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A Šalomó pokryl ⟨את⟩ dům zevnitř ryzím zlatem, a protáhl zlaté řetězy před debír a pokryl ⟨jej⟩ zlatem.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "a pokryl"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "zevnitř"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatem"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ryzím"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "a protáhl"
+    },
+    {
+      "surface": "ברתיקות",
+      "gloss": "řetězy"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlaté"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debír"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "a pokryl ⟨jej⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:42:36.583365404Z",
+  "model": "glm-5.3"
+}

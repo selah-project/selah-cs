@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Tohle ⟨jsou⟩ synové Šémovi podle svých čeledí, podle svých jazyků, ve svých zemích, podle svých národů.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Tohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šémovi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle svých čeledí"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "podle svých jazyků"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ve svých zemích"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "podle svých národů"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:09.448053480Z",
+  "model": "glm-5.3"
+}

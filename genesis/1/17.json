@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A postavil je ⟨את⟩ Elohim na oblohu nebes, aby svítily nad zemí.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (dvě veliká světla)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "na oblohu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "aby svítily"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:17.245669910Z",
+  "model": "glm-5.3"
+}

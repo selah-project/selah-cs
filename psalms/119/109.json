@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Moje duše je stále v mé dlani, ale tvou Tóru jsem nezapomněl.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moje duše"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "v mé dlani"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ale tvou Tóru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "jsem nezapomněl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:40.869335242Z",
+  "model": "glm-5.3"
+}

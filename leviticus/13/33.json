@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A ⟨ten⟩ se oyholí, ale ⟨את⟩ netek neoyholí; a kněz zavře ⟨את⟩ netek na sedm dní podruhé.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "a ⟨ten⟩ se oyholí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "oyholí"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "a zavře"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "netek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "netek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "podruhé"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:44.691873005Z",
+  "model": "glm-5.3"
+}

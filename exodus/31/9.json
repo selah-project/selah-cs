@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "a ⟨את⟩ oltář zápalných obětí a ⟨את⟩ všechno jeho náčiní, a ⟨את⟩ umývadlo a ⟨את⟩ jeho podstavec,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oltář"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "a oltář"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalných obětí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechno jeho náčiní"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jeho náčiní"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umývadlo"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "umývadlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho podstavec"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jeho podstavec"
+    }
+  ],
+  "timestamp": "2026-09-17T11:43:08.754129515Z",
+  "model": "glm-5.3"
+}

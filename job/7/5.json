@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 7:5",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Mé tělo ⟨je⟩ oděno červy a hroudou prachu; má kůže puchýřovitá je a zhnusená ⟨se stala⟩.",
+  "tokens": [
+    {
+      "surface": "לבש",
+      "gloss": "oděno"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mé tělo"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "červy"
+    },
+    {
+      "surface": "וגיש",
+      "gloss": "a hroudou"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prachu"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "má kůže"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "puchýřovitá ⟨je⟩"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "a zhnusená ⟨se stala⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:02.438618553Z",
+  "model": "glm-5.3"
+}

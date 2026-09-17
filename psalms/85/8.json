@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 85,
+  "translation": "Ukaž nám, Jahve, svůj chesed, a své vysvobození nám dej!",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Ukaž nám"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "svůj chesed"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "a své vysvobození"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dej"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:29.218071022Z",
+  "model": "glm-5.3"
+}

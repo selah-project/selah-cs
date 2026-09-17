@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Pro předního zpěváka, ⟨s doprovodem⟩ strunných nástrojů. Píseň Davidova.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro předního zpěváka"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "strunnými nástroji"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:24.809520095Z",
+  "model": "glm-5.3"
+}

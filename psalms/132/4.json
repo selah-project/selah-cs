@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 132,
+  "translation": "nedám-li spánek svým očím, svým víčkům dřímotu —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "nedám-li"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dám"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "spánek"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "svým očím"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "svým víčkům"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "dřímotu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:18.798797463Z",
+  "model": "glm-5.3"
+}

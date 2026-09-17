@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "Ale on odmítl a řekl ženě svého pána: Hle, můj pán neví ⟨את⟩ se mnou, co ⟨je⟩ v domě, a všechno, co má, dal do mé ruky.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "Ale on odmítl"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ženě"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženě"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "svého pána"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "můj pán"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ví"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ se mnou"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "יש",
+      "gloss": "má"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "do mé ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:17.574789045Z",
+  "model": "glm-5.3"
+}

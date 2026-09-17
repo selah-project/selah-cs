@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A Mojžíš viděl ⟨את⟩ lid, že byl rozvázán, neboť Áron je rozvázal k potupě mezi jejich protivci.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "byl rozvázán"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "rozvázal"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "k potupě"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "mezi jejich protivci"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:40.817954805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 20:7",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Zdaž ne ⟨jsi⟩ ty Elohim náš? Vytlačil jsi ⟨את⟩ obyvatele této země před lidem svým Izraelem a dal jsi ji věčně semeni Abrahama, jenž tě miluje.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "zdaž ne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim náš"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "vytlačil jsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obyvatele"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "obyvatele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "této"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "lidem svým"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "a dal jsi ji"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "semeni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "jenž tě miluje"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "věčně"
+    }
+  ],
+  "timestamp": "2026-09-17T10:28:57.943615478Z",
+  "model": "glm-5.3"
+}

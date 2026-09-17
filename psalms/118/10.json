@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Všechny národy mě obklopily; v ⟨plr⟩Jahve ⟨⟩jméně je jistě zničím.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Všechny"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mě obklopily"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v jméně"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "je zničím"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:17.722442681Z",
+  "model": "glm-5.3"
+}

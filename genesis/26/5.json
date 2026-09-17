@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Protože Abraham poslechl můj hlas a zachoval mou stráž, má přikázání, má ustanovení a mé tóry.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "Protože"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslechl"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "můj hlas"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "a zachoval"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "mou stráž"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "má přikázání"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "má ustanovení"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "a mé tóry"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:44.675972403Z",
+  "model": "glm-5.3"
+}

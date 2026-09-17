@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A stalo se po ⟨nějakých⟩ dnech, že bojovali synové Amónovi s Izraelem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "po ⟨nějakých⟩ dnech"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "že bojovali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amónovi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:17:16.181593483Z",
+  "model": "glm-5.3"
+}

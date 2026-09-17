@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 18:13",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Na úrok peníze dal a přeměru vzal — a ⟨žije⟩? Životem nežije. ⟨את⟩ všechny tyto ohavnosti spáchal: smrtí zemře, jeho krev bude na něm.",
+  "tokens": [
+    {
+      "surface": "בנשך",
+      "gloss": "na úrok"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "a přeměru"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "a ⟨žije⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "žije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny tyto ohavnosti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "tyto ohavnosti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "spáchal"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "jeho krev"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na něm"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    }
+  ],
+  "timestamp": "2026-09-17T08:43:37.956478392Z",
+  "model": "glm-5.3"
+}

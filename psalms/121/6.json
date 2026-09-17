@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 121,
+  "translation": "Ve dne tě slunce neuhodí, ani měsíc v noci.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ve dne"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "uhodí tě"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ani měsíc"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "v noci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:01.201416839Z",
+  "model": "glm-5.3"
+}

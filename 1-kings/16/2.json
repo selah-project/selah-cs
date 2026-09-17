@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "„Protože jsem tě vyvýšil z prachu a učinil jsem tě vůdcem nad svým lidem Izraelem, a ty jsi šel cestou Jarobeáma a způsobil jsi ⟨את⟩ hřích mého lidu Izraele, abys mě rozhněval jejich hříchy —",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Protože"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "jsem tě vyvýšil"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "prachu"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "a učinil jsem tě"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "vůdcem"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "svým lidem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "a ty jsi šel"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeáma"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "a způsobil jsi hřích"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mého lidu Izraele"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mého lidu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "abys mě rozhněval"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "jejich hříchy"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:19.260061976Z",
+  "model": "glm-5.3"
+}

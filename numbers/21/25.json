@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Izrael vzal ⟨את⟩ všechna tato města a Izrael bydlel ve všech městech Emorejce v Chešbonu a ve všech jeho dcerách.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "A vzal"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechna tato města"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "města"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tato"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a bydlel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všech"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "městech"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejce"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "v Chešbonu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "a ve všech"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "jeho dcerách"
+    }
+  ],
+  "timestamp": "2026-09-17T06:46:33.577482377Z",
+  "model": "glm-5.3"
+}

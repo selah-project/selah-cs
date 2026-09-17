@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A udělali tak kouzelníci svými tajnými uměními a vyvedli ⟨את⟩ žáby na zem Egypta.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "a udělali"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "kouzelníci"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "svými tajnými uměními"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "a vyvedli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žáby"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "žáby"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:02.721222393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Skálu, jež tě zrodila, jsi opustil a zapomněl jsi El, který tě utvořil.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Skálu"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "jež tě zrodila"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "jsi opustil"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "a zapomněl jsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "který tě utvořil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:12.331224805Z",
+  "model": "glm-5.3"
+}

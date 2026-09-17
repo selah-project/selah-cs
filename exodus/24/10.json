@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "a viděli ⟨את⟩ Elohim Izraele; a pod jeho nohami ⟨bylo⟩ jako dílo z cihel safírové bělosti a jako sama látka nebes v čistotě.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "a viděli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Izraele"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "a pod"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "jeho nohami"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "jako dílo"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "z bělosti (cihel)"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safíru"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "a jako látka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "v čistotě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:33.882440664Z",
+  "model": "glm-5.3"
+}

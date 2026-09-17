@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A jestliže v poli najde muž ⟨את⟩ dívku zasnoubenou, a muž ji zachytí a obléhne s ní, pak zemře jen ten muž, který s ní obléhal, sám.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "v poli"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "najde"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dívku zasnoubenou"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dívku"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "zasnoubenou"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "a zachytí"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "a obléhne s ní"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "s ní"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "pak zemře"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ten muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "obléhal"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "s ní"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sám"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:48.848786834Z",
+  "model": "glm-5.3"
+}

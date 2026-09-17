@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A David uložil ⟨odpočinutí⟩ s svými otci a byl pohřben v městě Davidově.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a uložil se k odpočinku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svými otci"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a byl pohřben"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v městě"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidově"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:07.166125743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Netouž po jeho lahůdkách, vždyť ⟨je to⟩ klamný chléb.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "touž"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "po jeho lahůdkách"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "vždyť on"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "klamný"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:10.552554747Z",
+  "model": "glm-5.3"
+}

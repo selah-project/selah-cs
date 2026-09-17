@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 148,
+  "translation": "divoká zvěř a všechen dobytek, plazi a okřídlení ptáci,",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "divoká zvěř"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechen"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dobytek"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "plazi"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "a ptáci"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "okřídlení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:15.454008756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "A velitel katanů vzal ⟨את⟩ Serajáhu, kněze hlavu, a ⟨את⟩ Cefanjáhu, kněze druhého, a ⟨את⟩ tři strážce prahu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velitel"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "katanů"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajáhu, kněze hlavu"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajáhu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cefanjáhu, kněze druhého"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Cefanjáhu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "druhého"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tři strážce prahu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "strážce"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "prahu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:37:05.073583263Z",
+  "model": "glm-5.3"
+}

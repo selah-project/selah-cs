@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "že se Jahve ukázal Šalomounovi podruhé, jak se mu ukázal v Gibeonu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ukázal se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(při)"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomounovi"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "podruhé"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ukázal se"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "v Gibeonu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:45:04.051884228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A synům Áronovým ⟨patří⟩ jejich oddíly: synové Árona ⟨byli⟩ Nádab a Abíchú, Elázár a Itamár.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "a synům"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áronovým"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "jejich oddíly"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nádab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "a Abíchú"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elázár"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "a Itamár"
+    }
+  ],
+  "timestamp": "2026-09-17T10:22:14.096436587Z",
+  "model": "glm-5.3"
+}

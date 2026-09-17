@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "I promluvil Jahve k Mošejovi a řekl:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "I promluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošejovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekl"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:16.965317257Z",
+  "model": "glm-5.3"
+}

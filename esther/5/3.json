@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 5:3",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "I řekl jí král: „Co ti je, Ester, královno? A jaká je tvá prosba? Až do poloviny království — a bude ti ⟨to⟩ dáno.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti je"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "královno"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "a jaká"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "je tvá prosba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "poloviny"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "království"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "a bude dáno"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:36.941307638Z",
+  "model": "glm-5.3"
+}

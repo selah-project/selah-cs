@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Tak praví Jahve, tvůj vykupitel a tvůj tvůrce z lůna: Já ⟨jsem⟩ Jahve, činící všechno, rozprostírající nebesa sám, rozpínající zemi — ⟨את⟩ kdo je se mnou?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "tvůj vykupitel"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "a tvůj tvůrce"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "z lůna"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "činící"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "rozprostírající"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sám"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "rozpínající"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ se mnou",
+      "marks": "(zakladačskou značku předmětu tu míří otázka — kdo je se mnou)"
+    }
+  ],
+  "timestamp": "2026-09-17T13:40:21.728942920Z",
+  "model": "glm-5.3"
+}

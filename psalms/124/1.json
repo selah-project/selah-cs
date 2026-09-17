@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 124,
+  "translation": "Píseň stupňů, Davidova. Kdyby nebyl Jahve, jenž byl ⟨s⟩ námi — ať nyní říká Izrael:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stupňů"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "Kdyby nebyl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "jenž byl"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨s⟩ námi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ať říká"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:32.717665347Z",
+  "model": "glm-5.3"
+}

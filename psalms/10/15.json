@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Zlom rameno bezbožného a zlého; dotazuj se na jeho nepravost — už ⟨ji⟩ nenajdeš.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "zlom"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "rameno"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožného"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "a zlého"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "dotazuj se"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "jeho nepravost"
+    },
+    {
+      "surface": "בל",
+      "gloss": "už ne"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "nenajdeš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:00.114361207Z",
+  "model": "glm-5.3"
+}

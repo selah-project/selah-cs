@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A voda tekla kolem oltáře, i ⟨את⟩ nádrž naplnil vodou.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "a tekla"
+    },
+    {
+      "surface": "המים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nádrž"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "nádrž"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "naplnil"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:26.771932489Z",
+  "model": "glm-5.3"
+}

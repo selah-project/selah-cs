@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 56,
+  "translation": "V Elohim budu chválit jeho slovo, v Elohim jsem doufal; nebudu se bát — co mi učiní tělo?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "V Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "budu chválit"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jeho slovo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "v Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "jsem doufal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "budu se bát"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "učiní"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tělo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:18.288613825Z",
+  "model": "glm-5.3"
+}

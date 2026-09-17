@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 83,
+  "translation": "I Assur se k nim připojil, stali se ramenem ⟨pro⟩ syny Lótovy. Séla.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "se připojil"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "k nim"
+    },
+    {
+      "surface": "היו",
+      "gloss": "stali se"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ramenem"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "pro syny"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lótovy"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:49.103662420Z",
+  "model": "glm-5.3"
+}

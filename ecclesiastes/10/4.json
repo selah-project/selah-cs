@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Jestliže duch vladaře vystoupí proti tobě, neopouštěj své místo, neboť klidné léčení uklidní hříchy velké.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "vladaře"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "vystoupí"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "proti tobě"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "své místo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "opouštěj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "klidné léčení"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "uklidní"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "hříchy"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "velké"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:40.014851161Z",
+  "model": "glm-5.3"
+}

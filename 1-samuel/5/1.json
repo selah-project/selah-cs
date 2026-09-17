@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Pelíštejci vzali ⟨את⟩ archu Elohim a přinesli ji z Eben-Ezeru do Ašdodu.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Pelíštejci"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "vzali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "a přinesli ji"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Eben-Ezeru"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "do Ašdodu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:57.561403752Z",
+  "model": "glm-5.3"
+}

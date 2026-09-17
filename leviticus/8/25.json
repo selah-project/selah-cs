@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vzal ⟨את⟩ tuk a ⟨את⟩ tučný ocas a ⟨את⟩ všechen tuk, který je na útrobách, a ⟨את⟩ lalok jater a ⟨את⟩ obe ledviny a ⟨את⟩ jejich tuk a ⟨את⟩ stehno pravé nohy.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tučný ocas"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "tučný ocas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechen tuk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "útrobách"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "lalok"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jater"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "obe ledviny"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "obe"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ledviny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jejich tuk"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "jejich tuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "stehno"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "stehno"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "pravé"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:44.061017695Z",
+  "model": "glm-5.3"
+}

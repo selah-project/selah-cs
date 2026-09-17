@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A modlil jsem se k Jahve poté, co jsem dal ⟨את⟩ svitek koupě Barukovi, synu Nerijova, ⟨a řekl⟩:",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "a modlil jsem se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poté, co"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svitek koupě"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "svitek"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "koupě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Barukovi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barukovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Nerijova"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a řekl⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T08:29:48.441572750Z",
+  "model": "glm-5.3"
+}

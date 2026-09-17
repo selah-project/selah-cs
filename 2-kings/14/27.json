@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 14:27",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A Jahve neřekl, že vymaže ⟨את⟩ jméno Izraele zpod nebes, a zachránil je rukou Jeroboáma, syna Joašova.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "že vymaže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jméno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "zpod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "a zachránil je"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboáma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joašova"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:49.140743459Z",
+  "model": "glm-5.3"
+}

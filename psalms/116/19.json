@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "V nádvořích domu Jahve, ⟨uprostřed⟩ tebe, Jeruzaléme. Halelu – Jah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "V nádvořích"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "⟨uprostřed⟩ tebe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléme"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:53.449774820Z",
+  "model": "glm-5.3"
+}

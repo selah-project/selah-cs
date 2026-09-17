@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "aby odvraceli z práva chudé a rabovali právo ubohých mého lidu, aby vdovy byly jejich kořistí a ⟨את⟩ sirotky loupili.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "aby odvraceli"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "z práva"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "chudé"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "a rabovali"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "právo"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ubozích"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mého lidu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aby byli"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "vdovy"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "jejich kořistí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sirotky"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "sirotky"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "loupili"
+    }
+  ],
+  "timestamp": "2026-09-17T08:05:19.593260477Z",
+  "model": "glm-5.3"
+}

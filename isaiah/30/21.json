@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A tvé uši uslyší slovo za sebou ⟨tak znějící⟩: „Toto je ⟨ta⟩ cesta, choďte po ní!“ — když se odkloníte vpravo a když se odkloníte vlevo.",
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "a tvé uši"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "uslyší"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "za sebou"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tak znějící"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "⟨ta⟩ cesta"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "choďte"
+    },
+    {
+      "surface": "בו",
+      "gloss": "po ní"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "se odkloníte vpravo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "a když"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "se odkloníte vlevo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:58:42.187741581Z",
+  "model": "glm-5.3"
+}

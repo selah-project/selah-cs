@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Pýšní se mi vysmívali do krajnosti, od tvé tóry jsem neuhnul.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Pýšní"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "se mi vysmívali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "krajnosti"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "od tvé tóry"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "uhnul jsem"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:08.032722965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vypustil ⟨את⟩ krkavce; ten vylétal a vracel se, dokud nevyschly vody z povrchu země.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "vypustil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krkavce"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "krkavce"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ten vylétal"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "vylétal"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "a vracel se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "nevyschly"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z povrchu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:17.288359640Z",
+  "model": "glm-5.3"
+}

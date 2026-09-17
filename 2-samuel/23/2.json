@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Duch Jahve mluvil ve mně ⟨a⟩ jeho slovo ⟨je⟩ na mém jazyku.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Duch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ve mně"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "a jeho slovo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "na mém jazyku"
+    }
+  ],
+  "timestamp": "2026-09-17T11:41:22.687610960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 64,
+  "translation": "Střílet ve skrytých ⟨místech⟩ na bezvadného; náhle ho zasáhnou a nebojí se.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "střílet"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ve skrytých ⟨místech⟩"
+    },
+    {
+      "surface": "תם",
+      "gloss": "na bezvadného"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "náhle"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ho zasáhnou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a (ne)"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "bojí se"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:28.956508787Z",
+  "model": "glm-5.3"
+}

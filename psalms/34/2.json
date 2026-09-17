@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Budu žehnat ⟨את⟩ Jahve v každý čas, stále ⟨bude⟩ jeho chvála v mých ústech.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Budu žehnat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v každý"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "jeho chvála"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "v mých ústech"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:51.137762782Z",
+  "model": "glm-5.3"
+}

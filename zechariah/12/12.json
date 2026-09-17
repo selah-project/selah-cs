@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 12:12",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A bude země oplakávat, čeledi ⟨odděleně⟩, čeleď odděleně: čeleď domu Davidova odděleně a jejich ženy odděleně; čeleď domu Nátanova odděleně a jejich ženy odděleně.",
+  "tokens": [
+    {
+      "surface": "וספדה",
+      "gloss": "a bude oplakávat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "čeledi"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "čeleď"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "odděleně"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "čeleď"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "odděleně"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "a jejich ženy"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "odděleně"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "čeleď"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nátanova"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "odděleně"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "a jejich ženy"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "odděleně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:09:01.765807455Z",
+  "model": "glm-5.3"
+}

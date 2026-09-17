@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 54,
+  "translation": "Elohime, slyš mou modlitbu, přilož ucho k slovům mých úst!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyš"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mou modlitbu"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "přilož ucho"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "k slovům"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mých úst"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:52.283974296Z",
+  "model": "glm-5.3"
+}

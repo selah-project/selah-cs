@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 108,
+  "translation": "Neboť veliké nad nebesy ⟨je⟩ tvé milosrdenství a až k oblakům tvá věrnost.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesy"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvé milosrdenství"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a až k"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "oblakům"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tvá věrnost"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:34.220297087Z",
+  "model": "glm-5.3"
+}

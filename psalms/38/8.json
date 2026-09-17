@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Neboť má bedra jsou plná žhoucího bolesti a v mém těle není zdraví.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "má bedra"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "jsou plná"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "žhoucího bolesti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "zdraví"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "v mém těle"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:04.362888280Z",
+  "model": "glm-5.3"
+}

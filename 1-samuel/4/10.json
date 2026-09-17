@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A bojovali Pelištejci a Izrael ⟨byl⟩ poražen, a prchal každý muž ke svému stanu; a ⟨byla⟩ ta porážka velmi veliká, a padlo z Izraele třicet tisíc pěších.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "A bojovali"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejci"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "poražen ⟨byl⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "a prchali"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý muž"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "ke svému stanu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a ⟨byla⟩"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "ta porážka"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "veliká"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "a padlo"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "z Izraele"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třicet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "pěších"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:45.092855817Z",
+  "model": "glm-5.3"
+}

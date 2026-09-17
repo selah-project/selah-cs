@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Vrátí se jeho pachole na jeho ⟨vlastní⟩ hlavu a na jeho temeno sestoupí jeho násilí.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Vrátí se"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "jeho námaha"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na jeho hlavu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "jeho temeno"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "jeho násilí"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sestoupí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:07.893800300Z",
+  "model": "glm-5.3"
+}

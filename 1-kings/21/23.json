@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "I o Jezábel mluvil Jahve, řka: Psi sežerou ⟨את⟩ Jezábel v příkopu Jizreelu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "I"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "o Jezábel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "Psi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sežerou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jezábel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Jezábel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "v příkopu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreelu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:18.986040166Z",
+  "model": "glm-5.3"
+}

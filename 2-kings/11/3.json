@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A byl ⟨את⟩ s ní v domě Jahve ukryt šest let; a Atalja kralovala nad zemí.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A byl"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ s"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "ukryt"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "kralovala"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemí"
+    }
+  ],
+  "timestamp": "2026-09-17T07:55:44.025651403Z",
+  "model": "glm-5.3"
+}

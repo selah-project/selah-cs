@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Což ⟨není⟩ to ⟨to⟩, z čehož pije můj pán, a z něhož věští? Zle jste jednali ⟨tím⟩, co jste udělali.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "což ⟨není⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to ⟨to⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "z čehož"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "pije"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "můj pán"
+    },
+    {
+      "surface": "בו",
+      "gloss": "z něhož"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a z něhož"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "věští ⟨infinitiv⟩"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "věští"
+    },
+    {
+      "surface": "בו",
+      "gloss": "z něhož"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "zle jste jednali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨tím⟩ co"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "jste udělali"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:18.466027452Z",
+  "model": "glm-5.3"
+}

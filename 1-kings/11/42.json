@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A dny, ⟨jejichž⟩ Šalomoun kraloval v Jeruzalémě nad celým Izraelem, ⟨činily⟩ čtyřicet let.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "A dny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨jejichž⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraloval"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celým"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:06.299681653Z",
+  "model": "glm-5.3"
+}

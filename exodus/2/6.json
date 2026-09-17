@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Otevřela ⟨jej⟩ a uviděla ⟨את⟩ dítě — a hle, chlapec pláče. Slitovala se nad ním a řekla: „Z dětí Hebrejů je ⟨toto⟩.“",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "Otevřela"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "uviděla ⟨jej⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dítě"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dítě"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "נער",
+      "gloss": "chlapec"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "pláče"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "Slitovala se"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad ním"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "Z dětí"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrejů"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨toto⟩ je"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:56.552474053Z",
+  "model": "glm-5.3"
+}

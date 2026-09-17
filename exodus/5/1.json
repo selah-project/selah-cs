@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 5:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A potom přišli Moše a Aharon a řekli faraonovi: Toto praví Jahve, Elohim Izraele: Propusť ⟨את⟩ můj lid, ať slaví svátek mně na poušti.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "a potom"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonovi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "propusť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "můj lid"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "ויחגו",
+      "gloss": "ať slaví svátek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mně"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:19.208139897Z",
+  "model": "glm-5.3"
+}

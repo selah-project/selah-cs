@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "V pastvinách čerstvé trávy mě kládá odpočívat, k vodám klidu mě vede.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "V pastvinách"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "čerstvé trávy"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "mě kládá odpočívat"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vodám"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "klidu"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "mě vede"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:58.764248024Z",
+  "model": "glm-5.3"
+}

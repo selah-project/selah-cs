@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A žil Terach sedmdesát let a zplodil ⟨את⟩ Avrama, ⟨את⟩ Náchora a ⟨את⟩ Harana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "A žil"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sedmdesát"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrama"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Náchora"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Náchora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Harana"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harana"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:21.675386753Z",
+  "model": "glm-5.3"
+}

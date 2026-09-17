@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Píseň Davidova. Jahve, kdo bude bydlet ve tvém stanu? Kdo bude přebývat na tvé svaté hoře?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "bude bydlet"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ve tvém stanu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bude přebývat"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tvé svaté"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:30.730339147Z",
+  "model": "glm-5.3"
+}

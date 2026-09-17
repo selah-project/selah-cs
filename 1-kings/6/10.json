@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A zbudoval ⟨את⟩ přístavbu na celém domě, pět loket její výšky; a uchytila ⟨את⟩ dům dřevem cedrovým.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "A zbudoval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "přístavbu"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "přístavbu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celém"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domě"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pět"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "loket"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "její výšky"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "a uchytila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "dřevem"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedrovým"
+    }
+  ],
+  "timestamp": "2026-09-17T07:42:58.580319654Z",
+  "model": "glm-5.3"
+}

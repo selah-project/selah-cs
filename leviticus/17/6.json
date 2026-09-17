@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A kněz stashá ⟨את⟩ krev na oltář Jahve, ⟨u⟩ vchodu stanu setkávání, a zpálí tuk jako vůni klidnou pro Jahve.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "A stashá"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krev"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a zpálí (kadidlem)"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "jako vůni"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "klidnou"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:12.529542424Z",
+  "model": "glm-5.3"
+}

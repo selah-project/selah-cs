@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Slovo lži spravedlivý nenávidí, ale ničema ⟨je⟩ zapáchá a ⟨přichází⟩ ke studu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lži"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "nenávidí"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ale ničema"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "zapáchá"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "a ⟨přichází⟩ ke studu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:30.941714693Z",
+  "model": "glm-5.3"
+}

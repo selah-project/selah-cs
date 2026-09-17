@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Přes rok a dny budete chvět, vy důvěřivé; neboť skončil vinobraní, sběr nepřijde.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "על",
+      "gloss": "přes"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "rok"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "budete chvět"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "vy důvěřivé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "skončil"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "vinobraní"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "sběr"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "přijde"
+    }
+  ],
+  "timestamp": "2026-09-17T08:08:30.616127620Z",
+  "model": "glm-5.3"
+}

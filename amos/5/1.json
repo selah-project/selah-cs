@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Slyšte ⟨את⟩ toto slovo, které já zvedám nad vás — nářek, dome izraelský!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slyšte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toto slovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "zvedám"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nad vás"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "nářek"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dome"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "izraelský"
+    }
+  ],
+  "timestamp": "2026-09-17T09:01:12.353683414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "A budou se mu klanět všichni králové, všechny národy mu budou sloužit.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "a budou se klanět"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "králové"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "mu budou sloužit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:04.916097745Z",
+  "model": "glm-5.3"
+}

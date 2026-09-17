@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 22:36",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A obešel pokřik tábor při západu slunce, říkaje: Každý muž do svého města a každý muž do své země!",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "A obešel"
+    },
+    {
+      "surface": "הרנה",
+      "gloss": "pokřik"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "při západu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkaje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Každý muž"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "svého města"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a každý muž"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "své země"
+    }
+  ],
+  "timestamp": "2026-09-17T07:51:26.910703398Z",
+  "model": "glm-5.3"
+}

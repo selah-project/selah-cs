@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 57,
+  "translation": "Já vyhlásím tvou spravedlnost, a ⟨את⟩ tvé skutky — a neprospějí ti.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "vyhlásím"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tvou spravedlnost"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tvé skutky"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tvé skutky"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "prospějí ti"
+    }
+  ],
+  "timestamp": "2026-09-17T08:15:56.503011720Z",
+  "model": "glm-5.3"
+}

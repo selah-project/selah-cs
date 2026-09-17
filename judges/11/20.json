@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Ale Síchon neuvěřil Izraeli, aby přešel ⟨את⟩ jeho územím; a Síchon shromáždil ⟨את⟩ všechen svůj lid a utábořili se v Jáchaci a bojoval s Izraelem.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ale ne"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "neuvěřil"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Síchon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "aby přešel"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "jeho územím"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "a shromáždil"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Síchon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechen svůj lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "a utábořili se"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "v Jáchaci"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "a bojoval"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:17:35.537615818Z",
+  "model": "glm-5.3"
+}

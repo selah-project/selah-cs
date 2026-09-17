@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A nyní vstaň časně ráno, ty i sluhové tvého pána, kteří přišli ⟨את⟩ s tebou, a když vstanete časně ráno a rozedne se, odejděte.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "vstaň časně"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "i sluhové"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tvého pána"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tebou",
+      "marks": "s tebou"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "a když vstanete časně"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "a rozedne se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨vám⟩"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "odejděte"
+    }
+  ],
+  "timestamp": "2026-09-17T07:29:42.752196865Z",
+  "model": "glm-5.3"
+}

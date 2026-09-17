@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I řekl Jahve satanovi: Hle, je v tvé ruce; jen ⟨את⟩ jeho duši chraň.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satanovi"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "hle"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "v tvé ruce"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho duši"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jeho duše"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "chraň"
+    }
+  ],
+  "timestamp": "2026-09-17T13:04:52.439735583Z",
+  "model": "glm-5.3"
+}

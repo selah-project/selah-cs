@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "Zhřešili jsme s našimi otci, křivdili jsme, konali jsme ničemně.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Zhřešili jsme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "našimi otci"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "křivdili jsme"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "konali jsme ničemně"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:32.444420502Z",
+  "model": "glm-5.3"
+}

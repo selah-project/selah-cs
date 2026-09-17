@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Ustanovení Jahve ⟨jsou⟩ přímá, radující srdce; přikázání Jahve ⟨je⟩ ryzí, osvěcující oči.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "ustanovení"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "přímá"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "radující"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ryzí"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "osvěcující"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oči"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:05.882413064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Neboť země se naplní poznáním ⟨את⟩ slávy Jahve, jako vody pokrývající ⟨nad⟩ mořem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "se naplní"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "poznáním"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slávy Jahve"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slávy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jako vody"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "pokrývající"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨nad⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mořem"
+    }
+  ],
+  "timestamp": "2026-09-17T11:08:55.588860151Z",
+  "model": "glm-5.3"
+}

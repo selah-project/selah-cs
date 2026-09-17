@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "Který jsi nám ukázal soužení mnohá a zlá, ⟨ty⟩ se vrátíš, oživíš nás, a z hlubin země se vrátíš, vyvedene nás vyvýšíš.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Který"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "jsi nám ukázal"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "soužení"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "mnohá"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "a zlá"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se vrátíš"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "oživíš nás"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "a z hlubin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se vrátíš"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "nás vyvýšíš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:25.250118414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A i kdyby žil tisíc let dvakrát ⟨a⟩ dobra neviděl — ⟨což⟩ nejde všechno k jednomu místu?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "a i kdyby"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "žil"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dvakrát"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "a dobra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨což⟩ ne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "jednomu místu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednomu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "jde"
+    }
+  ],
+  "timestamp": "2026-09-17T12:59:43.312695680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 10:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A nyní odpusť ⟨prosím⟩ hřích můj, jen tento jednou, a orodujte za Jahve, vašim Elohim, aby odňal ode mne pouze ⟨את⟩ tuto smrt.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "שא",
+      "gloss": "odpusť (nesi)"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨prosím⟩"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "hřích můj"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "tento jednou"
+    },
+    {
+      "surface": "והעתירו",
+      "gloss": "a orodujte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "za Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vašim Elohim"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "aby odňal"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "רק",
+      "gloss": "pouze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto smrt"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:28.041802775Z",
+  "model": "glm-5.3"
+}

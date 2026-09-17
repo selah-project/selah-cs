@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A přišel Moše a svolal starší ⟨z⟩ lidu a postavil před jejich tváře ⟨את⟩ všechna tato slova, kteráž mu přikázal Jahve.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a svolal"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "před jejich tváře"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechna tato slova"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "slova"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteráž"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "přikázal mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:34.057645464Z",
+  "model": "glm-5.3"
+}

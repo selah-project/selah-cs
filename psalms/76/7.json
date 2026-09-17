@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 76,
+  "translation": "Od tvé pohrůžky, Elohim Jakubův, zdříml ⟨i⟩ vůz i kůň.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Od tvé pohrůžky"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakubův"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "zdříml"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "i vůz"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "i kůň"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:36.623725269Z",
+  "model": "glm-5.3"
+}

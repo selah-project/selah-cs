@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "⟨את⟩ měsíc a hvězdy k vládě v noci, neboť na věky trvá jeho chesed.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "měsíc"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "měsíc"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "a hvězdy"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "k vládě"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:03.305584645Z",
+  "model": "glm-5.3"
+}

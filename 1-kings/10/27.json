@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A král dal ⟨את⟩ stříbro v Jeruzalémě ⟨být⟩ jako kameny, a ⟨את⟩ cedry dal jako sykomory, které ⟨jsou⟩ v nížině, k hojnosti.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "A dal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stříbro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "jako kameny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "cedry"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "cedry"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "jako sykomory"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "v nížině"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "k hojnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:50.053841909Z",
+  "model": "glm-5.3"
+}

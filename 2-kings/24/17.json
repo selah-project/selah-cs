@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A král Babylónu dosadil za krále ⟨את⟩ Mattanjáhu, strýce jeho, místo něj, a změnil ⟨את⟩ jeho jméno na Cidkijáhu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "dosadil za krále"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattanjáhu"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattanjáhu"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "strýce jeho"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "a změnil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijáhu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:38.394779773Z",
+  "model": "glm-5.3"
+}

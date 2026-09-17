@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "V Elohim jsme se chlubili ⟨celý⟩ den a tvé jméno budeme vzdávat díky navěky. Séla.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "V Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "jsme se chlubili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "a tvé jméno"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "budeme vzdávat díky"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla."
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:12.161580876Z",
+  "model": "glm-5.3"
+}

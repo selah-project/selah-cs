@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Měrná lana padla mi do příjemných ⟨krajin⟩; ano, dědictví překrásné ⟨je⟩ nade mnou.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "měrná lana"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "do příjemných ⟨krajin⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ano"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dědictví"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "překrásné"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:21.236418309Z",
+  "model": "glm-5.3"
+}

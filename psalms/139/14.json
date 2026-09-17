@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Chci tě velebit, že ⟨jsem⟩ tak hrozivě divně utvořen; podivuhodná jsou tvá díla — a má duše to dobře ví.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "chci tě velebit"
+    },
+    {
+      "surface": "על",
+      "gloss": "že"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨neboť⟩"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "hrozivě"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "jsem utvořen"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "podivuhodná"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "jsou tvá díla"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "a má duše"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ví"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dobře ⟨velmi⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:33.937582009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "a přeneseme ⟨את⟩ archu našeho Elohim k sobě, neboť jsme se o ni nedotazovali ve dnech Šaulových.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "a přeneseme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "našeho Elohim"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "k sobě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "nedotazovali jsme se"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ve dnech"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulových"
+    }
+  ],
+  "timestamp": "2026-09-17T10:19:59.519518381Z",
+  "model": "glm-5.3"
+}

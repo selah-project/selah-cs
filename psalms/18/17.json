@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Poslal z výsosti, vzal ⟨mě⟩, vytáhl ⟨mě⟩ z vod mnohých.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Poslal"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "z výsosti"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "vzal ⟨mě⟩"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "vytáhl ⟨mě⟩"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "z vod"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnohých"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:16.104389981Z",
+  "model": "glm-5.3"
+}

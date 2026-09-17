@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Vykoupil ⟨v⟩ pokoji moji nefesi, ⟨od⟩ ⟨těch, kdo jsou⟩ blízko mě, neboť ⟨se mnou⟩ byli mnozí ⟨proti mně⟩.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "vykoupil"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "v pokoji"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji nefesi"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "od blízko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "mnozí"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "se mnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:03.452018833Z",
+  "model": "glm-5.3"
+}

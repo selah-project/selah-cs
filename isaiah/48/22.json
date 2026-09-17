@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "„Není šalom,“ řekl Jahve, „bezbožným.“",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "šalom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "bezbožným"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:48.553026494Z",
+  "model": "glm-5.3"
+}

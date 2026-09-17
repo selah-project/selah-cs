@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A stalo se, když se mu království upevnilo, že zabil ⟨את⟩ své sluhy, ty, kteří zabili ⟨את⟩ krále, jeho otce.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "upevnilo se"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "království"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své sluhy"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "své sluhy"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "kteří zabili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otce"
+    }
+  ],
+  "timestamp": "2026-09-17T10:30:57.595207384Z",
+  "model": "glm-5.3"
+}

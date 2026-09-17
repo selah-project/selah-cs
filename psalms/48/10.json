@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "Přirovnávali jsme, Elohim, tvůj chesed uprostřed tvého paláce.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "přirovnávali jsme"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvůj chesed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "tvého paláce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:31.804925079Z",
+  "model": "glm-5.3"
+}

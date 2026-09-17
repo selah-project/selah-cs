@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Kněz se podívá, a hle, strup se rozšířil v kůži — kněz ho prohlásí za nečistého: ⟨je to⟩ malomocenství.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "podívá se"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "rozšířil"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "strup"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "v kůži"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "prohlásí ho za nečistého"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "malomocenství"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je to⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:54.636905456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Obětujte oběti spravedlnosti ⟨a⟩ doufejte v Jahve.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Obětujte"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "oběti"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnosti"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "a doufejte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:24.471060446Z",
+  "model": "glm-5.3"
+}

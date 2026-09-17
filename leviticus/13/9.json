@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Když je rána malomocenství v člověku, bude přiveden ⟨k⟩ knězi.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "rána"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "malomocenství"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "je"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "v člověku"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "bude přiveden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "knězi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:26.515098884Z",
+  "model": "glm-5.3"
+}

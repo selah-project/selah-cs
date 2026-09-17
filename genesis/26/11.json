@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A přikázal Abímelek ⟨את⟩ všemu lidu a řekl: „Kdo se dotkne ⟨tohoto⟩ muže i jeho ženy, smrtí bude usmrcen.“",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abímelek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všemu lidu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všemu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kdo se dotkne"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "⟨tohoto⟩ muže"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "i jeho ženy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bude usmrcen"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:12.106686434Z",
+  "model": "glm-5.3"
+}

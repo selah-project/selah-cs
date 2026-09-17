@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 63,
+  "translation": "Neboť den pomsty ⟨byl⟩ v mém srdci a rok mých vykoupených přišel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pomsty"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "v mém srdci"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "a rok"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "mých vykoupených"
+    },
+    {
+      "surface": "באה",
+      "gloss": "přišel"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:20.903623565Z",
+  "model": "glm-5.3"
+}

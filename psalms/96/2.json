@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 96,
+  "translation": "Zpívejte Jahvemu, žehnejte jeho jménu, vypravujte od dne do dne jeho spásu.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Zpívejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "žehnejte"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jménu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "vypravujte"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "od dne"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "do dne"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "jeho spásu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:02.369150639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Cipora vzala křemenný nůž a usekla ⟨את⟩ předkožku svého syna a dotkla ⟨ní⟩ jeho nohou a řekla: Vždyť ženich krve jsi mi ty.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "a vzala"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Cipora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "křemenný nůž"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "a usekla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "předkožku"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "předkožku"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "a dotkla"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "jeho nohou"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ženich"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi ty"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:41.230070183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A přiblížily se dny Davida k smrti, a přikázal ⟨את⟩ Šalomouna, syna svého, řka:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "a přiblížily se"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "למות",
+      "gloss": "k smrti"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šalomouna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomouna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syna svého"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    }
+  ],
+  "timestamp": "2026-09-17T10:53:27.400482119Z",
+  "model": "glm-5.3"
+}

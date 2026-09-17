@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 14:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A já zatvrdím ⟨את⟩ srdce faraóna a on je bude pronásledovat; budu oslaven na faraónovi a na celém jeho vojsku, a poznají Egypťané, že já jsem Jahve. A učinili tak.",
+  "tokens": [
+    {
+      "surface": "וחזקתי",
+      "gloss": "zatvrdím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdce faraóna"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraóna"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "bude pronásledovat"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "je"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "budu oslaven"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "na faraónovi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "a na celém"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "jeho vojsku"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "poznají"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypťané"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "A učinili"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:54.665421887Z",
+  "model": "glm-5.3"
+}

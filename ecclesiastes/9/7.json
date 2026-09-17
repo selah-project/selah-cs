@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Jdi, s radostí jez svůj chléb a s dobrým srdcem pij své víno, neboť už dávno Elohim schválil ⟨את⟩ tvé činy.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Jdi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jez"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "s radostí"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "svůj chléb"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "a pij"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "s srdcem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrým"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "své víno"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "už dávno"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "schválil"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé činy"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tvé činy"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:36.688246994Z",
+  "model": "glm-5.3"
+}

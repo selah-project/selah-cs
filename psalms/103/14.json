@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Neboť on zná naše utvoření, pamatuje, že jsme prach.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "naše utvoření"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "pamatuje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prach"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "jsme"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:08.901313408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "A ⟨stal⟩ jsem se jako muž, který neslyší, a v jeho ústech nejsou výtky.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "a ⟨stal⟩ jsem se"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jako muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyší"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nejsou"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "v jeho ústech"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "výtky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:15.408135892Z",
+  "model": "glm-5.3"
+}

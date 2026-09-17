@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 91,
+  "translation": "Pád tisíce po tvém boku a deset tisíc po tvé pravici, k tobě se nepřiblíží.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "Pád"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "po tvém boku"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíce"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "a deset tisíc"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "po tvé pravici"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "se přiblíží"
+    }
+  ],
+  "timestamp": "2026-09-17T11:57:25.521061387Z",
+  "model": "glm-5.3"
+}

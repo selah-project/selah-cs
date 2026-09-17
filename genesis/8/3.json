@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vody se vracely z země, odcházely a se vracely, a vody ubývalo ⟨na konci⟩ sto padesáti dní.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "a vracely se"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z, od"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "odcházely"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "a se vracely"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "a ubývalo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "na konci"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "padesáti"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "a sto"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dní"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:38.223452284Z",
+  "model": "glm-5.3"
+}

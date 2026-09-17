@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "I řekl Jahve Jozuovi: Vzni se! Proč jsi tohle padl na svou tvář?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jozuovi (k)"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Vzni se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tohle"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi ty"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "padl"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svou tvář"
+    }
+  ],
+  "timestamp": "2026-09-17T07:06:50.617103252Z",
+  "model": "glm-5.3"
+}

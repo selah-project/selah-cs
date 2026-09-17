@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 31:2",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "a řekl jim: „Sto dvacet let ⟨je⟩ mi dnes; již nemohu vycházet a vcházet; a Jahve mi řekl: Nepřekročíš ⟨את⟩ tento Jordán.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨mi je⟩"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "a dvacet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mohu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "již (déle)"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "vycházet"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "a vcházet"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "překročíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:32.460630538Z",
+  "model": "glm-5.3"
+}

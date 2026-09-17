@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Abraham se časně ráno vydal k místu, kde stál tam před ⟨את⟩ tváří Jahve.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a vydal se časně"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "místu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stál"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tváří Jahve"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:02.323020814Z",
+  "model": "glm-5.3"
+}

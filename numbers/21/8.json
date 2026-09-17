@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Jahve řekl Mojžíšovi: Učiň si sarafa a postav ⟨את⟩ jej na znak; a stane se, že každý kousnutý, když se na ⟨את⟩ něj podívá, bude žít.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Učiň"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sarafa"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "a postav"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jej",
+      "marks": "sarafa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נס",
+      "gloss": "znak (korouhev)"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a stane se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "kousnutý"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "když se podívá"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na něj",
+      "marks": "na sarafa"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "bude žít"
+    }
+  ],
+  "timestamp": "2026-09-17T06:47:20.231967993Z",
+  "model": "glm-5.3"
+}

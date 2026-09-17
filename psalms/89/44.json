@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Dokonce jsi odvrátil ostří jeho meče a nedopřál mu ⟨stát⟩ v bitvě.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "dokonce"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "odvrátil jsi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ostří"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "jeho meče"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "nedopřál mu ⟨stát⟩"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "v bitvě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:51.659426258Z",
+  "model": "glm-5.3"
+}

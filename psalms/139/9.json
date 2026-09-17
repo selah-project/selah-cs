@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Vezmu-li křídla úsvitu, usadím-li se na konci moře,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "vezmu-li (pozvednu)"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "křídla"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "úsvitu"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "usadím-li se (přebývám)"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "na konci"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moře"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:17.037590186Z",
+  "model": "glm-5.3"
+}

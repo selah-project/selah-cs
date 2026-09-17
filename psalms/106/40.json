@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "I vzplál hněv Jahve vůči svému lidu a znechutil si ⟨את⟩ své dědictví",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "I vzplál"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "vůči svému lidu"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "a znechutil si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své dědictví"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "své dědictví"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:16.615141759Z",
+  "model": "glm-5.3"
+}

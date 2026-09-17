@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Od hlasu nepřítele, před útlakem bezbožného — neboť svrhávají na mě nepravost a v hněvě na mě pronásledujíce mě nenávidí.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Od hlasu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nepřítele"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "útlakem"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožného"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "svrhávají"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mě"
+    },
+    {
+      "surface": "און",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "a v hněvě"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "pronásledujíce mě nenávidí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:11.754385728Z",
+  "model": "glm-5.3"
+}

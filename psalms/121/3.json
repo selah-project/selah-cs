@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 121,
+  "translation": "Nedopustí, aby tvá noha klopýtla; nezdrhá ten, kdo tě střeží.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nedopustí (ne-)"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dopustí"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "klopýtla"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "tvá noha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "zdrhá"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ten, kdo tě střeží"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:59.721478456Z",
+  "model": "glm-5.3"
+}

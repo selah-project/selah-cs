@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Neboť život můj došel konce v zámutku a léta moje ve vzdychání; mé hříchy zlomily mou sílu a kosti moje se vysílily.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "došel konce"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "v zámutku"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "život můj"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "a léta moje"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "ve vzdychání"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "zlomily"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "mé hříchy"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mou sílu"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "a kosti moje"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "se vysílily"
+    }
+  ],
+  "timestamp": "2026-09-17T13:40:28.108276446Z",
+  "model": "glm-5.3"
+}

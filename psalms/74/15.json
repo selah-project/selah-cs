@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Ty jsi rozpůlil pramen i potok, ty jsi vysušil řeky neutuchající.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty jsi"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "rozpůlil jsi"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "pramen"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "i potok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty jsi"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "vysušil jsi"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "řeky"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "neutuchající"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:41.804769565Z",
+  "model": "glm-5.3"
+}

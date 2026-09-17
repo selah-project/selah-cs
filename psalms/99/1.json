@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 99,
+  "translation": "Jahve kraluje — ať třesou ⟨se⟩ národy; ⟨ten, který⟩ sedí ⟨na⟩ cherubech — ať se chvěje ⟨ta⟩ země.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraluje"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ať třesou"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sedí"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "cherubech"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "ať se chvěje"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:05.214981020Z",
+  "model": "glm-5.3"
+}

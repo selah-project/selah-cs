@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A vody budou odňaty z moře a řeka bude zpustošena a vyschne.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "a budou odňaty"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "z moře"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "a řeka"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "bude zpustošena"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "a vyschne"
+    }
+  ],
+  "timestamp": "2026-09-17T08:05:58.558189962Z",
+  "model": "glm-5.3"
+}

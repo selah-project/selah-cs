@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A vězte, že Jahve vyoddělil svého chasida ⟨k sobě⟩; Jahve uslyší, když budu volat k němu.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "A vězte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "vyoddělil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "chasida"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨k sobě⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uslyší"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "když budu volat"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:27.157732520Z",
+  "model": "glm-5.3"
+}

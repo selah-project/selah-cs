@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Úmysly spravedlivých ⟨jsou⟩ právo, úklady ničemných ⟨jsou⟩ klam.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "úmysly"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "spravedlivých"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "právo"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "úklady"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ničemných"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "klam"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:42.490019986Z",
+  "model": "glm-5.3"
+}

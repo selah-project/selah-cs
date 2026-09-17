@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Řekl ve svém srdci: „El zapomněl, skryl svou tvář, nikdy ⟨to⟩ nespatří.“",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Řekl"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "zapomněl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "skryl"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nikdy"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nespatří"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "⟨nikdy⟩ (navždy)"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:48.521502184Z",
+  "model": "glm-5.3"
+}

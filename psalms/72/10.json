@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "Králové Taršíše a ostrovů budou vracet dar, králové Šeby a Séby přinesou výměnný dar.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "králové"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taršíše"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "a ostrovů"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "budou vracet"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králové"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šeby"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "a Séby"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "výměnný dar"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "přinesou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:04.915930042Z",
+  "model": "glm-5.3"
+}

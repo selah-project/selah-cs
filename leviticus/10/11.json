@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "a ⟨abyste⟩ učili ⟨את⟩ syny Izraele ⟨את⟩ všech nařízení, která mluvil Jahve k nim rukou Mošeho.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "a učili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všech nařízení"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "nařízení"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k nim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:22.712068541Z",
+  "model": "glm-5.3"
+}

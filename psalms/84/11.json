@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 84,
+  "translation": "Neboť jeden den v tvých nádvořích je lepší než tisíc ⟨jinde⟩; vyvolil ⟨jsem⟩ si stát na prahu v domě svého Elohim, než bydlet ve stanech bědy",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "je lepší"
+    },
+    {
+      "surface": "יום",
+      "gloss": "jeden den"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "v tvých nádvořích"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "než tisíc"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "vyvolil ⟨jsem⟩ si"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "stát na prahu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "svého Elohim"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "než bydlet"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "ve stanech"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bědy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:44.735797218Z",
+  "model": "glm-5.3"
+}

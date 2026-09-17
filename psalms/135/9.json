@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Poslal znamení a zázraky do tvého středu, Egypte, na faraóna i na všechny jeho služebníky.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Poslal"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "znamení"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "a zázraky"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "do tvého středu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypte"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "na faraóna"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "i na všechny"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeho služebníky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:25.659986847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 13:3",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A ukázal se posel Jahve ⟨té⟩ ženě a řekl jí: Hle, nyní, ⟨את⟩ jsi neplodná a nerodila jsi — počneš a porodíš syna.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a ukázal se"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "posel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty jsi neplodná"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "neplodná"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "rodila jsi"
+    },
+    {
+      "surface": "והרית",
+      "gloss": "počneš"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "a porodíš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    }
+  ],
+  "timestamp": "2026-09-17T07:17:50.289143285Z",
+  "model": "glm-5.3"
+}

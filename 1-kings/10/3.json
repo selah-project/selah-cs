@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A Šalomoun jí vyložil ⟨את⟩ všechno své ⟨všech⟩ jejích slov; nebylo slova skrytého před králem, kterého by jí nevyložil.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a vyložil"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "jejích slov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "skrytého"
+    },
+    {
+      "surface": "מן",
+      "gloss": "před (od)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterého"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "vyložil"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    }
+  ],
+  "timestamp": "2026-09-17T13:02:47.634770006Z",
+  "model": "glm-5.3"
+}

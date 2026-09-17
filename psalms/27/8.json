@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "⟨K tobě⟩ ⟨řeklo⟩ mé srdce: „Hledejte mou tvář!“ Tvou tvář, Jahve, hledám ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "⟨k tobě⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨řeklo⟩"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Hledejte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář (mou)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tvou tvář"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Tvou tvář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "hledám"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:12.541494784Z",
+  "model": "glm-5.3"
+}

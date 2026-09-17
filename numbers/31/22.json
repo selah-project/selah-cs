@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Jen ⟨את⟩ zlato a ⟨את⟩ stříbro, ⟨את⟩ měď, ⟨את⟩ železo, ⟨את⟩ cín a ⟨את⟩ olovo —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlato"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "stříbro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "měď"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "měď"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "železo"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "železo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cín"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "cín"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "olovo"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "olovo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:43:27.999404243Z",
+  "model": "glm-5.3"
+}

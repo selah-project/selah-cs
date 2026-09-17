@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Jestliže tvůj bratr není blízko tebe a neznáš ho, pak je shromáždíš dovnitř svého domu a ⟨bude⟩ s tebou, dokud tvůj bratr nebude ⟨את⟩ vyhledávat; vrátíš mu jej.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "blízko"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvůj bratr"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tebe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "znáš ho"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "shromáždíš ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "dovnitř"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "svého domu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "bude vyhledávat"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvůj bratr"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej — předmět hledání i vracení"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "vrátíš mu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:38.467503466Z",
+  "model": "glm-5.3"
+}

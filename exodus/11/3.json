@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Jahve dal ⟨את⟩ přízeň tohoto lidu v očích Egyptských; také muž Mojžíš ⟨byl⟩ velmi veliký v zemi Egyptské, v očích služebníků faraónových i v očích lidu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "přízeň"
+    },
+    {
+      "surface": "חן",
+      "gloss": "přízeň"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tohoto lidu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptských"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptské"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služebníků"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónových"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "i v očích"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:07.672174944Z",
+  "model": "glm-5.3"
+}

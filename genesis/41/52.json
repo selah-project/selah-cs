@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "A ⟨את⟩ jméno druhému nazval Efrajim, neboť Elohim mě učinil plodným v zemi mého útlaku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "A ⟨את⟩",
+      "marks": "jméno druhému"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhému"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nazval"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "mě učinil plodným"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mého útlaku"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:38.103784857Z",
+  "model": "glm-5.3"
+}

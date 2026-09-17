@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 1:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A Chana odpověděla a řekla: Ne, můj pane; ⟨jedna⟩ žena tvrdého ducha jsem já; ani víno ani silný nápoj jsem nepila, ale vylila jsem ⟨את⟩ svou duši před Jahve.",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "A odpověděla"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Chana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "můj pane"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tvrdého"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jsem já"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ani víno"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ani silný nápoj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jsem ne"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "pila"
+    },
+    {
+      "surface": "ואשפך",
+      "gloss": "ale vylila jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou duši"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svou duši"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:20:30.697870408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A když řekneš ve svém srdci: Jak poznáme ⟨את⟩ slovo, které nepromluvil Jahve?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a když"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "řekneš"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "poznáme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:58:17.678317021Z",
+  "model": "glm-5.3"
+}

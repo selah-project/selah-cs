@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Z místa svého příbytku bedlivě shlíží na všechny obyvatele země.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "z místa příbytku"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "svého (sezení)"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "bedlivě shlíží"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "obyvatele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:49.818187573Z",
+  "model": "glm-5.3"
+}

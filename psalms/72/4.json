@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "Ať rozsoudí chudé lidu, zachraňuje syny nuzného a drtí utlačovatele.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "Ať rozsoudí"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "chudé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "zachraňuje"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "nuzného"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "a drtí"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "utlačovatele"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:43.380212937Z",
+  "model": "glm-5.3"
+}

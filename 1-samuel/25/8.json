@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 25:8",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Zeptej se ⟨את⟩ svých mládenců a oni ti poví, a ať najdou mládenci milost ve tvých očích, neboť v dobrý den jsme přišli. Dej, prosím, ⟨את⟩ to, co najde tvá ruka, svým služebníkům a svému synu Davidovi.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Zeptej se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svých mládenců"
+    },
+    {
+      "surface": "נעריך",
+      "gloss": "svých mládenců"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "a oni poví"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "a ať najdou"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "mládenci"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ve tvých očích"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrý"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jsme přišli"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Dej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co najde tvá ruka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "najde"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvá ruka"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "svým služebníkům"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "a svému synu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:29:06.975521980Z",
+  "model": "glm-5.3"
+}

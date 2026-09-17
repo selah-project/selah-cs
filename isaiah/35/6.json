@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Tehdy vyskočí kulhavec jako jelen a jazyk němého bude zpívat, neboť v poušti vytrysknou vody a potoky na stepi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tehdy"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "vyskočí"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "jako jelen"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "kulhavec"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "a bude zpívat"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jazyk"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "němého"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "vytrysknou"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v poušti"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "a potoky"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "na stepi"
+    }
+  ],
+  "timestamp": "2026-09-17T08:10:48.490639907Z",
+  "model": "glm-5.3"
+}

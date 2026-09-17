@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A lid se rozptýlil po celé zemi Micrajim, aby sbíral drť místo slámy.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "a rozptýlil se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po celé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "aby sbíral"
+    },
+    {
+      "surface": "קש",
+      "gloss": "drť"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "místo slámy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:33.316501634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "A stalo se, jak nám to vyložil, tak to bylo: ⟨את⟩ mne postavil zpět na mé místo a jeho ⟨את⟩ dal pověsit.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "vyložil"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "to bylo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mne"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "postavil zpět"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כני",
+      "gloss": "mé místo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "dal pověsit"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:33.325645715Z",
+  "model": "glm-5.3"
+}

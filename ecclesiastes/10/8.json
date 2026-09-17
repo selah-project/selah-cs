@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Kdo kopá jámu, sám do ní spadne; a kdo protrhuje zeď, uštkne ho had.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "kdo kopá"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "jámu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "do ní"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "spadne"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "a kdo protrhuje"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "zeď"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "uštkne ho"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "had"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:16.593636406Z",
+  "model": "glm-5.3"
+}

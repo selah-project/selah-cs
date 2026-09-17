@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A řekli mu: Ne, Adonaji; tví otroci přišli koupit jídlo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaji"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "tví otroci"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "koupit"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jídlo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:38.769757464Z",
+  "model": "glm-5.3"
+}

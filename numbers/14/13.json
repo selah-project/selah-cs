@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 14:13",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A Mojžíš řekl Jahvemu: „Zaslehnou Egypťané, žes ⟨tímto⟩ lidem vyvedl ⟨את⟩ tento lid ze svého středu svou mocí —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "zaslehnou"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypťané"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "jsi vyvedl"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "svou mocí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "מקרבו",
+      "gloss": "ze svého středu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:44:03.750934341Z",
+  "model": "glm-5.3"
+}

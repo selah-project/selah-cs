@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 132,
+  "translation": "Dokud nenajdu místo ⟨pro⟩ Jahve, příbytky ⟨pro⟩ Mocného Jakubova.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Dokud"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nenajdu"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨pro⟩ Jahve"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "příbytky"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "⟨pro⟩ Mocného"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakubova"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:42.560903676Z",
+  "model": "glm-5.3"
+}

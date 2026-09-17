@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A přišli Hezekjáš a knížata a viděli ⟨את⟩ hromady, a dobrořečili ⟨את⟩ Jahvemu i ⟨את⟩ jeho lid, Izrael.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "a přišli"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hezekjáš"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "a knížata"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "a viděli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hromady"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "hromady"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "a dobrořečili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvemu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho lid, Izrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeho lid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T10:31:51.392606613Z",
+  "model": "glm-5.3"
+}

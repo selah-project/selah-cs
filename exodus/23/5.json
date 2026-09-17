@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Když uvidíš osla toho, kdo tě nenávidí, jak leží pod svým břemenem, ⟨a⟩ upustíš od toho, aby ses ho vzdal — s ním jej ⟨jistě⟩ složíš.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uvidíš"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "osla"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "toho, kdo tě nenávidí"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "leží"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "svým břemenem"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "⟨a⟩ upustíš"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "od toho, aby ses ho vzdal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "složíš"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "⟨jistě⟩ složíš"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:34.763058698Z",
+  "model": "glm-5.3"
+}

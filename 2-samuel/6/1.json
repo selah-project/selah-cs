@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A znovu shromáždil David ⟨את⟩ všechny vyvolené v Israelu, třicet tisíc.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "a znovu shromáždil"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "znovu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny vyvolené"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "vyvolené"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Israelu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třicet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:21.550303724Z",
+  "model": "glm-5.3"
+}

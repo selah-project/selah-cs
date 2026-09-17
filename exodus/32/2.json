@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 32:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A řekl jim Áron: Odtrhněte zlaté náušnice, které ⟨jsou⟩ v uších vašich žen, vašich synů a vašich dcer, a přineste ⟨je⟩ ke mně.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "פרקו",
+      "gloss": "Odtrhněte"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "náušnice"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlaté"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "v uších"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "vašich žen"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vašich synů"
+    },
+    {
+      "surface": "ובנתיכם",
+      "gloss": "a vašich dcer"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "a přineste"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:36.066013181Z",
+  "model": "glm-5.3"
+}

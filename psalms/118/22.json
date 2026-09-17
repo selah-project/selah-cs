@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Kámen, jímž stavitelé pohrdli, stal se kamenem ⟨úhlovým⟩, ⟨hlavním⟩ v rohu.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Kámen"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "pohrdli"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "stavitelé"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "stal se"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "hlavním"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "v rohu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:09.758242844Z",
+  "model": "glm-5.3"
+}

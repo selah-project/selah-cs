@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 29:11",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A stalo ⟨se⟩ vám vidění ⟨celé⟩ jako slova ⟨toho⟩ zapečetěné knihy, kterou dají ⟨את⟩ ní tomu, kdo zná písmo, řkoucee: Přečti ⟨prosím⟩ toto; a on řekne: Nemohu, neboť je zapečetěna.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "A stalo ⟨se⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "חזות",
+      "gloss": "vidění"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨celé⟩"
+    },
+    {
+      "surface": "כדברי",
+      "gloss": "jako slova"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "⟨toho⟩ zapečetěné knihy"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "zapečetěné knihy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "dají"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ní"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomu, kdo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "písmo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řkoucee"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Přečti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨prosím⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a on řekne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nemohu, ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mohu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "zapečetěna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T08:09:13.052389876Z",
+  "model": "glm-5.3"
+}

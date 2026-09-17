@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Na počátku stvořil Elohim ⟨את⟩ nebesa a ⟨את⟩ zemi.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Na počátku"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stvořil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebesa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:44:38.830849709Z",
+  "model": "glm-5.3"
+}

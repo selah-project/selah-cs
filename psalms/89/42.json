@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Drancují ho všichni, kdo mířejí kolem ⟨cestou⟩; stal se potupou svým sousedům.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "drancují ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "kdo mířejí kolem"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨cestou⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "stal se"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "potupou"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "svým sousedům"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:51.659212386Z",
+  "model": "glm-5.3"
+}

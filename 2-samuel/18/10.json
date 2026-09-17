@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "I viděl jeden muž ⟨to⟩ a ohlásil to Jóabovi a řekl: Hle, viděl jsem ⟨את⟩ Abšalóma, jak visí v terebinu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a ohlásil"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Jóabovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "viděl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abšalóma"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abšalóma"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "visí"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "v terebinu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:37:20.808156546Z",
+  "model": "glm-5.3"
+}

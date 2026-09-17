@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A ⟨když⟩ muž udeří jakoukoli duši lidskou, jistě bude usmrcen.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "a ⟨když⟩ muž"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨když⟩"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "udeří"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jakoukoli"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duši"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidskou"
+    },
+    {
+      "surface": "מות",
+      "gloss": "jistě ⟨usmrcen⟩"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bude usmrcen"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:45.188993336Z",
+  "model": "glm-5.3"
+}

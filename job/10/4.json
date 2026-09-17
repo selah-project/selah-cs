@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Máš oči z těla? Vidíš, jako vidí smrtelný člověk?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "máš oči"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "z těla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "máš"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "jako vidí"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtelný člověk"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "vidíš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:47:07.177791344Z",
+  "model": "glm-5.3"
+}

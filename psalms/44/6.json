@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Skrze tebe naše útlakovce odstrčíme, tvým jménem pošlapeme ty, kdo povstávají proti nám.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "skrze tebe"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "naše útlakovce"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "odstrčíme"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "tvým jménem"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "pošlapeme"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "ty, kdo povstávají proti nám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:46.734536482Z",
+  "model": "glm-5.3"
+}

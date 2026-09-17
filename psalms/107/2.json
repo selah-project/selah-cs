@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Ať řeknou vykoupení Jahve, ⟨ty⟩, které vykoupil z ruky soužení,",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Ať řeknou"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "vykoupení"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ty⟩, které"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "vykoupil"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "צר",
+      "gloss": "soužení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:49.816262191Z",
+  "model": "glm-5.3"
+}

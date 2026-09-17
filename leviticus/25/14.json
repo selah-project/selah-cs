@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 25:14",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Když prodáváš prodej svému bližnímu nebo kupuješ z ruky svého bližního, nebudete utlačovat ⟨ani⟩ muže ⟨את⟩ bratra svého.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "prodáváš"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "prodej"
+    },
+    {
+      "surface": "לעמיתך",
+      "gloss": "svému bližnímu"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kupuješ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "svého bližního"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "budete utlačovat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bratra svého"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bratra svého"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:10.634610393Z",
+  "model": "glm-5.3"
+}

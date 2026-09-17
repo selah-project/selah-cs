@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "V prvním měsíci, ve čtrnáctý ⟨den⟩ měsíce, mezi večery ⟨je⟩ pesach pro Jahveho.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "V měsíci"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvním"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ve čtyři"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "−náct"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "večery"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:38.864566306Z",
+  "model": "glm-5.3"
+}

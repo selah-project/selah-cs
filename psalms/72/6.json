@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "Sestoupí jako déšť na střiž, jako přeháňky lijáku zemi.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "Sestoupí"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "jako déšť"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גז",
+      "gloss": "střiž"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "jako přeháňky"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "lijáku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:01.866752514Z",
+  "model": "glm-5.3"
+}

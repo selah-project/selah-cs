@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "⟨את⟩ stůl, ⟨את⟩ všechny jeho nádoby a ⟨את⟩ chléb ⟨the⟩ tváři,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stůl"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stůl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny jeho nádoby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jeho nádoby"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "chléb tváři"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "tváři"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:16.693869846Z",
+  "model": "glm-5.3"
+}

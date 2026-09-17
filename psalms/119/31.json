@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Přilnul jsem k tvým svědectvím, Jahve, nenech mě zahanbit!",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "přilnul jsem"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "k tvým svědectvím"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne, nenech"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "mě zahanbit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:48.050186019Z",
+  "model": "glm-5.3"
+}

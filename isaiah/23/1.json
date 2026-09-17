@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Úděl Týru. Vyjte, lodi taršíšské, neboť zbořen ⟨je⟩ z domova, bez vchodu; ze země kitimské zjeveno jim ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Úděl"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Týru"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Vyjte"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "lodě"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "taršíšské"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "zbořen"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domova"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "kitimské"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "zjeveno"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T08:07:55.577775163Z",
+  "model": "glm-5.3"
+}

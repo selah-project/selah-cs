@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "I řekli sluhové Saula k němu: Hle, prosíme, zlá duše Elohim tě děsí.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluhové"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saula"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosíme"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlý"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "tě děsí"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:46.035252957Z",
+  "model": "glm-5.3"
+}

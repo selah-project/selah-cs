@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A zpustoší ⟨את⟩ zemi Asýrie mečem a ⟨את⟩ zemi Nimroda v jejích branách; a zachrání ⟨nás⟩ od Asýrie, když přijde do naší země a když vstoupí na naše hranice.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "a zpustoší"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi Asýrie"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asýrie"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mečem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zemi Nimroda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimroda"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "v jejích branách"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "a zachrání"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "od Asýrie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "přijde"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "do naší země"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "a když"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "vstoupí"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "na naše hranice"
+    }
+  ],
+  "timestamp": "2026-09-17T09:03:17.177839006Z",
+  "model": "glm-5.3"
+}

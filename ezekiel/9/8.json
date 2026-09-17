@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 9:8",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A stalo se, když bijí a já jsem zbyl ⟨jediný⟩, že jsem padl na svou tvář a zkřičel jsem a řekl: Ach, Adonaj Jahve, ty ničíš ⟨את⟩ celý zbytek Izraele, když vyléváš ⟨את⟩ svůj hněv na Jeruzalém?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כהכותם",
+      "gloss": "když bijí"
+    },
+    {
+      "surface": "ונאשאר",
+      "gloss": "a já jsem zbyl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jediný"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "že jsem padl"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "ואזעק",
+      "gloss": "a zkřičel jsem"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "ničíš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý zbytek Izraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "zbytek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בשפכך",
+      "gloss": "když vyléváš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj hněv"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "svůj hněv"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    }
+  ],
+  "timestamp": "2026-09-17T08:41:18.870817951Z",
+  "model": "glm-5.3"
+}

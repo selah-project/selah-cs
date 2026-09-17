@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Stalo se, když král uslyšel ⟨את⟩ slova tóry, že roztrhl ⟨את⟩ svá roucha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "když uslyšel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slova tóry"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tóry"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "že roztrhl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá roucha"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "svá roucha"
+    }
+  ],
+  "timestamp": "2026-09-17T10:33:17.318310357Z",
+  "model": "glm-5.3"
+}

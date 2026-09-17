@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Volali, ale nebylo zachránce; ⟨k⟩ Jahve ⟨se obraceli⟩, ale neodpověděl jim.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Volali"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ale nebylo"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "zachránce"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "odpověděl jim"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:17.847123635Z",
+  "model": "glm-5.3"
+}

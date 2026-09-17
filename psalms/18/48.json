@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Ten El, který dává pomsty mně a podrobuje národy pod ⟨mne⟩ —",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ten El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "který dává"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "pomsty"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mně"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a podrobuje"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "pod ⟨mne⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:01.806577216Z",
+  "model": "glm-5.3"
+}

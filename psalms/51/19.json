@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Oběti Elohim ⟨jsou⟩ duch zkroušený; srdce zkroušené a zdrcené, Elohim, nebudeš pohrdat.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "Oběti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duch"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "zkroušený"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "zkroušené"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "a zdrcené"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebudeš"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "pohrdat"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:30.478886445Z",
+  "model": "glm-5.3"
+}

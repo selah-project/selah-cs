@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 18:10",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A Sidkiáš, syn Kenaanův, udělal si železné rohy a řekl: Toto praví Jahve: Těmito budeš bodat ⟨את⟩ Aramejce, dokud jich nebude konec.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "si"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkiáš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenaany"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "rohy"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "železné"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "כה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "těmito"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "budeš bodat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramejce"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramejce"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "jich nebude konec"
+    }
+  ],
+  "timestamp": "2026-09-17T10:28:21.136785682Z",
+  "model": "glm-5.3"
+}

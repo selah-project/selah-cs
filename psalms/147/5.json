@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "Veliký ⟨je⟩ náš Adonaj a bohatý silou; jeho porozumění ⟨má⟩ nevyčíslitelnost — ⟨není⟩ počtu jeho vkusu.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Veliký"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "náš Adonaj"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "a bohatý"
+    },
+    {
+      "surface": "כח",
+      "gloss": "silou"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "jeho porozumění"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "počtu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:47.592495995Z",
+  "model": "glm-5.3"
+}

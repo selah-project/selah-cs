@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "Tobě obětujŽ oběť děkovnou a ve jménu Jahve budu vzývat.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tobě"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "obětujŽ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "děkovnou"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "a ve jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "budu vzývat"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:56.690423777Z",
+  "model": "glm-5.3"
+}

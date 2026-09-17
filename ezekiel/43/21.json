@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "A vezmeš ⟨את⟩ mladého býka hříšné oběti a spálíš ho na určeném místě domu, vně svatyně.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "A vezmeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mladého býka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "mladého býka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hříšné oběti"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "a spálíš ho"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "na určeném místě"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "vně"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "svatyně"
+    }
+  ],
+  "timestamp": "2026-09-17T08:53:34.956284086Z",
+  "model": "glm-5.3"
+}

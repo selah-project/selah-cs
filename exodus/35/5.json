@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Vezměte ⟨od⟩ ⟨את⟩ sebe obětinu pro Jahve: každý, kdo je štědrose srdce, ať ji přinese ⟨את⟩ obětinu Jahve: zlato a stříbro a měď.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Vezměte"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ sebe",
+      "marks": "sebe"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "obětinu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "štědrose"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "ať přinese"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obětinu Jahve"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "obětinu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "a stříbro"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "a měď"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:56.744478635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A Šaúl usiloval probodnout Davida kopím ⟨skrz⟩ ke zdi; ale on se vytrhl před Šaúlem a ⟨ten⟩ udeřil ⟨את⟩ kopí do zdi; a David utekl a zachránil se — tu noc.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "usiloval"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúl"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "probodnout"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "kopím"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "⟨skrz⟩ ke zdi"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "vytrhl se"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúlem"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "udeřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopí"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "kopí"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "do zdi"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "נס",
+      "gloss": "utekl"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "zachránil se"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tu noc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "tu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:53.275264169Z",
+  "model": "glm-5.3"
+}

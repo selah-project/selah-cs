@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Moje oko chřadne od utrpení; volám tě, Jahve, každý den, rozprostírám k tobě své dlaně.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Moje oko"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "chřadne"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "עני",
+      "gloss": "utrpení"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "volám tě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "rozprostírám"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "své dlaně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:29.614042447Z",
+  "model": "glm-5.3"
+}

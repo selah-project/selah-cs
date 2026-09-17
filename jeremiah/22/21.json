@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 22:21",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Mluvil jsem k tobě v tvém ⟨klidu⟩, ty jsi řekla: Nebudu slyšet. To ⟨je⟩ tvá cesta od tvého mládí, že jsi neposlychla můj hlas.",
+  "tokens": [
+    {
+      "surface": "דברתי",
+      "gloss": "Mluvil jsem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "בשלותיך",
+      "gloss": "v tvém klidu"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ty jsi řekla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "budu slyšet"
+    },
+    {
+      "surface": "זה",
+      "gloss": "To"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tvá cesta"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "od tvého mládí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "jsi poslouchala"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "můj hlas"
+    }
+  ],
+  "timestamp": "2026-09-17T08:25:09.499404486Z",
+  "model": "glm-5.3"
+}

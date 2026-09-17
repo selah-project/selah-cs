@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A Chazael, král Aramu, tížil ⟨את⟩ Izraele po všechny dny Jóachazovy.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "a Chazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "tížil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "po všechny"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jóachazovy"
+    }
+  ],
+  "timestamp": "2026-09-17T10:56:09.805558310Z",
+  "model": "glm-5.3"
+}

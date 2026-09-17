@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 138,
+  "translation": "Neboť výsoký je Jahve, ale pokorného vidí, a pyšného z dálky pozná.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "רם",
+      "gloss": "výsoký"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "pokorného"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vidí"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "pyšného"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "z dálky"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "pozná"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:45.647761644Z",
+  "model": "glm-5.3"
+}

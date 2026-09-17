@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A ze svatyně nesmí vyjít a nesmí znesvětit ⟨את⟩ svatyni svého Elohima; neboť koruna pomazacího oleje svého Elohima je na něm — já jsem Jahve.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "A ze"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "smí vyjít"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "smí znesvětit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svatyni"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "svatyni"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "koruna oddělení"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oleje"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "pomazacího"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:36.631943388Z",
+  "model": "glm-5.3"
+}

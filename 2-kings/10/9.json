@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 10:9",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A stalo se ráno, že vyšel, stanul a řekl ke všemu lidu: Spravedliví jste ⟨vy⟩. Hle, já jsem spikl proti svému pánu a zabil jsem ho; ale kdo ubil ⟨את⟩ všechny tyto?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "stanul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerému"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "צדקים",
+      "gloss": "Spravedliví"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jste vy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "קשרתי",
+      "gloss": "jsem spikl"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "svému pánu"
+    },
+    {
+      "surface": "ואהרגהו",
+      "gloss": "a zabil jsem ho"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ale kdo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ubil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny tyto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tyto"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:15.844420596Z",
+  "model": "glm-5.3"
+}

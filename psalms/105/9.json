@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "již uzavřel ⟨s⟩ ⟨את⟩ Abrahámem, a svou přísahu Izákovi",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "již"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "uzavřel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahámem"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahámem"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "a svou přísahu"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "Izákovi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:00.465355971Z",
+  "model": "glm-5.3"
+}

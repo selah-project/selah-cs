@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Pro předního zpěváka. Davidův. Řekl hlupák ve svém srdci: ‚Není Elohim.‘ Zkaženě jednali, ohavně konali, není ⟨kdo by⟩ činil dobro.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Řekl"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "hlupák"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Není"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Zkaženě jednali"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "ohavně konali"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "činy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "činící"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:17.538046605Z",
+  "model": "glm-5.3"
+}

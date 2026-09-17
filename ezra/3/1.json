@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A když přišel sedmý měsíc a synové Izraele ⟨byli⟩ v městech, shromáždil se lid jako jeden muž do Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "a když přišel"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "měsíc"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmý"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "a synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "v městech"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "shromáždil se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jako jeden muž"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T10:08:57.193926775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "a uvalí na ně ⟨את⟩ vinu provinění, když budou jíst ⟨את⟩ své posvátné dary; neboť já jsem Jahve, který je posvěcuje.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "a uvalí na ně"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "vinu provinění"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vinu"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "provinění"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "když budou jíst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své posvátné dary"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "své posvátné dary"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "který je posvěcuje"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:09.550384282Z",
+  "model": "glm-5.3"
+}

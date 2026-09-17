@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 11:40",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "I hleděl Šalomoun usmrtit ⟨את⟩ Jeroboama; Jeroboam však vstal a uprchl do Egypta, k Šíšakovi, králi Egypta, a ⟨zůstal⟩ v Egyptě až do smrti Šalomounovy.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "hleděl"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "usmrtit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeroboama"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "vstal"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboam"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "uprchl"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שישק",
+      "gloss": "Šíšakovi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a ⟨zůstal⟩"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Egyptě"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomounovy"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:30.401736759Z",
+  "model": "glm-5.3"
+}

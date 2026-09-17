@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Nenech mě zaplavit příval vod, nedej polykat mnou hlubinu, nedej zavřít nade mnou studně svůj ⟨rtník⟩!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "Nenech mě zaplavit"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "příval"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vod"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "nedej polykat mnou"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "hlubinu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "nedej zavřít"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mnou"
+    },
+    {
+      "surface": "באר",
+      "gloss": "studně"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "svůj ⟨rtník⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:12.382930756Z",
+  "model": "glm-5.3"
+}

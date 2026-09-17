@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A Aaron učinil tak: naproti tváři menory nechal vystoupit její lampy, tak jak přikázal Jahve ⟨את⟩ Moše.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aaron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "מול",
+      "gloss": "přímo před"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menory"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nechal vystoupit"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "její lampy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:16.641517071Z",
+  "model": "glm-5.3"
+}

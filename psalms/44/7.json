@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Neboť ne v svém luku budu doufat, a můj meč — ⟨ten⟩ mě nezachrání.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "v svém luku"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "budu doufat"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "a můj meč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "mě zachrání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:46.734644116Z",
+  "model": "glm-5.3"
+}

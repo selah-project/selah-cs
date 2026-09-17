@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "a za svou sestru, pannu, blízkou jemu, která nebyla ⟨provdána⟩ za muže — tu smí poskvrnit se ⟨obřadně⟩",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "a za svou sestru"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "pannu"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "blízkou"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "byla"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "za muže"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tu (za ni)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "smí poskvrnit se"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:53.002293998Z",
+  "model": "glm-5.3"
+}

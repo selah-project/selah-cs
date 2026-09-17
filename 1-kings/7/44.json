@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "a ⟨את⟩ jedno moře ⟨את⟩ dvanáct volů pod mořem",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jedno moře"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dvanáct volů"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "voli"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mořem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:09.852393271Z",
+  "model": "glm-5.3"
+}

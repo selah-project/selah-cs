@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Drcena je duše má touhou po tvých výnosech v každý čas.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Drcena"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše má"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "touhou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "po"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tvých výnosech"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v každý"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:50.018321567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Vzali ⟨את⟩ to, co přikázal Mojžíš, před stan setkávání, a přiblížila se celá obec a postavili se před tvář Jahve.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "vzali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co přikázal Mojžíš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváři"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "a přiblížila se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celá"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "obec"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "a postavili se"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:27.691899450Z",
+  "model": "glm-5.3"
+}

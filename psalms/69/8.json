@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Nebo kvůli tobě jsem nesl potupu, hanba přikryla mou tvář.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kvůli tobě"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "jsem nesl"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "potupu"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "přikryla"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "hanba"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mou tvář"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:13.699017412Z",
+  "model": "glm-5.3"
+}

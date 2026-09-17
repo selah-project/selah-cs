@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 25:19",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Uděláš cheruba jednoho na konci odtud a cheruba jednoho na konci odtud; z ⟨samé⟩ kaporet uděláte ⟨את⟩ cheruby na jejích dvou koncích.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Uděláš"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "cheruba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "na konci"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "a cheruba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "na konci"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "⟨samé⟩ kaporet"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "uděláte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cheruby"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "cheruby"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dvou"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "konech"
+    }
+  ],
+  "timestamp": "2026-09-17T06:24:14.667561643Z",
+  "model": "glm-5.3"
+}

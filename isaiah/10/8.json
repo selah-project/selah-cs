@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Neboť řekne: Což ne ⟨jsou⟩ moji velitelé všichni králové?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "řekne"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Což ne"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "moji velitelé"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "všichni (společně)"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "králové"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:14.478276306Z",
+  "model": "glm-5.3"
+}

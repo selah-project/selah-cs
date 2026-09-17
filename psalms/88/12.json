@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Zdál se v hrobě vypráví tvůj chesed, tvá věrnost v Abdadónu?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Zdál se vypráví"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "v hrobě"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvůj chesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tvá věrnost"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "v Abdadónu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:29.614440296Z",
+  "model": "glm-5.3"
+}

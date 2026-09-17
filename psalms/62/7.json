@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "Jen on je skála má a spasení mé, útočiště mé; nepohnu se.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "skála má"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "a spasení mé"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "útočiště mé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "pohnu se"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:03.187102352Z",
+  "model": "glm-5.3"
+}

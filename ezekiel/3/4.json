@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl mi: Synu člověče, jdi, vejdi k domu Izraele a mluv mými slovy k nim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Synu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověče"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vejdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "a mluv"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "mými slovy"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k nim"
+    }
+  ],
+  "timestamp": "2026-09-17T08:39:04.588379488Z",
+  "model": "glm-5.3"
+}

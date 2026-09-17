@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Řev lva i hlas dravé šelmy — a zuby mladých lvů ⟨jsou⟩ vytříštěny.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "řev"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lva"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "i hlas"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "dravé šelmy"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "a zuby"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "mladých lvů"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "⟨jsou⟩ vytříštěny"
+    }
+  ],
+  "timestamp": "2026-09-17T11:17:23.150726315Z",
+  "model": "glm-5.3"
+}

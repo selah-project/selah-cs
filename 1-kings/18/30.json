@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Elijáš řekl všemu lidu: Přibližte se ke mně! A všechen lid se přiblížil k němu. A opravil ⟨את⟩ oltář Jahve, ten zbořený.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáš"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všemu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Přibližte se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "se přiblížil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "a opravil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltář"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "ten zbořený"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:37.673119522Z",
+  "model": "glm-5.3"
+}

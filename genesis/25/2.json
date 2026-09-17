@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A porodila mu ⟨את⟩ Zimrana a ⟨את⟩ Jokšana a ⟨את⟩ Medána a ⟨את⟩ Midjána a ⟨את⟩ Jišbaka a ⟨את⟩ Šúacha.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimrana"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Jokšana"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Jokšan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Medána"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medán"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Midjána"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midján"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Jišbaka"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Jišbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Šúacha"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Šúach"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:13.427812586Z",
+  "model": "glm-5.3"
+}

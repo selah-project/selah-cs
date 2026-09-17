@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Utlačující chudého, aby ⟨si⟩ rozmnožil ⟨majetek⟩, dávající bohatému — jen k nouzi.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "utlačující"
+    },
+    {
+      "surface": "דל",
+      "gloss": "chudého"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "aby rozmnožil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dávající"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "bohatému"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "k nouzi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:13.794885101Z",
+  "model": "glm-5.3"
+}

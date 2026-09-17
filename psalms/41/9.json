@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Věc beliálovu vylévají na něj ⟨a ten, kdo leží, nevstane⟩ — a kdo leží, už nevstane.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "beliálovu"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "vylévají"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a ten, kdo"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "leží"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "už (nepřidá, tj. více)"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "vstane"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:21.521388676Z",
+  "model": "glm-5.3"
+}

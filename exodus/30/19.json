@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A budou se z něj umývat Árón a jeho synové, ⟨את⟩ své ruce a ⟨את⟩ své nohy.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "a budou se umývat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árón"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "a jeho synové"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své ruce"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "své ruce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "své nohy"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "své nohy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:02.202484251Z",
+  "model": "glm-5.3"
+}

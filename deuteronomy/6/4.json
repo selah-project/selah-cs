@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Slyš, Izraeli: Jahve ⟨je⟩ Elohim náš, Jahve ⟨je⟩ jeden.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Slyš"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim náš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:54.961005628Z",
+  "model": "glm-5.3"
+}

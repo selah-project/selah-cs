@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "Požehnaný buď Jahve, Elohim Izraele, od věku až na věk, a řekne ⟨ať řekne⟩ všichen ⟨celý⟩ lid: Amen. Halelujah, ⟨chvalte⟩ Jah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Požehnaný buď"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "věku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až na"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "věk"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řekne ⟨ať řekne⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen ⟨celý⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelujah ⟨chvalte⟩"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:33.672234750Z",
+  "model": "glm-5.3"
+}

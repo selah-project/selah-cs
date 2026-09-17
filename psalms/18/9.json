@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Stoupal dým z ⟨jeho⟩ nosu a oheň z ⟨jeho⟩ úst požíral, uhlíky se z ⟨něho⟩ rozžehly.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "stoupal"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "dým"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "z ⟨jeho⟩ nosu"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "a oheň"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "z ⟨jeho⟩ úst"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "požíral"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "uhlíky"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "se rozžehly"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z ⟨něho⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:53.123055545Z",
+  "model": "glm-5.3"
+}

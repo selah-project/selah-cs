@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A řekl jim: Znáte ⟨את⟩ Lábana, syna Náchorova? A řekli: Známe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Znáte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lábana"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lábana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Náchorova"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "A řekli"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Známe"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:09.323423298Z",
+  "model": "glm-5.3"
+}

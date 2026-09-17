@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Neboť při množství snů a prázdností a mnoha slovech — ale ⟨את⟩ Elohim se boj!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "při množství"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "snů"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "a prázdností"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "a slovech"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mnoha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se boj"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:09.378985241Z",
+  "model": "glm-5.3"
+}

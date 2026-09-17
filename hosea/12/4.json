@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "V lůně popadl ⟨את⟩ svého bratra za patu a ve své síle zápolil s ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "v lůně"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "popadl za patu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého bratra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svého bratra"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "a ve své síle"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "zápolil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T08:57:49.274735056Z",
+  "model": "glm-5.3"
+}

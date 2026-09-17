@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Chesed Jahve budu zpívat navěky, od pokolení do pokolení budu hlásat tvou věrnost svými ústy.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "budu zpívat"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "do pokolení"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "a pokolení"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "budu hlásat"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tvou věrnost"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "svými ústy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:04.275528413Z",
+  "model": "glm-5.3"
+}

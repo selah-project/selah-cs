@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Naara mu porodila ⟨את⟩ Achuzáma a ⟨את⟩ Chefera a ⟨את⟩ Temeního a ⟨את⟩ Achaštarího; toto jsou synové Naary.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "A porodila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achuzáma"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Achuzám"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Chefera"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Chefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Temeního"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temení"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Achaštarího"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Achaštarí"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naary"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:56.764357484Z",
+  "model": "glm-5.3"
+}

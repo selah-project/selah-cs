@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A kněz ⟨ho⟩ uvidí, a hle, vřed se obrátil v bílo, a kněz prohlásí ⟨את⟩ vřed ⟨za⟩ čistý — čistý je.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "a uvidí ⟨ho⟩"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "se obrátil"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "vřed"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "v bílo"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "a prohlásí ⟨za⟩ čistý"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vřed"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "vřed"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čistý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:54.925775180Z",
+  "model": "glm-5.3"
+}

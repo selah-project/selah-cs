@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Zapomene panna svou ozdobu, nevěsta svůj pás ⟨ozdobný⟩? Však můj lid zapomněl mne — dny bez počtu.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "Zapomene"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "panna"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "svou ozdobu"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nevěsta"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "svůj pás"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "Však můj lid"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "zapomněl mne"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "počtu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:01:03.506255793Z",
+  "model": "glm-5.3"
+}

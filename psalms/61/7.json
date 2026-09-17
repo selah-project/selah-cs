@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 61,
+  "translation": "Přidej dnů k dnům krále, jeho let jako pokolení za pokolením!",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dnům"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "přidej"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "jeho let"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jako"
+    },
+    {
+      "surface": "דר",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "za pokolením"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:27.879287283Z",
+  "model": "glm-5.3"
+}

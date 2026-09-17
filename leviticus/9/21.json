@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A ⟨את⟩ prsa a ⟨את⟩ pravou lysinu mávl Áron máváním před Jahvem, jak přikázal Moše.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "prsa"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "prsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pravou lysinu"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lysinu"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "pravou"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "mávl"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "máváním"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:26.274431269Z",
+  "model": "glm-5.3"
+}

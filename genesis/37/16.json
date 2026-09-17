@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A on řekl: „⟨את⟩ Mé bratry hledám. Pověz mi prosím, kde pastou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mé bratry"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mé bratry"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "hledám"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "pověz"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "kde"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pastou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:56.449658530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A šel jsem k Pératu, vykopal jsem a vzal ⟨את⟩ pás z místa, kde jsem jej ukryl, a hle, pás byl zkažen, k ničemu se nehodil.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "A šel jsem"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "k Pératu"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "vykopal jsem"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pás"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "pás"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "místa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "jsem jej ukryl"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "byl zkažen"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "pás"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "hodil se"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "k ničemu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:23:17.549736258Z",
+  "model": "glm-5.3"
+}

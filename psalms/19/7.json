@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Od konce nebes je jeho východ a jeho oběh ⟨až⟩ k jejich koncům, a nic není skryto před jeho žárem.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "od konce"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "jeho východ"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "a jeho oběh"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "jejich koncům"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nic"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "není skryto"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "před jeho žárem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:55.584374301Z",
+  "model": "glm-5.3"
+}

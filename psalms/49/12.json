@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Jejich vnitřní myšlenkou ⟨je⟩, že jejich domy ⟨budou⟩ navždy, jejich příbytky pokolení za pokolením; své jméno dali svolat na pozemky.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "jejich vnitřní myšlenkou"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "jejich domy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "jejich příbytky"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "za pokolením"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "dali svolat"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "svým jménem"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "pozemky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:32.704405295Z",
+  "model": "glm-5.3"
+}

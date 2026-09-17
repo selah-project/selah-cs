@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "⟨Jako⟩ pán ⟨manžel⟩ se neposkvrní ve svém lidu, aby se neznesvětil",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "poskvrní se"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "pán\/manžel (jako)"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "ve svém lidu"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "aby neznesvětil sebe"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:53.002434320Z",
+  "model": "glm-5.3"
+}

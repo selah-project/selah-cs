@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A pozvedla celá obec ⟨svůj⟩ hlas a dali vzniknout ⟨את⟩ svému hlasu, a plakal lid v noci oné.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "a pozvedla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celá"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "obec"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "dali vzniknout"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svému hlasu"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "svému hlasu"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "a plakal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oné"
+    }
+  ],
+  "timestamp": "2026-09-17T06:43:56.304451476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Bojová vozatajstvo Elohim ⟨je⟩ dvakrát bezpočetné, tisíce opakování — Adonaj ⟨je⟩ uprostřed nich, Sínaj ⟨je⟩ ve svatyni.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "bojová vozatajstvo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "dvakrát bezpočetné"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tisíce"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "opakování"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בם",
+      "gloss": "uprostřed nich"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sínaj"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ve svatyni"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:52.692000376Z",
+  "model": "glm-5.3"
+}

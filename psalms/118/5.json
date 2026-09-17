@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Z úzkosti jsem volal Jah, Jah mi odpověděl ⟨v⟩ šíři.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Z"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "úzkosti"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jsem volal"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "mi odpověděl"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "⟨v⟩ šíři"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:18.924215769Z",
+  "model": "glm-5.3"
+}

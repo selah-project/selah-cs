@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 53,
+  "translation": "Opovržen a opuštěn od lidí, muž bolestí a známý nemocí; jako ten, před nímž se skrývají tváře, opovržen — a my jsme ho nepočítali ⟨za nic⟩.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Opovržen"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "a opuštěn"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "od lidí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "bolestí"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "a známý"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "nemocí"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "jako skrývající"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tváře"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "opovržen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "počítali jsme ho"
+    }
+  ],
+  "timestamp": "2026-09-17T08:15:48.886375306Z",
+  "model": "glm-5.3"
+}

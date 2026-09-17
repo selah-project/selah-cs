@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Doufej v Jahve a čiň dobro; přebývej v zemi a pasej věrností.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "doufej"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a čiň"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "přebývej"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "a pasej"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "věrností"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:21.582137360Z",
+  "model": "glm-5.3"
+}

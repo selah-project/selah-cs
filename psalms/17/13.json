@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Povstaň, Jahve, vyjdi vstříc jeho tváři, přemoz jej; vyveď mou duši před bezbožného ⟨od⟩ tvého meče.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Povstaň"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "vyjdi vstříc"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "jeho tváři"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "přemoz jej"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "vyveď"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji duši"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "před bezbožným"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "tvým mečem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:37.769445935Z",
+  "model": "glm-5.3"
+}

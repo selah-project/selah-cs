@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A David se znovu dotázal Jahveho, a Jahve mu odpověděl a řekl: Vstaň, sestup do Keily, neboť já dávám ⟨את⟩ Pelištejce do tvé ruky.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "A ⟨se⟩ znovu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "znovu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "dotázal"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "a odpověděl ⟨mu⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Vstaň"
+    },
+    {
+      "surface": "רד",
+      "gloss": "sestup"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "do Keily"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dávám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelištejce"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejce"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "do tvé ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:35.716307101Z",
+  "model": "glm-5.3"
+}

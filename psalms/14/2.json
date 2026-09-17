@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Jahve z nebes shlížel na syny člověka, aby viděl, je-li ⟨někdo⟩ rozumný, ⟨kdo⟩ hledá ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z nebes"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "shlížel"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby viděl"
+    },
+    {
+      "surface": "היש",
+      "gloss": "je-li"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "rozumný"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "hledá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:17.538390951Z",
+  "model": "glm-5.3"
+}

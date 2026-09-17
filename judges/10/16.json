@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A odstranili ⟨את⟩ bohy cizí ze svého středu a sloužili ⟨את⟩ Jahveovi; a jeho duše se krátila nad útrapou Izraele.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "a odstranili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohy cizí"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bohy"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "cizí"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "ze svého středu"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "a sloužili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveovi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveovi"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "a se krátila"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jeho duše"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "nad útrapou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:14:56.184658323Z",
+  "model": "glm-5.3"
+}

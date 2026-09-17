@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Talent ryzího zlata — z něj se udělá ⟨את⟩ ⟨ji⟩, ⟨את⟩ všechny tyto nádoby.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ryzího"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se udělá"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ⟨ji⟩",
+      "marks": "menora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny tyto nádoby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "tyto nádoby"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:27.697305844Z",
+  "model": "glm-5.3"
+}

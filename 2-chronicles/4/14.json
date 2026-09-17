@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A ⟨את⟩ podstavce udělal, a ⟨את⟩ umyvadla udělal na podstavcích.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "podstavce"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "podstavce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umyvadla"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "umyvadla"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "podstavcích"
+    }
+  ],
+  "timestamp": "2026-09-17T11:24:47.328246824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Moji nepřátelé říkají o mně zlé: „Kdy zemře a jeho jméno zahyne?“",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Moji nepřátelé"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "říkají"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "o mně"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Kdy"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "a zahyne"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:34.716595249Z",
+  "model": "glm-5.3"
+}

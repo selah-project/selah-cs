@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A Ša'ul se ptal Jahveho, ale Jahve mu neodpověděl, ani ve snech, ani v Urim, ani skrze proroky.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "a ptal se"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "mu odpověděl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "ve snech"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "v Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "skrze proroky"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:45.702619191Z",
+  "model": "glm-5.3"
+}

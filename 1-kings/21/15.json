@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 21:15",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Stalo se, když Jezábel uslyšela, že Nábot byl ukamenován a zemřel, že Jezábel řekla Achabovi: „Vstaň, ujmi ⟨את⟩ vinici Nábota Jizreelského, který odmítl dát ti ji za stříbro, neboť Nábot není naživu — je mrtev.“",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "když uslyšela"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Jezábel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "byl ukamenován"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nábot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "zemřel"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "řekla"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Jezábel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabovi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "vstaň"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ujmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vinici"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vinici"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nábota"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "Jizreelského"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "odmítl"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dát"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "za stříbro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nábot"
+    },
+    {
+      "surface": "חי",
+      "gloss": "naživu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtev"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:56.303746302Z",
+  "model": "glm-5.3"
+}

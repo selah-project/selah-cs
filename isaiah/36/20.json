@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Kdo ze všech bohů těchto zemí vysvobodil ⟨את⟩ svou zemi z mé ruky, že by Jahve vysvobodil ⟨את⟩ Jeruzalém z mé ruky?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bohů"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "těchto zemí"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "vysvobodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou zemi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "svou zemi"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "z mé ruky"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že by"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "vysvobodil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalém"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "z mé ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T08:10:49.967055696Z",
+  "model": "glm-5.3"
+}

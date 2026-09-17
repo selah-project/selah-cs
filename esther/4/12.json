@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A vyprávěli Mordechajovi ⟨את⟩ slova Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "A vyprávěli"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordechajovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slova Ester"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:44.494940523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 12:5",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A Gilad obsadil ⟨את⟩ brody Jordánu ⟨patřícící k⟩ Efrajimu; a stalo se, když říkali uprchlíci Efrajimovi: „Chci přejít!“ — muži Giladovi mu řekli: „Jsi Efrajimitan?“ A on řekl: „Ne.“",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "obsadil"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "brody Jordánu"
+    },
+    {
+      "surface": "מעברות",
+      "gloss": "brody"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordánu"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "⟨k⟩ Efrajimu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "říkali"
+    },
+    {
+      "surface": "פליטי",
+      "gloss": "uprchlíci"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimovi"
+    },
+    {
+      "surface": "אעברה",
+      "gloss": "„Chci přejít!“"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "řekli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muži"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladovi"
+    },
+    {
+      "surface": "האפרתי",
+      "gloss": "Efrajimitan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi ty"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "„Ne“"
+    }
+  ],
+  "timestamp": "2026-09-17T07:16:45.320439971Z",
+  "model": "glm-5.3"
+}

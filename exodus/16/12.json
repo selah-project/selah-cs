@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "„Uslyšel jsem ⟨את⟩ reptání synů Izraele. Mluv k nim takto: ‚Mezi večery budete jíst maso a ráno se nasytíte chlebem — a poznáte, že já jsem Jahve, váš Elohim.‘“",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Uslyšel jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "reptání synů Izraele"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "reptání"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Mluv"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "k nim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto"
+    },
+    {
+      "surface": "בין",
+      "gloss": "Mezi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "večery"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "budete jíst"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "a ráno"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "se nasytíte"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "a poznáte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:14.815290889Z",
+  "model": "glm-5.3"
+}

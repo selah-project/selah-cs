@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Od chodidla nohy až k hlavě — není na ní zdraví; rána a modřina a čerstvá rána: nebyla vytlačena ani svázána ani změkčena olejem.",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "od chodidla"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "nohy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavě"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ní"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "zdraví"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "rána"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "a modřina"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "a rána"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "čerstvá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "byla vytlačena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "svázána"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "změkčena"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olejem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:21.093445849Z",
+  "model": "glm-5.3"
+}

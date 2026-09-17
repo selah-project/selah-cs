@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "A stalo se dne druhého po usmrcení ⟨את⟩ Gedaljáše — a nikdo o tom nevěděl.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhého"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "po usmrcení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedaljáše"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedaljáše"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a nikdo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "věděl"
+    }
+  ],
+  "timestamp": "2026-09-17T08:32:38.431401418Z",
+  "model": "glm-5.3"
+}

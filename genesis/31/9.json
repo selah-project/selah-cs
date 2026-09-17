@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A Elohim vytratil ⟨את⟩ dobytek vašeho otce a dal ⟨jej⟩ mně.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "vytratil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dobytek vašeho otce"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "dobytek"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "vašeho otce"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mně"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:09.258223794Z",
+  "model": "glm-5.3"
+}

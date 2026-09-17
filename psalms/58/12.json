@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 58,
+  "translation": "A člověk řekne: Jistě je ovoce pro spravedlivého; jistě je Elohim soudící na zemi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekne"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ovoce\/odměna"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "pro spravedlivého"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "soudící"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:59.821681801Z",
+  "model": "glm-5.3"
+}

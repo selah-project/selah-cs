@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Synu můj, budou-li tě hříšníci svádět, nevyhov.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Synu můj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "budou-li"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "svádět"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "hříšníci"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "nevyhov"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:50.545704422Z",
+  "model": "glm-5.3"
+}

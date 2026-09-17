@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "Neboť nejsou ⟨pro ně⟩ pouta k jejich smrti, a jejich tělo ⟨je⟩ při síle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nejsou"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "pouta"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "k jejich smrti"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "a při síle"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "jejich tělo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:49.872965972Z",
+  "model": "glm-5.3"
+}

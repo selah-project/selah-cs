@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 114,
+  "translation": "Při vycházení Izraele z Egypta, domu Jakubova z lidu řeči ⟨cizí⟩ —",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "při vycházení"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakubova"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "z lidu"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "řeči cizí"
+    }
+  ],
+  "timestamp": "2026-09-17T12:59:52.334941433Z",
+  "model": "glm-5.3"
+}

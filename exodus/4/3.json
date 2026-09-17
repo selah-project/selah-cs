@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A řekl: Hoď ⟨ji⟩ na zem. A hodil ⟨ji⟩ na zem, a ⟨ta⟩ se stala hadem, a Mojžíš utekl před ním.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "hoď"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zem"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "a hodil"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "hadem"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "a utekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "před ním"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:35.484775517Z",
+  "model": "glm-5.3"
+}

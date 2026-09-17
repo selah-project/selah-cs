@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A řekl: Zavolej ji. A zavolal ji, a ona stála ve dveřích.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Zavolej"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "A zavolal"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "a stála"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "ve dveřích"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:49.430668195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A neúčtovali s ⟨את⟩ muži, do jejichž rukou dávali ⟨את⟩ stříbro, aby dali dělatelům práce, neboť ve věrnosti jednali.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "A ne"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "účtovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muži"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "s muži"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "dávali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stříbro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "jejich rukou"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "aby dali"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "dělatelům"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "práce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "ve věrnosti"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "jednali"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:20.888658570Z",
+  "model": "glm-5.3"
+}

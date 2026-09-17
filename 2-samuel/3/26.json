@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 3:26",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A vyšel Joáb od Davida a poslal posly za Abnerem, a vrátili ⟨את⟩ ho zpět od cisterny Síry; a David nevěděl.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "A vyšel"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posly"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abnerem"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "a vrátili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (Abnera)"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "od cisterny"
+    },
+    {
+      "surface": "הסרה",
+      "gloss": "Síry"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "věděl"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:45.455937200Z",
+  "model": "glm-5.3"
+}

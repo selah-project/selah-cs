@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 11:15",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A přikázal Jehojada kněz ⟨את⟩ velitelům stovek, přednostům vojska, a řekl jim: Vyveďte ⟨את⟩ ji ven mezi řady, a kdo půjde za ní, ať zemře mečem; neboť řekl kněz: Nedejte jí zemřít v domě Jahveho.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "A-přikázal"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "velitelům stovek"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "velitelům"
+    },
+    {
+      "surface": "המיאות",
+      "gloss": "stovek"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "přednostům"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a-řekl"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Vyveďte"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ven"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z-vnějšku"
+    },
+    {
+      "surface": "לשדרת",
+      "gloss": "mezi-řady"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "a-kdo-půjde"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "za-ní"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ať-zemře"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mečem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תומת",
+      "gloss": "zemřít"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v-domě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:27.559366786Z",
+  "model": "glm-5.3"
+}

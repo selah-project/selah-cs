@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Tvým pokáráním prchají, před hlasem tvého hromu spěchají pryč.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "před"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "tvým pokáráním"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "prchají"
+    },
+    {
+      "surface": "מן",
+      "gloss": "před"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlasem"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "tvého hromu"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "spěchají pryč"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:17.731446330Z",
+  "model": "glm-5.3"
+}

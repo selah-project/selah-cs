@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 3:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A Šalomoun se spříbuznil s ⟨את⟩ faraónem, králem Egypta, a vzal ⟨את⟩ dceru faraónovu a přivedl ji do města Davidova, dokud nedokončil stavět ⟨את⟩ svůj dům, a ⟨את⟩ dům Jahveho, a ⟨את⟩ hradbu Jeruzaléma kolem dokola.",
+  "tokens": [
+    {
+      "surface": "ויתחתן",
+      "gloss": "spříbuznil se"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faraónem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dceru"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónovu"
+    },
+    {
+      "surface": "ויביאה",
+      "gloss": "přivedl ji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "nedokončil"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "stavět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj dům"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svůj dům"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dům Jahveho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "hradbu"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "hradbu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:58.917310451Z",
+  "model": "glm-5.3"
+}

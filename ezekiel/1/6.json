@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "a čtyři tváře ⟨má⟩ každá z nich a čtyři křídla ⟨má⟩ každá z nich.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "a čtyři"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tváře"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "každé jedné"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "a čtyři"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "křídla"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "každé jedné"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T08:37:15.135048653Z",
+  "model": "glm-5.3"
+}

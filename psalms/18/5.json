@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Obklopily mě provazy smrti a potoky belial mě zděsily.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "obklopily mě"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "provazy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "a potoky"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "belial"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "mě zděsily"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:21.643657759Z",
+  "model": "glm-5.3"
+}

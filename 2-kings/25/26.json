@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 25:26",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "I vstoupil všechen lid, od malého až po velikého, i velitelé bojovníků, a vešli do Egypta, neboť se báli Kasdců.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "vstoupil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "od malého"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikého"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "i velitelé"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "bojovníků"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "vešli"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "báli se"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "z tváře"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdců"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:25.840553406Z",
+  "model": "glm-5.3"
+}

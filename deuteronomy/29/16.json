@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A viděli jste ⟨את⟩ jejich ohavosti a ⟨את⟩ jejich modly — dřevo a kámen, stříbro a zlato, které ⟨bylo⟩ s nimi.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "A viděli jste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich ohavosti"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "jejich ohavosti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jejich modly"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "jejich modly"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dřevo"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "a kámen"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "a zlato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "⟨bylo⟩ s nimi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:49.256443286Z",
+  "model": "glm-5.3"
+}

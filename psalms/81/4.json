@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 81,
+  "translation": "Troubte při novém měsíci na šofar, při úplňku, ke dni našeho svátku!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Troubte"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "při novém měsíci"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "na šofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "při úplňku"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ke dni"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "našeho svátku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:48.274968004Z",
+  "model": "glm-5.3"
+}

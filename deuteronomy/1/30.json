@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Jahve, váš Elohim, který jde před vámi, on za vás bude bojovat — podle všeho, co s ⟨את⟩ vámi učinil v Egyptě před vašima očima.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "který jde"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "před vámi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "bude bojovat"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vás"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "s ⟨את⟩ vámi",
+      "marks": "vámi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Egyptě"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "před vašima očima"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:02.803284715Z",
+  "model": "glm-5.3"
+}

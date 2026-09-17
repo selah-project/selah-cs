@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I přikázal Jahve Elohim člověku ⟨toto⟩: „Z každého stromu zahrady jíst budeš jíst.“",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "I přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "člověku ⟨toto⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkaje"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "Z každého"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "stromu"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "zahrady"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "budeš jíst"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:00.955337106Z",
+  "model": "glm-5.3"
+}

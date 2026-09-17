@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Noc za den změnili; světlo ⟨je⟩ blízko kvůli tmě.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "noc"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "za den"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "změnili"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "blízko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tmě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:47:32.651208208Z",
+  "model": "glm-5.3"
+}

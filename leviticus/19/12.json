@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A nebudete přísahat jménem mým k lži, a nebudeš znesvěcovat ⟨את⟩ jména svého Elohim — Já ⟨jsem⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "budete přísahat"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "jménem mým"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "k lži"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "a nebudeš znesvěcovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jména"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jména"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svého Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:29.263844100Z",
+  "model": "glm-5.3"
+}

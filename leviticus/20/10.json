@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A muž, který by cizoložil s ⟨את⟩ ženou muže, který by cizoložil s ⟨את⟩ ženou svého bližního, jistě bude usmrcen cizoložník i cizoložnice.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "a muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "by cizoložil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žena muže"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "cizoložil by"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žena bližního"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženou"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svého bližního"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bude usmrcen"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "cizoložník"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "i cizoložnice"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:47.781376573Z",
+  "model": "glm-5.3"
+}

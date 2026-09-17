@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Pohleď, odpověz mi, Jahve, můj Elohim; rozsvť ⟨mi⟩ oči, abych nezaspal ⟨spánek⟩ smrti —",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Pohleď"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odpověz mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "můj Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "rozsvť"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "⟨mi⟩ oči"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abych ne"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "zaspal"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:18.570452900Z",
+  "model": "glm-5.3"
+}

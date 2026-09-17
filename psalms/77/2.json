@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Můj hlas ⟨jde⟩ k Elohim a já volám, můj hlas ⟨jde⟩ k Elohim, a ⟨on⟩ mi nakloní ucho.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Můj hlas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "a já volám"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "můj hlas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "a ⟨on⟩ nakloní ucho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:54.160516477Z",
+  "model": "glm-5.3"
+}

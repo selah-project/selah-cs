@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "a hodili ⟨את⟩ jejich bohy do ohně, neboť ne ⟨jsou⟩ to bohové, nýbrž dílo rukou člověka — dřevo a kámen — a zničili je.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "a hodili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich bohy"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "jejich bohy"
+    },
+    {
+      "surface": "באש",
+      "gloss": "do ohně"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bohové"
+    },
+    {
+      "surface": "המה",
+      "gloss": "to (oni)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nýbrž (neboť)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nýbrž"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dřevo"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "a kámen"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "a zničili je"
+    }
+  ],
+  "timestamp": "2026-09-17T10:56:43.796421562Z",
+  "model": "glm-5.3"
+}

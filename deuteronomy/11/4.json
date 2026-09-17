@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 11:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "a co učinil vojsku Egypta, jeho koním a jeho vozům, když přehnal ⟨את⟩ vody Rudého moře přes jejich tváře, když vás pronásledovali, a Jahve je zničil až do tohoto dne.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "a co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "לחיל",
+      "gloss": "vojsku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "לסוסיו",
+      "gloss": "jeho koním"
+    },
+    {
+      "surface": "ולרכבו",
+      "gloss": "a jeho vozům"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "הציף",
+      "gloss": "přehnal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vody"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vody"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Rudého (moře sítin)"
+    },
+    {
+      "surface": "על",
+      "gloss": "přes"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "jejich tváře"
+    },
+    {
+      "surface": "ברדפם",
+      "gloss": "když pronásledovali"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "vás"
+    },
+    {
+      "surface": "ויאבדם",
+      "gloss": "a zničil je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tohoto dne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:19.542803641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Po ⟨městě⟩ se rozběhnou, po ⟨zdi⟩ poběží, do ⟨domů⟩ vystoupí, okny vejdou jako lupič.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "po ⟨městě⟩"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "se rozběhnou"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "po ⟨zdi⟩"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "poběží"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "do ⟨domů⟩"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "vystoupí"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "skrze"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "okny"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vejdou"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "jako lupič"
+    }
+  ],
+  "timestamp": "2026-09-17T08:58:50.145766958Z",
+  "model": "glm-5.3"
+}

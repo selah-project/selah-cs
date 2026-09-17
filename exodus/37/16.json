@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A udělal ⟨את⟩ nádoby, které ⟨jsou⟩ na stole: ⟨את⟩ jeho mísy, ⟨את⟩ jeho lžíce, ⟨את⟩ jeho číše a ⟨את⟩ konvice, jimiž se z nich libuje, ze zlata ryzího.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nádoby"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "nádoby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho mísy"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "jeho mísy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho lžíce"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "jeho lžíce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho číše"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "jeho číše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konvice"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "konvice"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jimiž"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "se libuje"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ze zlata"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ryzího"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:50.508905127Z",
+  "model": "glm-5.3"
+}

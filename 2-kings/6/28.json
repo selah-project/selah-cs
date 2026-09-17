@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A řekl jí král: Co ti ⟨je⟩? A ta žena ⟨tamta⟩ řekla: Tato žena mi řekla: Dej ⟨את⟩ svého syna a sníme ho dnes, a ⟨את⟩ mého syna sníme zítra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "A řekla"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ta žena"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "řekla"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Dej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého syna"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "a sníme ho"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mého syna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mého syna"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "sníme"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "zítra"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:59.371563786Z",
+  "model": "glm-5.3"
+}

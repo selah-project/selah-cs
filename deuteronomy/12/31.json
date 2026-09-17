@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 12:31",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Neučiň tak Jahve, svému Elohimu, neboť každou ohavnost, kterou Jahve nenávidí, činili ⟨svým⟩ bohům — neboť i ⟨את⟩ své syny a ⟨את⟩ své dcery pálí ohněm ⟨svým⟩ bohům.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "učiň"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svému Elohimu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každou"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ohavnost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nenávidí"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "činili"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "bohům"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své syny"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "své syny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "své dcery"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "své dcery"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "pálí"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "bohům"
+    }
+  ],
+  "timestamp": "2026-09-17T11:41:36.652987568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Dny mé jsou lehčí než tkalcův člnek a došly svého konce bez naděje.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "dnů mých"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "jsou lehčí"
+    },
+    {
+      "surface": "מני",
+      "gloss": "než"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "tkalcův člnek"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "a došly konce"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "bez"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "naděje"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:02.438843740Z",
+  "model": "glm-5.3"
+}

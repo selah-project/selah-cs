@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 84,
+  "translation": "Jak šťastný je člověk, jenž má svou sílu v tobě, ⟨na⟩ jejich srdci jsou cesty ⟨k Sionu⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Jak šťastný"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "sílu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "má"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "cesty"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "na jejich srdci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:17.058427863Z",
+  "model": "glm-5.3"
+}

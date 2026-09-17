@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 7:9",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Krást, vraždit, cizoložit, krivě se zapřísahat, kadit Baalovi a chodit za jinými Elohim, které jste neznali —",
+  "tokens": [
+    {
+      "surface": "הגנב",
+      "gloss": "Krást"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "vraždit"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "cizoložit"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "se zapřísahat"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "krivě"
+    },
+    {
+      "surface": "וקטר",
+      "gloss": "kadit"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalovi"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "chodit"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jinými Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "jinými"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "jste neznali"
+    }
+  ],
+  "timestamp": "2026-09-17T08:20:42.919362827Z",
+  "model": "glm-5.3"
+}

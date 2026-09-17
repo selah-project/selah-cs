@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Hle, dny přicházejí, je výrok Jahveho, a zaset ⟨את⟩ dům Izraele a ⟨את⟩ dům Judů, símě lidské a símě dobytčat.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "באים",
+      "gloss": "přicházejí"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "je výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "a zaset"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům Izraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dům Judů"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judů"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "símě"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidské"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "a símě"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dobytků"
+    }
+  ],
+  "timestamp": "2026-09-17T08:27:51.768023158Z",
+  "model": "glm-5.3"
+}

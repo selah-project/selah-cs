@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Jeví hlasitě, dcero Galim! Naslouchej, Lajišo! Ubohá Anatot!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "Jeví hlasitě"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "svým hlasem"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcero"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "Galim"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "Naslouchej"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Lajišo"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "Ubohá"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:50.062630142Z",
+  "model": "glm-5.3"
+}

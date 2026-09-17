@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Vůl zná svého vlastníka a osel jesle svého pána; Izrael nezná, můj lid neporozuměl.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Vůl"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "svého vlastníka"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "a osel"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "jesle"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "svého pána"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "porozuměl"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:36.563922305Z",
+  "model": "glm-5.3"
+}

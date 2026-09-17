@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A tomuto lidu řekneš: Tak řekl Jahve: Hle, dávám před vás ⟨את⟩ cestu života i ⟨את⟩ cestu smrti.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "a"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tomuto lidu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomuto"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "řekneš"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hle, jsem"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dávám"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "před vás"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cestu života"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "života"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "cestu smrti"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-09-17T08:25:40.279689217Z",
+  "model": "glm-5.3"
+}

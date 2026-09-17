@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Každého, kdo je nazván mým jménem, a pro svou slávu jsem ho stvořil, vytvořil jsem, ano, učinil jsem.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Každého"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "kdo je nazván"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "mým jménem"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "a pro svou slávu"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "jsem ho stvořil"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "vytvořil jsem"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ano"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "učinil jsem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:55.714405850Z",
+  "model": "glm-5.3"
+}

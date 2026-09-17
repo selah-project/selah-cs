@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Vzal je a převedl je přes ⟨את⟩ potok a převedl ⟨את⟩ vše, co měl.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "vzal je"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "a převedl je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potok"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "a převedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vše, co měl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "měl"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:24.493834385Z",
+  "model": "glm-5.3"
+}

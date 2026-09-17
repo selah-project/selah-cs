@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Elohime, když jsi vyšel před svým lidem, když jsi kráčel pustinou — séla.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "když jsi vyšel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svým lidem"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "když jsi kráčel"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "pustinou"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "séla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:52.968723576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 1:11",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "přivésti ⟨את⟩ královnu Vašti před krále s královskou korunou, ukázati národům a úředníkům ⟨את⟩ její krásu, neboť ⟨byla⟩ dobrá na pohled.",
+  "tokens": [
+    {
+      "surface": "להביא",
+      "gloss": "přivésti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "královnu Vašti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vašti"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "královna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "בכתר",
+      "gloss": "s korunou"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "královskou"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ukázati"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "národům"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "a úředníkům"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její krásu"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "její krásu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "dobrá"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "na pohled"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨byla⟩ ona"
+    }
+  ],
+  "timestamp": "2026-09-17T11:21:19.756960295Z",
+  "model": "glm-5.3"
+}

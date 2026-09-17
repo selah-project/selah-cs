@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 65:17",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 65,
+  "translation": "Neboť hle, já stvořím nové nebesa a novou zemi; dřívější věci nebudou připomínány a nevystoupí ⟨na⟩ srdce.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hle, já"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "stvořím"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "nové"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "a zemi"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "novou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תזכרנה",
+      "gloss": "budou připomínány"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "dřívější věci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תעלינה",
+      "gloss": "vystoupí"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T08:18:17.011532735Z",
+  "model": "glm-5.3"
+}

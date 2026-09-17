@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Toto ⟨jsou⟩ přikázání, která přikázal Jahve ⟨את⟩ Mojžíšovi ⟨pro⟩ syny Izraele na hoře Sinaj.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "⟨jsou⟩ přikázání"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨pro⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:23.956602374Z",
+  "model": "glm-5.3"
+}

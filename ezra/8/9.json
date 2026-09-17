@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 8:9",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Ze synů Joába: Obadjáš, syn Jechíela, a s ním dvě stě osmnáct samců.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "ze synů"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joába"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Obadjáš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Jechíela"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "a s ním"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dvě stě"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "osmnáct"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨osmnáct⟩"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "samců"
+    }
+  ],
+  "timestamp": "2026-09-17T10:09:46.928935543Z",
+  "model": "glm-5.3"
+}

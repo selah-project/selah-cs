@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Jahve ⟨je⟩ síla jim ⟨a⟩ pevnost spásy svému pomazanému — on ⟨sám⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "síla"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "a pevnost"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "spásy"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "svému pomazanému"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on ⟨sám⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:46.902224528Z",
+  "model": "glm-5.3"
+}

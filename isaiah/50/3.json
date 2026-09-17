@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Oblékám nebesa tmou a žíní dávám ⟨jim⟩ za pokrývku.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Oblékám"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "tmou"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "a žíní"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "dávám"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "za jejich pokrývku"
+    }
+  ],
+  "timestamp": "2026-09-17T08:16:13.911153336Z",
+  "model": "glm-5.3"
+}

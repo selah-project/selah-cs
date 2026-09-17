@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Běda pastýřům, kteří zahubují a rozptylují ⟨את⟩ stádo mé pastviny, výrok Jahveho.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "pastýřům"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "zahubují"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "a rozptylují"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stádo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "stádo"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "mé pastviny"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T08:26:03.799436689Z",
+  "model": "glm-5.3"
+}

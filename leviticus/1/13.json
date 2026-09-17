@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 1:13",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A vnitřnosti a lýtka vypláchne ve vodě; a kněz přivede ⟨את⟩ všechno a zadýmí to na oltáři: je to zápalná oběť, ohnivá oběť, vůně odpočinutí pro Jahve.",
+  "tokens": [
+    {
+      "surface": "והקרב",
+      "gloss": "a vnitřnosti"
+    },
+    {
+      "surface": "והכרעים",
+      "gloss": "a lýtka"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "vypláchne"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ve vodě"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "a přivede"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a zadýmí"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltáři"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "zápalná oběť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ohnivá oběť"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "vůně"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "odpočinutí"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:01.772500182Z",
+  "model": "glm-5.3"
+}

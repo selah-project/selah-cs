@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Vystoupím-li ⟨do⟩ nebes, tam jsi ty; připravím-li si lože v šeolu, hle, ty jsi tam.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "-li"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "vystoupím"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty jsi"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "připravím-li si lože"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "v šeolu"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "hle, ty jsi tam"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:35.894771222Z",
+  "model": "glm-5.3"
+}

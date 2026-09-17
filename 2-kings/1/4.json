@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 1:4",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A proto tak praví Jahve: Z lože, na něž jsi vystoupil, nesestoupíš z něj, neboť smrtí zemřeš. A Elijáš odešel.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "A proto"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "lože"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na něž"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "jsi vystoupil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "sestoupíš"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "zemřeš"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "A …odešel"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Elijáš"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:15.380612205Z",
+  "model": "glm-5.3"
+}

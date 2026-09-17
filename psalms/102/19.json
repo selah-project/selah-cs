@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Ať je toto zapsáno pro pokolení poslední, a lid stvořený ať chválí Jaha.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "Ať je zapsáno"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "pro pokolení"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "poslední"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a lid"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "stvořený"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "ať chválí"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:07.816155533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A vzali ⟨את⟩ jejich kosti a pohřbili ⟨je⟩ pod tamaryškem v Jábše a postili se sedm dní.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "a vzali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich kosti"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "jejich kosti"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "a pohřbili"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tamaryškem"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "v Jábše"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "a postili se"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    }
+  ],
+  "timestamp": "2026-09-17T07:31:36.955519742Z",
+  "model": "glm-5.3"
+}

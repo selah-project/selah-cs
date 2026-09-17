@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 8:8",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A ráhna byla prodloužena, a vidět byly hlavy ráhen ze svatyně, před ⟨tvář⟩ debíru, avšak ven vidět nebyly; a jsou tam až do tohoto dne.",
+  "tokens": [
+    {
+      "surface": "ויארכו",
+      "gloss": "a byla prodloužena"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ráhna"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "a vidět byly"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlavy"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ráhen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "על",
+      "gloss": "před"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨tvář⟩"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debíru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "avšak ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vidět"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ven"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "a jsou"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    }
+  ],
+  "timestamp": "2026-09-17T10:53:58.893063402Z",
+  "model": "glm-5.3"
+}

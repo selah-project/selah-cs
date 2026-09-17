@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Kdo tě vidí, ti se na tebe zahledí, na teba upřou zrak ⟨a řeknou⟩: „Zdaž toto je ⟨ten⟩ muž, jenž třásl zemí, roztřásal království?“",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "Kdo tě vidí"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "zahledí se"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na teba"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "upřou zrak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Zdaž toto"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨ten⟩ muž"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "třásl"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemí"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "roztřásal"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "království"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:31.210325759Z",
+  "model": "glm-5.3"
+}

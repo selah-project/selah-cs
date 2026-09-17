@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "I řekl Abram Lotovi: Nechť prosím není svár mezi mnou a mezi tebou, ani mezi mými pastýři a mezi tvými pastýři, neboť muži bratři jsme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Lotovi"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotovi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "nechť není"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "svár"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mezi mnou"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "a mezi tebou"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ani mezi"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mými pastýři"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "tvými pastýři"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "muži"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bratři"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "jsme"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:07.929858858Z",
+  "model": "glm-5.3"
+}

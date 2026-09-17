@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "A přikázal ⟨את⟩ tomu, kdo ⟨byl⟩ nad jeho domem, řka: Naplň ⟨את⟩ vaky těch mužů jídlem, jak ⟨mnoho⟩ unést budou moci, a vlož stříbro každého do úst jeho vaku.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "A přikázal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tomu, kdo byl nad jeho domem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jeho domem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Naplň"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaky těch mužů"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "vaky"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "těch mužů"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jídlem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "budou moci"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "unést"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "a vlož"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každého"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "do úst"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "jeho vaku"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:42.831598744Z",
+  "model": "glm-5.3"
+}

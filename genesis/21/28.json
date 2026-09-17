@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Abraham postavil ⟨את⟩ sedm ovečkách ze stáda zvlášť.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedm oveček"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "oveček (bahničat)"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ze stáda"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "zvlášť"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:25.992861425Z",
+  "model": "glm-5.3"
+}

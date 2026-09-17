@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A vloží ⟨את⟩ kadidlo na oheň před Jahvem, a oblak kadidla zakryje ⟨את⟩ kryt, který ⟨je⟩ nad svědectvím, a nezemře.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "a vloží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kadidlo"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadidlo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "a zakryje"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "oblak"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadidla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kryt"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kryt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "svědectvím"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:49.213627067Z",
+  "model": "glm-5.3"
+}

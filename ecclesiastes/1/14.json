@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Viděl jsem ⟨את⟩ všechny skutky, které byly konány pod sluncem, a hle, všechno je marnost a trápení ducha.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Viděl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny skutky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "skutky"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "které byly konány"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sluncem"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "marnost"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "a trápení"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:38.716819377Z",
+  "model": "glm-5.3"
+}

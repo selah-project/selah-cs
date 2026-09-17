@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "a vaše syny ⟨את⟩ a vaše dcery ⟨ואת⟩ prodám do ruky synů Judy, a oni je prodají Šebajcům, ke vzdálenému národu, neboť Jahve promluvil",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "a prodám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše syny"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vaše syny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ואת⟩",
+      "marks": "vaše dcery"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "vaše dcery"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "do ruky"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "a oni je prodají"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "Šebajcům"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "národu"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "vzdálenému"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    }
+  ],
+  "timestamp": "2026-09-17T08:58:56.444674986Z",
+  "model": "glm-5.3"
+}

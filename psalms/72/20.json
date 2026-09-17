@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "Skončeny jsou modlitby Davidovy, syna Jišajova.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "skončeny jsou"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "modlitby"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaje"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:20.434842018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A pověsili ⟨את⟩ Hámana na strom, který připravil pro Mordechaje; a hněv krále se uklidnil.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "A pověsili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hámana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hámana"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "strom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "připravil"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "pro Mordechaje"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "a hněv"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "se uklidnil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:02.541650452Z",
+  "model": "glm-5.3"
+}

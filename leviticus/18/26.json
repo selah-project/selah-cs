@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Vy budete střežit ⟨את⟩ má ustanovení a ⟨את⟩ má práva, a nebudete činit ze všech těchto ohavností — ⟨ani⟩ rodák, ⟨ani⟩ host usazený ve vašem středu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "a budete střežit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "má ustanovení"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "má ustanovení"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "má práva"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "má práva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "budete činit"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "těchto ohavností"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "rodák"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "ani host"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "usazený"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ve vašem středu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:27.676311403Z",
+  "model": "glm-5.3"
+}

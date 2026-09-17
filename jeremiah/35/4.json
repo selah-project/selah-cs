@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 35:4",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Přivedl jsem ⟨את⟩ je do domu Jahve do síně synů Chánana, syna Jigdaljáhua, muže Elohim, která je vedle síně ⟨knížat⟩, která je nad síní Maasejáhua, syna Šaluma, strážce ⟨prahu⟩.",
+  "tokens": [
+    {
+      "surface": "ואבא",
+      "gloss": "Přivedl jsem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "לשכת",
+      "gloss": "síně"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Chánana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יגדליהו",
+      "gloss": "Jigdaljáhua"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která je"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "vedle"
+    },
+    {
+      "surface": "לשכת",
+      "gloss": "síně"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "⟨knížat⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která je"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ללשכת",
+      "gloss": "síní"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maasejáhua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Šaluma"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "strážce"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "⟨prahu⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T08:29:48.634732751Z",
+  "model": "glm-5.3"
+}

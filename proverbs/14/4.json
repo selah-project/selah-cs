@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Kde nejsou voli, jesle ⟨jsou⟩ prázdné, ale hojná úroda ⟨přichází⟩ silou vola.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Kde nejsou"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "voli"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "jesle"
+    },
+    {
+      "surface": "בר",
+      "gloss": "prázdné"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ale hojná"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "úroda"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "silou"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vola"
+    }
+  ],
+  "timestamp": "2026-09-17T11:16:00.323278066Z",
+  "model": "glm-5.3"
+}

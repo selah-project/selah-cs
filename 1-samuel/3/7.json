@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A Samuel dosud nepoznal ⟨את⟩ Jahveho, ani se mu dosud nebylo zjeveno slovo Jahvovo.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "a Samuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "dosud ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "poznal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ani dosud"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "nebylo zjeveno"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvovo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:58.277627922Z",
+  "model": "glm-5.3"
+}

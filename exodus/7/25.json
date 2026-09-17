@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A naplnilo se sedm dní poté, co Jahve udeřil ⟨את⟩ řeku.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "a naplnilo se"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poté, co"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "udeřil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "řeku"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "řeku"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:37.539139506Z",
+  "model": "glm-5.3"
+}

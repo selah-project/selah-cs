@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Neboť Jahve navrací ⟨את⟩ pýchu Jákobovu jako pýchu Izraele, protože je vyprázdnili vyprazdňující a jejich révu zničili.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "שב",
+      "gloss": "navrací"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pýchu Jákobovu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pýchu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobovu"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "jako pýchu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "vyprázdnili"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "vyprazdňující"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "a jejich révu"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "zničili"
+    }
+  ],
+  "timestamp": "2026-09-17T09:04:59.451247522Z",
+  "model": "glm-5.3"
+}

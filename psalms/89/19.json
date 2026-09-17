@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Neboť štítu našemu ⟨patří⟩ Jahve a Král svatému Izraele ⟨náš je⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve ⟨patří⟩"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "štít náš"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "a svatému"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "Král náš ⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:12.535944815Z",
+  "model": "glm-5.3"
+}

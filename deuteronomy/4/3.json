@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Vaše oči viděly ⟨את⟩ to, co učinil Jahve ⟨kvůli⟩ Baal-Peorovi: každého muže, který šel za Baal-Peorem, zničil ho Jahve, tvůj Elohim, z tvého středu.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "Vaše oči"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "viděly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "⟨kvůli⟩ Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peorovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peorem"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "zničil ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "z tvého středu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:16.848403177Z",
+  "model": "glm-5.3"
+}

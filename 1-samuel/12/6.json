@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A Samuel řekl lidu: Jahve, který učinil ⟨את⟩ Mojžíše a ⟨את⟩ Árona a který vyvedl ⟨את⟩ vaše otce z egyptské země ⟨je svědkem⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨lidu⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Árona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a který"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "vyvedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše otce"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "vaše otce"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptské"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:15.792369837Z",
+  "model": "glm-5.3"
+}

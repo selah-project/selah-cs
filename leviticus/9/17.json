@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A přinesl ⟨את⟩ oběť z mouky, naplnil z ní svou dlaň a vykuřoval ji na oltáři, vedle ranní zápalné oběti.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a přinesl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oběť z mouky"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "oběť z mouky"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "naplnil"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "svou dlaň"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "z ní"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "a vykuřoval"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "vedle"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "zápalné oběti"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ranní"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:25.826236431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "A řekl Josef svým bratrům: Přibližte se, prosím, ke mně! A přibližili se. A řekl: Já jsem Josef, váš bratr, kterého jste prodali ⟨את⟩ mne do Egypta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svým"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bratrům"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Přibližte se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "A přibližili se"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já jsem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "váš bratr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterého"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "jste prodali"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mne",
+      "marks": "mne"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "do Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:36.427204702Z",
+  "model": "glm-5.3"
+}

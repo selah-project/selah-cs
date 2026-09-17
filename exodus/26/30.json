@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A vztyčíš ⟨את⟩ příbytek podle jeho práva, které ti bylo ukázáno na hoře.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "vztyčíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "příbytek"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytek"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "podle jeho práva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "ti bylo ukázáno"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:24:04.704424566Z",
+  "model": "glm-5.3"
+}

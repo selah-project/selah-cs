@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Vstaň, sestup do domu hrnčíře, a tam ti dám slyšet ⟨את⟩ má slova.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Vstaň"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "sestup"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "hrnčíře"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "a tam"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "ti dám slyšet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "má slova"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "má slova"
+    }
+  ],
+  "timestamp": "2026-09-17T08:25:38.366896807Z",
+  "model": "glm-5.3"
+}

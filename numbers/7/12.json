@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A ten, kdo v první den přinesl ⟨את⟩ svou oběť, byl Nachšon, syn Amínadabův, z pokolení Judy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se \/ byl"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "ten, kdo přinesl"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "první"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou oběť"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "svou oběť"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachšon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amínadabův"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "z pokolení"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:33.243516696Z",
+  "model": "glm-5.3"
+}

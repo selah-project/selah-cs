@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Ti, kdo jedli ⟨s⟩ vybranými pokrmy, zdivočeli na ulicích; ti, kdo byli vychováváni v purpuru, objímají smetiště.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "Ti, kdo jedli"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "vybranými pokrmy"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "zdivočeli"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "na ulicích"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "ti, kdo byli vychováváni v purpuru"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "v"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "purpuru"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "objímají"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "smetiště"
+    }
+  ],
+  "timestamp": "2026-09-17T09:57:47.549306792Z",
+  "model": "glm-5.3"
+}

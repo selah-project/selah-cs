@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Housté mraky se rozlily vodou, nebesa vydala hlas, ano tvoje šípy se procházely ⟨sem a tam⟩.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "rozlily se"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodou"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "husté mraky"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "vydaly"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ano"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "tvoje šípy"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "procházely se ⟨sem a tam⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:37.603029733Z",
+  "model": "glm-5.3"
+}

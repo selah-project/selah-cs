@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 84,
+  "translation": "Neboť slunce a štít je Jahve Elohim; milost a slávu dá Jahve, dobré neodepře těm, kdo chodí v bezúhonosti",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "a štít"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "a slávu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "odepře"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "těm, kdo chodí"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "v bezúhonosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:44.735938798Z",
+  "model": "glm-5.3"
+}

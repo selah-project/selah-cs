@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "a přikázal ⟨את⟩ poslovi takto: Když dokončíš přednést ⟨את⟩ všechny záležitosti ⟨té⟩ bitvy králi,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poslovi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "poslovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto:"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "když dokončíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny záležitosti bitvy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "záležitosti"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "⟨té⟩ bitvy"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "přednést"
+    },
+    {
+      "surface": "אל",
+      "gloss": "králi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:22.572785062Z",
+  "model": "glm-5.3"
+}

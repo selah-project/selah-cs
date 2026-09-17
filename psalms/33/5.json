@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Miluje spravedlnost a právo; milosrdenstvím Jahve ⟨je⟩ naplněna země.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Miluje"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "a právo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "milosrdenstvím"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "⟨je⟩ naplněna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:32.896982878Z",
+  "model": "glm-5.3"
+}

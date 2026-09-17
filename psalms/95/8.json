@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 95,
+  "translation": "Neztvrdněte svá srdce jako při Meríbe, jako v den Máse na poušti.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ztvrdněte"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "svá srdce"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "jako při Meríbe"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jako v den"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Máse"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:32.506744704Z",
+  "model": "glm-5.3"
+}

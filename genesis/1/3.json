@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekl Elohim: „Stane se světlo“ — a stalo se světlo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Stane se"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světlo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:01.227495259Z",
+  "model": "glm-5.3"
+}

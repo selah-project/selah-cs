@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 84,
+  "translation": "Štít náš, viz, Elohim, a pohleď na tvář svého Mašíacha",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Štít náš"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "viz"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "a pohleď"
+    },
+    {
+      "surface": "פני",
+      "gloss": "na tvář"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "svého Mašíacha"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:44.735647536Z",
+  "model": "glm-5.3"
+}

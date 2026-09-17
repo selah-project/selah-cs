@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A pochovali ⟨את⟩ Abnera v Hebronu; a král zdvihl ⟨את⟩ svůj hlas a plakal u hrobu Abnera, a plakal všechen lid.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "A pochovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abnera"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abnera"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "v Hebronu"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "a zdvihl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj hlas"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "a plakal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "hrobu"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abnera"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "a plakal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:59.669603186Z",
+  "model": "glm-5.3"
+}

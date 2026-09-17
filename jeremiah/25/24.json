@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "a ⟨את⟩ všech králů Arábie a ⟨את⟩ všech králů smíšeného lidu, který sídlí na poušti,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všech králů Arábie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králů"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arábie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všech králů smíšeného lidu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králů"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "smíšeného lidu"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "který sídlí"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    }
+  ],
+  "timestamp": "2026-09-17T11:01:52.426547725Z",
+  "model": "glm-5.3"
+}

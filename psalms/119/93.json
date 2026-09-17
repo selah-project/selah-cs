@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Navěky nezapomenu na tvá ustanovení, neboť skrze ně jsi mě oživil.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "zapomenu"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "na tvá ustanovení"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בם",
+      "gloss": "skrze ně"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "jsi mě oživil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:28.094490142Z",
+  "model": "glm-5.3"
+}

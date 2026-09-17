@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Dokonalou nenávistí nenávidím je, za nepřátele je mám.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "Dokonalou (konečnou)"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nenávistí"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "nenávidím je"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "za nepřátele"
+    },
+    {
+      "surface": "היו",
+      "gloss": "jsou ⟨se stali⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:32.996527804Z",
+  "model": "glm-5.3"
+}

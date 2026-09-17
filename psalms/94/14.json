@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "Neboť Jahve svůj lid neopustí a své dědictví nezradí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "opustí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "a své dědictví"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "zradí (opustí)"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:28.280210571Z",
+  "model": "glm-5.3"
+}

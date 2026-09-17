@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 56,
+  "translation": "Celý den zraňují má slova; všechny jejich úmysly ⟨jsou⟩ proti mně ke zlému.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "má slova"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "zraňují"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "jejich úmysly"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ke zlému"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:18.288827976Z",
+  "model": "glm-5.3"
+}

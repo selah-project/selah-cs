@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Jak se rozmnožovali, tak proti mně hřešili; svou slávu měním v potupu.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "Jak se rozmnožovali"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "hřešili"
+    },
+    {
+      "surface": "לי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "svou slávu"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "v potupu"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "měním"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:03.156849788Z",
+  "model": "glm-5.3"
+}

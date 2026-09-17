@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Zlehčil jsi všechny, kdo bloudí od tvých ustanovení, neboť jejich lest ⟨je⟩ klam.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "Zlehčil jsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "kdo bloudí"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "od tvých ustanovení"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "klam"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "jejich lest"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:32.682780010Z",
+  "model": "glm-5.3"
+}

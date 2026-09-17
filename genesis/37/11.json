@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A jeho bratři v něm žárlili; ale jeho otec střežil ⟨את⟩ ⟨to⟩ slovo.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "A žárlili"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm (na něj)"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jeho bratři"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ale jeho otec"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "střežil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slovo"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:13.465215455Z",
+  "model": "glm-5.3"
+}

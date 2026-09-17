@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A toto ⟨jsou⟩ rodopisy Jicchaka, syna Abrahamova: Abraham zplodil ⟨את⟩ Jicchaka.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "rodopisy"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:24.722044938Z",
+  "model": "glm-5.3"
+}

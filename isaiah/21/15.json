@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Nebo před meči prchali, před taseným mečem, před lukem napjatým a před tíží boje.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "meči"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "prchali"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mečem"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "taseným"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "a před"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "lukem"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "napjatým"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "a před"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "tíží"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "boje"
+    }
+  ],
+  "timestamp": "2026-09-17T08:05:54.501032021Z",
+  "model": "glm-5.3"
+}

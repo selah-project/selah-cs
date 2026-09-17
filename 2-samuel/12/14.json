@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Jenže tímto činem jsi pohrdavě zneuctil ⟨את⟩ nepřátele Jahve, také ten syn, který se ti narodil, zajisté zemře.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "Jenže"
+    },
+    {
+      "surface": "כי",
+      "gloss": "totiž"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "pohrdavě zneuctil"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "zneuctil jsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nepřátele Jahve"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "nepřátele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "tímto činem"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tímto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "ten syn"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "který se narodil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "zajisté zemře"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T13:02:37.434385671Z",
+  "model": "glm-5.3"
+}

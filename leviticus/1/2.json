@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Mluv k synům Jisra'el a řekneš jim: Když člověk z vás přinese oběť Jahve, z dobytčat, ze skotu i ze stád ovcí přineste ⟨את⟩ svou oběť.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mluv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "a řekneš"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "přinese"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "z vás"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dobytčat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "skotu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i ze"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stád ovcí"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "přineste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou oběť"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "svou oběť"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:31.511530560Z",
+  "model": "glm-5.3"
+}

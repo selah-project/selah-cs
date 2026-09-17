@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "A uvedl mě do ⟨ההיכל ⟩chrámu a změřil ⟨את⟩ sloupy: šest loket šíře odtud a šest loket šíře odtud — ⟨to je⟩ šíře stanu.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "a uvedl mě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "chrámu"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "a změřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sloupy"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "sloupy"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "loket"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "šíře"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "a šest"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "loket"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "šíře"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "šíře"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "stanu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:52:42.897519958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "pak půjdu s vámi v prchlosti neposlušnosti a potrestám ⟨אתכם⟩ i já, sedminásobně za vaše hříchy.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "pak půjdu"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vámi"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "v prchlosti"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "neposlušnosti"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "a potrestám"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "váš"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedminásobně"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "vaše hříchy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:30.140550908Z",
+  "model": "glm-5.3"
+}

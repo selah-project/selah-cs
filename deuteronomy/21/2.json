@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "vyjdou tví starší a tví soudci a změří k městům, která jsou kolem ⟨mrtvého⟩.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "vyjdou"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "tví starší"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "a tví soudci"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "a změří"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "městům"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "kolem"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "mrtvého"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:29.972838656Z",
+  "model": "glm-5.3"
+}

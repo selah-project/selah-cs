@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Všichni tito jsou synové Davidovi, kromě synů levobožek, a Tamar jejich sestra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Všichni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "kromě"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "levobožek"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "a Tamar"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "jejich sestra"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:45.724236681Z",
+  "model": "glm-5.3"
+}

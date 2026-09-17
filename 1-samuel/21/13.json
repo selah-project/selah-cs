@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A uložil David ⟨את⟩ ta slova ta ⟨ve⟩ svém srdci a bál se velice před Akíšem, králem Gatu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a uložil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta slova"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ta slova"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ta"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bál se"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velice"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akíšem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:58.608828575Z",
+  "model": "glm-5.3"
+}

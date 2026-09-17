@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I šel Mojžíš a Áron a shromáždili ⟨את⟩ všechny starší synů Izraele.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Áron"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "a shromáždili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny starší synů Izraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:56.102749549Z",
+  "model": "glm-5.3"
+}

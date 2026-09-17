@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 36:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Jak bys tedy odvrátil ⟨את⟩ tvář jednoho prefekta z nejmenších služebníků mého pána, a doufáš pro sebe v Egyptu, kvůli vozům a jezdcům?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "jak bys tedy"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "odvrátil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvář"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "prefekta"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služebníků"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mého pána"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "z nejmenších"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "a doufáš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "pro sebe"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptu"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "kvůli vozům"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "a jezdcům"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:17.079781983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A řekli jsme: Udělejme si nyní pro sebe postavit ⟨את⟩ oltář, ne pro zápalnou oběť a ne pro porážku.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "a řekli jsme"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "udělejme"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "si \/ pro sebe"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "postavit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltář"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "pro zápalnou oběť"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "pro porážku"
+    }
+  ],
+  "timestamp": "2026-09-17T07:11:10.001873347Z",
+  "model": "glm-5.3"
+}

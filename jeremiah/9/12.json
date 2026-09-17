@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A řekl Jahve: Protože opustili ⟨את⟩ mou tóru, kterou jsem dal před ně, a neposlechli mého hlasu a nechodili v ní —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "protože (doslova 'na')"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "opustili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou tóru"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "mou tóru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "před ně"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslechli"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "mého hlasu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "chodili"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v ní"
+    }
+  ],
+  "timestamp": "2026-09-17T08:22:11.793841874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Šťastni ⟨jsou⟩ tví muži a šťastni ⟨jsou⟩ tito tví sluhové, kteří stojí před tebou ustavičně a slyší ⟨את⟩ tvou moudrost.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Šťastni"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "tví muži"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "a šťastni"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tvoji sluhové"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tito"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "kteří stojí"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ustavičně"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "a slyší"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou moudrost"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "tvou moudrost"
+    }
+  ],
+  "timestamp": "2026-09-17T10:26:58.430989643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A přišel do Šomronu a porazil ⟨את⟩ všechny zbývající po Achabovi v Šomronu, dokud jej nevyhladil, podle slova Jahve, které mluvil k Elijášovi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "do Šomronu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a porazil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny zbývající po Achabovi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "zbývající"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "po Achabovi"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "v Šomronu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "nevyhladil jej"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "podle slova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijášovi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:34.792759418Z",
+  "model": "glm-5.3"
+}

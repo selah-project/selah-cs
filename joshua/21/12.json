@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "I ⟨את⟩ pole města a ⟨את⟩ jeho dvorce dali Kalebovi, synu Jefunneho, jako jeho državu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "pole města"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho dvorce"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "jeho dvorce"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dali"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunneho"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "jako jeho državu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:10:30.018980371Z",
+  "model": "glm-5.3"
+}

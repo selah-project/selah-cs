@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 65,
+  "translation": "kteří sedávají v hrobech a přenocují ve skrytých ⟨místech⟩, kteří jedí maso vepře a vývar z ohavností ⟨je⟩ v jejich nádobách.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "kteří sedávají"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "v hrobech"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "a ve skrytých"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "přenocují"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "kteří jedí"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "vepře"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "a vývar z"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "ohavností"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "v jejich nádobách"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:18.342501991Z",
+  "model": "glm-5.3"
+}

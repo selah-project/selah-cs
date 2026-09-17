@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A kněz přikáže, a vezme ⟨se⟩ pro očišťovaného dvě ptactvo živé čisté, dřevo cedrové, červce šarlatového a yzop.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "a přikáže"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "a vezme ⟨se⟩"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "pro očišťovaného"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ptactvo"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "živé"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "čisté"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "dřevo"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedrové"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "a červec"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "šarlatový"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "yzop"
+    }
+  ],
+  "timestamp": "2026-09-17T11:48:14.724206850Z",
+  "model": "glm-5.3"
+}

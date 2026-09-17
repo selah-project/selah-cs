@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Elohimů můj, v tebe jsem doufal, ať nejsem zahanben, ať se moji nepřátelé nade mnou neradují.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimů můj"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tebe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "jsem doufal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "nejsem zahanben"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať se ne"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "radují"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "nepřátelé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moji"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:24.436283319Z",
+  "model": "glm-5.3"
+}

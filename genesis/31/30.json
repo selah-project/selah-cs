@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A nyní jsi odešel, protože jsi toužil do domu svého otce — proč jsi ale ukradl ⟨את⟩ mé bohy?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "odejít"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "jsi odešel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "toužit"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "jsi toužil"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "jsi ukradl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mé bohy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mé bohy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:33.692685351Z",
+  "model": "glm-5.3"
+}

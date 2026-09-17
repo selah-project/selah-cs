@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Milovník stříbra se nasýtí ⟨od⟩ stříbra ⟨ne⟩; a kdo miluje hojnost, ⟨ne⟩ výtěžek; i to je hevel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "milovník"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "se nasýtí"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbra"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a kdo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miluje"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "hojnost"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "výtěžek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:40.664895335Z",
+  "model": "glm-5.3"
+}

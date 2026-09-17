@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Zdědil jsem ⟨tvá⟩ svědectví navždy, neboť ⟨jsou⟩ radost mého srdce — ona ⟨jsou⟩.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "zdědil jsem"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "⟨tvá⟩ svědectví"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "radost"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mého srdce"
+    },
+    {
+      "surface": "המה",
+      "gloss": "— ony ⟨jsou⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:40.869739587Z",
+  "model": "glm-5.3"
+}

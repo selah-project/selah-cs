@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Dvě tváše prsa ⟨jsou⟩ jako dva koloušci, dvojčata gazely, pastouší se mezi lilie.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "tváše prsa"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "jako dva"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "koloušci"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "dvojčata"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "gazely"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "pastouší se"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "mezi lilie"
+    }
+  ],
+  "timestamp": "2026-09-17T09:54:45.475503865Z",
+  "model": "glm-5.3"
+}

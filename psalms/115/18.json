@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Ale my budeme žehnat Jah od nynějška až na věky. Halelu-Jah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Ale my"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "budeme žehnat"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od nynějška"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:09.459057726Z",
+  "model": "glm-5.3"
+}

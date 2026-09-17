@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Kdo sytí tvou ozdobu dobrem — ⟨jako⟩ orlice se ti obnovuje mládí tvé.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Kdo sytí"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dobrem"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "tvoji ozdobu"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "se obnovuje"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "⟨jako⟩ orlice"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "mládí tvé"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:52.780333763Z",
+  "model": "glm-5.3"
+}

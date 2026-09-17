@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Ty, Jahve, je budeš střežit, budeš je chránit ⟨od⟩ této generace navěky.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "budeš střežit"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "budeš chránit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨od⟩"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "této generace"
+    },
+    {
+      "surface": "זו",
+      "gloss": "této"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:45.073601937Z",
+  "model": "glm-5.3"
+}

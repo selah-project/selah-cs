@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A Michal spustila ⟨את⟩ Davida oknem dolů; a on šel, utekl a zachránil se.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "spustila dolů"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Michal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "oknem"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "oknem"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "utekl"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "zachránil se"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:53.275767133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Srdce zná hořkost své duše, a v jeho radosti se necizí cizí.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Srdce"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "hořkost"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "své duše"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "a v jeho radosti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "se vměšuje"
+    },
+    {
+      "surface": "זר",
+      "gloss": "cizí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:32.548336395Z",
+  "model": "glm-5.3"
+}

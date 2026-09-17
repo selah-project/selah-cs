@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Neopouštěj mě, Jahve, Elohim můj, nevzdaluj se ode mě!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "opouštěj mě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim můj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "vzdaluj se"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:06.204509462Z",
+  "model": "glm-5.3"
+}

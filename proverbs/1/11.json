@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Budou-li říkat: Pojď ⟨את⟩ s námi, nastražme se na krev, skrytě číhejme na nevinného bez příčiny.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Budou-li"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "říkat"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Pojď"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ s námi",
+      "marks": "s námi"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "nastražme se"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "na krev"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "skrytě číhejme"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "na nevinného"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez příčiny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:50.545842579Z",
+  "model": "glm-5.3"
+}

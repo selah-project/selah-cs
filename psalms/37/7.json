@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Ztiš se před Jahvem a čekej trpělivě na něj; nerozhorluj se kvůli tomu, kdo daří se na své cestě, kvůli muži, který činí úklady.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Ztiš se"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "před Jahvem"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "a čekej trpělivě"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "rozhorluj se"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "tomu, kdo daří"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "na své cestě"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "kvůli muži"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "který činí"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "úklady"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:18.824270107Z",
+  "model": "glm-5.3"
+}

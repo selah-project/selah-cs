@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 15:36",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A vyvedli ⟨את⟩ jej celá ⟨the⟩ obec ven z tábora, a ukamovali ⟨את⟩ jej kamením, a zemřel — jak přikázal Jahve ⟨את⟩ Mojžíšovi.",
+  "tokens": [
+    {
+      "surface": "ויציאו",
+      "gloss": "A vyvedli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jej",
+      "marks": "jej (celá obec)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celá"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "obec"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ven"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "z vnějšku"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "z tábora"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "a ukamovali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jej",
+      "marks": "jej (kamením)"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kamením"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:48:33.575607752Z",
+  "model": "glm-5.3"
+}

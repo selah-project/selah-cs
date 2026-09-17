@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Nevyjevila Ester ⟨את⟩ svůj lid ani ⟨את⟩ svůj rod, neboť Mordokaj jí přikázal, aby to nevyjevovala.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "vyjevila"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj lid"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svůj rod"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "svůj rod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaj"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aby"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "vyjevovala"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:21.819723696Z",
+  "model": "glm-5.3"
+}

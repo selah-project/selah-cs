@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Od hlasu hanobitele a rouhače, před tváří nepřítele a mstitele.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "od hlasu"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "hanobitele"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "a rouhače"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nepřítele"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "a mstitele"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:10.865620098Z",
+  "model": "glm-5.3"
+}

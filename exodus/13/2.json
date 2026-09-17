@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Posvěť mi všechno prvrozené, každého, kdo otvírá ⟨každou⟩ mateřnici mezi syny Izraele, u člověka i u dobytčete — mně ⟨to⟩ je.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Posvěť"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "prvrozené"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "kdo otvírá"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨každou⟩"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "mateřnici"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mezi syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "u člověka"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "i u dobytčete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mně"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je ⟨to⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:42.032102290Z",
+  "model": "glm-5.3"
+}

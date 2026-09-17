@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "A král Babylónu zabil ⟨את⟩ syny Cidkijáše před jeho očima; i ⟨את⟩ všechny přední Judy zabil v Rivle.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "a zabil"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Cidkijáše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijáše"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "před jeho očima"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny přední Judy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "přední"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "v Rivle"
+    }
+  ],
+  "timestamp": "2026-09-17T08:36:53.914608836Z",
+  "model": "glm-5.3"
+}

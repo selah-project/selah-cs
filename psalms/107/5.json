@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Hladoví i žízniví, jejich duše v nich ⟨se⟩ chýlí k mdlobě.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Hladoví"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "žízniví"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jejich duše"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "chýlí k mdlobě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:45.768031803Z",
+  "model": "glm-5.3"
+}

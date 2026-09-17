@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Jahve ⟨je⟩ podíl mého údělu a ⟨můj⟩ pohár; ty upevňuješ můj los.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "podíl"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "mého údělu"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "a ⟨můj⟩ pohár"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "upevňuješ"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "můj los"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:21.236210724Z",
+  "model": "glm-5.3"
+}

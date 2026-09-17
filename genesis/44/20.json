@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 44:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "A řekli jsme svému pánu: Máme otce starého, a dítě stáří, malé; jeho bratr zemřel a zůstal on sám po matce, a jeho otec ho miluje.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "A řekli jsme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "svému pánu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Máme"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "אב",
+      "gloss": "otce"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "starého"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "a dítě"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "stáří"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "malé"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "jeho bratr"
+    },
+    {
+      "surface": "מת",
+      "gloss": "zemřel"
+    },
+    {
+      "surface": "ויותר",
+      "gloss": "a zůstal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sám"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "po matce"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "a jeho otec"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "miluje"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:35.459194684Z",
+  "model": "glm-5.3"
+}

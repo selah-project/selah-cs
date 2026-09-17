@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 101,
+  "translation": "Budu jednat moudře na cestě dokonalé — kdy k mně přijdeš? Budu chodit v upřímnosti svého srdce uprostřed svého domu.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "budu jednat moudře"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "dokonalé"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kdy"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "přijdeš"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k mně"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "budu chodit"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "v upřímnosti"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "svého srdce"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "svého domu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:24.660599143Z",
+  "model": "glm-5.3"
+}

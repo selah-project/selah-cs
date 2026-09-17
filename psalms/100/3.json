@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 100,
+  "translation": "Poznejte, že Jahve — on ⟨je⟩ Elohim; on nás učinil, a ⟨ne⟩ my ⟨sami sebe⟩; ⟨jeho⟩ lid ⟨jsme⟩, i stádo jeho pastvy.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Poznejte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "nás učinil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ⟨ne⟩"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨jeho⟩ lid"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "i stádo"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "jeho pastvy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:28.683353636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A řekl Jahve Mojžíšovi: Hle, dal jsem tě jako Elohim faraónovi a Áron, tvůj bratr, bude tvým prorokem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi (k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "dal jsem tě"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "jako Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Áron"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvůj bratr"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "tvým prorokem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:12.752264810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A stalo se po dnech, že potok vyschl, neboť nebyl déšť v zemi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "po konci"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "že vyschl"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "déšť"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:39.591960905Z",
+  "model": "glm-5.3"
+}

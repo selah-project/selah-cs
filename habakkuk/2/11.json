@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Neboť kámen ze zdi vykřikne a trám ze dřeva mu odpoví.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kámen"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "ze zdi"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "vykřikne"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "a trám"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "ze dřeva"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "mu odpoví"
+    }
+  ],
+  "timestamp": "2026-09-17T09:03:39.907250223Z",
+  "model": "glm-5.3"
+}

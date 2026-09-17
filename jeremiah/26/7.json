@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A slyšeli kněží a proroci a všechen lid ⟨את⟩ Jeremijáše, jak mluví ⟨את⟩ tato slova v domě Jahve.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "A slyšeli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "a proroci"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeremijáše"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremiáše"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "jak mluví"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tato slova"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "slova"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tato"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T11:02:24.223115302Z",
+  "model": "glm-5.3"
+}

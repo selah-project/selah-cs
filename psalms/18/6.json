@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Provazy šeolu mě obepluly, předstihly mi pasti smrti.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "provazy"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeolu"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mě obepluly"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "předstihly mě"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "pasti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:21.643866532Z",
+  "model": "glm-5.3"
+}

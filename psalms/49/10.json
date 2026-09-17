@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "ať žije ještě navždy, neuvid ⟨totu⟩ jámu ⟨שאול⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ať žije"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "uvid"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "jámu ⟨שאול⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:32.704031404Z",
+  "model": "glm-5.3"
+}

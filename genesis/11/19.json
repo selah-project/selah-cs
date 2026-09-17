@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Peleg žil po zplodení ⟨את⟩ Reua devět let a dvě sta let a zplodil syny a dcery.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a žil"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zplodení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reua"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reua"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "devět"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "a dvě sta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "a dcery"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:20.886893396Z",
+  "model": "glm-5.3"
+}

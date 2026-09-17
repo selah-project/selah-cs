@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Když dokončil David ze způsobení vystoupit zápal a oběti šalom, požehnal ⟨את⟩ lidu ve jménu Jahve Cevaot.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "když dokončil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "ze způsobení vystoupit"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "zápal"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "a oběti šalom"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "požehnal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lidu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ve jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:24.386795106Z",
+  "model": "glm-5.3"
+}

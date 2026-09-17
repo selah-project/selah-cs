@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "I vstali a šli do Zifu před Ša'ula; David však a jeho muži ⟨byli⟩ v poušti Maon, v Aravě, na pravé straně Jišimónu.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "I vstali"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "a šli"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "do Zifu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ula"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "David však"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "a jeho muži"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v poušti"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maon"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "v Aravě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "pravé straně"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Jišimónu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:30.571057479Z",
+  "model": "glm-5.3"
+}

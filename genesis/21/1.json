@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Jahve navštívil ⟨את⟩ Sáru, jak řekl, a učinil Jahve Sáře, jak mluvil.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "A Jahve"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "navštívil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sáru"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sáru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sáře"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:15.105194124Z",
+  "model": "glm-5.3"
+}

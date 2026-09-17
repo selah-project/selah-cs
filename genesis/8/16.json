@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Vyjdi z arše, ty i tvá žena a tvoji synové a ženy tvých synů ⟨את⟩ s tebou.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Vyjdi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arše"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "i tvá žena"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "a tvoji synové"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "a ženy"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvých synů"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tebou",
+      "marks": "ty, tvá žena, tvoji synové a ženy tvých synů"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:23.535672398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 143,
+  "translation": "Pospěš, odpověz mi, Jahve! Duch ve mně dohasíná, neskrývej přede mnou svou tvář, abych nebyl přirovnán k těm, kdo sestupují do jámy.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Pospěš"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odpověz mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "dohasíná"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": " Duch ve mně"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "skrývej"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "abych nebyl přirovnán"
+    },
+    {
+      "surface": "עם",
+      "gloss": "k"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "těm, kdo sestupují"
+    },
+    {
+      "surface": "בור",
+      "gloss": "do jámy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:06.307212897Z",
+  "model": "glm-5.3"
+}

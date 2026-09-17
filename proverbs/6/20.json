@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Střež, synu můj, přikázání svého otce a neopouštěj tóru své matky.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Střež"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu můj"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "opouštěj"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tóru"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "své matky"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:06.737308788Z",
+  "model": "glm-5.3"
+}

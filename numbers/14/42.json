@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Nevystupujte, neboť Jahve ⟨není⟩ ve vašem středu, abyste nebyli poraženi před svými nepřáteli.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "vystupujte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ve vašem středu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "budete poraženi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "svými nepřáteli"
+    }
+  ],
+  "timestamp": "2026-09-17T10:42:31.230067270Z",
+  "model": "glm-5.3"
+}

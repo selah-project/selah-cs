@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Kdo obětuje díkůčinění, toho poctím; a kdo si upravuje cestu, tomu ukážu spásu Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "obětuje"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "díkůčinění"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "ctí mě"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a ⟨kdo⟩ upravuje"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "tomu ukážu"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "spásu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:32.293793694Z",
+  "model": "glm-5.3"
+}

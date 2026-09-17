@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A řekl Šemuél: Proč se mě ptáš, když Jahve se odvrátil od tebe a stal se tvým nepřítelem?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuél"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "a proč"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "se mě ptáš"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "když Jahve"
+    },
+    {
+      "surface": "סר",
+      "gloss": "se odvrátil"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stal se"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "tvým nepřítelem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:45.586469536Z",
+  "model": "glm-5.3"
+}

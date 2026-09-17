@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Nezapomeň hlas svých protivníků, vřavu těch, kdo povstávají proti tobě, ⟨která⟩ stoupá nepřetržitě.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "zapomeň"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "svých protivníků"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "vřavu"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "těch, kdo povstávají proti tobě"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "stoupá"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nepřetržitě"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:11.372058220Z",
+  "model": "glm-5.3"
+}

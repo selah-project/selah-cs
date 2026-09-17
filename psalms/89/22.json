@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "S ním bude ⟨ještě⟩ ustanovena má ruka, i má paže jej posílí.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "má ruka"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "bude ustanovena"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨s ním⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "má paže"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "jej posílí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:17.382972958Z",
+  "model": "glm-5.3"
+}

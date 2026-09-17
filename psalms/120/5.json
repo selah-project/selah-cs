@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 120,
+  "translation": "Běda mi, že jsem pohostinně pobýval v Mešechu, že jsem bydlel ⟨s⟩ stany Kedaru.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "jsem pobýval jako příchozí"
+    },
+    {
+      "surface": "משך",
+      "gloss": "v Mešechu"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "jsem bydlel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "stany"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedaru"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:57.164298774Z",
+  "model": "glm-5.3"
+}

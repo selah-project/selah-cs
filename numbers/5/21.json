@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 5:21",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A kněz dá ⟨את⟩ ženu zapřísáhnout přísahou kletby a kněz řekne ženě: „Dá Jahve ⟨את⟩ tebe za kletbu a za přísahu uprostřed tvého lidu, když dá Jahve ⟨את⟩ tvé stehno padat a ⟨את⟩ tvůj klín puchnout.",
+  "tokens": [
+    {
+      "surface": "והשביע",
+      "gloss": "a dá…zapřísáhnout"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "בשבעת",
+      "gloss": "přísahou"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kletby"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řekne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ženě"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ tebe",
+      "marks": "za kletbu"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "za kletbu"
+    },
+    {
+      "surface": "ולשבעה",
+      "gloss": "a za přísahu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvého lidu"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "když dá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé stehno"
+    },
+    {
+      "surface": "ירכך",
+      "gloss": "tvé stehno"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "padat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tvůj klín"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "tvůj klín"
+    },
+    {
+      "surface": "צבה",
+      "gloss": "puchnout"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:23.319793556Z",
+  "model": "glm-5.3"
+}

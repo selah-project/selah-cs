@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A spočítáte si ode dne po šabatu, ode dne, kdy přinesete ⟨את⟩ omer mávání, sedm šabatů; ⟨budou⟩ úplných.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "a spočítáte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ode dne po"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabatu"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ode dne"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "když přinesete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "mávání"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "šabatů"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "úplných"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨budou⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:52.484882444Z",
+  "model": "glm-5.3"
+}

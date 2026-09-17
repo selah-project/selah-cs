@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Stalo se pak, když si dlouho ×modlila× před Jahve, že Elí bedlivě sledoval ⟨את⟩ její ústa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Stalo se pak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "si dlouho"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "×modlila×"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "že Elí"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bedlivě sledoval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její ústa"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "její ústa"
+    }
+  ],
+  "timestamp": "2026-09-17T07:20:08.118825867Z",
+  "model": "glm-5.3"
+}

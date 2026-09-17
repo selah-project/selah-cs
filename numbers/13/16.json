@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 13:16",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Toto jsou jména mužů, které poslal Mojžíš, aby vyzvěděli ⟨את⟩ zemi. A Mojžíš nazval Hošéu, syna Núnova, Jehošúa.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jména"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "vyzvěděli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hošéuu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Núnova"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošúa"
+    }
+  ],
+  "timestamp": "2026-09-17T06:43:32.349995499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Elohim však obešel ⟨את⟩ lid cestou pouště k Ratostnímu moři; a vyzbrojeni vytáhli synové Jisra'ele ze země Micrajimu.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "obešel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pouště"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moři"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Ratostnímu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "vyzbrojeni"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "vytáhli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'ele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajimu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:46.414743010Z",
+  "model": "glm-5.3"
+}

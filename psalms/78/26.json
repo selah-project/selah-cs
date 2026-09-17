@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Vynesl vítr východní na nebesa a svou mocí přivedl vítr jižní.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "Vynesl \/ uvedl v pohyb"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "vítr východní"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na nebesa"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "a přivedl \/ dovedl"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "svou mocí"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "vítr jižní"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:08.494576689Z",
+  "model": "glm-5.3"
+}

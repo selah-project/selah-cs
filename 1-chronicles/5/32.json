@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A Uzzi zplodil ⟨את⟩ Zerachjaha, a Zerachja zplodil ⟨את⟩ Merajota.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "A Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachjaha"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachjaha"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "a Zerachja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajota"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajota"
+    }
+  ],
+  "timestamp": "2026-09-17T10:16:12.741550429Z",
+  "model": "glm-5.3"
+}

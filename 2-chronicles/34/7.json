@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 34:7",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "a rozbořil ⟨את⟩ oltáře a ⟨את⟩ ašery, a řezané modly rozdrtil v prach, a všechna sluneční božiště porubil v celé zemi Izraele, a vrátil se do Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "וינתץ",
+      "gloss": "a rozbořil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltáře"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ašery"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ašery"
+    },
+    {
+      "surface": "והפסלים",
+      "gloss": "a řezané modly"
+    },
+    {
+      "surface": "כתת",
+      "gloss": "rozdrtil"
+    },
+    {
+      "surface": "להדק",
+      "gloss": "v prach"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechna"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "sluneční božiště"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "porubil"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v celé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "do Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T10:33:28.229474645Z",
+  "model": "glm-5.3"
+}

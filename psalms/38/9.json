@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Zchromlý jsem a na prach rozdrcen ⟨až⟩ krajně; zařval jsem kvůli nářku svého srdce.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "Zchromlý jsem"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "a na prach rozdrcen"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨až⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "krajně"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "zařval jsem"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "kvůli nářku"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "svého srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:05.305513944Z",
+  "model": "glm-5.3"
+}

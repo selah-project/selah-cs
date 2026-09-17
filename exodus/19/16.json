@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 19:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A stalo se ⟨to⟩ třetího dne, když se rozednívalo: byly hromy a blesky a těžký oblak na hoře, a hlas šofaru velmi silný — a zachvěl se všechen lid, který ⟨byl⟩ v táboře.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨to⟩…dne"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "třetího"
+    },
+    {
+      "surface": "בהית",
+      "gloss": "když se rozednívalo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ráno (v glosu 'rozednívalo')"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "byly"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "hromy"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "a blesky"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "a oblak"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "těžký"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "hoře"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "a hlas"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "šofaru"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "silný"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "a zachvěl se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "v táboře"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:57.446946835Z",
+  "model": "glm-5.3"
+}

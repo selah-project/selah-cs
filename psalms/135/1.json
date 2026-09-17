@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Chvalte Jaha, chvalte ⟨את⟩ jméno Jahveho, chvalte, sluhové Jahveho!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chvalte"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "chvalte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jméno Jahveho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "chvalte"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluhové"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:48.310732892Z",
+  "model": "glm-5.3"
+}

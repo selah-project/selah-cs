@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Neboť jako hřích věštby je vzpurnost, a jako nepravost a terafim je umíněnost; poněvadž jsi pohrdl ⟨את⟩ slovem Jahve, i on tebou pohrdl, aby nebyl králem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "hřích"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "věštby"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "vzpurnost"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "a nepravost"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "a terafim"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "umíněnost"
+    },
+    {
+      "surface": "יען",
+      "gloss": "poněvadž"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "jsi pohrdl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slovem Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "i on tebou pohrdl"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "aby nebyl králem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:21.898339254Z",
+  "model": "glm-5.3"
+}

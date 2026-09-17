@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Ať jásá tvůj otec a tvá matka, ať se raduje ta, která tě zrodila.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ať jásá"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvůj otec"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "a tvá matka"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ať se raduje"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "ta, která tě zrodila"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:36.230845981Z",
+  "model": "glm-5.3"
+}

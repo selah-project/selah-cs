@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 12:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A řekl Samuel celému Izraeli: Hle, vyslyšel jsem váš hlas ve všem, co jste mi řekli, a učinil jsem královat nad vámi ⟨krále⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "celému"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celému"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "vyslyšel jsem"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "váš hlas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ve všem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "jste řekli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ואמליך",
+      "gloss": "a učinil jsem královat"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nad vámi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:25.137288077Z",
+  "model": "glm-5.3"
+}

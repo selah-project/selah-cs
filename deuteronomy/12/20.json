@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 12:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Když rozšíří Jahve, tvůj Elohim, ⟨את⟩ tvou hranici, jak k tobě promluvil, a řekneš si: Sním maso, protože ho tvá nefše zatouží jíst, smíš jíst maso podle každé touhy své nefše.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "rozšíří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou hranici"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "tvou hranici"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "a řekneš si"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "Sním"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "zatouží"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvá nefše"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "podle každé"
+    },
+    {
+      "surface": "אות",
+      "gloss": "touhy"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "své nefše"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "smíš jíst"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:22.177297594Z",
+  "model": "glm-5.3"
+}

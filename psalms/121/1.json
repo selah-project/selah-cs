@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 121,
+  "translation": "Píseň pro stoupání. Pozvedám své oči k horám — odkud přijde má pomoc?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "pro stoupání"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "pozvedám"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "své oči"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "horám"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "odkud"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "přijde"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "má pomoc"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:59.720971716Z",
+  "model": "glm-5.3"
+}

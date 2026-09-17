@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Národ, který chodil v temnotě, uviděl světlo veliké; ⟨ti, kteří⟩ bydlí v zemi stínu smrti — světlo nad nimi zasvítilo.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "národ"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "který chodil"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "v temnotě"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "uviděl"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bydlí"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "stínu smrti"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "zasvítilo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad nimi"
+    }
+  ],
+  "timestamp": "2026-09-17T08:03:32.591349867Z",
+  "model": "glm-5.3"
+}

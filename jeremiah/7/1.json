@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Slovo, které se stalo k Jeremjášovi od ⟨את⟩ Jahve, takto řkouce:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Slovo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "היה",
+      "gloss": "se stalo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremjášovi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ od",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto řkouce"
+    }
+  ],
+  "timestamp": "2026-09-17T08:21:00.211338806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 20:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A písaři dodají mluvit k lidu a řeknou: Kdo ⟨je⟩ muž bojácný a měkkého srdce? Neť jde a vrátí se ke svému domu, aby neroztavil srdce svých bratří ⟨את⟩ jako své srdce.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "a dodají"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "písaři"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mluvit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "a řeknou"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "הירא",
+      "gloss": "bojácný"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "a měkký"
+    },
+    {
+      "surface": "הלבב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "neť jde"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátí se"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ke svému domu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "roztavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdce svých bratří"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svých bratří"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "jako své srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:34.714591313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "I zavolal Paroh Moše a Árona a řekl: Jděte, obětujte svému Elohim ⟨v⟩ zemi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "zavolal"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošemu"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "a Áronovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Jděte"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "obětujte"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "svému Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:05.300291885Z",
+  "model": "glm-5.3"
+}

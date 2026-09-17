@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A král sundal ⟨את⟩ svůj pečetní prsten z ruky a dal jej Hámanovi, synu Hamdaty Agagovce, soupeři Židů.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "a sundal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj pečetní prsten"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "svůj pečetní prsten"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruky"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "a dal jej"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hámanovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdaty"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagovce"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "soupeři"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Židů"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:09.042574097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A pokud jí těchto tří ⟨věcí⟩ neudělá, vyjde zadarmo, bez stříbra.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A pokud"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tří"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "udělá"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "vyjde"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zadarmo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bez"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbra"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:41.912988802Z",
+  "model": "glm-5.3"
+}

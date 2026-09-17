@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Jak dlouho, Jahve, budeš se skrývat navždy? Jak dlouho bude hořet jako oheň tvůj hněv?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokud \/ jak dlouho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "budeš se skrývat"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "bude hořet"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jako"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "tvůj hněv"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:18.077232659Z",
+  "model": "glm-5.3"
+}

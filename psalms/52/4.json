@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Újmy pláče tvůj jazyk, jako nabroušená břitva, která činí zradu.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Újmy"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "pláče"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "tvůj jazyk"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "jako břitva"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "nabroušená"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "která činí"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "zradu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:10.937273627Z",
+  "model": "glm-5.3"
+}

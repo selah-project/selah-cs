@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A kněz vezme z lágu oleje a vyleje na dlaň své levé ruky.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "a vezme"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "z lágu"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oleje"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "a vyleje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dlaň"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "levé"
+    }
+  ],
+  "timestamp": "2026-09-17T06:33:25.802349199Z",
+  "model": "glm-5.3"
+}

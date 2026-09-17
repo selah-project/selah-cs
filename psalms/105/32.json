@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Dal jejich deště jako kroupy, oheň plápolající v jejich zemi.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Dal"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "jejich deště"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "kroupy"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "plápolající"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "v jejich zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:27.857586766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Každý obezřetný jedná s poznáním, ale hlupák rozprostírá hloupost.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Každý"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "obezřetný"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "jedná"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "s poznáním"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "hlupák"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "rozprostírá"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "hloupost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:04.987652516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Chvalte Jaha, neboť Jahve ⟨je⟩ dobrý; zpívejte jeho jménu, neboť ⟨je⟩ líbezné!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chvalte"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrý"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zpívejte"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "jeho jménu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "líbezné"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:48.311141916Z",
+  "model": "glm-5.3"
+}

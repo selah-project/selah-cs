@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Řekněte Elohimovi: Jak děsivé jsou tvé skutky! Ve hojnosti tvé síly budou ti lhát tví nepřátelé.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Řekněte"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimovi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Jak"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "děsivé"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "jsou tvé skutky"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Vej hojnosti"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tvé síly"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "budou lhát"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tví nepřátelé"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:01.174462982Z",
+  "model": "glm-5.3"
+}

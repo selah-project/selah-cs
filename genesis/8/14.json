@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A v měsíci druhém, sedmého a dvacátého dne měsíce, vyschla země.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "A v měsíci"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhém"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "sedmého"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "a dvacátého"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "vyschla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:29.261637245Z",
+  "model": "glm-5.3"
+}

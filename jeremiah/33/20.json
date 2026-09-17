@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Tak řekl Jahve: Jestliže zrušíte ⟨את⟩ mou smlouvu dne a ⟨את⟩ mou smlouvu noci, tak že nebývá den a noc ve svých časech —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "zrušíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou smlouvu dne"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mou smlouvu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mou smlouvu noci"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mou smlouvu"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noci"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "tak že nebývá"
+    },
+    {
+      "surface": "היות",
+      "gloss": "(být)"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "den"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "a noc"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ve svých časech"
+    }
+  ],
+  "timestamp": "2026-09-17T08:29:20.187025121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Jestliže ⟨את⟩ tuto věc učiníš a Elohim ti to přikáže, pak budeš moci ⟨to⟩ vydržet, i všechen tento lid půjde na své místo v pokoji.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto věc"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "učiníš"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "a přikáže ti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "a budeš moci"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "vydržet"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "své místo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "půjde"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "v pokoji"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:06.293190247Z",
+  "model": "glm-5.3"
+}

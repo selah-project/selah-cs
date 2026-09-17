@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Jako vraždou v mých kostech mi ostouzejí moji sokové, když mi říkají celý den: Kde je tvůj Elohim?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "jako vraždou"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "v mých kostech"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "mi ostouzejí"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "moji sokové"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "když říkají"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kde"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:30.939832235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A stalo se mu tak; a pošlapali ⟨את⟩ ho lid v bráně a zemřel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "a pošlapali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "v bráně"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:55.704950968Z",
+  "model": "glm-5.3"
+}

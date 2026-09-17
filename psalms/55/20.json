@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "El uslyší a ⟨je⟩ odpoví, ⟨ten, který⟩ trůní odpradávna. Selah. ⟨Těm,⟩ kteří nemají změn, a nelezí boha.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "uslyší"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "a odpoví jim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a trůní"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "odpradávna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nemají"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "změn"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "leží"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:03.452187933Z",
+  "model": "glm-5.3"
+}

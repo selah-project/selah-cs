@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A přinesl ⟨את⟩ posvátné věci svého otce i své vlastní posvátné věci do domu ⟨Elohim⟩ — stříbro a zlato a nádobí.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přinesl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posvátné věci svého otce"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "posvátné věci"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "i své vlastní posvátné věci"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨Elohim⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "a zlato"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "a nádobí"
+    }
+  ],
+  "timestamp": "2026-09-17T10:27:13.337915236Z",
+  "model": "glm-5.3"
+}

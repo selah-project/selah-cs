@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "a těm, kdo byli v Chormě, a těm, kdo byli v Kor-Ašanu, a těm, kdo byli v Atachu.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "a těm, kdo"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "v Chormě"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "a těm, kdo"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "v Kor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ašanu"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "a těm, kdo"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "v Atachu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:29:45.816154541Z",
+  "model": "glm-5.3"
+}

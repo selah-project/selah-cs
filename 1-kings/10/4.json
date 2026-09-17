@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A viděla královna Sáby ⟨את⟩ všechnu moudrost Šalomounovu i dům, který vystavěl.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "a viděla"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "královna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sáby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechnu moudrost Šalomounovu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomounovu"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "i dům"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "vystavěl"
+    }
+  ],
+  "timestamp": "2026-09-17T10:53:30.537258204Z",
+  "model": "glm-5.3"
+}

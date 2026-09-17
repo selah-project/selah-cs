@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A Saul poslal ⟨את⟩ posly, aby viděli ⟨את⟩ Davida, řkouce: Vyneste ⟨את⟩ něj na lůžku ke mně, aby byl zabit.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posly"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "posly"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby viděli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řkouce"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Vyneste"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "na lůžku — jej"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "na lůžku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "aby byl zabit"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:52.992530775Z",
+  "model": "glm-5.3"
+}

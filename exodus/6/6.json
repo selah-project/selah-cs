@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 6:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Proto řekni synům Israela: Já jsem Jahve, a vyvedu ⟨את⟩ vás zpod břemen Egypta a vysvobodím ⟨את⟩ vás z jejich otroctví a vykoupím ⟨את⟩ vás nataženou paží a velkými soudy.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Proto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekni"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "a vyvedu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "zpod břemen Egypta"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "zpod"
+    },
+    {
+      "surface": "סבלת",
+      "gloss": "břemen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "a vysvobodím"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "z jejich otroctví"
+    },
+    {
+      "surface": "מעבדתם",
+      "gloss": "z jejich otroctví"
+    },
+    {
+      "surface": "וגאלתי",
+      "gloss": "a vykoupím"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "nataženou paží"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "paží"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "nataženou"
+    },
+    {
+      "surface": "ובשפטים",
+      "gloss": "a soudy"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "velkými"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:14.114949509Z",
+  "model": "glm-5.3"
+}

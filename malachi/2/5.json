@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 2:5",
+  "book": "malachi",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "„Moje smlouva byla ⟨s ním⟩ ⟨את⟩ — ⟨byla to smlouva⟩ života a pokoje; dal jsem mu je ⟨jako⟩ bázeň, a on se mě bál a před mým jménem se třásl — on.",
+  "tokens": [
+    {
+      "surface": "בריתי",
+      "gloss": "moje smlouva"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "byla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním",
+      "marks": "on (Levi)"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "života"
+    },
+    {
+      "surface": "והשלום",
+      "gloss": "a pokoje"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "dal jsem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "מורא",
+      "gloss": "bázeň"
+    },
+    {
+      "surface": "וייראני",
+      "gloss": "bál se mě"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "a před tváří"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mého jména"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "třásl se \/ skláněl se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-17T09:09:47.142785860Z",
+  "model": "glm-5.3"
+}

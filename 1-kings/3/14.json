@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A budeš-li chodit mými cestami, zachovávat má ustanovení a má přikázání, jak chodil David, tvůj otec, prodloužím ⟨את⟩ tvé dny.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A budeš-li"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "chodit"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "mými cestami"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "zachovávat"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "mé ustanovení"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "a má přikázání"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "chodil"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvůj otec"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "prodloužím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé dny"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tvé dny"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:47.028723760Z",
+  "model": "glm-5.3"
+}

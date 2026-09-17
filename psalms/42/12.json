@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Proč se skláníš, duše má, a proč hučíš ve mně? Čekej na Elohima, neboť ještě ho budu vyznávat ⟨jako⟩ spásu své tváře a svého Elohima.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "se skláníš"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše má"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "a proč"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "hučíš"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ve mně"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "čekej"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "na Elohima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ho budu vyznávat"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "spásu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "své tváře"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "a svého Elohima"
+    }
+  ],
+  "timestamp": "2026-09-17T13:41:30.356740842Z",
+  "model": "glm-5.3"
+}

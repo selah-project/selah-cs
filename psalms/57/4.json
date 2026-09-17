@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 57,
+  "translation": "Pošle z nebe a zachrání mě; ⟨ten, jenž⟩ po mně dychtivě láme, bude zhanoben. Sela. Elóhim pošle své milosrdenství a svou věrnost.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Pošle"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z nebe"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "a zachrání mě"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "bude zhanoben"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "po mně dychtivě láme"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "pošle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "své milosrdenství"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "a svou věrnost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:34.458079531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A Jahve sídí navěky, připravil svůj trůn k soudu.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sídí"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "připravil"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "k soudu"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "svůj trůn"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:54.409864969Z",
+  "model": "glm-5.3"
+}

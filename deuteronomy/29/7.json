@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A vzali jsme ⟨את⟩ jejich zemi a dali ji za dědictví Rúbenovcům, Gádovcům a polovině kmene Manasesova.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "A vzali jsme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich zemi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "jejich zemi"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "a dali ji"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "za dědictví"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Rúbenovcům"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "a Gádovcům"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "a polovině"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kmene"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Manasesova"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:59.338390439Z",
+  "model": "glm-5.3"
+}

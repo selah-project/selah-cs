@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Ty pak vstaň, jdi do svého domu; když tvé nohy vstoupí do města, dítě zemře.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ty pak"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "vstaň"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "do svého domu"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "když vstoupí"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "tvé nohy"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "do města"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dítě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:40.418520008Z",
+  "model": "glm-5.3"
+}

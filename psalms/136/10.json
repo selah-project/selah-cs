@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "⟨Tomu, kdo ranil⟩ Egyptra v jejich prvorozence, neboť na věky trvá jeho chesed.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Tomu, kdo ranil"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptra"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "v jejich prvorozencích"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:03.305806758Z",
+  "model": "glm-5.3"
+}

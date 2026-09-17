@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A shromáždili se ke králi Šalomounovi všichni muži Izraele v měsíci Etanim, při svátku — on ⟨je⟩ ten měsíc sedmý.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "A shromáždili se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomounovi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "v měsíci"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Etanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "při svátku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ten měsíc"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmý"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:19.155675552Z",
+  "model": "glm-5.3"
+}

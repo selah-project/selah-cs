@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A na zlatý oltář rozprostřou plášť z modři a přikryjí ⟨את⟩ jej pokrývkou z kůže tachaše a vloží ⟨את⟩ jeho tyče.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatý"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "rozprostřou"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "plášť"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "z modři"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "a přikryjí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej (oltář)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "pokrývkou"
+    },
+    {
+      "surface": "עור",
+      "gloss": "z kůže"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tachaše"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "a vloží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho tyče"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "jeho tyče"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:40.729989877Z",
+  "model": "glm-5.3"
+}

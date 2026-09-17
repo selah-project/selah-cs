@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 11:5",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Stalo se, když bojovali synové Amónu s Izraelem, že starší Giladu šli vzít ⟨את⟩ Jiftacha ze země Tób.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "bojovali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amónu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "šli"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladu"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "vzít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jiftacha"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftacha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tób"
+    }
+  ],
+  "timestamp": "2026-09-17T10:49:54.377856828Z",
+  "model": "glm-5.3"
+}

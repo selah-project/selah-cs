@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A volal tento k tomu a říkal: Svatý, svatý, svatý je Jahve Cevaot, plnost celé země ⟨je⟩ jeho sláva.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "A volal"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tomu"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a říkal"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Svatý"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plnost"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "jeho sláva"
+    }
+  ],
+  "timestamp": "2026-09-17T08:03:25.554231240Z",
+  "model": "glm-5.3"
+}

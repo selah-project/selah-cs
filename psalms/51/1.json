@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Pro předního zpěváka, mizmor ⟨od⟩ Davida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨od⟩ Davida"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:32.070976392Z",
+  "model": "glm-5.3"
+}

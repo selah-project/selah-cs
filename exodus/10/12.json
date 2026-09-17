@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A řekl Jahve Mošemu: Vznes svou ruku nad zem Miwcraim ⟨kvůli⟩ kobylkám, a vystoupí na zem Miwcraim a sežere ⟨את⟩ všechnu bylinu země, ⟨את⟩ vše, co kroupy ponechaly.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mošemu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "vznes"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miwcraim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "kvůli kobylkám"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a vystoupí"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Miwcraim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "a sežere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechnu bylinu země"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bylinu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vše, co kroupy ponechaly"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "ponechaly"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "kroupy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:21.127743429Z",
+  "model": "glm-5.3"
+}

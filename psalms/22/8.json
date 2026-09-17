@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Všichni, kdo mě vidí, posmívají se mi; ⟨oddávají⟩ rtů, megají hlavou —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Všichni"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "kdo mě vidí"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "posmívají se"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "oddávají ⟨se⟩"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "rtů"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "megají"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavou"
+    }
+  ],
+  "timestamp": "2026-09-17T11:57:19.815829Z",
+  "model": "glm-5.3"
+}

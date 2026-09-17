@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Rozdrtím je a nebudou moci vstát, padnou pod nohy mé.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "Rozdrtím je"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mohou"
+    },
+    {
+      "surface": "קום",
+      "gloss": "vstát"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "padnou"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "nohy mé"
+    }
+  ],
+  "timestamp": "2026-09-17T11:57:11.748423644Z",
+  "model": "glm-5.3"
+}

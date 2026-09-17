@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Vyháníš trávu dobytku a bylinu ⟨k⟩ práci člověka, aby vynášel chléb ze země.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Vyháníš"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "trávu"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "dobytku"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "a bylinu"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "práci"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "aby vynášel"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:26.547510741Z",
+  "model": "glm-5.3"
+}

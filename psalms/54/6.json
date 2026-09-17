@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 54,
+  "translation": "Hle, Elohim ⟨je⟩ můj pomocník; Adonaj ⟨je⟩ mezi těmi, kdo podpírají mou duši.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomocník"
+    },
+    {
+      "surface": "לי",
+      "gloss": "můj"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "mezi těmi, kdo podpírají"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mou duši"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:52.180425466Z",
+  "model": "glm-5.3"
+}

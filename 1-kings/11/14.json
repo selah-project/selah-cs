@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Jahve vzbudil Šalomounovi protivníka ⟨את⟩ Hadada Edomce, ze zření krále — on ⟨byl⟩ v Edomu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a vzbudil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "protivníka"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šalomounovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadada Edomce"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadada"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomce"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ze zření"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "v Edomu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:18.416672450Z",
+  "model": "glm-5.3"
+}

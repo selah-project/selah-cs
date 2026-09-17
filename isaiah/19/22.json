@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A Jahve uhodí ⟨את⟩ Egypt — úder i uzdravení; a navrátí se k Jahvovi, a on se nechá obměkčit a uzdraví je.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "a uhodí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egypt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "úder"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "i uzdravení"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "a navrátí se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "a nechá se obměkčit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "a uzdraví je"
+    }
+  ],
+  "timestamp": "2026-09-17T08:05:54.398924659Z",
+  "model": "glm-5.3"
+}

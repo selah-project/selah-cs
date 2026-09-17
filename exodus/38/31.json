@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "a ⟨את⟩ patky dvora kolem dokola, a ⟨את⟩ patky brány dvora, a ⟨את⟩ všechny kolíky příbytku, a ⟨את⟩ všechny kolíky dvora kolem dokola.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "patky dvora kolem dokola"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "patky"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvora"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "patky brány dvora"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "patky"
+    },
+    {
+      "surface": "שער",
+      "gloss": "brány"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechny kolíky příbytku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kolíky"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechny kolíky dvora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kolíky"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvora"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:08.620973970Z",
+  "model": "glm-5.3"
+}

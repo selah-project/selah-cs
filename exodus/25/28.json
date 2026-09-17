@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A uděláš ⟨את⟩ ty tyče z dřeva šitím, a pokryješ ⟨את⟩ je zlatem; a ponese se jimi ⟨את⟩ ten stůl.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "a uděláš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty tyče"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ty tyče"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z dřeva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitím (akácie)"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "a pokryješ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatem"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "a ponese se"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ten stůl"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ten stůl"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:32.346815478Z",
+  "model": "glm-5.3"
+}

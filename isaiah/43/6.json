@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Řeknu severu: „Vydej!“ a jihu: „Nezadržuj!“ Vyveď mé syny z dálky a mé dcery z konce ⟨země⟩-té ⟨této⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Řeknu"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "severu"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Vydej!"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "a jihu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "zadržuj!"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "Vyveď"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mé syny"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "z dálky"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "a mé dcery"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "z konce"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:55.714280195Z",
+  "model": "glm-5.3"
+}

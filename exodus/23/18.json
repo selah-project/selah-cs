@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Nezabiješ ⟨na⟩ kvašené ⟨chleby⟩ krev mé oběti a tuk mého svátku nezůstane ⟨ležet⟩ do rána.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "zabiješ"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kvašené ⟨chleby⟩"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "mé oběti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "nezůstane ⟨ležet⟩"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "mého svátku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rána"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:19.081669049Z",
+  "model": "glm-5.3"
+}

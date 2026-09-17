@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A synové Rúbena vystavěli ⟨את⟩ Chešbon a ⟨את⟩ Elale a ⟨את⟩ Kirjatajim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "A synové"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rúbena"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "vystavěli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chešbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Chešbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Kirjatajim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kirjatajim"
+    }
+  ],
+  "timestamp": "2026-09-17T10:43:53.052435789Z",
+  "model": "glm-5.3"
+}

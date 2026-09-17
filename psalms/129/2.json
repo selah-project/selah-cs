@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 129,
+  "translation": "Mnohokrát mě tísnili od mé mladosti — však nepřemohli mě.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Mnohokrát"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "mě tísnili"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "od mladosti"
+    },
+    {
+      "surface": "גם",
+      "gloss": "však"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "přemohli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:14.165927789Z",
+  "model": "glm-5.3"
+}

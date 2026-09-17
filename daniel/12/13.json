@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Ty však jdi ke konci ⟨a⟩ odpočívej a postavíš se ke svému údělu na konec dnů.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ty však"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "ke konci"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "a odpočívej"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "a postavíš se"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "ke svému údělu"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "na konec"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "dnů"
+    }
+  ],
+  "timestamp": "2026-09-17T10:07:04.994685635Z",
+  "model": "glm-5.3"
+}

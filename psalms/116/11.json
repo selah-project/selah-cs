@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "Já jsem řekl ve svém popudu: „Každý člověk ⟨je⟩ lživý.“",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jsem řekl"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ve svém popudu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lživý"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:14.172477673Z",
+  "model": "glm-5.3"
+}

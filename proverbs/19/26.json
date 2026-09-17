@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Plení otce a zahánějící matku — syn, který přivádí hanbu a potupu.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "plenící"
+    },
+    {
+      "surface": "אב",
+      "gloss": "otce"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "zahánějící"
+    },
+    {
+      "surface": "אם",
+      "gloss": "matku"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "který přivádí hanbu"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "a potupu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:56.303519546Z",
+  "model": "glm-5.3"
+}

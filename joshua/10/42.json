@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A ⟨את⟩ všechny tyto krále a ⟨את⟩ jejich zemi zajal Jozue jedním tažením, neboť Jahve, Elohim Izraele, bojoval za Izrael.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechny tyto krále"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "krále"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jejich zemi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "jejich zemi"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "zajal"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "jedním tažením"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedním"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "bojoval"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "za Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T07:07:59.478020398Z",
+  "model": "glm-5.3"
+}

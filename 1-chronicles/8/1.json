@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A Benjamín zplodil ⟨את⟩ Bélu, svého prvorozeného; Ašbél druhého, a Achrach třetího,",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "A Benjamín"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bélu"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bélu"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "svého prvorozeného"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ašbél"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhého"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "a Achrach"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "třetího"
+    }
+  ],
+  "timestamp": "2026-09-17T10:17:12.371818910Z",
+  "model": "glm-5.3"
+}

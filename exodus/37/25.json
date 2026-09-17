@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 37:25",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A udělal ⟨את⟩ oltář kadidlový z dřeva šitim — loket jeho délka a loket jeho šířka, čtverhranný ⟨je⟩, a dvě lokte jeho výška; z něho samého byly jeho rohy.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltář kadidlový"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadidlový"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z dřeva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "loket"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "jeho délka"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a loket"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jeho šířka"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "čtverhranný"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "a dvě lokte"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jeho výška"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něho"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byly"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "jeho rohy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:37.274752280Z",
+  "model": "glm-5.3"
+}

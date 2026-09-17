@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Připravuješ přede mnou stůl naproti mým protivníkům; pomazáváš olejem mou hlavu, ⟨a⟩ můj pohár ⟨je⟩ přesycený.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Připravuješ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "stůl"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mým protivníkům"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "pomazáváš"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olejem"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mou hlavu"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "můj pohár"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "⟨je⟩ přesycený"
+    }
+  ],
+  "timestamp": "2026-09-17T13:41:27.879128519Z",
+  "model": "glm-5.3"
+}

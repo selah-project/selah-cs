@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Adonaji, před tebou ⟨je⟩ celá má touha a mé vzdychání před tebou není skryto.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaji"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celá"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "má touha"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "a mé vzdychání"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "není"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "skryto"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:05.305755684Z",
+  "model": "glm-5.3"
+}

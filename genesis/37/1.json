@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A Jákov bydlel v zemi pobyty svého otce, v zemi Kenaan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "A bydlel"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "pobyty"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:10.244039021Z",
+  "model": "glm-5.3"
+}

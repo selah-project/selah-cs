@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 81,
+  "translation": "Já jsem Jahve, Elohim tvůj, který ⟨tě⟩ vyvedl z Egypta; otevři svá ústa dokořán a já ⟨je⟩ naplním.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvůj"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "který ⟨tě⟩ vyvedl"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "z země Egypta"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "otevři dokořán"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ústa tvá"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "a já naplním je"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:42.557738243Z",
+  "model": "glm-5.3"
+}

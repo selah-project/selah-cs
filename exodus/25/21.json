@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A položíš ⟨את⟩ slitovnici na archu, shora; a do archy uložíš ⟨את⟩ svědectví, které ti dám.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "A položíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slitovnici"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "slitovnici"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "archu"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "shora"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a do"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "archy"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "uložíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svědectví"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dám"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:36.026567755Z",
+  "model": "glm-5.3"
+}

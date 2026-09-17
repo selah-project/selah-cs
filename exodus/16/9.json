@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 16:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "I řekl Mojžíš Áronovi: Mluv k celé obci synů Izraele: Přistupte před Jahveho, neboť uslyšel ⟨את⟩ vaše reptání!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áronovi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Mluv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "obci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "Přistupte"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uslyšel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše reptání"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "vaše reptání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:14.814630905Z",
+  "model": "glm-5.3"
+}

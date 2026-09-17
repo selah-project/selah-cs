@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "Ať se stydí a zhynou ti, kdo žalují mou duši; ať se odějí hanbou a potupou ti, kdo usilují o mé zlo.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ať se stydí"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ať zhynou"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "kdo žalují"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji duši"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "ať se odějí"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "hanbou"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "a potupou"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kdo usilují"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "o mé zlo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:13.360381602Z",
+  "model": "glm-5.3"
+}

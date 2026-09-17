@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "A stalo se po těchto věcech, že ⟨někdo⟩ řekl Jósefovi: Hle, tvůj otec je ⟨nemocen⟩. A vzal ⟨את⟩ své dva syny s sebou, ⟨את⟩ Menašeho a ⟨את⟩ Efrajima.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "těchto věcech"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Jósefovi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvůj otec"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "je nemocen"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "A vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své dva syny"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "své syny"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s sebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menašeho"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Efrajima"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:21.479742338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Pro vedoucího ⟨sboru⟩, Davidův, zpěv ⟨za doprovodu⟩ nástrojů.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro vedoucího"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zpěv ⟨za doprovodu⟩ nástrojů"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:16.725255389Z",
+  "model": "glm-5.3"
+}

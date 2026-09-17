@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Ty, Jahve, nezadržíš soucitení svá přede mnou; chesed tvůj a pravda tvá vždycky budou mě střežit.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "nezadržíš"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "soucitení svá"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "chesed tvůj"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "a pravda tvá"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "vždycky"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "budou mě střežit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:24.479738161Z",
+  "model": "glm-5.3"
+}

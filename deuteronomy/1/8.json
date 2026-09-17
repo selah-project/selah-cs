@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Viz, předkládám před vás ⟨את⟩ zemi: vstupte a obsaďte ⟨את⟩ zemi, o níž Jahve přisáhl vaším otcům — Avrahamovi, Jicchakovi a Jaakovovi — že ji dá jim i jejich potomstvu po nich.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Viz"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "předkládám"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "před vás"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vstupte"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "a obsaďte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o níž"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "přisáhl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "vaším otcům"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamovi"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicchakovi"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "a Jaakovovi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "že dá"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "i jejich potomstvu"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "po nich"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:19.357205281Z",
+  "model": "glm-5.3"
+}

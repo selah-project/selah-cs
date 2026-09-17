@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I zavolal na Mošeho, a mluvil Jahve k němu ze stanu setkávání, řka:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a zavolal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeho"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "ze stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:31.511246631Z",
+  "model": "glm-5.3"
+}

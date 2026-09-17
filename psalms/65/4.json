@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 65,
+  "translation": "Skutky nepravostí převládly ⟨nade⟩ ⟨mnou⟩; naše přestoupení — ty ⟨je⟩ zakryješ ⟨odčiníš⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Skutky"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "nepravostí"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "převládly"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨nade⟩ ⟨mnou⟩"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "naše přestoupení"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "zakryješ ⟨odčiníš⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:45.927008101Z",
+  "model": "glm-5.3"
+}

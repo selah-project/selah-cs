@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Každý den ti budu žehnat, budu chválit tvé jméno na věky věků.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Každý"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ti budu žehnat"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "budu chválit"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "věků"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:41.186284564Z",
+  "model": "glm-5.3"
+}

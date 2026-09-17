@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "A přidala znovu a porodila syna a nazvala ⟨את⟩ jeho jméno Šela; a ⟨on byl⟩ v Chezibu, když ho porodila ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "a přidala"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "znovu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "a nazvala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Šela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a byl"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "v Chezibu"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "když porodila"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:11:26.906255879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A Lávan šel ostříhat ⟨את⟩ svá stáda, a Ráchel ukradla ⟨את⟩ terafim, které patřily jejímu otci.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "A Lávan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "ostříhat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá stáda"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "svá stáda"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "a ukradla"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ráchel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "patřily jejímu otci"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:16.585274214Z",
+  "model": "glm-5.3"
+}

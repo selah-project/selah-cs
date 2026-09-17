@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A tvé sezení i tvé vycházení i tvé vcházení znám, a ⟨את⟩ tvé vztekání proti mně.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "a tvé sezení"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "i tvé vycházení"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "i tvé vcházení"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znám"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvé vztekání"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "tvé vztekání"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "proti mně"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:18.337769353Z",
+  "model": "glm-5.3"
+}

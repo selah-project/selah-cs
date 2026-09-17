@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Že Jahve nebyl s to přivést ⟨את⟩ tento lid do země, kterou jim přísahal, a proto je pobil na poušti.‘",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "že nebyl s to"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "schopen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "přivést"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "přísahal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "a proto je pobil"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:44:03.751787103Z",
+  "model": "glm-5.3"
+}

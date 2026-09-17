@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 60,
+  "translation": "Což ne ty, Elohime, jsi nás zavrhl? A nevyjdeš, Elohime, s našimi vojsky?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Což ne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "jsi nás zavrhl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "vyjdeš"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "s našimi vojsky"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:15.233762055Z",
+  "model": "glm-5.3"
+}

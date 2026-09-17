@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Jahve, Adonaj náš, jak vznešené ⟨je⟩ tvé jméno v celé zemi, ty, který jsi svou nádheru postavil nad nebesa!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonaj náš"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "vznešené"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v celé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ty, který"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "jsi postavil"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "svou nádheru"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:18.304561662Z",
+  "model": "glm-5.3"
+}

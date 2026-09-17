@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 15:13",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A Šemuël přišel k Ša'ulovi, a Ša'ul mu řekl: „Požehnán buď Jahvovi. Vykonal jsem ⟨את⟩ slovo Jahveho.“",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ulovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ul"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Požehnán"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "buď ty"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "הקימתי",
+      "gloss": "Vykonal jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slovo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:42.551173699Z",
+  "model": "glm-5.3"
+}

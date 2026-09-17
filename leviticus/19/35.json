@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Nedělejte nepravosti v soudu, v míře, ve váze a v objemu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dělejte"
+    },
+    {
+      "surface": "עול",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "v soudu"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "v míře"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "ve váze"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "a v objemu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:00.454734201Z",
+  "model": "glm-5.3"
+}

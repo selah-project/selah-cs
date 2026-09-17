@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A Samuel soudil ⟨את⟩ Izrael po všechny dny svého života.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "soudil"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "po všechny"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "svého života"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:04.477457562Z",
+  "model": "glm-5.3"
+}

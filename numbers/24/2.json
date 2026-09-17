@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A Bílám pozvedl ⟨את⟩ své oči a viděl ⟨את⟩ Izrael bydlet podle svých kmenů, a byla na něm ruach Elohim.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "a pozvedl"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bílám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své oči"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "své oči"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "bydlet"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "podle svých kmenů"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a byla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něm"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach (duch)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:48:45.710716041Z",
+  "model": "glm-5.3"
+}

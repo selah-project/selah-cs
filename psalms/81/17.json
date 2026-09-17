@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 81,
+  "translation": "A ⟨jeho⟩ by krmil z tučného ⟨z⟩ pšenice, a medem ze skály bych tě nasycoval ⟨tě⟩.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "a krmil by ho"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "z tučného"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "pšenice"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "a ze skály"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "medem"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "nasycoval bych tě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:24.140598809Z",
+  "model": "glm-5.3"
+}

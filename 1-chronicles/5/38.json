@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A Achitúb zplodil ⟨את⟩ Cadoka, a Cadok zplodil ⟨את⟩ Šallúma.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "a Achitúb"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cadoka"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Cadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "a Cadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šallúma"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Šallúm"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:46.079011199Z",
+  "model": "glm-5.3"
+}

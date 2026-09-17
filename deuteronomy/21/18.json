@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Když má někdo syna svárlivého a vzdorovitého, neposlechne hlasu svého otce ani hlasu své matky, a trestali ⟨את⟩ ho, ale neposlechne jich —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "má"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "někdo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "svárlivého"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "a vzdorovitého"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "neposlechne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨poslouchat⟩"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlasu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "ani hlasu"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "své matky"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "a trestali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "poslechne"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jich"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:16.177876246Z",
+  "model": "glm-5.3"
+}

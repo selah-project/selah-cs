@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 53,
+  "translation": "Každý z nich ustrnul ⟨v zášti⟩, společně se zestrášněli, není ⟨nikoho⟩, kdo činí dobré, ani ⟨ jen⟩ jediného ⟨není⟩.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Každý z nich"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ustrnul ⟨v zášti⟩"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "společně"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "se zestrášněli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není ⟨nikoho⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kdo činí"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ani ⟨jen⟩ jediného ⟨není⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani ⟨jen⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jediného"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:55.544291652Z",
+  "model": "glm-5.3"
+}

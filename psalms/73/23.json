@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "Avšak já jsem stále s tebou; chopil ⟨jsi⟩ mě za pravou ruku.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "avšak já"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "chopil ⟨jsi⟩"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "za ruku"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "pravou (mou)"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:09.046449965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A řekneš faraónovi: Tak řekl Jahve: Můj syn, můj prvrozený, ⟨je⟩ Izrael.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "A řekneš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "(faraón)"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Můj syn"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "můj prvrozený"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:14.013804243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 9:16",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "I kdybych zavolal a on mi odpověděl, nevěřil bych, že naklání ucho k mému hlasu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "i kdybych"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "zavolal"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "a odpověděl by mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אאמין",
+      "gloss": "věřil bych"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "naklání ucho"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "k mému hlasu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:46.499229780Z",
+  "model": "glm-5.3"
+}

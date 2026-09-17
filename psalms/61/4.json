@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 61,
+  "translation": "Vždyť jsi mi byl útulkem, věží síly před nepřítelem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "היית",
+      "gloss": "jsi byl"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "útulkem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "věží"
+    },
+    {
+      "surface": "עז",
+      "gloss": "síly"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nepřítelem"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:18.256663353Z",
+  "model": "glm-5.3"
+}

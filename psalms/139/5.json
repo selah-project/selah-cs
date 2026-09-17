@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Zezadu i zepředu jsi mě sevřel, a položil jsi na mě svou dlaň.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "zezdadu"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "i zepředu"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "jsi mě sevřel"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "a položil jsi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mě"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "svou dlaň"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:35.894275238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 64,
+  "translation": "Tvá svatá města se stala pouští, Sión pouští se stal, Jeruzalém ⟨se stal⟩ zpustošením.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tvá svatá"
+    },
+    {
+      "surface": "היו",
+      "gloss": "se stala"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pouští"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sión"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "pouští"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "se stal"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "zpustošením"
+    }
+  ],
+  "timestamp": "2026-09-17T08:18:03.950135214Z",
+  "model": "glm-5.3"
+}

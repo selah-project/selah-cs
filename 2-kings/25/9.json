@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A spálil ⟨את⟩ dům Jahveho a ⟨את⟩ dům krále; a ⟨את⟩ všechny domy Jeruzaléma i ⟨את⟩ každý velký dům spálil ohněm.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "a spálil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "domy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "každý"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velký"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spálil"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:46.556963334Z",
+  "model": "glm-5.3"
+}

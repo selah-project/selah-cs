@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A řekl jsem: Nebudu pást ⟨את⟩ vás — umírající ať umře, vyhubená ať je vyhubena, a zbylé ať sežerou každá ⟨את⟩ maso své bližní.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "a řekl jsem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne(budu)"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "pást"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vyhash"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "umírající"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ať umře"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "vyhubená"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "ať je vyhubena"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "zbylé"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "ať sežerou"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "každá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "své bližní"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:37.101389568Z",
+  "model": "glm-5.3"
+}

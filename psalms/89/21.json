@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Našel jsem Davida, svého sluhu; svatým olejem jsem jej pomazal.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Našel jsem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "svého sluhu"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olejem"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svatým"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "jsem jej pomazal"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:17.382719693Z",
+  "model": "glm-5.3"
+}

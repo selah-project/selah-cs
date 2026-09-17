@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Ti ⟨věří⟩ v tažné vozy a ti v koně, my však ve jménu Jahve, Elohim našeho, ⟨se⟩ chlubíme.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ti"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "v tažné vozy"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "a ti"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "v koně"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "my však"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ve jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našeho"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "chlubíme se"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:57.793710115Z",
+  "model": "glm-5.3"
+}

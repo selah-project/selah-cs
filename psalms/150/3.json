@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 150,
+  "translation": "Chvalte ho troubením šofaru, chvalte ho nevelem a kinorem!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Chvalte ho"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "troubením"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofaru"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chvalte ho"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nevelem"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "a kinorem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:11.362361927Z",
+  "model": "glm-5.3"
+}

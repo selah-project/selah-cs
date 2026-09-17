@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 4:19",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A řekl jí: Dej mi napít, prosím, trochu vody, neboť žízním. Ona otevřela ⟨את⟩ měch mléka, napojila ho a přikryla ho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "השקיני",
+      "gloss": "Dej mi napít"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "trochu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "צמאתי",
+      "gloss": "žízním"
+    },
+    {
+      "surface": "ותפתח",
+      "gloss": "a otevřela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "měch"
+    },
+    {
+      "surface": "נאוד",
+      "gloss": "měch"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mléka"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "a napojila ho"
+    },
+    {
+      "surface": "ותכסהו",
+      "gloss": "a přikryla ho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:13:36.528488994Z",
+  "model": "glm-5.3"
+}

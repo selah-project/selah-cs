@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 53,
+  "translation": "Z úzkosti a z soudu ⟨byl⟩ vzat, a ⟨את⟩ jeho pokolení — kdo ⟨o tom⟩ uvažuje? Neboť byl vyťat ze země živých; za přestoupení mého lidu došlo jej rána.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "z úzkosti"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "a z soudu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "⟨byl⟩ vzat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho pokolení"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "jeho pokolení"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "uvažuje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "byl vyťat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živých"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "za přestoupení"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mého lidu"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "rána"
+    },
+    {
+      "surface": "למו",
+      "gloss": "došla jej"
+    }
+  ],
+  "timestamp": "2026-09-17T11:45:35.677219785Z",
+  "model": "glm-5.3"
+}

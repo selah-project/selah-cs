@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 57,
+  "translation": "Probuď se, má slávo, probuď se, nebel a kinnor! Já probudím ⟨ze⟩ svítání.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Probuď se"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "má slávo"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "probuď se"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nebel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "a kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "probudím"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "svítání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:47.299003777Z",
+  "model": "glm-5.3"
+}

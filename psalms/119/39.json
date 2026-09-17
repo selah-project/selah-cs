@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Odvrať moji potupu, které se bojím, neboť tvá práva ⟨jsou⟩ dobrá.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Odvrať"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "moji potupu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "se bojím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tvá práva"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "⟨jsou⟩ dobrá"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:46.269512439Z",
+  "model": "glm-5.3"
+}

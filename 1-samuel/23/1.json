@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A oznámili Davidovi ⟨slovem⟩: Hle, Pelištejci bojují s Keilou a plení ⟨את⟩ humna.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "A oznámili"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨slovem⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejci"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "bojují"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "s Keilou"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "plení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "humna"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "humna"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:35.715626937Z",
+  "model": "glm-5.3"
+}

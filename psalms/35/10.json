@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Všechny mé kosti řeknou: Jahve, kdo je jako ty, vysvobozující chudého od silnějšího než on, chudého a nuzného od lupiče ⟨jeho⟩?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mé kosti"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "řeknou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jako ty"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "vysvobozující"
+    },
+    {
+      "surface": "עני",
+      "gloss": "chudého"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "od silnějšího"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "než on"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "a chudého"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "a nuzného"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "od lupiče ⟨jeho⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:43.575375393Z",
+  "model": "glm-5.3"
+}

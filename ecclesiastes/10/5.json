@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Zlo jsem viděl pod sluncem: jako omyl, který vychází z přítomnosti vládce.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jsem viděl"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sluncem"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "jako omyl"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "který vychází"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "z přítomnosti"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "vládce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:16.593145661Z",
+  "model": "glm-5.3"
+}

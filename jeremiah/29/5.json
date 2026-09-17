@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Stavte ⟨si⟩ domy a bydlete ⟨v nich⟩, a sázejte zahrady a jezte ⟨את⟩ jejich ovoce.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Stavte"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "domy"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "a bydlete"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "a sázejte"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "zahrady"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "a jezte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich ovoce"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "jejich ovoce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:03:06.013295736Z",
+  "model": "glm-5.3"
+}

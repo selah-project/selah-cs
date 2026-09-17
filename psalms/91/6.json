@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 91,
+  "translation": "moru, který kráčí v temnotě, zkázy, jež pustoší v poledne.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "moru"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "v temnotě"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "kráčí"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "zkázy"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "pustoší"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "v poledne"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:11.927336632Z",
+  "model": "glm-5.3"
+}

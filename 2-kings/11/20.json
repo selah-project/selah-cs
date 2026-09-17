@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "I radoval se všechen lid země a město bylo v klidu; a ⟨את⟩ Atalii usmrtili mečem ⟨v⟩ domě králově.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "I radoval se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "a město"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "bylo v klidu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Atalii"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalii"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "usmrtili"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mečem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domě"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králově"
+    }
+  ],
+  "timestamp": "2026-09-17T07:57:19.336658322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Budeš jíst a nasytíš se, a dobrořečit budeš ⟨את⟩ Jahve, Elohima svého, za ⟨tu⟩ dobrou zemi, kterou ti dal.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Budeš jíst"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "a nasytíš se"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "a dobrořečit budeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohima svého"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "dobrou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:41.394865510Z",
+  "model": "glm-5.3"
+}

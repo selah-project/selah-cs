@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "⟨את⟩ tvá ustanovení budu střežit; neopouštěj mě ⟨až⟩ ⟨do⟩ konce.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvá ustanovení"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tvá ustanovení"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "budu střežit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "opouštěj mě"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨až⟩ ⟨do⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "konce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:46.457012956Z",
+  "model": "glm-5.3"
+}

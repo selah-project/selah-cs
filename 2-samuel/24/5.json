@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A přešli ⟨את⟩ Jordán a utábořili se v Aroeru, napravo od města, které ⟨je⟩ uprostřed údolí Gád, a k Jázeeru.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "a přešli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "a utábořili se"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "v Aroeru"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "napravo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "od města"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "údolí"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gád"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jázeeru"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:12.039796902Z",
+  "model": "glm-5.3"
+}

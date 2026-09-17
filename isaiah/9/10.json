@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A Jahve ⟨dovýsoko⟩ pozdvihl ⟨את⟩ soupeře Recina proti němu a ⟨את⟩ jeho nepřátele podnítil ⟨k útoku⟩.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "a pozdvihl výsoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soupeře Recina"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "soupeře"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Recina"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "proti němu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho nepřátele"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "jeho nepřátele"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "podnítil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:29.733742692Z",
+  "model": "glm-5.3"
+}

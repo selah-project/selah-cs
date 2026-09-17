@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 14:3",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A proč Jahve přivádí ⟨את⟩ nás do země této, abychom padli mečem? Naše ženy a naše děti budou kořistí. Není-liž lepší pro nás vrátit se do Egypta?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "a proč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "přivádí"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nás",
+      "marks": "nás"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "této"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "abychom padli"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mečem"
+    },
+    {
+      "surface": "נשינו",
+      "gloss": "naše ženy"
+    },
+    {
+      "surface": "וטפנו",
+      "gloss": "a naše děti"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "budou"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "kořistí"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "není-liž"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lepší"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pro nás"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vrátit se"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "do Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:43:56.304911209Z",
+  "model": "glm-5.3"
+}

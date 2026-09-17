@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A ⟨את⟩ svůj dům vystavěl Šalomoun — třináct let, a dokončil ⟨את⟩ celý svůj dům.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svůj dům"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svůj dům"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "vystavěl"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "náct"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "a dokončil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý svůj dům"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svůj dům"
+    }
+  ],
+  "timestamp": "2026-09-17T07:43:36.322352049Z",
+  "model": "glm-5.3"
+}

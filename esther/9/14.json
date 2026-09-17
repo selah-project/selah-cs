@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "I řekl král, aby se tak stalo; a byl vydán výnos v Šúšanu, a ⟨את⟩ deset synů Hámánových oběsili.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "aby se stalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "a byl vydán"
+    },
+    {
+      "surface": "דת",
+      "gloss": "výnos"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "v Šúšanu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deset (synů Hámánových)"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deset"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hámánových"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "oběsili"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:53.075745682Z",
+  "model": "glm-5.3"
+}

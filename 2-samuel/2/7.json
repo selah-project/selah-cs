@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 2:7",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A nyní nechť jsou pevné vaše ruce a buďte syny statečnosti, neboť zemřel pán váš Šaul, a také ⟨את⟩ mne pomazal dům Judů za krále nad nimi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "תחזקנה",
+      "gloss": "nechť jsou pevné"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "vaše ruce"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "a buďte"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "statečnosti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מת",
+      "gloss": "zemřel"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "pán váš"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a také"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mne"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "pomazal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judů"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za krále"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad nimi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:18.572270664Z",
+  "model": "glm-5.3"
+}

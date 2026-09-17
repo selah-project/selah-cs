@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A uslyšel Jitro, midjánský kohan, tchán Mojžíše, ⟨את⟩ všechno, co Elohim učinil Mojžíšovi a Izraeli, svému lidu — že Jahve vyvedl ⟨את⟩ Izraele z Egypta.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "A uslyšel"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "midjánský"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "tchán"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "a Izraeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svému lidu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "vyvedl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:41.518314170Z",
+  "model": "glm-5.3"
+}

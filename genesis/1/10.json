@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A nazval Elohim souš zemí, a shromaždišti vod dal jméno moře. A viděl Elohim, že ⟨to⟩ je dobré.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "A nazval"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "souš"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemí"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "a shromaždišti"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vod"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "dal jméno"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "A viděl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:35.780020176Z",
+  "model": "glm-5.3"
+}

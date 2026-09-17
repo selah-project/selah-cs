@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A nyní rozděl ⟨את⟩ tuto zemi jako dědictví devíti kmenům a polovině kmene Menašeho.“",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a-nyní"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "rozděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "jako-dědictví"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "devíti"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "kmenům"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "a-polovině"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "kmene"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menašeho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:08:47.510742747Z",
+  "model": "glm-5.3"
+}

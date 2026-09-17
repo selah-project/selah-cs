@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "Neučinil tak žádnému národu, a svá práva — ne, nepoznali je. Halelu Jah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "žádnému"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "národu"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "a svá práva"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne, ne-"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "poznali je"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:44.622803601Z",
+  "model": "glm-5.3"
+}

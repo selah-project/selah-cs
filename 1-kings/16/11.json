@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A stalo se, když se ujal království, usedna na svůj trůn, že ubil ⟨את⟩ celý dům Bašův; nenechal mu ⟨ani⟩ močícího na zeď, ani jeho vykupitele, ani jeho přítele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "když se ujal království"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "usedna na svůj"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "trůn"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ubil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý dům Bašův"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bašův"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nenechal"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "⟨ani⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "močícího"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "na zeď"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "ani jeho vykupitele"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "ani jeho přítele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:55.983370243Z",
+  "model": "glm-5.3"
+}

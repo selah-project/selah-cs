@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekl Jahve ke mně: Od severu otevře se zlo ⟨nebo: bude uvolněno⟩ na všechny obyvatele ⟨té⟩ země.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "Od severu"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "otevře se"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "obyvatele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:12.212061906Z",
+  "model": "glm-5.3"
+}

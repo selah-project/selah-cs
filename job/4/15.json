@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A vítr přelétl přes mou tvář — ježeří se chlupy mého těla.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "a vítr"
+    },
+    {
+      "surface": "על",
+      "gloss": "přes"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "přelétl"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "ježeří se"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "chlupy"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mého těla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:11.953110462Z",
+  "model": "glm-5.3"
+}

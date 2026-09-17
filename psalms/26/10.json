@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "v jejichž rukou je zlý úmysl a jejich pravice je plná úplatků.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "v jejichž"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zlý úmysl"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "a jejich pravice"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "je plná"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "úplatků"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:21.557684766Z",
+  "model": "glm-5.3"
+}

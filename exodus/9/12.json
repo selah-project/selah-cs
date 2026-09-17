@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Jahve však posílil ⟨את⟩ srdce faraóna, a neposlechl je, tak jak mluvil Jahve k Mojžíšovi.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a posílil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdce faraóna"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraóna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslechl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "je"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tak jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:42.836793205Z",
+  "model": "glm-5.3"
+}

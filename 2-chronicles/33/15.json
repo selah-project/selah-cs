@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A odstranil ⟨את⟩ cizí elohimy a ⟨את⟩ tesanou modlu z domu Jahveho, a všechny oltáře, které zbuildoval na hoře domu Jahveho a v Jeruzalému, a vyhodil ⟨je⟩ ven za město.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "A odstranil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cizí elohimy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohimy"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "cizí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tesanou modlu"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "tesanou modlu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechny"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zbuildoval"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "a v Jeruzalému"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "a vyhodil"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ven"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "za město"
+    }
+  ],
+  "timestamp": "2026-09-17T10:32:27.655656632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 8:7",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "I řekl král Achvergoš Ester, královně, a Mordechajovi, Judeji: Hle, dům Hámánův jsem dal Ester a ⟨jeho⟩ ⟨את⟩ pověsili na dřevo, protože na Judeje vztáhl ruku svou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Achvergoš"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "královně"
+    },
+    {
+      "surface": "ולמרדכי",
+      "gloss": "a Mordechajovi"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "Judeji"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hámánův"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeho (Hámána)"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "pověsili"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dřevo"
+    },
+    {
+      "surface": "על",
+      "gloss": "protože na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "vztáhl"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruku svou"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "na Judeje"
+    }
+  ],
+  "timestamp": "2026-09-17T13:02:49.383604422Z",
+  "model": "glm-5.3"
+}

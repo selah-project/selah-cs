@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Kvůli tvému zavazku a tvému hněvu, neboť jsi mě pozvedl a shodil jsi mě.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "tvému zavazku"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "a tvému hněvu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "jsi mě pozvedl"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "a shodil jsi mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:50.414492244Z",
+  "model": "glm-5.3"
+}

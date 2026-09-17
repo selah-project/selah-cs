@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A naplnil jsem ⟨את⟩ ⟨ho⟩ duchem Elohim, moudrostí a porozuměním a poznáním a vším dílem,",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "A naplnil jsem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨ho⟩",
+      "marks": "ho (Becalel)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "duchem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "moudrostí"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "a porozuměním"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "a poznáním"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "a vším"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "dílem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:24:29.837730933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Klam ⟨je⟩ kůň k záchraně, a množstvím své síly nevyprostí ⟨se⟩.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Klam"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kůň"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "k záchraně"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "a množstvím"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "své síly"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "vyprostí ⟨se⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:44.831484462Z",
+  "model": "glm-5.3"
+}

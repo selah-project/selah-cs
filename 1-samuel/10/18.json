@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 10:18",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A řekl k synům Izraele: Takto řekl Jahve, Elohim Izraele: Já jsem vyvedl ⟨את⟩ Izraele z Egypta a vysvobodil jsem ⟨את⟩ vás z ruky Egypta a z ruky všech království, která vás utlačovala ⟨את⟩ vás.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כה",
+      "gloss": "takto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "jsem vyvedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "ואציל",
+      "gloss": "a vysvobodil jsem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "a z ruky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "království"
+    },
+    {
+      "surface": "הלחצים",
+      "gloss": "která utlačovala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:30.554810338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 5:16",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Cti ⟨את⟩ svého otce i ⟨את⟩ svou matku, jak ti přikázal Jahve, tvůj Elohim, aby se tvé dny prodloužily a aby se ti vedlo dobře na půdě, kterou ti dává Jahve, tvůj Elohim.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Cti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého otce"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "svou matku"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "svou matku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ti přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "יאריכן",
+      "gloss": "se prodloužily"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tvé dny"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "a aby"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "se vedlo dobře"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "půdě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:56.984100199Z",
+  "model": "glm-5.3"
+}

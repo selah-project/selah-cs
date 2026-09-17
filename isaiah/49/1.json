@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 49:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Slyšte, ostrovy, mě, a vy, národy dávné, naslouchejte z daleka: Jahve mě povolal z lůna, z útrob mé matky připomněl mé jméno.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slyšte"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ostrovy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mě"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "naslouchejte"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "národy dávné"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "z daleka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "z lůna"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "mě povolal"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "z útrob"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mé matky"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "připomněl"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mé jméno"
+    }
+  ],
+  "timestamp": "2026-09-17T10:59:31.442026924Z",
+  "model": "glm-5.3"
+}

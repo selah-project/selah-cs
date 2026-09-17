@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Zdali jako ráně toho, kdo ho bil, jej bil? Zdali jako zabíjení jeho zabitých byl zabit?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "Zdali jako ráně"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "toho, kdo ho bil"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "jej bil"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Zdali"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "jako zabíjení"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "jeho zabitých"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "byl zabit"
+    }
+  ],
+  "timestamp": "2026-09-17T08:07:36.225981323Z",
+  "model": "glm-5.3"
+}

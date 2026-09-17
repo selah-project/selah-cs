@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "I vstal David a přešel ⟨on⟩ i šest set mužů, kteří ⟨byli⟩ s ním, k Akíšovi, synu Maóchova, králi Gatu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "I vstal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "a přešel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "i šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akíšovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Maóchovu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:31.893359732Z",
+  "model": "glm-5.3"
+}

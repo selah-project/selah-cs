@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "Hrmí národy, kolísají království; ⟨když⟩ vydal svůj hlas, táne země.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "Hrmí"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "kolísají"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "království"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "vydal"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "tane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:53.021929718Z",
+  "model": "glm-5.3"
+}

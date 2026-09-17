@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A kněz vezme ⟨את⟩ beránka oběti viny a ⟨את⟩ log oleje, a kněz zamává ⟨אתם⟩ jako mávání před tvář Jahve.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "a vezme"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beránka oběti viny"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "beránka"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "oběti viny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "log oleje"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oleje"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "a zamává"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "je (beránka a log oleje)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "mávání"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tvář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:33:28.939910276Z",
+  "model": "glm-5.3"
+}

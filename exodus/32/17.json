@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A Jozua uslyšel ⟨את⟩ hlas lidu v jeho řvaní a řekl Mojžíšovi: Hlas boje ⟨je⟩ v táboře.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a uslyšel"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "v jeho řvaní"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi (k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "boje"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "v táboře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:01.972454612Z",
+  "model": "glm-5.3"
+}

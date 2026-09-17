@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Buď ⟨tvoje⟩ ruka k mé pomoci, neboť tvá ustanovení jsem si vyvolil.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Buď"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "⟨tvoje⟩ ruka"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "k mé pomoci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tvá ustanovení"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "jsem si vyvolil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:16.149213481Z",
+  "model": "glm-5.3"
+}

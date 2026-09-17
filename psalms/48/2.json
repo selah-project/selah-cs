@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "Veliký ⟨je⟩ Jahve a velmi chvályhodný, ve městě Elohima našeho, hora svatosti jeho.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Veliký"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "a chvályhodný"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohima našeho"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hora"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svatosti jeho"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:34.353243300Z",
+  "model": "glm-5.3"
+}

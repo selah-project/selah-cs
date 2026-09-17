@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 18:8",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "na úrok nepůjčuje a přemnožení nebere, od bezpráví odvrací svou ruku, pravé právo koná mezi mužem a mužem —",
+  "tokens": [
+    {
+      "surface": "בנשך",
+      "gloss": "na úrok"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "půjčuje"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "a přemnožení"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bere"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "od bezpráví"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "odvrací"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "právo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "pravé"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "koná"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužem"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "a mužem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:43:00.948305002Z",
+  "model": "glm-5.3"
+}

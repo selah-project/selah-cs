@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A vysvobodil Jahve v onen den ⟨את⟩ Jisra'el z ruky Egypta; a viděl Jisra'el ⟨את⟩ Egypt mrtvého na břehu moře.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "A vysvobodil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisra'el"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egypt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtvého"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "břehu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:24.991346083Z",
+  "model": "glm-5.3"
+}

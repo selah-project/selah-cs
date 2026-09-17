@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Řekli ve svém srdci: ‚Zničme ⟨je⟩ společně!‘ Spálili všechna shromaždiště Ela v zemi.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "řekli"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "zničme ⟨je⟩"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "společně"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "spálili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "shromaždiště"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:36.034356114Z",
+  "model": "glm-5.3"
+}

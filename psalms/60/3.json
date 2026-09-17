@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 60,
+  "translation": "Elohime, zavrhl jsi nás, rozerval jsi nás, rozhněval jsi se — vrať se k nám!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "zavrhl jsi nás"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "rozerval jsi nás"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "rozhněval jsi se"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "vrať se"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "k nám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:04.899230099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Dokdy bude, Elohime, protivník hanobit, bude se nepřítel posmívat tvému jménu navěky?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokdy (do kdy)"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "dokdy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "bude hanobit"
+    },
+    {
+      "surface": "צר",
+      "gloss": "protivník"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "bude se posmívat"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nepřítel"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvému jménu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "navěky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:40.270358143Z",
+  "model": "glm-5.3"
+}

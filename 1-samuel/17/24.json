@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A všichni muži Izraele, když viděli ⟨את⟩ toho muže, utekli před ním a báli se velice.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "A všichni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "když viděli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toho muže"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "toho muže"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "utekli"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "a báli se"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velice"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:57.827455577Z",
+  "model": "glm-5.3"
+}

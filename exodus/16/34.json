@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Jak přikázal Jahve Mojžíšovi, tak ⟨to⟩ uložil Áron před ⟨Svědectví⟩ k ostraze.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "tak ⟨to⟩ uložil"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Svědectví"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "k ostraze"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:38.258830530Z",
+  "model": "glm-5.3"
+}

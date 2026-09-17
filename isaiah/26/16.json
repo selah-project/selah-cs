@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Jahve, v tísni tě vyhledávali, šeptali ti tichou modlitbu, když tvá kázeň byla na nich.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "v tísni"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "tě vyhledávali"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "šeptali"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "tichou modlitbu"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "tvá kázeň"
+    },
+    {
+      "surface": "למו",
+      "gloss": "na nich"
+    }
+  ],
+  "timestamp": "2026-09-17T08:07:26.699919174Z",
+  "model": "glm-5.3"
+}

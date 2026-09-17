@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A synové Chetovi odpověděli Avrahamovi ⟨את⟩ a řekli mu:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "a odpověděli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chetovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamovi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:08.933116201Z",
+  "model": "glm-5.3"
+}

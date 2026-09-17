@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "a ⟨את⟩ Bet-Nimra a ⟨את⟩ Bet-Haran, opevněná města, a ohrady pro stáda ovcí.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Bet-Nimra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Bet-Haran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "-Haran"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "opevněná"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "a ohrady"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "pro stáda ovcí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:50:52.688636527Z",
+  "model": "glm-5.3"
+}

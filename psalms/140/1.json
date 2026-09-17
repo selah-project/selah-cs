@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 140,
+  "translation": "Pro předního zpěváka. Žalm Davidův.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Žalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:33.414243744Z",
+  "model": "glm-5.3"
+}

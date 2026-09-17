@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Každé místo, na které vkročí vaše chodidlo, vám ⟨ho⟩ dám, jak jsem promluvil k Mošemu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "každé"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "vkročí"
+    },
+    {
+      "surface": "כף",
+      "gloss": "chodidlo (dlaně)"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "vaše noha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "jsem dal to"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jsem promluvil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošemu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:32.478895462Z",
+  "model": "glm-5.3"
+}

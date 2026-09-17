@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 110,
+  "translation": "Z potoka na cestě pije, proto pozdvihne hlavu.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "Z potoka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "pije"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "proto"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "pozdvihne"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:22.924817815Z",
+  "model": "glm-5.3"
+}

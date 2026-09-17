@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 1:19",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A promluvil král s ⟨את⟩ nimi, a nenašel se z nich všech nikdo jako Daniel, Chananja, Mišael a Azarja; a stáli před králem.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "A promluvil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "oni (čtyři chlapci)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "nenašel se"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "z nich všech"
+    },
+    {
+      "surface": "כדניאל",
+      "gloss": "jako Daniel"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Chananja"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mišael"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "a Azarja"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "a stáli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:19.540784888Z",
+  "model": "glm-5.3"
+}

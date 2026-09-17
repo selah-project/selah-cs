@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Hlas Jahve láme cedry, ano, Jahve láme ⟨את⟩ cedry Libanonu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Hlas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "láme"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedry"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ano, láme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cedry Libanonu"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "cedry"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanonu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:22.458592625Z",
+  "model": "glm-5.3"
+}

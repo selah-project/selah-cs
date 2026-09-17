@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 46:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "Toto jsou synové Leji, kteréž porodila Jákobovi v Pádan-Aramu, i ⟨את⟩ Dínu, dceru jeho; všech duší jeho synů a jeho dcer třicet a tři.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leji"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteréž"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jákobovi"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "v Pádan-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Dínu"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dínu"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "dceru jeho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duší"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synů"
+    },
+    {
+      "surface": "ובנותיו",
+      "gloss": "a jeho dcer"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třicet"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "a tři"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:48.210016464Z",
+  "model": "glm-5.3"
+}

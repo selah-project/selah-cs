@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Bezbožný strojí plány proti spravedlivému a skřípe na něj svými zuby.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "strojí plány"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožný"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "proti spravedlivému"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "a skřípe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "svými zuby"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:05.017889686Z",
+  "model": "glm-5.3"
+}

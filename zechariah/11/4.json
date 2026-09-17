@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Tak řekl Jahve, můj Elohim: Paste ⟨את⟩ stádo ⟨určené⟩ k zabití.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "můj Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Paste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stádo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "stádo"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "⟨určené⟩ k zabití"
+    }
+  ],
+  "timestamp": "2026-09-17T09:08:39.005593587Z",
+  "model": "glm-5.3"
+}

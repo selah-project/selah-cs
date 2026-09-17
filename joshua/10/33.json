@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 10:33",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Tehdy vytáhl Horam, král Gezeru, na pomoc ⟨את⟩ Lachiši; a Jóšua ho porazil i ⟨את⟩ jeho lid, až mu nezbyl žádný pozůstatek.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tehdy"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "vytáhl"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Horam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeru"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "na pomoc"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lachiši"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lachiši"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "a porazil ho"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho lid"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeho lid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "nezbyl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "pozůstatek"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:30.966140020Z",
+  "model": "glm-5.3"
+}

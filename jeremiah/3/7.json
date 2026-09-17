@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl jsem: Poté, co učinila ⟨את⟩ všechno toto — Ke mně se vrať! — a nevrátila se; a viděla to proradná její sestra Juda.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "A řekl jsem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "Poté, co"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "učinila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno toto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ke mně"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se vrať"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "vrátila se"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "a viděla"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "proradná"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "její sestra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:46.712567522Z",
+  "model": "glm-5.3"
+}

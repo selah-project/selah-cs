@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Neboť nezavřely dveře ⟨mého⟩ lůna a neskrpily útrap ⟨před⟩ mýma očima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zavřely"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "dveře"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mého lůna"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "a neskrpily"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "útrapy"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "před mýma očima"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:57.046405763Z",
+  "model": "glm-5.3"
+}

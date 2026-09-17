@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A zabije je ⟨את⟩ na severní straně oltáře, před tváří Jahve; a synové Árónovi, kněží, pokropí krví jeho ⟨את⟩ na oltář kolem dokola.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "a zabije"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "straně"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "severní"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "a pokropí"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árónovi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krví jeho"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krví jeho"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:29.554433964Z",
+  "model": "glm-5.3"
+}

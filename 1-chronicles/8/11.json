@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A z Chúšima zplodil ⟨את⟩ Avítuba a ⟨את⟩ Elpaala.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "a z Chúšima"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avítuba"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avítub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Elpaala"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    }
+  ],
+  "timestamp": "2026-09-17T11:23:35.040098758Z",
+  "model": "glm-5.3"
+}

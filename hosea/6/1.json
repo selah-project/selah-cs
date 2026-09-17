@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Pojďme, vraťme se k Jahvovi, neboť on rozsápal ⟨a⟩ uzdraví nás, zbil ⟨a⟩ ováže nás.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Pojďme"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "vraťme se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "rozszápal"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "uzdraví nás"
+    },
+    {
+      "surface": "יך",
+      "gloss": "zbil"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "ováže nás"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:11.719005963Z",
+  "model": "glm-5.3"
+}

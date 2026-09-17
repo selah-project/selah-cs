@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Znal jsi ⟨את⟩ Abnera, syna Néra, že přišel, aby tě oklamal, a poznat ⟨את⟩ tvé vycházení a ⟨את⟩ tvé přicházení, a poznat ⟨את⟩ všechno, co ty děláš.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Znal jsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abnera"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abnera"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Néra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "aby tě oklamal"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "a poznat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé vycházení"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "tvé vycházení"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvé přicházení"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "tvé přicházení"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "a poznat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "děláš"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:45.455653343Z",
+  "model": "glm-5.3"
+}

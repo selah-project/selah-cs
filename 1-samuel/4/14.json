@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Éli zaslechl ⟨את⟩ hlas křiku a řekl: Co znamená ⟨ten⟩ hlas tohoto ruchu? A muž spěchal a přišel a oznámil to Élimu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a zaslechl"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Éli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "křiku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "tohoto ruchu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "a muž"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "spěchal"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a oznámil"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Élimu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:26.018740496Z",
+  "model": "glm-5.3"
+}

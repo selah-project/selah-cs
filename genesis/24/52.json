@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Stalo se, když služebník Abrahama slyšel ⟨את⟩ jejich slova, že se klaněl k zemi před Jahve.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyšel"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "služebník"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich slova"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "jejich slova"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "že se klaněl"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "k zemi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "před Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:37.216026199Z",
+  "model": "glm-5.3"
+}

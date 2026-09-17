@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "I jinoši se unaví a udolají, a mladíci klopýtnou ⟨a padnou⟩.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "se unaví"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "jinoši"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "a udolají"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "a mladíci"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "klopýtnou"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "⟨a padnou⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:10.011274963Z",
+  "model": "glm-5.3"
+}

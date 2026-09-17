@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Toto ⟨jsou⟩ stanovené časy Jahve, svatá shromáždění, která budete vyhlašovat ⟨את⟩ ve jejich stanovenou dobu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "stanovené časy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatá"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "budete vyhlašovat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je (shromáždění)"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "ve jejich stanovenou dobu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:50.879810337Z",
+  "model": "glm-5.3"
+}

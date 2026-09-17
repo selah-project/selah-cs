@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 1:25",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A ⟨byl⟩ hlas nad oblohou, která ⟨byla⟩ nad jejich hlavami; když stály, spustily svá křídla.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a ⟨byl⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "oblohou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "jejich hlavami"
+    },
+    {
+      "surface": "בעמדם",
+      "gloss": "když stály"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "spustily"
+    },
+    {
+      "surface": "כנפיהן",
+      "gloss": "svá křídla"
+    }
+  ],
+  "timestamp": "2026-09-17T08:37:54.810630121Z",
+  "model": "glm-5.3"
+}

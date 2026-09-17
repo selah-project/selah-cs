@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Neboť jsme zničeni tvým hněvem, tvou prudkostí jsme zděšeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "jsme zničeni"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "tvým hněvem"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "tvou prudkostí"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "jsme zděšeni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:01.230736793Z",
+  "model": "glm-5.3"
+}

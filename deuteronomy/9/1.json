@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Slyš, Izraeli: ty dnes přecházíš ⟨את⟩ Jordán, abys vešel a aby ses zmocnil národů velikých a mocnějších než ty, měst velikých a opevněných až k nebi —",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Slyš"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "přecházíš"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "abys vešel"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "aby ses zmocnil"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "velikých"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "a mocnějších"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "než ty"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "měst"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "velikých"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "a opevněných"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "až k nebi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:41.975557339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Nebudou ti ⟨být⟩ Elohim jiní vedle ⟨mých⟩ tváří.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nebudou"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨být⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "jiní"
+    },
+    {
+      "surface": "על",
+      "gloss": "vedle"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváří"
+    }
+  ],
+  "timestamp": "2026-09-17T13:00:02.411004689Z",
+  "model": "glm-5.3"
+}

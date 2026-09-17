@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 19:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Lepší ⟨je⟩ chudý, který chodí ve své bezúhonnosti, než ten, kdo je křivý ve svých rtech a je hlupák.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepší"
+    },
+    {
+      "surface": "רש",
+      "gloss": "chudý"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "chodí"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "v bezúhonnosti"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "křivý"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ve svých rtech"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "hlupák"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:59.024011431Z",
+  "model": "glm-5.3"
+}

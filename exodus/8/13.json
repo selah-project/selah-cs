@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A učinili tak; a Áron vztáhl ⟨את⟩ svou ruku se svou holí a udeřil ⟨את⟩ prach země, a staly se vši na člověku i na dobytku; všechen prach země se stal ve vši v celé zemi egyptské.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "A učinili"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "a vztáhl"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "se svou holí"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a udeřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prach země"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prach"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a staly se"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "vši"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na člověku"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "i na dobytku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prach"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "היה",
+      "gloss": "se stal"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ve vši"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v celé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptské"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:28.366192730Z",
+  "model": "glm-5.3"
+}

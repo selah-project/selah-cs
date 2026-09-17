@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Kdo střeží přikázání, střeží svou duši; kdo pohrdá svými cestami, zemře.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "střeží"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "střeží"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svou duši"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "kdo pohrdá"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "svými cestami"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:31.702872970Z",
+  "model": "glm-5.3"
+}

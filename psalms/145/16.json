@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Otevíráš ⟨את⟩ svou ruku a sytíš laskavostí každého živého.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Otevíráš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "a sytíš"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živého"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "laskavostí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:29.410719073Z",
+  "model": "glm-5.3"
+}

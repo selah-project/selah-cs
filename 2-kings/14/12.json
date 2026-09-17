@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A Júda byl poražen před Izraelem, a utekl každý muž ke svému stanu.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "A byl poražen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "a utekl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý muž"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "ke svému stanu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:03.113684111Z",
+  "model": "glm-5.3"
+}

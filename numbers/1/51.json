@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Když příbytek vyrazí na cestu, sestaví jej levité ⟨אתו⟩, a když se příbytek utáboří, vztyčí jej levité ⟨אתו⟩; cizinec, který se přiblíží, bude usmrcen.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "když vyrazí na cestu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytek"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "sestaví (doslova sestoupí\/sejmou)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "jej (příbytek)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levité"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "a když se utáboří"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytek"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "vztyčí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "jej (příbytek)"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levité"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "a cizinec (nevěrec, nelevita)"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "který se přiblíží"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bude usmrcen"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:08.798483874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "I postavil Šalomoun ⟨את⟩ dům a dokonal jej.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "I postavil"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "a dokonal jej"
+    }
+  ],
+  "timestamp": "2026-09-17T07:43:41.658533600Z",
+  "model": "glm-5.3"
+}

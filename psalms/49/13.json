@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "A člověk v cti nezůstane ⟨nocí⟩; přirovnán je dobytčatům — zahynuli.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "A člověk"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "v cti"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "zůstane ⟨nocí⟩"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "přirovnán je"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "dobyčatům"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "zahynuli"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:57.603608657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "pak vezme otec dívky i její matka a vynesou ⟨את⟩ důkazy dívčího panenství před starší města, ⟨k⟩ brány:",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "pak vezme"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otec"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dívky"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "i její matka"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "a vynesou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "důkazy dívčího panenství"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "důkazy panenství"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dívčí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "před"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "k brány"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:47.946655148Z",
+  "model": "glm-5.3"
+}

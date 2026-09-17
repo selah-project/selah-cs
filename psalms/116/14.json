@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "Své sliby Jahvi splním, ach, před očima všeho jeho lidu.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "své sliby"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "splním"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "před očima"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ach"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "veškerého"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeho lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:27.153978818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Trestej mě, Jahve, jen s mírou, ne ve svém hněvu, abys mě nezmenšil.",
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "trestej mě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "s mírou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ve svém hněvu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abys ne"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "zmenšil"
+    }
+  ],
+  "timestamp": "2026-09-17T08:21:36.671423061Z",
+  "model": "glm-5.3"
+}

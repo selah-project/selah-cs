@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Stalo se ⟨to⟩ po smrti Ša'ula, když se David vrátil od poražení ⟨את⟩ Amalekitů, a David bydlel v Ciklagu dva dny.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ula"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "a David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vrátil se"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "od poražení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekitů"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalekitů"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a bydlel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "v Ciklagu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:44.261129275Z",
+  "model": "glm-5.3"
+}

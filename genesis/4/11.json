@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A nyní proklet jsi ⟨jsi⟩ od země, která otevřela ⟨את⟩ svá ústa, aby přijala ⟨את⟩ krev tvého bratra z tvé ruky.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "proklet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi… ty"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "země"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "otevřela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá ústa"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "svá ústa"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "aby přijala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krev tvého bratra"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krev"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvého bratra"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "z tvé ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:51.392773826Z",
+  "model": "glm-5.3"
+}

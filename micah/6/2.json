@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Slyšte, hory, ⟨את⟩ spor Jahve, i pevné základy země, neboť Jahve má spor se svým lidem a s Izraelem se chce soudit!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slyšte"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hory"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spor"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "spor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "i pevné"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "základy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "spor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "má Jahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "se"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svým lidem"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a s"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "se chce soudit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:04:34.382538258Z",
+  "model": "glm-5.3"
+}

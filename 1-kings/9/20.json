@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Všechen lid, který zbyl z Emorejce, Chetejce, Perizejce, Chivejce a Jebusejce — ti nebyli z synů Izraele.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "který zbyl"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejce"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetejce"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizejce"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chivejce"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "a Jebusejce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ze synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:58.521209449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A váš otec mě klamal a změnil ⟨את⟩ mou mzdu desetkrát ⟨i s tím⟩, ale Elohim mu nedovolil, aby mi ublížil.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "a váš otec"
+    },
+    {
+      "surface": "התל",
+      "gloss": "klamal"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mě"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "a změnil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou mzdu"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "mou mzdu"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deset"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "krát"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dovolil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ublížit"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:53.296003220Z",
+  "model": "glm-5.3"
+}

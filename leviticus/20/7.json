@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A posvěťte se a buďte svatí, neboť já ⟨jsem⟩ Jahve, Elohim váš.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "A posvěťte se"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "a buďte"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svatí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim váš"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:40.846467144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A žil Šét po zplodení ⟨את⟩ Enoše sedm let a osm set let a zplodil syny a dcery.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "A žil"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Šét"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zplodení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoše"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enoše"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "a osm"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "a dcery"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:40.645320827Z",
+  "model": "glm-5.3"
+}

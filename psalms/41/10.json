@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Dokonce i muž mého pokoje, v něhož jsem doufal, jenž jedl můj chléb, pozvedl proti mně patu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "dokonce i"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "mého pokoje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jenž"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "jsem doufal"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něhož"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "jedl"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "můj chléb"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "pozvedl (zveličil)"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "patu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:21.521614561Z",
+  "model": "glm-5.3"
+}

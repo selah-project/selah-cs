@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Pro předního zpěváka, ⟨podle⟩ „Šóšanim – edut“ ⟨svědectví⟨, Asafovi, píseň ⟨se strunným doprovodem⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro předního zpěváka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨podle⟩"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "„Šóšan“ (lilie — název melodie)"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "„edut“ — svědectví"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafovi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "píseň ⟨se strunným doprovodem⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:47.854721234Z",
+  "model": "glm-5.3"
+}

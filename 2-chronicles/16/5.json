@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Stalo se, když to uslyšel Baša, že přestal stavět ⟨את⟩ Rámu a nechal ustát ⟨את⟩ své dílo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "když uslyšel"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baša"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "přestal"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "stavět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rámu"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rámu"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "nechal ustát"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své dílo"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "své dílo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:28:33.488849812Z",
+  "model": "glm-5.3"
+}

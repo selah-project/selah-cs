@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Vypravujte o ⟨tom⟩ svým synům, a vaši syni svým synům, a jejich syni ⟨to⟩ pokolení jinému.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "o ⟨tom⟩"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "svým synům"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "Vypravujte"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "a vaši syni"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "svým synům"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "a jejich syni"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jinému"
+    }
+  ],
+  "timestamp": "2026-09-17T08:58:08.131244980Z",
+  "model": "glm-5.3"
+}

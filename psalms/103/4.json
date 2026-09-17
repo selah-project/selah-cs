@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Který vykupuje tvůj život ze שאolu zkázy, který tě korunuje chesedem a slitováním —",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Který vykupuje"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ze zkázy"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "tvůj život"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "který tě korunuje"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "a slitováním"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:20.182143549Z",
+  "model": "glm-5.3"
+}

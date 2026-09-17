@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 100,
+  "translation": "Neboť Jahve ⟨je⟩ dobrý, na věčnost ⟨trvá⟩ jeho chesed, a až na pokolení a pokolení jeho věrnost.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrý"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věčnost"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a až na"
+    },
+    {
+      "surface": "דר",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "a pokolení"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "jeho věrnost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:39.826816182Z",
+  "model": "glm-5.3"
+}

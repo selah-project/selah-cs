@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Protože půda je roztříštěná, neboť nebyl déšť v zemi, zahanbili se rolníci, přikryli svou hlavu.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Protože"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "půda"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "je roztříštěná"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "déšť"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "zahanbili se"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "rolníci"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "přikryli"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "svou hlavu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:23:56.503190823Z",
+  "model": "glm-5.3"
+}

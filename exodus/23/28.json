@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A pošlu ⟨את⟩ sršeň před tebou, a ta vyžene ⟨את⟩ Chivijce, ⟨את⟩ Kenaance a ⟨את⟩ Chety před tebou.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "A pošlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sršeň"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "sršeň"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "a ta vyžene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chivijce"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chivijce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaance"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaance"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Chety"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chety"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "před tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:59.711355686Z",
+  "model": "glm-5.3"
+}

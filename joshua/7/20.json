@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A odpověděl Achan ⟨את⟩ Jozuovi a řekl: Zajisté jsem zhřešil vůči Jahveovi, Elohimu Izraele, a toto a toto jsem učinil.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a odpověděl"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Achan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozuovi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "zajisté"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "jsem zhřešil"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vůči Jahveovi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem učinil"
+    }
+  ],
+  "timestamp": "2026-09-17T07:07:32.853528915Z",
+  "model": "glm-5.3"
+}

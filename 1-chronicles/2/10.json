@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Rám zplodil ⟨את⟩ Amínadaba; a Amínadab zplodil ⟨את⟩ Nachšóna, kníže synů Judových.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "A Rám"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amínadaba"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amínadaba"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "a Amínadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachšóna"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachšóna"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "kníže"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judových"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:11.981629416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A počala Sára a porodila Abrahamovi syna ve svém stáří, ⟨v⟩ stanovený čas ⟨ten⟩, o němž mluvil ⟨את⟩ něj Elohim.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "A počala"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sára"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "ve svém stáří"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "stanovený čas ⟨v⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o němž"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "něj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:15.105424969Z",
+  "model": "glm-5.3"
+}

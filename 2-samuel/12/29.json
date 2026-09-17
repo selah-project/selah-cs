@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A David shromáždil ⟨את⟩ veškerý ⟨ten⟩ lid a táhl na Rabbu, a bojoval proti ní, a dobyl ji.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "A shromáždil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškerý ten lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerý"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ten⟩ lid"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a táhl"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "na Rabbu"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "a bojoval"
+    },
+    {
+      "surface": "בה",
+      "gloss": "proti ní"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "a dobyl ji"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:32.040071300Z",
+  "model": "glm-5.3"
+}

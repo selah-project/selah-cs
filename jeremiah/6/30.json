@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Zavržené stříbro — tak je nazvali, neboť Jahve je zavrhl.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "zavržené"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "nazvali"
+    },
+    {
+      "surface": "להם",
+      "gloss": "je"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "zavrhl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:38.870605104Z",
+  "model": "glm-5.3"
+}

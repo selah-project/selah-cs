@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "⟨את⟩ tváří chápavého ⟨je⟩ moudrost, ale oči blázna ⟨jsou⟩ na krajích země.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tváří chápavého"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "chápavého"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ale oči"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "blázna"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "na krajích"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:53.279200842Z",
+  "model": "glm-5.3"
+}

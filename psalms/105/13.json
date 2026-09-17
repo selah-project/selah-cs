@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "A putovali od národa k národu, z jednoho království k jinému lidu ⟨přes⟩ ⟨jiný⟩.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "A putovali"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "od národa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "národu"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "z království"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jinému"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:12.271778025Z",
+  "model": "glm-5.3"
+}

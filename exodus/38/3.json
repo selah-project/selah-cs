@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "A udělal ⟨את⟩ všechno náčiní oltáře: ⟨את⟩ hrnce a ⟨את⟩ lopaty a ⟨את⟩ mísy, ⟨את⟩ vidlice a ⟨את⟩ ohňové pánve; všechno jeho náčiní udělal z mědi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno náčiní oltáře"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "náčiní"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hrnce"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "hrnce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "lopaty"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "lopaty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mísy"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "mísy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vidlice"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "vidlice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ohňové pánve"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "ohňové pánve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jeho náčiní"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "z mědi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:02.042725933Z",
+  "model": "glm-5.3"
+}

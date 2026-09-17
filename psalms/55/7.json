@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "A řekl jsem: Kdo by mi dal křídlo jako holubice — odletěl bych a spočinul.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "a řekl jsem"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "by dal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "křídlo"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "jako holubice"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "odletěl bych"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "a spočinul"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:41.754236112Z",
+  "model": "glm-5.3"
+}

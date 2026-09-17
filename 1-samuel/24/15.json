@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Za kým vyšel král Izraele? Za kým ty pronásleduješ? Za mrtvým psem, za jednou blechou?",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kým"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kým"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "pronásleduješ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "psem"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtvým"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "blechou"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:11.677321486Z",
+  "model": "glm-5.3"
+}

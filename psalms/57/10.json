@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 57,
+  "translation": "Vzdám ti díky mezi národy, Adonaj, zazpívám ti mezi lidmi ⟨האמים⟩.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Vzdám ti díky"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "mezi národy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "zazpívám ti"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨האמים⟩"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "mezi lidmi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:47.299320673Z",
+  "model": "glm-5.3"
+}

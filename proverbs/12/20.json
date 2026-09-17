@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Klam ⟨je⟩ v srdci těch, kdo kují zlo, ale těm, kdo radí pokoj, ⟨je⟩ radost.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "Klam"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "v srdci"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "těch, kdo kují"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "ale těm, kdo radí"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "radost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:47.951278687Z",
+  "model": "glm-5.3"
+}

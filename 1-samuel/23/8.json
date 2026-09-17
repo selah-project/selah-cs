@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A svolal Saul ⟨את⟩ všechen ⟨ten⟩ lid k bitvě, aby sestoupil do Keily, aby oblehl Davida a jeho muže.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "A svolal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechen lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "k bitvě"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "aby sestoupil"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "do Keily"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "aby oblehl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a proti"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "jeho mužům"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:08.250459840Z",
+  "model": "glm-5.3"
+}

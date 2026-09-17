@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Požehnaný buď Elohim, který neodvrátil mou modlitbu ani svůj chesed ⟨את⟩ ode mne.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "požehnaný buď"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "odvrátil"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mou modlitbu"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ani svůj chesed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ode mne",
+      "marks": "svůj chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:00.062904202Z",
+  "model": "glm-5.3"
+}

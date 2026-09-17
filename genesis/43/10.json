@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Vždyť kdybychom neotáleli, již dvakrát bychom se byli vrátili.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "kdyby ne"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "neotáleli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(vždyť)"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "již"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "bychom se byli vrátili"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "krát"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:27.786496662Z",
+  "model": "glm-5.3"
+}

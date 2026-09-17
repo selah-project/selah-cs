@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Z nebe hledí Jahve, vidí ⟨את⟩ všechny syny ⟨člověka⟩.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "z nebe"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "hledí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny syny člověka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:49.817936194Z",
+  "model": "glm-5.3"
+}

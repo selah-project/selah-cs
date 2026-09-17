@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A Šalomoun řekl Elohimovi: „Ty jsi ⟨prokázal⟩ s Davidem, mým otcem, chesed veliký, a dal jsi mi kralovat místo něj.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimovi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi ⟨prokázal⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidem"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mým otcem"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "dal jsi mi kralovat"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    }
+  ],
+  "timestamp": "2026-09-17T10:23:54.159694015Z",
+  "model": "glm-5.3"
+}

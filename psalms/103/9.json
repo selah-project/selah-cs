@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Nebude se ⟨On⟩ věčně přít, ani na věky nebude střežit ⟨svůj⟩ hněv.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "věčně"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "bude se přít"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani ne"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "bude střežit (hněv)"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:23.661470124Z",
+  "model": "glm-5.3"
+}

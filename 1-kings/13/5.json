@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A oltář se roztrhl a popel se vysypal z oltáce, podle znamení, které dal muž ⟨Elohim⟩ slovem Jahve.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "a oltář"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "se roztrhl"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "a vysypal se"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "popel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "podle znamení"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨Elohim⟩"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "slovem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:51.872843699Z",
+  "model": "glm-5.3"
+}

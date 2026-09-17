@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "I mluvil Jahve k Mojžíšovi a k Elazarovi, synu Árónovu, knězi, ⟨a řekl⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árónovu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "knězi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a řekl⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:48:59.907470957Z",
+  "model": "glm-5.3"
+}

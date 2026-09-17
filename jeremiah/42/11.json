@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 42:11",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Nebojte se tváře krále babylonského, před nímž se bojíte; nebojte se ho, výrok Jahve, neboť já jsem s ⟨את⟩ vámi, abych vás zachránil ⟨את⟩ a vytrhl ⟨את⟩ vás z jeho ruky.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne (nebojte se)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babylonského"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "před nímž"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "bojíte se"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vámi",
+      "marks": "s vámi — zde předložka עם, ne značka předmětu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já jsem"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "abych zachránil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "ולהציל",
+      "gloss": "a vytrhl"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "z jeho ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T08:33:48.383974447Z",
+  "model": "glm-5.3"
+}

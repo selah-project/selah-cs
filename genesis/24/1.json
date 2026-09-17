@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Abraham zestárnul, vešel ve dnech ⟨v vysokém věku⟩, a Jahve požehnal ⟨את⟩ Abrahama ve všem.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "a Abraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "zestárnul"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vešel"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ve dnech"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "požehnal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:20.919958453Z",
+  "model": "glm-5.3"
+}

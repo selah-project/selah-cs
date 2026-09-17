@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Tvůj jsem, zachraň mě, neboť tvá ustanovení jsem hledal.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tvůj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jsem ⟨j⟩á"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "zachraň mě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tvá ustanovení"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "jsem hledal"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:28.094717704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "Na tebe jsem se opíral od lůna, z útrob matky jsi mě vyňal ⟨is⟩; tebou ⟨je⟩ má chvála nepřetržitě.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "jsem se opíral"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "od lůna"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "z útrob"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "matky"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "jsi mě vyňal"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tebou"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "má chvála"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "nepřetržitě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:50.521453006Z",
+  "model": "glm-5.3"
+}

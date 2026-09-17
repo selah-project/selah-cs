@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A sbírali ⟨את⟩ to ráno <ráno>, každý muž podle míry svého jídla; a když slunce zahřálo, roztálo.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "a sbírali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "to"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý muž"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "podle míry"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "svého jídla"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "a když zahřálo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "roztálo"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:24.260243959Z",
+  "model": "glm-5.3"
+}

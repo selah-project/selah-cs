@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Hle, vzdoruje s nepravostí, počal útrapu a zplodil lež.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "vzdoruje"
+    },
+    {
+      "surface": "און",
+      "gloss": "s nepravostí"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "počal"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "útrapu"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lež"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:30.373755344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 39:32",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "A ⟨byla⟩ dokonána všechna práce příbytku, stanu setkávání; a synové Izraele udělali podle všeho, co přikázal Jahve ⟨את⟩ Mojžíše, tak učinili.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "a byla dokonána"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "práce"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "příbytku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "a udělali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "učinili"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:06.258046988Z",
+  "model": "glm-5.3"
+}

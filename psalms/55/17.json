@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Co se mě týče, k Elohim budu volat, a Jahve mě zachrání.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "co se mě týče"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "budu volat"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "mě zachrání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:03.451667014Z",
+  "model": "glm-5.3"
+}

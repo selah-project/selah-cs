@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Násilí bezbožných je odvleče, neboť odmítli konat právo.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "násilí"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "je odvleče"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "odmítli"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "konat"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "právo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:40.763951462Z",
+  "model": "glm-5.3"
+}

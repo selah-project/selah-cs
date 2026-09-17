@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A řekl Šchem Chamorovi, svému otci: Vezmi mi ⟨את⟩ tuto dívku za ženu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šchem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamorovi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svému otci"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "(říkaje)"
+    },
+    {
+      "surface": "קח",
+      "gloss": "vezmi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto dívku"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "tuto dívku"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:44.711233487Z",
+  "model": "glm-5.3"
+}

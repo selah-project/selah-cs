@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Učí mé ruce boji, a měděný luk skládají mé paže.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Učí"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mé ruce"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "boji"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "a sklonila se"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "měděný"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "mé paže"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:10.751569100Z",
+  "model": "glm-5.3"
+}

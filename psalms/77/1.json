@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Pro předního zpěváka, podle Jedutuna, Asafovo, žalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "על",
+      "gloss": "podle"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Jedutuna"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafovo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "žalm"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:54.160301279Z",
+  "model": "glm-5.3"
+}

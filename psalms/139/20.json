@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "kteří zlobně vyslovují tvé jméno — nadarmo je pozdvihují tví nepřátelé.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "vyslovují tě"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "zlobně"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pozdvihují"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "nadarmo"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "tví nepřátelé"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:32.692486429Z",
+  "model": "glm-5.3"
+}

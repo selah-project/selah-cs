@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 4:46",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Všichni ti sečtení, které sečetl Mojžíš a Áron a knížata Izraele — ⟨את⟩ levity, podle jejich čeledí a podle domu jejich otců.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Všichni"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "ti sečtení"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "sečetl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Áron"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "a knížata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levity"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levity"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle jejich čeledí"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "a podle domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jejich otců"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:51.046727824Z",
+  "model": "glm-5.3"
+}

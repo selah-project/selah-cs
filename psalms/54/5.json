@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 54,
+  "translation": "Neboť cizinci povstali proti mně a ukrutní hledají mou duši; nepostavili si Elohima před sebe. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "cizinci"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "povstali"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "a ukrutní"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "hledají"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji duši"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "postavili si"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "před sebe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:52.180123797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A ⟨jestliže⟩ žena přistoupí ke každému zvířeti, aby s ním obcovala ⟨את⟩ — zabiješ ⟨את⟩ tu ženu a ⟨את⟩ to zvíře: smrtí budou usmrceni, krev jejich ⟨bude⟩ na nich.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "A ⟨jestliže⟩ žena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "přistoupí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každému"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "zvířeti"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "aby s ním obcovala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "zabiješ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu ženu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tu ženu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "to zvíře"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "to zvíře"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "budou usmrceni"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "krev jejich"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na nich"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:19.146802104Z",
+  "model": "glm-5.3"
+}

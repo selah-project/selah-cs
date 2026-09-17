@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A přikázal jim Mojžíš ⟨את⟩ Elázara kněze a ⟨את⟩ Jozuu, syna Núnova, a ⟨את⟩ přední z otců kmenů synů Izraele.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elázara kněze"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elázara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jozuu, syna Núnova"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Núnova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "přední z otců kmenů"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "přední"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "z otců"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "kmenů"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T06:51:00.876559047Z",
+  "model": "glm-5.3"
+}

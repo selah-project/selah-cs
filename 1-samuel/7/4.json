@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "I odstranili synové Izraele ⟨את⟩ Baaly a ⟨את⟩ Aštarty a sloužili ⟨את⟩ Jahvovi samotnému.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "I odstranili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baaly"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baaly"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Aštarty"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Aštarty"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "a sloužili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvovi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "samotnému"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:52.133496568Z",
+  "model": "glm-5.3"
+}

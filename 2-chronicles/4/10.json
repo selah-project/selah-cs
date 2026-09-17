@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A ⟨את⟩ moře postavil na pravé straně ⟨na⟩ východní straně, naproti jihu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moře"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "na straně"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "pravé"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "východní straně"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "jihu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:24:16.737837787Z",
+  "model": "glm-5.3"
+}

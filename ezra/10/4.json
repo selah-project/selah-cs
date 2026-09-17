@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Vztyč se, neboť na tobě ⟨leží⟩ to slovo, a my jsme s tebou; buď silný a jednej!",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Vztyč se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na tobě"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "to slovo"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "a my"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jsme s tebou"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "buď silný"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a jednej"
+    }
+  ],
+  "timestamp": "2026-09-17T10:10:02.668990610Z",
+  "model": "glm-5.3"
+}

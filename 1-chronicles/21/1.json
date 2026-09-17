@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A postavil se satan proti Izraeli a podnítil ⟨את⟩ Davida, aby spočítal ⟨את⟩ Izrael.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "A postavil se"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "a podnítil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "aby spočítal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T11:24:23.288528932Z",
+  "model": "glm-5.3"
+}

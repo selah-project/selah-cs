@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 76,
+  "translation": "Ty jsi hrozný, ⟨ty⟩, a kdo se postaví před tebou, jakmile ⟨se rozhoří⟩ tvůj hněv?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "jsi hrozný"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨ty⟩"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a kdo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "se postaví"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "jakmile"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tvůj hněv"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:36.623829621Z",
+  "model": "glm-5.3"
+}

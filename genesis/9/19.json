@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Tito tři ⟨jsou⟩ synové Noacha, a z nich se rozšířila ⟨veškerá⟩ země.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "tři"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Tito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noacha"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "a z nich"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "se rozšířila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:08.312705206Z",
+  "model": "glm-5.3"
+}

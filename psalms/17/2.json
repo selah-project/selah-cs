@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Od tvé tváře ať vyjde ⟨můj⟩ soud, tvé oči ⟨ať⟩ hledí ⟨na⟩ to, co je přímé.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Od tvé tváře"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "soud"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ať vyjde"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvé oči"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "hledí"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "na to, co je přímé"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:43.802265446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Připravuje v létě svůj chléb, sklízí v žních svou potravu.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "Připravuje"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "v létě"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "svůj chléb"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "sklizí"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "v žních"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "svou potravu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:37:10.336232680Z",
+  "model": "glm-5.3"
+}

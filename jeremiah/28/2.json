@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Takto řekl Jahve Cevaot, Elohim Izraele: Zlomil jsem ⟨את⟩ jho krále Babylonu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "takto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "(říceno)"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "zlomil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jho"
+    },
+    {
+      "surface": "על",
+      "gloss": "jho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylonu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:29:00.250491114Z",
+  "model": "glm-5.3"
+}

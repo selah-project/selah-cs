@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I promluvil posel Jahve k Eliášovi: Sestup ⟨את⟩ s ním, neboj se ⟨před⟩ ním. A vstal a sestoupil ⟨את⟩ s ním ke králi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "posel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliášovi"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Sestup"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ s ním",
+      "marks": "s ním (ke králi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "vstal"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "sestoupil"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ s ním",
+      "marks": "s ním (ke králi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:44.272398756Z",
+  "model": "glm-5.3"
+}

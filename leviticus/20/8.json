@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A budete zachovávat ⟨את⟩ má ustanovení a budete ⟨את⟩ je plnit; já ⟨jsem⟩ Jahve, ten, kdo vás posvěcuje.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "A budete zachovávat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "má ustanovení"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "má ustanovení"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "a budete plnit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "posvěcuje vás"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:40.846729071Z",
+  "model": "glm-5.3"
+}

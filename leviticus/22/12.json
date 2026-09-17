@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Dcera kněze, bude-li ⟨provdána⟩ za cizího muže, ona nesmí jíst z příspěvku posvátných věcí.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "A dcera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bude-li"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "za muže"
+    },
+    {
+      "surface": "זר",
+      "gloss": "cizího"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "z příspěvku"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "posvátných věcí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "smí jíst"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:50.902553100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A Mikajáš jim vyprávěl ⟨את⟩ všechna slova, která slyšel, když Baruch četl z ⟨knihy⟩ do uší lidu.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a vyprávěl"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Mikajáš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechna slova"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "slova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyšel"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "když četl"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruch"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "z knihy"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "do uší"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:30:35.280737755Z",
+  "model": "glm-5.3"
+}

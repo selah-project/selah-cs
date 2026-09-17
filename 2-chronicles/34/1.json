@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 34:1",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "V osmiletém věku se stal Jošijáš králem, a jedenatřicet let kraloval v Jeruzalémě.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "v … věku"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "osmiletém"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "… let"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijáš"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "se stal králem"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "a třicet"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "jedna"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraloval"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    }
+  ],
+  "timestamp": "2026-09-17T10:33:50.762256241Z",
+  "model": "glm-5.3"
+}

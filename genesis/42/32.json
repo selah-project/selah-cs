@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Dvanáct nás je, bratří, synové našeho otce; jeden ⟨není⟩ už a nejmenší ⟨je⟩ dnes s ⟨את⟩ naším otcem v zemi kenaanské.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "Dvanáct (dva)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-náct (deset)"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "nás"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bratří"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "našeho otce"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨není⟩ už"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "nejmenší"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naším otcem"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "naším otcem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanské (Kenaan)"
+    }
+  ],
+  "timestamp": "2026-09-17T11:44:22.192415448Z",
+  "model": "glm-5.3"
+}

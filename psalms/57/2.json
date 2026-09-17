@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 57,
+  "translation": "Slituj se nade mnou, Elóhim, slituj se nade mnou, neboť k tobě se utíká má duše; ve stínu tvých křídel se schovám, dokud nepřejdou zhoubné bědy.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Slituj se nade mnou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elóhim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "slituj se nade mnou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "se utíká"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ve stínu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "tvých křídel"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "se schovám"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "nepřejdou"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "zhoubné bědy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:34.457718771Z",
+  "model": "glm-5.3"
+}

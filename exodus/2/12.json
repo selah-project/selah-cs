@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A otočil se sem ⟨a⟩ tam, a viděl, že není žádného muže, a udeřil ⟨את⟩ Egyptana a zakopal ho do písku.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "a otočil se"
+    },
+    {
+      "surface": "כה",
+      "gloss": "sem"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "⟨a⟩ tam"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žádného muže"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a udeřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egyptana"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Egyptana"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "a zakopal ho"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "do písku"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:33.219839891Z",
+  "model": "glm-5.3"
+}

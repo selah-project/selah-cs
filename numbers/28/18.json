@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "V první den ⟨bude⟩ posvátné shromáždění; žádnou práci služebnou nebudete dělat.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "první"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "shromáždění (svolané)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "posvátné"
+    },
+    {
+      "surface": "כל",
+      "gloss": "žádnou (doslova „každou“)"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "práci"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "služebnou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "budete dělat"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:53.766308324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A řekla: „Je-li ⟨את⟩ Abišag ze Šunemu dána Adonijášovi, tvému bratrovi, za manželku.“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dána"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abišag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abišag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "ze Šunemu"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adonijášovi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvému bratrovi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za manželku"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:21.660375359Z",
+  "model": "glm-5.3"
+}

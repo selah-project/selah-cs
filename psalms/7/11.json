@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Můj štít ⟨je⟩ na Elohim, spasiteli upřímných ⟨v⟩ srdci.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "můj štít"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "spasitel"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "upřímných"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdci"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:43.754860953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "a přikryjí ⟨את⟩ tvář země, takže nebude možno vidět ⟨את⟩ zemi; a sežerou ⟨את⟩ zbytek toho, co uniklo, co vám zbylo od krupobití, a sežerou ⟨את⟩ každý strom, který vám vyrostl na poli.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "a přikryjí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvář země"
+    },
+    {
+      "surface": "עין",
+      "gloss": "tvář (doslova oko)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "takže ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bude možno"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "vidět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "a sežerou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zbytek"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "zbytek"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "toho, co uniklo"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "co zbylo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "krupobití"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "a sežerou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "každý strom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "strom"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "který vyrostl"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "poli"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:22.140043298Z",
+  "model": "glm-5.3"
+}

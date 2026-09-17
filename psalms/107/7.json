@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "A vedl je cestou přímou, aby šli k městu ⟨k⟩ obydlí.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "A vedl je"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "přímou"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "aby šli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "městu"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "obydlí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:45.768439011Z",
+  "model": "glm-5.3"
+}

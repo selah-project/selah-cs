@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Pošlete berana vládci země ze Sély, ⟨z⟩ pouště, k hoře dcery Cijónu.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Pošlete"
+    },
+    {
+      "surface": "כר",
+      "gloss": "berana"
+    },
+    {
+      "surface": "משל",
+      "gloss": "vládci"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ze Sély"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "⟨z⟩ pouště"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hoře"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcery"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Cijónu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:06:27.567899227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Když jsou základy zbořeny, co koná spravedlivý?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "základy"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "jsou zbořeny"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "koná"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:35.191313657Z",
+  "model": "glm-5.3"
+}

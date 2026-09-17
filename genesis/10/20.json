@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Toto jsou synové Cháma podle svých rodin, podle svých jazyků, ve svých zemích, ve svých národech",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cháma"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle svých rodin"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "podle svých jazyků"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ve svých zemích"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "ve svých národech"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:12.790483809Z",
+  "model": "glm-5.3"
+}

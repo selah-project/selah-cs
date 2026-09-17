@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "I když půjdu údolím stínu smrti, nezaleknu se zla, protože ty jsi se mnou; tvůj kyj a tvá hůl — ty mě těší.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "I"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "půjdu"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "údolím"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "stínu smrti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "-zaleknu se"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "jsi se mnou"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "tvůj kyj"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "a tvá hůl"
+    },
+    {
+      "surface": "המה",
+      "gloss": "— ty"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "mě těší"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:58.764553115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A budeš ho posvěcovat, neboť ⟨את⟩ chleb tvého Elohim ⟨on⟩ přináší; svatý ti bude, neboť svatý jsem já, Jahve, který vás posvěcuji.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "A budeš ho posvěcovat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chleb"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleb"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvého Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "přináší"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jsem já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "který vás posvěcuji"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:27.205461793Z",
+  "model": "glm-5.3"
+}

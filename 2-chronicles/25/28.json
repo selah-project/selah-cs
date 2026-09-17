@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Vynesli ho na koně a pochovali ⟨את⟩ něj s jeho otci v městě Judově.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "Vynesli ho"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "koně"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "a pochovali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (něj)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "jeho otci"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v městě"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judově"
+    }
+  ],
+  "timestamp": "2026-09-17T11:26:17.926768019Z",
+  "model": "glm-5.3"
+}

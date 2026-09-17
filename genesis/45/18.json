@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "Vezměte ⟨את⟩ svého otce a ⟨את⟩ své domácnosti a přijďte ke mně; dám vám ⟨את⟩ to nejlepší země Micrajim a budete jíst ⟨את⟩ tučnost ⟨té⟩ země.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "vezměte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého otce"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "své domácnosti"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "své domácnosti"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "a přijďte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "dám"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to nejlepší"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "to nejlepší"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "a budete jíst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tučnost"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "tučnost"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨té⟩ země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:40.024557877Z",
+  "model": "glm-5.3"
+}

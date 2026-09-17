@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "⟨Všichni⟩ se odvrátili, spolu se zkazili, není ⟨kdo by⟩ činil dobro, není ani jediný.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "⟨Všichni⟩"
+    },
+    {
+      "surface": "סר",
+      "gloss": "se odvrátili"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "spolu"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "se zkazili"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "činící"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jediný"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:17.538581563Z",
+  "model": "glm-5.3"
+}

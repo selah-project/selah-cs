@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A dotkl se mých úst a řekl: Hle, toto se dotklo tvých rtů — tvá nepravost ⟨je⟩ odňata a tvůj hřích ⟨je⟩ smířen.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "a dotkl se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moje ústa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "dotklo se"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "tvé rty"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "a ⟨je⟩ odňata"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "tvá nepravost"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "a tvůj hřích"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "⟨je⟩ smířen"
+    }
+  ],
+  "timestamp": "2026-09-17T13:09:01.993999907Z",
+  "model": "glm-5.3"
+}

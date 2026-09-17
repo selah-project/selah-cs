@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A přivedli zpět ⟨את⟩ Mojžíše a ⟨את⟩ Árona k faraónovi, a řekl jim: Jděte, slujte ⟨את⟩ Jahve, svého Elohim! Kdo a kdo ti jsou, kteří půjdou?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "přivedli zpět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Árona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Jděte"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "slujte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvemu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "svého Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a kdo"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "kteří půjdou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:22.140857853Z",
+  "model": "glm-5.3"
+}

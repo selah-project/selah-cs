@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Vzpomínáme na ⟨את⟩ rybu, kterou jsme jedli v Egyptě zadarmo: ⟨את⟩ okurky, ⟨את⟩ melouny, ⟨את⟩ pory, ⟨את⟩ cibule a ⟨את⟩ česnek.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Vzpomínáme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rybu"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "rybu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "jedli jsme"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Egyptě"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zadarmo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okurky"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "okurky"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "melouny"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "melouny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "pory"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "pory"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "cibule"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "cibule"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "česnek"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "česnek"
+    }
+  ],
+  "timestamp": "2026-09-17T06:42:57.392932686Z",
+  "model": "glm-5.3"
+}

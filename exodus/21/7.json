@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A když muž prodá ⟨את⟩ svou dceru za otrokyni, nevyjde, jak vycházejí otroci.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a když"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "prodá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou dceru"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "svou dceru"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "za otrokyni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "vyjde"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "jak vycházejí"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "otroci"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:08.424418892Z",
+  "model": "glm-5.3"
+}

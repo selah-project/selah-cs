@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Mluvil s námi ⟨את⟩ ten muž, pán země, přísně, a ⟨nás⟩ postavil ⟨את⟩ jako špehy ⟨את⟩ ⟨tu⟩ zemi.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mluvil"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ten muž"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pán"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ s námi"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "přísně"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nás"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "jako špehy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:37.354262929Z",
+  "model": "glm-5.3"
+}

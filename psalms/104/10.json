@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Ten, kdo rozesílá prameny v údolích — mezi horami se procházejí ⟨potoky⟩.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Ten, kdo rozesílá"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "prameny"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "v údolích"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "horami"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "se procházejí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:58.552548297Z",
+  "model": "glm-5.3"
+}

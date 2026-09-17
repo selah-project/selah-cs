@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Stalo se totiž, když byl David s ⟨את⟩ Edomem a Joáb, velitel vojska, stoupal pohřbít ⟨את⟩ padlé — i bil každého samce v Edomu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "když byl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "s ⟨את⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomem"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "když stoupal"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "שר",
+      "gloss": "velitel"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "pohřbít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padlé"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "padlé"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a bil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samce"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "v Edomu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:18.416833028Z",
+  "model": "glm-5.3"
+}

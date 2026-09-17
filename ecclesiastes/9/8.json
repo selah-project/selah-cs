@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "V každém čase ať jsou tvé šaty bílé a olej na tvé hlavě ať nechybí.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "V každém"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čase"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ať jsou"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "tvé šaty"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "bílé"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "a olej"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tvé hlavě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "chybí"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:36.688524287Z",
+  "model": "glm-5.3"
+}

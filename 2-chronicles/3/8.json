@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 3:8",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A udělal ⟨את⟩ dům svatyně svatých: jeho délka podle čela šířky domu dvacet loket a jeho šířka dvacet loket; a pokryl je zlatem dobrým na šest set talentů.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům svatyně svatých"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svatých"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "jeho délka"
+    },
+    {
+      "surface": "על",
+      "gloss": "podle"
+    },
+    {
+      "surface": "פני",
+      "gloss": "čela"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "šířky"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "loket"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "ורחבו",
+      "gloss": "a jeho šířka"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "loket"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "a pokryl je"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrým"
+    },
+    {
+      "surface": "לככרים",
+      "gloss": "na talenty"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    }
+  ],
+  "timestamp": "2026-09-17T10:24:33.626204713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "A řekl jsem: ⟨To⟩ je má choroba — ⟨jsou to⟩ proměny pravice Nejvyššího.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "a řekl jsem"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "má choroba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨To⟩ je"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "proměny"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "pravice"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nejvyššího"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:30.930922969Z",
+  "model": "glm-5.3"
+}

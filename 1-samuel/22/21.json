@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A Ebjathar oznámil Davidovi, že Šaúl zabil ⟨את⟩ kněze Jahveho.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a oznámil"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebjathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kněze"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:53.779762696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Jahve, Adonaj náš, jak vznešené ⟨je⟩ tvé jméno na vší ⟨zemi⟩!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonaj náš"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "vznešené"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na vší"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:41.144947990Z",
+  "model": "glm-5.3"
+}

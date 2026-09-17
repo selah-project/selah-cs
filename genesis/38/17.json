@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "I řekl: Já pošlu ⟨ti⟩ kůzle koz ⟨z⟩ ⟨stáda⟩. A ona řekla: Jen když dáš zástavu, dokud ⟨je⟩ nepošleš.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "pošlu"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "kůzle"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "koz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨stáda⟩"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jen když"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dáš"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "zástavu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "nepošleš"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:06.038351599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Macesy se budou jíst ⟨את⟩ těch sedm dní a nesmí se ti ukázat kvašené chleby, ani se nesmí vidět u tebe kvas v celých tvých hranicích.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Macesy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "se budou jíst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "těch sedm dní"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se ukáže"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kvašené chleby"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se vidět"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "kvas"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v celých"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "tvých hranicích"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:58.549481487Z",
+  "model": "glm-5.3"
+}

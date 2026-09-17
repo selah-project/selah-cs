@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A stalo se, když jste slyšeli ⟨את⟩ hlas zprostředka tmy, zatímco hora hořela ohněm, přistoupili jste ke mně vši náčelníci vašich kmenů i vaši starší.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "když jste slyšeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "zprostředka"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tmy"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "zatímco hora"
+    },
+    {
+      "surface": "בער",
+      "gloss": "hořela"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "přistoupili jste"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vši"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "náčelníci"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "vašich kmenů"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "i vaši starší"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:41.912382032Z",
+  "model": "glm-5.3"
+}

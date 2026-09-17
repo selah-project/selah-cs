@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Žalm Davidův. Jahve je můj pastýř, nebudu mít nedostatek.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Žalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "je můj pastýř"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "-budu mít nedostatek"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:58.763930429Z",
+  "model": "glm-5.3"
+}

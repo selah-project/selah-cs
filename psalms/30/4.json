@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Jahve, vyvedls mou nefesi ze šeolu, zachovals mi život ⟨skrze⟩ ty, kdo sestupují do jámy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "vyvedls"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeolu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mou nefesi"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "zachovals mi život"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "⟨skrze⟩ ty, kdo sestupují"
+    },
+    {
+      "surface": "בור",
+      "gloss": "do jámy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:53.150568625Z",
+  "model": "glm-5.3"
+}

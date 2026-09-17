@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "Pojďte, vizte díla Jahve, jak učinil zpustošení na zemi ⟨i⟩ jejím konci ⟨a skončil války⟩.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Pojďte"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "vizte"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "díla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "zpustošení"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:33.026210747Z",
+  "model": "glm-5.3"
+}

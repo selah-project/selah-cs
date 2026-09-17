@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "I volali k Jahve v úzkosti své, ze svých tísní je vysvobodil.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "a volali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "v úzkosti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "své"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "ze svých tísní"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "je vysvobodil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:41.982302245Z",
+  "model": "glm-5.3"
+}

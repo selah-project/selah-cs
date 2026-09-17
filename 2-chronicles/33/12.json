@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A když se ocitl v tísni, usmiřoval ⟨את⟩ tvář Jahve, svého Elohima, a pokořil se velmi před Elohimem svých otců.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "a když se ocitl v tísni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨jemu⟩"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "usmiřoval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvář"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "pokořil se"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimem"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svých otců"
+    }
+  ],
+  "timestamp": "2026-09-17T10:31:30.785535215Z",
+  "model": "glm-5.3"
+}

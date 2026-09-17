@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "I vzal Moše polovinu ⟨od⟩ krve a vložil ⟨ji⟩ do mís; druhou polovinu krve rozstříkl na oltář.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "polovinu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krve"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a vložil"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "do mís"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "druhou polovinu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krve"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "rozstříkl"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:19.528156067Z",
+  "model": "glm-5.3"
+}

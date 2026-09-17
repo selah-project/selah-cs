@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A Abšaj, syn Cerujin, porazil ⟨את⟩ Edom v údolí soli — osmnáct tisíc.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "A Abšaj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Cerujin"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "porazil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "v údolí"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "soli"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "osmnáct"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…náct"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    }
+  ],
+  "timestamp": "2026-09-17T10:20:32.384710517Z",
+  "model": "glm-5.3"
+}

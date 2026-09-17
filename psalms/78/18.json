@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "A zkoušeli El ve svém srdci, žádat pokrm pro svou neféš.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "a zkoušeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "žádat"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "pokrm"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "pro svou neféš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:00.801319022Z",
+  "model": "glm-5.3"
+}

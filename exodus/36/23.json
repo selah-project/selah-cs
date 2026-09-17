@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A udělal ⟨את⟩ prken ⟨pro⟩ příbytek: dvacet prken na jižní straně, k jihu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prken"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "prken"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "⟨pro⟩ příbytek"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "prken"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "na straně"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "jižní"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "k jihu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:17.652427917Z",
+  "model": "glm-5.3"
+}

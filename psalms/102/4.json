@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Neboť jako dým ⟨se⟩ vytratily mé dny, a mé kosti jako žhavé uhlí ⟨jsou⟩ vypálené.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "vytratily se"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "jako dým"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mé dny"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "a mé kosti"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jako"
+    },
+    {
+      "surface": "קד",
+      "gloss": "žhavé uhlí"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "vypálené"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:26.161492717Z",
+  "model": "glm-5.3"
+}

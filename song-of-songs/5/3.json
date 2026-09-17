@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Svlékla jsem ⟨את⟩ svou košili; jak bych si ji měla obléci? Umyla jsem ⟨את⟩ své nohy; jak bych je měla zašpinit?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "Svlékla jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou košili"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "svou košili"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "bych si ji měla obléci"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "Umyla jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své nohy"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "své nohy"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "bych je měla zašpinit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:54:56.691822316Z",
+  "model": "glm-5.3"
+}

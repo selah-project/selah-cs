@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Jósef odpověděl ⟨את⟩ Paroha: Ne ode mne — Elohim dá ⟨את⟩ odpověď pokoje Parohovi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "odpověděl"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ne ode mne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "dá odpověď"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odpověď pokoje"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoje"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:33.326406349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "neboť uslyší ⟨o⟩ tvém velkém jménu ⟨את⟩, ⟨o⟩ tvé silné ruce ⟨את⟩ a tvém napřaženém rameni, a přijde a bude se modlit k tomuto domu,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "uslyší"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvém velkém jménu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvé silné ruce"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvou ruku"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "silnou"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "a tvé rameno"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "napřažené"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "a přijde"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "a bude se modlit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomuto"
+    }
+  ],
+  "timestamp": "2026-09-17T07:45:37.510963586Z",
+  "model": "glm-5.3"
+}

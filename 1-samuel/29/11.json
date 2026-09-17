@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A David vstal časně, on i jeho muži, aby šli za rána a vrátili se do země Pelištejců; a Pelištejci vytáhli do Jizreelu.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "vstal časně"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "i jeho muži"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "aby šli"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "za rána"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "aby se vrátili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejců"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "a Pelištejci"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "vytáhli"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "do Jizreelu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:29:42.752425682Z",
+  "model": "glm-5.3"
+}

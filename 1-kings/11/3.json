@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A stalo se ⟨mu⟩ ⟨že měl⟩ žen, kněžen sedm set a konkubín tři sta, a jeho ženy odklonily ⟨את⟩ jeho srdce.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mu⟩"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "kněženy"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "a konkubíny"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "a odklonily"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "jeho ženy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho srdce"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jeho srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:27.491174637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A jeho služebníci jej vezli ⟨את⟩ na voze do Jeruzaléma a pochovali ⟨את⟩ jej v jeho hrobce s jeho otci v městě Davidově.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "a vezli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeho služebníci"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "do Jeruzaléma"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "a pochovali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "v jeho hrobce"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "jeho otci"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v městě"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidově"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:52.417362050Z",
+  "model": "glm-5.3"
+}

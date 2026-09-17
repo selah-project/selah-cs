@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Neznevažíš ⟨את⟩ jméno Jahve, svého Elohim, marně, neboť Jahve nenechá bez trestu ⟨את⟩ toho, kdo znevažuje ⟨את⟩ jeho jméno marně.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "znevažíš (neseš)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jméno Jahve, svého Elohim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svého Elohim"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "marně"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "nenechá bez trestu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toho, kdo znevažuje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "znevažuje (nese)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "marně"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:18.567452656Z",
+  "model": "glm-5.3"
+}

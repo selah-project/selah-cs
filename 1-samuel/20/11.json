@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A Jónatán řekl Davidovi: Pojď, vyjdeme na pole. A vyšli oba ⟨dva⟩ na pole.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jónatán"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Pojď"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "vyjdeme"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "na pole"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "A vyšli"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba dva"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "na pole"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:34.553534685Z",
+  "model": "glm-5.3"
+}

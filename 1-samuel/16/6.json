@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A stalo se, když přišli, že uviděl ⟨את⟩ Eliába a řekl: „Jistě před Jahve ⟨je⟩ jeho pomazaný.“",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "když přišli"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "že uviděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliába"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliába"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "jeho pomazaný"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:15.145295047Z",
+  "model": "glm-5.3"
+}

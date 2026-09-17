@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "A ve jménu Jahve jsem volal: „Ach, Jahve, vysvoboď mou duši!“",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "A ve jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "jsem volal"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "vysvoboď"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji duši"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:32.342553338Z",
+  "model": "glm-5.3"
+}

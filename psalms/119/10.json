@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Celým svým srdcem tě hledám; nechte mě zbloudit od tvých přikázání!",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "celým"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "svým srdcem"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "tě hledám"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "zbloudit mě"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "od tvých přikázání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:00.794111692Z",
+  "model": "glm-5.3"
+}

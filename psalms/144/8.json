@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "jejichž ústa mluví prázdnotu a jejich pravice ⟨je⟩ pravice lži.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jejichž"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ústa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mlují"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "prázdnost"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "a jejich pravice"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "pravice"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lži"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:26.639790989Z",
+  "model": "glm-5.3"
+}

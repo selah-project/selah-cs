@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A jde-li o jakékoli zvíře nečisté, z něhož nepřinášejí oběť korban Jahvemu, pak postaví ⟨את⟩ zvíře před kněze.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A jde-li o"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jakékoli"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "zvíře"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "nečisté"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(které)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "přinášejí"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "z něhož"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "oběť korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "pak postaví"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zvíře"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "zvíře"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněze"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:28.590179059Z",
+  "model": "glm-5.3"
+}

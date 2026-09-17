@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A mluvil Áron všechna slova, která mluvil Jahve k Mojžíšovi, a udělal ⟨את⟩ znamení před očima lidu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechna slova"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "slova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "znamení"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "před očima"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:56.102999602Z",
+  "model": "glm-5.3"
+}

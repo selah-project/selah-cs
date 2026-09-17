@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "Neboť ⟨Elohim je⟩ Král celé země, Elohim — žalmy zpívejte ⟨s⟩ porozuměním.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Král"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "žalmy zpívejte"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "⟨s⟩ porozuměním"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:52.708942170Z",
+  "model": "glm-5.3"
+}

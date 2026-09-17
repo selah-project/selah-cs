@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A řekl Jahve Mojžíšovi: Mluv kněžím, synům Áronovým, a řekneš jim: Za ⟨mrtvou⟩ duši ať se neceremoniálně poskvrní ve svém lidu ⟨jen ne⟩ — za duši ⟨nikdo⟩ se neposkvrní mezi svým lidem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi (k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Mluv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kněžím (k)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněžími"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "a řekneš"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "za duši (mrtvou)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "poskvrní se"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "ve svém lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:53.001834404Z",
+  "model": "glm-5.3"
+}

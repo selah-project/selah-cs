@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "„Mluv se syny Izraele a řekni jim: Když vejdete do země, kterou já vám dávám, pak země bude slavit šabat ⟨pro⟩ Jahveho.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mluv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "a řekni"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "vejdete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dávám"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "bude slavit šabat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨pro⟩ Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:24.375587440Z",
+  "model": "glm-5.3"
+}

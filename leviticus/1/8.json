@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A urovnají synové Aharonovi, kněží, ⟨את⟩ kusy, ⟨i⟩ ⟨את⟩ hlavu a ⟨את⟩ tuk na dřevech, která jsou na ohni, který je na oltáři.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "a urovnají"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kusy"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "kusy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlavu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tuk"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dřevech"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která jsou"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ohni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:08.192380502Z",
+  "model": "glm-5.3"
+}

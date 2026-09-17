@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Jahve je králem na věky a navždy; národy zahynuly z jeho země.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a navždy"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "zahynuly"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "z jeho země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:00.114477084Z",
+  "model": "glm-5.3"
+}

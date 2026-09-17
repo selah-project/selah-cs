@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Devátého ⟨dne⟩ měsíce se hlad ve městě zmocnil a nebylo chleba pro lid země.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Devátého ⟨dne⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "zmocnil se"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hlad"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pro lid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:45.760382110Z",
+  "model": "glm-5.3"
+}

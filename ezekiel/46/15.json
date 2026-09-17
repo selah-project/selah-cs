@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "A připraví ⟨את⟩ beránka, ⟨את⟩ oběť z mouky i ⟨את⟩ olej ráno co ráno — zápalnou oběť ustavičnou.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "A připraví"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beránka"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "beránka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oběť z mouky"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "oběť z mouky"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olej"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "co ráno"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "zápalnou oběť"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ustavičnou"
+    }
+  ],
+  "timestamp": "2026-09-17T08:54:33.239076585Z",
+  "model": "glm-5.3"
+}

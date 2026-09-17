@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 114,
+  "translation": "Vy hory, že poskakujete jako berani, pahorky jako jehňata stáda?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Vy hory"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "poskakujete"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "jako berani"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "pahorky"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "jako syny"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "stáda"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:28.581467529Z",
+  "model": "glm-5.3"
+}

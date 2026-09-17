@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 21:5",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A postavil oltáře veškerému vojsku nebes ve dvou dvorech domu Jahve.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "A postavil"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "veškerému"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojsku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ve dvou"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "dvorech"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:48.871801706Z",
+  "model": "glm-5.3"
+}

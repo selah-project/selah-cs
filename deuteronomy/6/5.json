@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A budeš milovat ⟨את⟩ Jahve, svého Elohima, celým svým srdcem, celou svou duší (nefíš) a celou svou silou.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "a budeš milovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, svého Elohima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "celým"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "svým srdcem"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "celou svou"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "duší (nefíš)"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "celou svou"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "silou"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:37.888113751Z",
+  "model": "glm-5.3"
+}

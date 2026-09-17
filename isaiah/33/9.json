@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Truchlí, zvadla země, zahanben je Libanon, uschl ⟨se⟩, stal se Šaron jako poušť a pustoší Basan i Karmel.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Truchlí"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "zvadla"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "zahanben je"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "uschl"
+    },
+    {
+      "surface": "היה",
+      "gloss": "stal se"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Šaron"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "jako poušť"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "a pustoší"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Basan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "i Karmel"
+    }
+  ],
+  "timestamp": "2026-09-17T08:08:36.996413453Z",
+  "model": "glm-5.3"
+}

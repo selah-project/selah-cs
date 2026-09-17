@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Spěchal jsem a neotáleş střežit tvá přikázání.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "spěchal jsem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "otálesh"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "střežit"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tvá přikázání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:47.583644777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "Čtvercový ⟨byl⟩, zdvojený udělali ⟨את⟩ náhrdelník (חošen); palec ⟨byla⟩ jeho délka a palec jeho šířka, zdvojený.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Čtvercový"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨byl⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "zdvojený"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "udělali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "náhrdelník (חošen)"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "náhrdelník (חošen)"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "palec (rozpětí)"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "jeho délka"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "a palec"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jeho šířka"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "zdvojený"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:56.728194826Z",
+  "model": "glm-5.3"
+}

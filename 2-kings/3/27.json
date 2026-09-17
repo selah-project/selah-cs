@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 3:27",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A vzal ⟨את⟩ svého syna prvorozeného, který měl kralovat místo něj, a vynesl jej jako oběť celopalení na hradbu; a stalo se veliké zhrocení nad Izraelem — a odtažili od něj a vrátili se do ⟨své⟩ země.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého syna prvorozeného"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorozeného"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "měl kralovat"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "a vynesl jej"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "jako oběť celopalení"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "hradbu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "veliké zhrocení"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "a odtažili"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "od něj"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "a vrátili se"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "do země"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:39.321056274Z",
+  "model": "glm-5.3"
+}

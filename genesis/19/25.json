@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A převrátil ⟨את⟩ ty města i ⟨את⟩ celou tu nížinu i ⟨את⟩ všechny obyvatele měst i rostlinstvo půdy.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "a převrátil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty města"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ty města"
+    },
+    {
+      "surface": "האל",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "celou tu nížinu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "tu nížinu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "všechny obyvatele měst"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "obyvatele"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "měst"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "i rostlinstvo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "půdy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:02.322275616Z",
+  "model": "glm-5.3"
+}

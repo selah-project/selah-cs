@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Bohatý a chudý se setkávají, tvůrcem všech ⟨z nich⟩ je Jahve.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Bohatý"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "a chudý"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "se setkávají"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tvůrcem"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všech ⟨z nich⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:14.722255802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A obklopilo deset mládenců, nosičů zbraně Jóabových, ⟨a zabili⟩ ⟨את⟩ Avšaloma a usmrtili ho.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "A obklopilo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mládenců"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nosičů"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zbraně"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóabových"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "a zabili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avšaloma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloma"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "a usmrtili ho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:20.658926583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "To ⟨je⟩ slovo Jahve, které přišlo k proroku Jirmejahu ⟨zaměřené⟩ k Pelištimcům, dříve než faraon porazil ⟨את⟩ Azzu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "To"
+    },
+    {
+      "surface": "היה",
+      "gloss": "přišlo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahuovi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorokovi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištimcům"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dříve než"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "porazil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azzu"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:33:51.075738945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 85,
+  "translation": "Budu naslouchat, co promluví El Jahve; neboť on promluví pokój ⟨svému⟩ lidu a svým věrným — ať se nevrátí k pošetilosti.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "Budu naslouchat"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "promluví"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "promluví"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokój"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svému lidu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "svým věrným"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ať (ne)"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "se nevrátí"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "k pošetilosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:37.340069025Z",
+  "model": "glm-5.3"
+}

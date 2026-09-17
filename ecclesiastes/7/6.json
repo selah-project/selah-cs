@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neboť jako praskání trní pod kotlem, tak je smích blázna — i to je hebel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "jako praskání"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "trní"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "kotlem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "smích"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "blázna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:31.507812890Z",
+  "model": "glm-5.3"
+}

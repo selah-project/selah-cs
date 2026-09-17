@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A uslyšel ⟨את⟩ slova synů Labanových, kteří říkali: „Vzal Jákob ⟨את⟩ vše, co patří našemu otci, a z toho, co patří našemu otci, učinil ⟨את⟩ všechnu tuhle slávu.“",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a uslyšel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slova synů Labanových"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labanových"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkali"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vše, co patří našemu otci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "patří našemu otci"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "a z toho, co"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "patří našemu otci"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechnu tuhle slávu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "slávu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuhle"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:26.752510351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Běda zemi třepotu křídel, která je za řekami Kuše!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "třepotu"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "křídel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "za"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "řekami"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuše"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:58.934944348Z",
+  "model": "glm-5.3"
+}

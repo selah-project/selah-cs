@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Vezmi ⟨jeho⟩ šat, neboť ručil za cizince; a za cizince ⟨jej⟩ zastav ⟨jako⟩ rukojmí.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "vezmi"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "šat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ručil"
+    },
+    {
+      "surface": "זר",
+      "gloss": "za cizince"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "a za"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "cizince"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "zastav jej"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:59.589246211Z",
+  "model": "glm-5.3"
+}

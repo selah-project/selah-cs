@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A přikázal Jirmejahu ⟨את⟩ Baruchovi, řka: Já jsem zadržován, nemohu vejít do domu Jahve.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "A přikázal"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baruchovi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruchovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "jsem zadržován"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mohu"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "vejít"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T08:30:12.302930103Z",
+  "model": "glm-5.3"
+}

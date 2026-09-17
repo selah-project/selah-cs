@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Poté porodila dceru a nazvala ⟨את⟩ její jméno Dína.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Poté"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "nazvala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její jméno"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "její jméno"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dína"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:21.506031400Z",
+  "model": "glm-5.3"
+}

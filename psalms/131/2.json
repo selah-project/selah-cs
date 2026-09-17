@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 131,
+  "translation": "Jestliže ne — urovnal ⟨jsem⟩ a ztišil ⟨jsem⟩ svou duši jak odstavené dítě u své matky; jak odstavené dítě nade mě je moje duše.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "urovnal ⟨jsem⟩"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "a ztišil ⟨jsem⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svou duši"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "jak odstavené dítě"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "své matky"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "jak odstavené dítě"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mě"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moje duše"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:08.725822502Z",
+  "model": "glm-5.3"
+}

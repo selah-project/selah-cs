@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "přikáže kněz, a vyperou ⟨את⟩ to, v čem je nádor, a oddělí ⟨jej⟩ na sedm dní podruhé.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "přikáže"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "a vyperou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, v čem je nádor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v čem"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nádor"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "a oddělí"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "na sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "podruhé"
+    }
+  ],
+  "timestamp": "2026-09-17T06:33:45.753662034Z",
+  "model": "glm-5.3"
+}

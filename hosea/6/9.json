@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 6:9",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A jako tlupa mužů číhá ⟨na⟩ člověka, tak smečka kněží vraždí na cestě ⟨do⟩ Šekemu, protože lest vykonali.",
+  "tokens": [
+    {
+      "surface": "וכחכי",
+      "gloss": "a jako…číhá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "גדודים",
+      "gloss": "tlupa"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "smečka"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "vraždí"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "⟨do⟩ Šekemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "lest"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "vykonali"
+    }
+  ],
+  "timestamp": "2026-09-17T11:07:34.372643203Z",
+  "model": "glm-5.3"
+}

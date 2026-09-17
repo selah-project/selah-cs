@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Neboť tak pravil Jahve: I zajatec mocného bude odjat a kořist tyrana bude vysvobozena; ⟨את⟩ tvého protivníka budu ⟨já⟩ žalovat a ⟨את⟩ tvé syny budu ⟨já⟩ zachraňovat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pravil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "zajatec"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mocného"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "bude odjat"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "a kořist"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "tyrana"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "bude vysvobozena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvého protivníka"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "tvého protivníka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "budu žalovat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvé syny"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvé syny"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "budu zachraňovat"
+    }
+  ],
+  "timestamp": "2026-09-17T08:14:40.258166429Z",
+  "model": "glm-5.3"
+}

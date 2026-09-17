@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Mlátidlo i lis je nebudou živit a mošt ⟨je⟩ zklame.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "mlátidlo"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "i lis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "je budou živit"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "a mošt"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "zklame"
+    },
+    {
+      "surface": "בה",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T08:57:47.371954289Z",
+  "model": "glm-5.3"
+}

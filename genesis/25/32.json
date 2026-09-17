@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A řekl Ezau: „Hle, jdu na smrt — a k čemu mi ⟨je⟩ prvorozenství?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ezau"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jdu"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "jdu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "na smrt"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "a k čemu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "prvorozenství"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:14.067508523Z",
+  "model": "glm-5.3"
+}

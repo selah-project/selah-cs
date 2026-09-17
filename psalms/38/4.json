@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Není ⟨zdraví⟩ v mém těle před tvou zlobou, není pokoje v mých kostech před mým hříchem",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "zdraví (celistvosti)"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "v mém těle"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před (kvůli)"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "tvojí zlobě"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoje"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "v mých kostech"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před (kvůli)"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "mým hříchem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:20.845658011Z",
+  "model": "glm-5.3"
+}

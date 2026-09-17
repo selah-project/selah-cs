@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A šel ve cestě králů Jisraele, a dokonce i svého syna ⟨את⟩ nechal přejít ohněm, podle ohavností národů, které Jahve vyhnal ⟨את⟩ před tváří synů Jisraele.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ve cestě"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a dokonce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého syna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "nechal přejít"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "podle ohavností"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "vyhnal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vyhnal (národy)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraele"
+    }
+  ],
+  "timestamp": "2026-09-17T11:41:16.396034564Z",
+  "model": "glm-5.3"
+}

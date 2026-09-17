@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Osslavejte Jahve, neboť ⟨je⟩ dobrý, neboť na věčnost ⟨trvá⟩ jeho chesed.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Osslavejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrý"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věčnost"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:49.815959614Z",
+  "model": "glm-5.3"
+}

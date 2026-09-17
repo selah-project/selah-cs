@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 34:18",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Což je vám málo, že pasete se na dobré pastvině, a zbytek svých pastvin pošlapáváte svýma nohama? A pošlapanou vodu pijete, ⟨את⟩ zbytek svýma nohama kalíte?",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "Což málo"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "המרעה",
+      "gloss": "pastvina"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobrá"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "pasete se"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "a zbytek"
+    },
+    {
+      "surface": "מרעיכם",
+      "gloss": "vašich pastvin"
+    },
+    {
+      "surface": "תרמסו",
+      "gloss": "pošlapáváte"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "svýma nohama"
+    },
+    {
+      "surface": "ומשקע",
+      "gloss": "a pošlapaná"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "pijete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zbytek"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "zbytek"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "svýma nohama"
+    },
+    {
+      "surface": "תרפשון",
+      "gloss": "kalíte"
+    }
+  ],
+  "timestamp": "2026-09-17T08:49:05.745659916Z",
+  "model": "glm-5.3"
+}

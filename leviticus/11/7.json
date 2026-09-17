@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A ⟨את⟩ prasete — poněvadž rozděluje kopyto, i rozštěpené rozštěpem kopyta ⟨má⟩, ale žvanec nevyvrací — nečistý je vám.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "prase"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "prase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poněvadž"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "rozděluje"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kopyto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "i rozštěpené"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "rozštěpem"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kopyta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ale on"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "žvanec"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "vyvrací"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečistý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:26.221430320Z",
+  "model": "glm-5.3"
+}

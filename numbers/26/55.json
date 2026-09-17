@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Jen losem se rozdělí ⟨את⟩ země; podle jmen kmenů jejich otců zdědí ⟨ji⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "losem"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "se rozdělí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "země"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "podle jmen"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "kmenů"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jejich otců"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "zdědí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:13.372140687Z",
+  "model": "glm-5.3"
+}

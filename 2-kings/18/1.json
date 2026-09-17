@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Stalo se ve třetím roce Hoschi, syna Elanova, krále izraelského: stal se králem Chizkijahu, syn Achazův, král judský.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ve třetím roce… v roce"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "třetím"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hoschi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elanova"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "izraelského"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "stal se králem"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achazův"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "judský"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:10.147172512Z",
+  "model": "glm-5.3"
+}

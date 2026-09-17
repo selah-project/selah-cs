@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Kolik je dnů tvého sluhy? Kdy vykonáš soud nad ⟨těmi, kdo mě pronásledují⟩?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Kolik"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "je dnů"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvého sluhy"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Kdy"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "vykonáš"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "nad ⟨těmi, kdo mě pronásledují⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "soud"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:25.015828600Z",
+  "model": "glm-5.3"
+}

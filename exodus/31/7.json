@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "⟨את⟩ stan setkávání, ⟨a⟩ ⟨את⟩ archu svědectví, ⟨a⟩ ⟨את⟩ slitoviště, které je na ní, ⟨a⟩ ⟨את⟩ všecky náčiní stanu —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "archu"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "slitoviště"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "slitoviště"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "je na ní"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "všecky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všecky"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "náčiní"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "stanu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:31.060338577Z",
+  "model": "glm-5.3"
+}

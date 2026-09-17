@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 81,
+  "translation": "Já jsem sňal jeho rameno z břemene, jeho dlaně z nosiče ⟨koše⟩ prošly.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "sňal jsem"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "z břemene"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "jeho rameno"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "jeho dlaně"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "z koše"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "prošly"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:08.120606284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Arpakšad žil pětatřicet let a zplodil ⟨את⟩ Šélacha.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "A Arpakšad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "žil"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pět"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "a třicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šélacha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Šélacha"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:13.830498443Z",
+  "model": "glm-5.3"
+}

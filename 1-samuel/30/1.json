@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Stalo se, když přišel David a jeho muži do Ciklagu třetího dne, že Amalekité vpadli do Neguebu a do Ciklagu, a ubili ⟨את⟩ Ciklag a spálili ⟨את⟩ jej ohněm.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "když přišel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "a jeho muži"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "do Ciklagu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "třetího"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "Amalekité"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "vpadli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Neguebu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a do"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ciklagu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "a ubili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ciklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Ciklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "a spálili"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ jej",
+      "marks": "ohněm"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:51.173767501Z",
+  "model": "glm-5.3"
+}

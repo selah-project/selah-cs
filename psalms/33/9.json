@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Neboť on řekl — a ⟨to⟩ se stalo; on přikázal — a ⟨to⟩ stojí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a ⟨to⟩ se stalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "a ⟨to⟩ stojí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:25.837506035Z",
+  "model": "glm-5.3"
+}

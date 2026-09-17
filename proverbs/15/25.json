@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Dům pyšných vytrhne Jahve, a upevní meze vdovy.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "pyšných"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "vytrhne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "a upevní"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "meze"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "vdovy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:03.346909493Z",
+  "model": "glm-5.3"
+}

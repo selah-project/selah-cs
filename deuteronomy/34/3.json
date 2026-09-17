@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "a ⟨את⟩ Negev a ⟨את⟩ okrsek, údolí Jericha, město palem, až po Coar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Negev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "okrsek"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "okrsek"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "údolí"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jericha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "palem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Coar"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:51.081028478Z",
+  "model": "glm-5.3"
+}

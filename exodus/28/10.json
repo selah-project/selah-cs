@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "šest jejich jmen na jednom kameni a ⟨את⟩ jmen těch šesti zbývajících na druhém kameni, podle jejich zrození.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "šest"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "jejich jmen"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kameni"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jednom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jmen těch šesti zbývajících"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jmen"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "těch šesti"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "zbývajících"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kameni"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "druhém"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "podle jejich zrození"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:50.693137663Z",
+  "model": "glm-5.3"
+}

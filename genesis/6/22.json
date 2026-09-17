@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A učinil Noach podle všeho, co ⟨את⟩ mu přikázal Elohim; ⟨přesně⟩ tak učinil.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mu",
+      "marks": "Noach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨přesně⟩ tak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ucinil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:16.474634261Z",
+  "model": "glm-5.3"
+}

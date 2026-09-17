@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "protože nepřišli vstříc ⟨את⟩ vám s chlebem a s vodou na cestě, když jste vycházeli z Egypta, a protože najali proti tobě ⟨את⟩ Bíl'ama, syna Beórova, z Pétoru aramského dvouříčí, aby tě proklínal",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "protože"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ve věci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "přišli vstříc"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vám"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "s chlebem"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "a s vodou"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "když jste vycházeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a protože"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "najali"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "proti tobě"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bíl'ama"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bíl'am"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beóra"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "z Pétoru"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "aramského"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "dvouříčí"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "aby tě proklínal"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:23.058556519Z",
+  "model": "glm-5.3"
+}

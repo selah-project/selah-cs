@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A Jahve postihl ⟨את⟩ lid, protože udělali ⟨את⟩ tele, které udělal Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "A postihl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "על",
+      "gloss": "protože"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "udělali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tele"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "tele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:02.964598269Z",
+  "model": "glm-5.3"
+}

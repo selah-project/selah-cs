@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Falešný svědek nebude ušetřen ⟨trestu⟩ a ten, kdo vypouští lež, zahyne.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "svědek"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "falešný"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "bude ušetřen"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "a vypouští"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "lež"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "zahyne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:19.792151004Z",
+  "model": "glm-5.3"
+}

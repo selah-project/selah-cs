@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A přinesl ⟨dopis⟩ králi Izraele, znějící: A nyní, když tento dopis přišel k tobě, viz, poslal jsem k tobě ⟨את⟩ Naamana, svého sluhu, a ty ho vyber ze jeho malomocenství.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "A přinesl"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "⟨dopis⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "králi — k"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "znějící"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "když přišel"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "dopis"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "viz"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "poslal jsem"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naamana"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamana"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "svého sluhu"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "a ty ho vyber"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "ze jeho malomocenství"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:42.566081721Z",
+  "model": "glm-5.3"
+}

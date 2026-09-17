@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A Noach učinil podle všeho, co mu přikázal Jahve.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A učinil"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "mu přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:00.615488557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A opustil ⟨את⟩ dobytek a běžel za Eliou a řekl: „Dovol, ať políbím svého otce a svou matku, a půjdu za tebou.“ A on mu řekl: „Jdi, vrať se, neboť co jsem ti udělal?“",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "A opustil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dobytok"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dobytok"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "a běžel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "ať políbím"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Dovol"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "a svou matku"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "a půjdu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za tebou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A on mu řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(mu)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Jdi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vrať se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem udělal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T07:50:27.359103670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "⟨את⟩ Moje šabaty budete střežit a mé svatyně se budete bát; já ⟨jsem⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moje šabaty"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Moje šabaty"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "budete střežit"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "a mé svatyně"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "budete se bát"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:22.598633104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A dnů Teracha bylo dvě stě pět let, a Terach zemřel v Cháranu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teracha"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pět"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "a dvě stě"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "v Cháranu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:40.742585153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "A Jósef přivedl ⟨את⟩ Jákoba, svého otce, a postavil ho před faraona; a Jákob požehnal ⟨את⟩ faraona.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "A přivedl"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jákoba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "a postavil ho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a požehnal"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faraona"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:28.379589108Z",
+  "model": "glm-5.3"
+}

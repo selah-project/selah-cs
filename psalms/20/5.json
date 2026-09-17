@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Kéž ti dá podle tvého srdce a celou tvou radu ⟨nechá⟩ vyplnit.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Kéž dá"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "podle tvého srdce"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celou"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "tvou radu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "vyplnit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:57.793201070Z",
+  "model": "glm-5.3"
+}

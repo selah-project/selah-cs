@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A nezotavil Jeroboam sílu po dny Abijášovy; zasáhl ho Jahve a zemřel.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "zotavil"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sílu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "po (dny)"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Abijášovy"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "zasáhl ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    }
+  ],
+  "timestamp": "2026-09-17T13:05:03.349225212Z",
+  "model": "glm-5.3"
+}

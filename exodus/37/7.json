@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A udělal dva cheruby ze zlata, z tepané práce je udělal ⟨אתם⟩, na dvou koncích slitováčníku.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "cheruby"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ze zlata"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "z tepané práce"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "משני",
+      "gloss": "na dvou"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "koncích"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "slitováčníku"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:20.884733881Z",
+  "model": "glm-5.3"
+}

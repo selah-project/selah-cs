@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Ale ty, Jahve, budeš se jim smát, budeš se posmívat všem národům.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ale ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "budeš se smát"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jim"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "budeš se posmívat"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národům"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:42.518392216Z",
+  "model": "glm-5.3"
+}

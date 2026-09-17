@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "„Zalitoval jsem, že jsem ustanovil Saula ⟨את⟩ za krále, neboť se odvrátil ode mě a ⟨את⟩ mých slov neplní.“ A Samuelovi to bylo hořko a křičel k Jahvi celou noc.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "Zalitoval jsem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "ustanovil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saula"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za krále"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שב",
+      "gloss": "se odvrátil"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ode mě"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mých slov"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mých slov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "plní"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "bylo hořko"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "Samuelovi"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "a křičel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noc"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:28.055506815Z",
+  "model": "glm-5.3"
+}

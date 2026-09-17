@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A Jahve postihl faraona ⟨את⟩ velkými ranami i ⟨את⟩ jeho dům kvůli věci Saraj, ženy Abramovy.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "a postihl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faraona"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "ranami"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "velkými"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho dům"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jeho dům"
+    },
+    {
+      "surface": "על",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "věci"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abramovy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:41.483224751Z",
+  "model": "glm-5.3"
+}

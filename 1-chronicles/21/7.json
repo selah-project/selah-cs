@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A bylo to zlé v očích Elohim kvůli té věci, a udeřil ⟨את⟩ Izraele.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "A bylo to zlé"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "té věci"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "této"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a udeřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T10:20:42.094701280Z",
+  "model": "glm-5.3"
+}

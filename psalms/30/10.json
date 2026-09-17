@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Jaký zisk ⟨je⟩ v mé krvi, když sestupuji k zkáze? Zdali tě prach bude chválit, zdali vyhlásí tvou věrnost?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "jaký"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "zisk"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "v mé krvi"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "když sestupuji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "zkáze"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "bude tě chválit"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prach"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "vyhlásí"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tvou věrnost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:28.422408012Z",
+  "model": "glm-5.3"
+}

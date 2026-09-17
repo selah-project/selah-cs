@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A královna Šeby slyšela ⟨o⟩ ⟨את⟩ zprávu o Šalomounovi — kvůli jménu Jahve — a přišla, aby ho zkoušela hádankami.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "a královna"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šeby"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "slyšela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zprávu o Šalomounovi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zprávu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "o Šalomounovi"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "kvůli jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "a přišla"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "aby ho zkoušela"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "hádankami"
+    }
+  ],
+  "timestamp": "2026-09-17T07:45:14.206246359Z",
+  "model": "glm-5.3"
+}

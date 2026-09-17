@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "z bohů národů, kteří jsou kolem vás — blízkých k tobě, nebo vzdálených od tebe, od jednoho konce země až po druhý konec země —",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "z bohů"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "kolem vás"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "blízkých"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "vzdálených"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "od konce"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "konec"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:51.583110462Z",
+  "model": "glm-5.3"
+}

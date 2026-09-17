@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Eli můj, Eli můj, proč jsi mě opustil? Daleko od mé záchrany ⟨jsou⟩ slova mého řevu.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Eli můj"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli můj"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "jsi mě opustil"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "daleko"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "od mé záchrany"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mého řevu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:06.164354204Z",
+  "model": "glm-5.3"
+}

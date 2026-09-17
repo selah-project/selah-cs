@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 19:20",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A Šaul poslal posly, aby vzali ⟨את⟩ Davida; a viděli ⟨את⟩ družinu proroků prorokující a Šemu'ela stojícího, ustanoveného nad nimi. I byla na Saulových poslech ruach Elohim, a i oni prorokovali.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "A poslal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posly"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "aby vzali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "družinu proroků"
+    },
+    {
+      "surface": "להקת",
+      "gloss": "družinu"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroků"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "prorokující"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "a Šemu'ela"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stojícího"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ustanoveného"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad nimi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "I byla"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "poslech"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulových"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "a prorokovali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:17.644270555Z",
+  "model": "glm-5.3"
+}

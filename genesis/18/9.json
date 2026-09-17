@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A řekli k němu: Kde ⟨je⟩ Sára, tvoje žena? A on řekl: Hle, v ⟨tomto⟩ stanu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "A řekli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Kde"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sára"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tvoje žena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A on řekl"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "v stanu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:29.896923980Z",
+  "model": "glm-5.3"
+}

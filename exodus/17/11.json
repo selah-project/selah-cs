@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Stalo se ⟨totiž⟩, když Mojžíš zvedl svou ruku, že Izrael převládl, a když svou ruku spustil, převládl Amálek.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "zvedl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "převládl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "a když"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "spustil"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "převládl"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amálek"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:48.686883926Z",
+  "model": "glm-5.3"
+}

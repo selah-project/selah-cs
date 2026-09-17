@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "A faraón řekl: Vystup a pohřb ⟨את⟩ svého otce, jak ti přikázal přísahou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraón"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "vystup"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "a pohřb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého otce"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "ti přikázal přísahou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:29.693657520Z",
+  "model": "glm-5.3"
+}

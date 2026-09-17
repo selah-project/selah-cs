@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "kteří říkali: Jazykem svým přemůžeme, rty naše ⟨jsou⟩ ⟨את⟩-s námi; kdo nám je pánem?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "říkali"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "jazykem svým"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "přemůžeme"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "rty naše"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "s námi ⟨את⟩",
+      "marks": "s námi (zde předložka H854, nikoli značka předmětu)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "pán"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:25.756986881Z",
+  "model": "glm-5.3"
+}

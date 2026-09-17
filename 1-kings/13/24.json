@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 13:24",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "I když šel, našel ⟨ho⟩ lev na cestě a usmrtil ⟨ho⟩; a jeho mrtvola byla shozena na cestě, a osel stál poblíž ní, a lev stál poblíž ⟨té⟩ mrtvoly.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "i když šel"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "našel ⟨ho⟩"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lev"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "a usmrtil ⟨ho⟩"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a byla"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "jeho mrtvola"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "shozena"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "a osel"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stál"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "poblíž ní"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "a lev"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stál"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "poblíž"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "⟨té⟩ mrtvoly"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:29.524686857Z",
+  "model": "glm-5.3"
+}

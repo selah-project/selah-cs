@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A pokořím ⟨את⟩ potomstvo Davidovo kvůli tomu, však ne po všechny dny.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "a pokořím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potomstvo Davidovo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "potomstvo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tomu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "však"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dny"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:30.401585540Z",
+  "model": "glm-5.3"
+}

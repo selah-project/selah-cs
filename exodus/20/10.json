@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "a sedmý den ⟨je⟩ šabat pro Jahve, tvého Elohima; neuděláš žádnou práci — ty, tvůj syn a tvá dcera, tvůj služebník a tvá služebnice, tvé dobytky a tvůj přistěhovalec, který ⟨je⟩ v tvých branách.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "a den"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmý"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvého Elohima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uděláš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "žádnou (doslova „veškerou“)"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "práci"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "a tvůj syn"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "a tvá dcera"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvůj služebník"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "a tvá služebnice"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "a tvé dobytky"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "a tvůj přistěhovalec"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "v tvých branách"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:07.922234745Z",
+  "model": "glm-5.3"
+}

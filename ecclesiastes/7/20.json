@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neboť není na zemi spravedlivého člověka, který by činil dobro a nehřešil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivého"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který by"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "činil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "hřešil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:57.013824210Z",
+  "model": "glm-5.3"
+}

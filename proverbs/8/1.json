@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Což nepovolává moudrost, a porozumění vydává svůj hlas?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Což ne"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "povolává"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "a porozumění"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "vydává"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "svůj hlas"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:13.692657323Z",
+  "model": "glm-5.3"
+}

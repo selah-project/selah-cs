@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Zpívejte Elohimovi, hrávete ⟨na nástroj⟩ jeho jménu, stavěte cestu ⟨tomu⟩, kdo jede pouštěmi; jeho jméno ⟨je⟩ Jah, a jásote před ním.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Zpívejte"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimovi"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "hrávejte ⟨na nástroj⟩"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jménu"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "stavějte cestu"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "⟨tomu⟩, kdo jede"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "pouštěmi"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "v Jah(⟨je⟩)"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "a jásote"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:52.968106338Z",
+  "model": "glm-5.3"
+}

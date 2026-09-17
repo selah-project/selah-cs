@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Konec slova, vše ⟨bylo⟩ slyšeno: ⟨את⟩ Elohim se boj a ⟨את⟩ jeho příkazy střež, neboť toto je ⟨celý⟩ člověk.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Konec"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slova"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "⟨bylo⟩ slyšeno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se boj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho příkazy"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "jeho příkazy"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "střež"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨celý⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:28.296295476Z",
+  "model": "glm-5.3"
+}

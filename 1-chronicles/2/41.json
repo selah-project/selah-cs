@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Šallum zplodil ⟨את⟩ Jekamjaha a Jekamjah zplodil ⟨את⟩ Elišáma.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "A Šallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekamjaha"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Jekamjaha"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "a Jekamjah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elišáma"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elišáma"
+    }
+  ],
+  "timestamp": "2026-09-17T10:14:56.600004188Z",
+  "model": "glm-5.3"
+}

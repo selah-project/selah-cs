@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 24:33",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A postavil ⟨před ním jídlo⟩ k jídlu, ale on řekl: Nebudu jíst, dokud ne promluvím svých slov. A ⟨Laban⟩ řekl: Mluv.",
+  "tokens": [
+    {
+      "surface": "ויישם",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "k jídlu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne(budu)"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "promluvím"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "svých slov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluv"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:35.214232749Z",
+  "model": "glm-5.3"
+}

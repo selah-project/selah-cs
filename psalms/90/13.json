@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Vrať se, Jahve — jak dlouho? — a ⟨uťechuť se⟩ nad svými služebníky.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Vrať se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "jak dlouho?"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "a ⟨uťechuť se⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "svými služebníky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:57.197731802Z",
+  "model": "glm-5.3"
+}

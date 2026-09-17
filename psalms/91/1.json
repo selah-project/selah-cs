@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 91,
+  "translation": "Kdo sídlí v úkrytu El Eljona, ve stínu Šaddaje přebývá.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "sídlí"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "v úkrytu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Eljon (Nejvyšší)"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ve stínu"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šaddaj"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "přebývá"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:32.115022277Z",
+  "model": "glm-5.3"
+}

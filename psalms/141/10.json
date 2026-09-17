@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 141,
+  "translation": "Ať padnou do svých vlastních síní bezbožníci, ⟨zatímco⟩ já projdu.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Ať padnou"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "do svých vlastních síní"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožníci"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨společně⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "עד",
+      "gloss": "zatímco"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "projdu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:02.595556809Z",
+  "model": "glm-5.3"
+}

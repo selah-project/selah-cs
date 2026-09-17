@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A Ša'ul poznal ⟨את⟩ hlas Davida a řekl: Zdaž tvůj ⟨je⟩ hlas, synu můj David? A David řekl: Můj hlas, pane králi ⟨můj⟩.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "poznal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "tvůj hlas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "zdaž (tento)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu můj"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "můj hlas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "pane"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:31.203064419Z",
+  "model": "glm-5.3"
+}

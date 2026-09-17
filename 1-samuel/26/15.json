@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 26:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A David řekl Abnerovi: Zdaž nejsi muž? A kdo ⟨je⟩ jako ty v Izraeli? Proč jsi tedy nestříhal svého pána, krále? Neboť přišel jeden z lidu, aby zahubil ⟨את⟩ krále, tvého pána.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Abnerovi"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "zdaž ne"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a kdo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jako ty"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Izraeli"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "a proč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "jsi stříhal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "svého pána"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "העם",
+      "gloss": "z lidu"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "aby zahubil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tvého pána"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:43.315908117Z",
+  "model": "glm-5.3"
+}

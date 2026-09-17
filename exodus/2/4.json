@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A jeho sestra se postavila ⟨se⟩ z dálky, aby věděla, co se ⟨s ním⟩ stane.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "a postavila se"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "jeho sestra"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "z dálky"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "aby věděla"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se stane"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:57.962378070Z",
+  "model": "glm-5.3"
+}

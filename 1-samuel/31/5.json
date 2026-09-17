@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Když viděl jeho nosič zbraně, že Ša'úl je mrtev, padl i on na svůj meč a zemřel s ním.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nosič"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zbraně jeho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtev je"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'úl"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "padl"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "meč svůj"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "zemřel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:06.862008124Z",
+  "model": "glm-5.3"
+}

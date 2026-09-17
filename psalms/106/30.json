@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "I postavil se Pinchas a zjednal ⟨souzení⟩, a ta rána byla zadržena.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a postavil se"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "a zjednal souzení"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "a byla zadržena"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ta rána"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:39.597462030Z",
+  "model": "glm-5.3"
+}

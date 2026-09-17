@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Pro předního zpěváka, s doprovodem strunných nástrojů. Poučná báseň Davidova.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "s doprovodem strunných nástrojů"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poučná báseň"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:11.753816684Z",
+  "model": "glm-5.3"
+}

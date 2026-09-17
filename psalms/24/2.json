@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Neboť on ji založil na mořích a na řekách ji upevnil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mořích"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "ji založil"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "řekách"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "ji upevnil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:43.015586031Z",
+  "model": "glm-5.3"
+}

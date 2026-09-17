@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "Miluji, protože Jahve slyší ⟨את⟩ hlas můj, mé prosby.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Miluji"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "slyší"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas můj"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "hlas můj"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mé prosby"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:32.341887975Z",
+  "model": "glm-5.3"
+}

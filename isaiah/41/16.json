@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Budeš je větrat a vítr je vane, vichr je rozpráší ⟨את⟩; a ty se budeš radovat v Jahve, ve Svatém Izraele se budeš chlubit.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "budeš je větrat"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "a vítr"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "je vane"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "vichr"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "rozpráší"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "je (nepřátelé jako plevy)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "se budeš radovat"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "ve Svatém"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "se budeš chlubit"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:16.431737239Z",
+  "model": "glm-5.3"
+}

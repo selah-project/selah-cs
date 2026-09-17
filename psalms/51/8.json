@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Hle, pravdu žádáš v nitru, a v skrytu mi dáš poznat moudrost.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "hle"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "pravdu"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "žádáš"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "v nitru"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "a v skrytu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "mi dáš poznat"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:34.246596600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Budete zachovávat ⟨את⟩ má ustanovení a ⟨את⟩ má práva, která vykoná ⟨את⟩ ně člověk, a bude živimi; já jsem Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Budete zachovávat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "má ustanovení"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "má ustanovení"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "má práva"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "má práva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "vykoná"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "člověk"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "a bude živ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:05.468692887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Kdo obdělává svou půdu, nasytí se chlebem; kdo se honí za prázdnostmi, postrádá srdce.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "Kdo obdělává"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "svou půdu"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "nasytí se"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "kdo se honí za"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "prázdnostmi"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "postrádá"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:38.684652675Z",
+  "model": "glm-5.3"
+}

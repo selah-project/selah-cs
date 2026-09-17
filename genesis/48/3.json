@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "A Jákob řekl Jósefovi: El Šaddaj se mi zjevil v Lúzu, v zemi Kenaan, a požehnal ⟨את⟩ mně.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósefovi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šaddaj"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "zjevil se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mně"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "v Lúzu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a požehnal"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mně",
+      "marks": "mně"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:21.480274502Z",
+  "model": "glm-5.3"
+}

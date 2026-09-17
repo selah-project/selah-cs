@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 7:15",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A Jahve mě vzal za stádem, a Jahve mi řekl: Jdi, prorokuj mému lidu Izraeli.",
+  "tokens": [
+    {
+      "surface": "ויקחני",
+      "gloss": "vzal mě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stádem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "prorokuj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mému"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-17T11:09:11.643000694Z",
+  "model": "glm-5.3"
+}

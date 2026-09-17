@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Tohoto si připomínám a vylévám ⟨sebe⟩ na sebe svou duši, neboť procházím v shromáždění, kráčím s nimi až k domu Elohim, s hlasem jásotu a vyznávání, s houfem slavícím svátek.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Tohoto"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "připomínám"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "a vylévám"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na sebe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svou duši"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "procházím"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "v shromáždění"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "kráčím s nimi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "s hlasem"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "jásotu"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "a vyznávání"
+    },
+    {
+      "surface": "המון",
+      "gloss": "s houfem"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "slavícím svátek"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:50.173576285Z",
+  "model": "glm-5.3"
+}

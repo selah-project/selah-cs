@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Země pšenice a ječmene, révy, fíků a granátových jablek; země oliv olivového oleje a medu.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "pšenice"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "a ječmene"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "révy"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "fíků"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "a granátových jablek"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliv"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olivového oleje"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "a medu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:55:42.885709529Z",
+  "model": "glm-5.3"
+}

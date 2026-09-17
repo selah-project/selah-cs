@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "A řekl k němu Juda ⟨a řekl⟩: Muž ⟨nám⟩ slavnostně dosvědčil ⟨a řekl⟩: Neuvidíte mou tvář, nebude-li váš bratr ⟨את⟩ s vámi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a řekl⟩"
+    },
+    {
+      "surface": "העד",
+      "gloss": "dosvědčil"
+    },
+    {
+      "surface": "העד",
+      "gloss": "slavnostně"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨nám⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a řekl⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "uvidíte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nebude-li"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "váš bratr"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "s vámi"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:14.906983284Z",
+  "model": "glm-5.3"
+}

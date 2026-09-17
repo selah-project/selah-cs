@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Jestliže nás však neuposlechnete, abyste se dali obřezat, vezmeme ⟨את⟩ naši dceru a odejdeme.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jestliže však"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "uposlechnete"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nás"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "abyste se dali obřezat"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "vezmeme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naši dceru"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "naši dceru"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "a odejdeme"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:49.787213812Z",
+  "model": "glm-5.3"
+}

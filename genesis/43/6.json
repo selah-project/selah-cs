@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "I řekl Izrael: Proč jste mi způsobili zlo tím, že jste muži oznámili, že ⟨máte⟩ ještě bratra?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "způsobili jste zlo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "tím, že jste oznámili"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "že ještě"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "máte"
+    },
+    {
+      "surface": "אח",
+      "gloss": "bratra"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:54.526227472Z",
+  "model": "glm-5.3"
+}

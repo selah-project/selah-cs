@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I řekl svým dcerám: „Kde ⟨je⟩ ten ⟨muž⟩? Proč jste ⟨tak⟩ opustily ⟨את⟩ toho ⟨muže⟩? Zavolejte mu, ať sní chléb.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svým"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "dcerám"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "a kde"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨tak⟩"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "jste opustily"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toho muže"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "toho muže"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "zavolejte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ať sní"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    }
+  ],
+  "timestamp": "2026-09-17T13:01:04.698202162Z",
+  "model": "glm-5.3"
+}

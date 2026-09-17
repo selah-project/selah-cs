@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A z poloviny kmene Menášeho ⟨את⟩ Taanach a ⟨את⟩ jeho pastviny, ⟨את⟩ Gat-Rimon a ⟨את⟩ jeho pastviny — dvě města.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "a z poloviny"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kmene"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menášeho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanach"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho pastviny"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "jeho pastviny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho pastviny"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "jeho pastviny"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "dvě města"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:10:52.031107682Z",
+  "model": "glm-5.3"
+}

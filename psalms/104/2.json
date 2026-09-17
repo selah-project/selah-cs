@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Odíváš se světlem jako pláštěm, rozprostíráš nebesa jako stanový závěs.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "Odíváš se"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světlem"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "jako pláštěm"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "rozprostíráš"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "jako stanový závěs"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:40.063393452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A sestoupili bratři Josefovi, deset ⟨z nich⟩, koupit obilí z Egypta.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "a sestoupili"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bratři"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "koupit"
+    },
+    {
+      "surface": "בר",
+      "gloss": "obilí"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:17.292288111Z",
+  "model": "glm-5.3"
+}

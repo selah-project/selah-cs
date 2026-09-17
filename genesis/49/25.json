@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Od El, tvého otce, a ⟨ten, který⟩ ti pomáhá, a ⟨את⟩ Šaddaj, a ⟨ten, který⟩ tě žehná — požeháními nebes ⟨shora⟩, požeháními tehomu, který se rozprostírá dole, požeháními prsů a lůna.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "od El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvého otce"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "a ⟨ten, který⟩ ti pomáhá"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Šaddaj"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šaddaj"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "a ⟨ten, který⟩ tě žehná"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "požeháními"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨shora⟩"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "požeháními"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehomu"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "který se rozprostírá"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "dole"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "požeháními"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "prsů"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "a lůna"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:55.855930435Z",
+  "model": "glm-5.3"
+}

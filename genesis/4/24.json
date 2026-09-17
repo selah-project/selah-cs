@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Neboť sedmkrát bude pomstěn Kain, a Lemech sedmdesát-(a)-sedmkrát.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sedmkrát"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "bude pomstěn"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "a Lemech"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sedmdesát-"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "(a)-sedmkrát"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:58.343351122Z",
+  "model": "glm-5.3"
+}

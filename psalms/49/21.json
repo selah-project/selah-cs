@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Člověk v ⟨cti⟩ ⟨a⟩ nerozumí — přirovnán ⟨je⟩ k dobytčatům: zahynuli.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Člověk"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "v ⟨cti⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "⟨a⟩ nerozumí—ne"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "nerozumí"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "přirovnán"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "k dobytčatům"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "zahynuli"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:03.437700839Z",
+  "model": "glm-5.3"
+}

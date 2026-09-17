@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 23:7",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "I pozdvihl své podobenství a řekl: Z Aramu mě vede Balák, král moábský, z východních hor: Pojď, proklej mi Jakoba, a pojď, zlořeč Izraeli!",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "i pozdvihl"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "své podobenství"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "mě vede"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balák"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moábský"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "z hor"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "východních"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "pojď"
+    },
+    {
+      "surface": "ארה",
+      "gloss": "proklej"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakoba"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "a pojď"
+    },
+    {
+      "surface": "זעמה",
+      "gloss": "zlořeč"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-17T06:48:25.564189661Z",
+  "model": "glm-5.3"
+}

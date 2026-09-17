@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Kozy dvě stě a kozlové dvacet, ovce dvě stě a berani dvacet.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "Kozy"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dvě stě"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "a kozlové"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "ovce"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dvě stě"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "a berani"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:01.742129428Z",
+  "model": "glm-5.3"
+}

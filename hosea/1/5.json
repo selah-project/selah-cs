@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A stane se onoho dne, že zlám ⟨את⟩ luk Izraele v údolí Jizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "A stane se"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "onoho dne"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tomu"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "zlám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "luk Izraele"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "v údolí"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:26.563432322Z",
+  "model": "glm-5.3"
+}

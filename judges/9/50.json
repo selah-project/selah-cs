@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "I šel Abímelek k Tebecu, a utábořil se u Tebecu, a dobyl jej.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abímelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tebecu"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "a utábořil se"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "u Tebecu"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "a dobyl jej"
+    }
+  ],
+  "timestamp": "2026-09-17T07:15:12.066893695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 111,
+  "translation": "Halelu-jah! Budu děkovat Jahvem celým srdcem, v tajné radě ⟨těch⟩ přímých a v shromáždění.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "jah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "budu děkovat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "celým"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srdcem"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "v tajné radě"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "přímých"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "a v shromáždění"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:50.011177030Z",
+  "model": "glm-5.3"
+}

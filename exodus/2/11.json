@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 2:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A stalo se v těch dnech, když Mojžíš vyrostl, vyšel ke svým bratřím a viděl jejich břemena; a viděl ⟨jeden⟩ muže, Mizrajimce, bijícího muže, Hebreje, jednoho z jeho bratří.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "v dnech"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "tých"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "vyrostl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svým bratřím"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "jejich břemena"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mizrajimce"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "bijícího"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebreje"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "jednoho z jeho bratří"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:57.252226033Z",
+  "model": "glm-5.3"
+}

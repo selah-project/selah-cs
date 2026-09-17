@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Kvůli〈is〉přestoupení Jákoba všechno toto, a kvůli hříchům domu Israela. Kdo〈is〉 přestoupením Jákoba? Což ne Šomron? A kdo bamot Jehudy? Což ne Jerušalajim?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "kvůli přestoupení"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "a kvůli hříchům"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "přestoupením"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "což ne"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "a kdo"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bamot (výšiny)"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "což ne"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerušalajim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:02:49.130571410Z",
+  "model": "glm-5.3"
+}

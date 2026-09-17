@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "⟨את⟩ Jahve Cevaot, jeho pošlete ⟨את⟩, posvětťte, a on ⟨je⟩ vaše bázeň a on ⟨je⟩ vaše hrůza.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Cevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "jeho ⟨את⟩",
+      "marks": "posvětťte (tj. jeho)"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "posvětťte"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "vaše bázeň"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "vaše hrůza"
+    }
+  ],
+  "timestamp": "2026-09-17T08:02:35.683626046Z",
+  "model": "glm-5.3"
+}

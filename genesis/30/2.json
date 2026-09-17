@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A rozhořčil se hněv Jákobův na Ráchel, a řekl: ⟨Já⟩ jsem místo ⟨té⟩ Elohim, který zadržel od tebe plod lůna?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "a rozhořčil se"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněv (nos)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobův"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "na Ráchel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "zda místo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jsem já"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "zadržel"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "plod"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "lůna"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:44.241651438Z",
+  "model": "glm-5.3"
+}

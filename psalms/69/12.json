@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "A dal jsem roucho své ⟨být⟩ žíně ⟨a⟩ stal jsem se jim za podobenství.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "A dal jsem"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "roucho své"
+    },
+    {
+      "surface": "שק",
+      "gloss": "žíně"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "⟨a⟩ stal jsem se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "za podobenství"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:57.681306460Z",
+  "model": "glm-5.3"
+}

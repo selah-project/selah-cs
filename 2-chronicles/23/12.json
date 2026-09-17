@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A uslyšela Atalja ⟨את⟩ hlas lidu, běžícího a oslavujícího ⟨את⟩ krále, a vešla k lidu, do domu Jahve.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "a uslyšela"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "běžícího"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "a oslavujícího"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "a vešla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T10:29:25.297133605Z",
+  "model": "glm-5.3"
+}

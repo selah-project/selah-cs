@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "Můj Elohim, vytrhni mě z ruky bezbožného, z drápny paňáče násilného a útlavného.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Můj Elohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "vytrhni mě"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožného"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "z drápny"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "útlavného"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "a násilného"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:17.620983541Z",
+  "model": "glm-5.3"
+}

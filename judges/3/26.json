@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A Ehúd unikl, dokud se ⟨oni⟩ zdrželi; on pak překročil ⟨את⟩ tesané modly a unikl na Seíru.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "A Ehúd"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "unikl"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "se zdrželi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "překročil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tesané modly"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "tesané modly"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "a unikl"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "na Seíru"
+    }
+  ],
+  "timestamp": "2026-09-17T07:13:09.479882605Z",
+  "model": "glm-5.3"
+}

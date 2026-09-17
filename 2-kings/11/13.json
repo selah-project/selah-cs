@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A uslyšela Atalja ⟨את⟩ hlas běžců i lidu, a vešla k lidu ⟨do⟩ domu Jahveho.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "A-uslyšela"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "běžců"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "a-vešla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:27.558772933Z",
+  "model": "glm-5.3"
+}

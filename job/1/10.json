@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Zdali's ty ⟨את⟩ neoplotil kolem něj i kolem jeho domu a kolem všeho, co má, ze všech stran? Dílo jeho rukou jsi požehnal a jeho dobytek se rozprostřel v zemi.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "zdali ne"
+    },
+    {
+      "surface": "את",
+      "gloss": "ty ⟨את⟩",
+      "marks": "neoplotil jsi"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "neoplotil jsi"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "kolem něj"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "a kolem"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jeho domu"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "a kolem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "má"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ze všech stran"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "jeho rukou"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "jsi požehnal"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "a jeho dobytek"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "se rozprostřel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:26.577292003Z",
+  "model": "glm-5.3"
+}

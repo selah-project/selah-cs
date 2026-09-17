@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "Čím bych Jahvi oplatil za všechna jeho dobrodiní na mně?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "čím"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "bych oplatil"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "za všechna"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "jeho dobrodiní"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:14.172604585Z",
+  "model": "glm-5.3"
+}

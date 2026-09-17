@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "I poslal muž Elohim ⟨k⟩ králi Izraele ⟨slova⟩: Měj se na pozoru, abys nepřešel ⟨na⟩ to místo, neboť tam Aram sestupuje.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨slova⟩:"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "měj se na pozoru"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "abys nepřešel"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "to místo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "sestupuje"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:25.445746070Z",
+  "model": "glm-5.3"
+}

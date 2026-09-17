@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Před Efrajimem a Benjaminem a Manassesem probuď ⟨את⟩ svou moc a přijď k nám ⟨k⟩ spásě.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimem"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "a Benjaminem"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "a Manassesem"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "probuď"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou moc"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "svou moc"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "a přijď"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "⟨k⟩ spásě"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "k nám"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:48.312567553Z",
+  "model": "glm-5.3"
+}

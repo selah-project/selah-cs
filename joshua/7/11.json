@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Zhřešil Izrael — a dokonce překročili ⟨את⟩ mou smlouvu, kterou jsem ⟨את⟩ jim přikázal, a dokonce vzali z cheremu, a dokonce ukradli, a dokonce zapřeli, a dokonce to uložili do svých nádob.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "Zhřešil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a dokonce"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "překročili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou smlouvu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mou smlouvu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jsem přikázal"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ jim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a dokonce"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "vzali"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "cheremu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a dokonce"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "ukradli"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a dokonce"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "zapřeli"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a dokonce"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uložili"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "do svých nádob"
+    }
+  ],
+  "timestamp": "2026-09-17T07:06:50.617380614Z",
+  "model": "glm-5.3"
+}

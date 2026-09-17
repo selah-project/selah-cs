@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 14:9",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Jestliže takto k nám řeknou: „Zůstaňte stát, dokud k vám nedojdeme,“ pak zůstaneme na svém místě a nepůjdeme k nim nahoru.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "כה",
+      "gloss": "takto"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "řeknou"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "k nám"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "Zůstaňte stát"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "הגיענו",
+      "gloss": "nedojdeme"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "k vám"
+    },
+    {
+      "surface": "ועמדנו",
+      "gloss": "pak zůstaneme"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "na svém místě"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "půjdeme"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k nim nahoru"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:18.300470980Z",
+  "model": "glm-5.3"
+}

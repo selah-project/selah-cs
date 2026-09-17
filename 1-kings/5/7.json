@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A tito pověřenci živili ⟨את⟩ krále Šalomouna a ⟨את⟩ všechno, co přicházelo ke stolu krále Šalomouna, každý ve svém měsíci; ničeho jim nescházelo.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "A živili"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "tito pověřenci"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomouna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "co přicházelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "stolu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomouna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "ve svém měsíci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "jim scházelo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ničeho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:42:42.048263547Z",
+  "model": "glm-5.3"
+}

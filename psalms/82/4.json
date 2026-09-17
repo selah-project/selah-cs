@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 82,
+  "translation": "Vyprostěte slabého a nuzného, z ruky ničemných zachraňte ⟨je⟩!",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Vyprostěte"
+    },
+    {
+      "surface": "דל",
+      "gloss": "slabého"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "a nuzného"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ničemných"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "zachraňte ⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:36.363981938Z",
+  "model": "glm-5.3"
+}

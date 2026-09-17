@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 3:18",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A toto jsou jména synů Geršona podle jejich čeledí: Libni a Šimeí.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jména"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Geršona"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle jejich čeledí"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "a Šimeí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:21.154495103Z",
+  "model": "glm-5.3"
+}

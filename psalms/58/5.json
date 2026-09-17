@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 58,
+  "translation": "Jejich jed ⟨je⟩ jako jed hada, jako hluší zmij, který si zacpává ucho.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "jed"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jejich"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "jako"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "jed"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "hada"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jako"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "zmij"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "hluší"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "zacpává"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ucho"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:57.898789521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Neboť ty jsi ⟨nádherou⟩ jejich síly, a ve tvé přízni je náš roh vyvyšován.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "⟨nádherou⟩"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "jejich síly"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty jsi"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "a ve tvé přízni"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "je vyvyšován"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "náš roh"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:12.535832501Z",
+  "model": "glm-5.3"
+}

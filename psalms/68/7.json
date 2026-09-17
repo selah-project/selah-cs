@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Elohim dává osamělým ⟨být⟩ v domě ⟨rodinném⟩, vyvádí vězně ve štěstí; však zpurní bydlí ve vyprahlé zemi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "dává ⟨být⟩ (usazuje)"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "osamělým"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "v domě ⟨rodinném⟩"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "vyvádí"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "vězně"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "ve štěstí"
+    },
+    {
+      "surface": "אך",
+      "gloss": "však\/jen"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "zpurní"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "bydlí"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "ve vyprahlé zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:52.968566420Z",
+  "model": "glm-5.3"
+}

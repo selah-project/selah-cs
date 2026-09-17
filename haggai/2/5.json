@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "⟨את⟩ slovo, které jsem s vámi ⟨את⟩ smluvil při vašem vycházení z Egypta, a můj duch stojí ve vašem středu — nebojte se.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "smluvil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨s vámi⟩ ⟨את⟩"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "při vašem vycházení"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "a můj duch"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stojí"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ve vašem středu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    }
+  ],
+  "timestamp": "2026-09-17T09:06:01.212320977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Neboť já jsem obnažil ⟨את⟩ Ésava, odhalil jsem ⟨את⟩ jeho úkryty, a skrýt se nebude moci; vypleněno je jeho semeno, i jeho bratři a jeho sousedé, a jeho už není.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "obnažil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ésava"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésava"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "odhalil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho úkryty"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "jeho úkryty"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "a skrýt se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "bude moci"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "vypleněno"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "jeho semeno"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "i jeho bratři"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "a jeho sousedé"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "a jeho už není"
+    }
+  ],
+  "timestamp": "2026-09-17T08:35:34.094183925Z",
+  "model": "glm-5.3"
+}

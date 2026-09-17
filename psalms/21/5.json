@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Život požádal od tebe, dal ⟨jsi⟩ mu — délku dnů, věky a navždy.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Život"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "požádal"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "dal ⟨jsi⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "délku"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věky"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a navždy"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:01.049259208Z",
+  "model": "glm-5.3"
+}

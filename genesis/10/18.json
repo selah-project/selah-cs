@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "a ⟨את⟩ Arvadijce a ⟨את⟩ Cemarijce a ⟨את⟩ Chamatijce; a potom byly rozptýleny rodiny Kenaanců",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Arvadijce"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvadijec"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Cemarijce"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Cemarijec"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chamatijce"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Chamatijec"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a potom"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "byly rozptýleny"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "rodiny"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaance"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:12.790032248Z",
+  "model": "glm-5.3"
+}

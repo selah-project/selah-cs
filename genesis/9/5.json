@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A vskutku ⟨את⟩ krev vaši, ⟨za⟩ vaše duše, budu žádat; z ruky každé zvěře budu ji žádat; a z ruky člověka — z ruky muže, bratra jeho — budu žádat ⟨את⟩ život člověka.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "A vskutku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krev vaši"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "krev vaši"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "za vaše duše"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "budu žádat"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každé"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "zvěře"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "budu ji žádat"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "a z ruky"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bratra jeho"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "budu žádat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "život"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "život"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:36.425061504Z",
+  "model": "glm-5.3"
+}

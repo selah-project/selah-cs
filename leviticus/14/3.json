@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A kněz vyjde ven z tábora, a kněz se podívá, a hle, zhola se uzdravila rána malomocenství ⟨na⟩ malomocném.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a vyjde"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ven"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "z tábora"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a se podívá"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "se uzdravila"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "rána"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "malomocenství"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "malomocného"
+    }
+  ],
+  "timestamp": "2026-09-17T11:48:07.482680888Z",
+  "model": "glm-5.3"
+}

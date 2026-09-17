@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Zavalil jsi je ⟨jako⟩ přívalovou vodou — stávají se spánkem; ráno jak tráva přecházejí.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Zavalil jsi je ⟨jako⟩ přívalovou vodou"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "spánkem"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "stávají se"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "jak tráva"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "přecházejí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:01.230168797Z",
+  "model": "glm-5.3"
+}

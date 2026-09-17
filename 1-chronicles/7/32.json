@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A Cheber zplodil ⟨את⟩ Jaflet, ⟨a⟩ ⟨את⟩ Šomer, ⟨a⟩ ⟨את⟩ Chotam ⟨a⟩ ⟨את⟩ Šúu, jejich sestru.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "A Cheber"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Jaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "Šomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Šomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "Šúu"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Šúu"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "jejich sestru"
+    }
+  ],
+  "timestamp": "2026-09-17T10:17:14.820959356Z",
+  "model": "glm-5.3"
+}

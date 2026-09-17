@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Jahve na tebe pošle ⟨את⟩ kletbu, ⟨את⟩ zmatek i ⟨את⟩ výhrůžku ve všem, nač vztáhneš ruku, co budeš dělat, dokud nejsi zničen a dokud rychle nezahyneš, kvůli zlu tvých činů, protože jsi mě opustil.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "pošle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kletbu"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "kletbu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zmatek"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "zmatek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "výhrůžku"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "výhrůžku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všem"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "nač vztáhneš"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "budeš dělat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "nejsi zničen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a dokud"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "nezahyneš"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "rychle"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlu"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "tvých činů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "protože"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "jsi mě opustil"
+    }
+  ],
+  "timestamp": "2026-09-17T07:02:04.201835906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Blahoslavený ⟨je⟩ muž, kterýž nekřáčí v radě bezbožných, na cestě hříšníků nestojí, v shromáždění posměvačů nesedává.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blahoslavený"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterýž"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "křáčí"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "v radě"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "hříšníků"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stojí"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "v shromáždění"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "posměvačů"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sedává"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:09.777360039Z",
+  "model": "glm-5.3"
+}

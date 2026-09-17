@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A nepamatoval si správce číšníků ⟨את⟩ Josefa, ale zapomněl na něj.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "(si) pamatoval"
+    },
+    {
+      "surface": "שר",
+      "gloss": "správce"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "číšníků"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "a zapomněl na něj"
+    }
+  ],
+  "timestamp": "2026-09-17T06:11:21.127891984Z",
+  "model": "glm-5.3"
+}

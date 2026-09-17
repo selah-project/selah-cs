@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A Aharon přivede ⟨את⟩ kozla, na něhož vyšel los pro Jahve, a učiní z něj oběť za hřích.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "přivede"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kozla"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kozla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "něhož"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "vylezl-vypadl (los)"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "los"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "učiní z něj"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "oběť za hřích"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:16.949980958Z",
+  "model": "glm-5.3"
+}

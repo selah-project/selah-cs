@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A přestal ⟨jej zabíjet⟩; tehdy řekla: ženich krve, kvůli obřezání.",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "a přestal"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od něj"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tehdy"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "řekla"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ženich"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krve"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "kvůli obřezání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:41.230327080Z",
+  "model": "glm-5.3"
+}

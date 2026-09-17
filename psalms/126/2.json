@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 126,
+  "translation": "Tehdy se naplnil smích naše ústa a náš jazyk jásotem; tehdy řekli mezi národy: Velké věci učinil Jahve s těmito.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tehdy"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "se naplnil"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "smích"
+    },
+    {
+      "surface": "פינו",
+      "gloss": "naše ústa"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "a náš jazyk"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "jásotem"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tehdy"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "řekli"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mezi národy"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "Velké věci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "těmito"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:45.880772224Z",
+  "model": "glm-5.3"
+}

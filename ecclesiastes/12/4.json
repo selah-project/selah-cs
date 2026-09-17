@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "a dveře se zavřou na ulici, když se ztiší zvuk mletí; a vstane se při hlasu ptáka a skloní se všechny dcery zpěvu;",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "a zavřou se"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "dveře"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "na ulici"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "když se ztiší"
+    },
+    {
+      "surface": "קול",
+      "gloss": "zvuk"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "mletí"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "a vstane se"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "při hlasu"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ptáka"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "a skloní se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dcery"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "zpěvu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:48.120568471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Kain poznal ⟨את⟩ svou ženu, a ona počala a porodila ⟨את⟩ Chanoka; a stalo se, že stavěl město, a pojmenoval město podle jména svého syna Chanoka.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "poznal"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ženu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "svou ženu"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "a počala"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chanoka"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoka"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "stavěl"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a pojmenoval"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "podle jména"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoka"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:34.232640002Z",
+  "model": "glm-5.3"
+}

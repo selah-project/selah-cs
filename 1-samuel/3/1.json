@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A chlapec Samuel sloužil ⟨את⟩ Jahveho před Eliím, a slovo Jahveho bylo vzácné v těch dnech — nebylo vidění, které by se ⟨prolomilo⟩.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "A chlapec"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "sloužil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eliím"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "a slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "vzácné"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "v dnech"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "těch"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nebylo"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "vidění"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "⟨prolomilo⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:20.983080010Z",
+  "model": "glm-5.3"
+}

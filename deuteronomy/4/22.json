@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Neboť já umírám v této zemi, nepřejdu ⟨את⟩ Jordán, ale vy přejdete a obsadíte ⟨את⟩ tu dobrou zemi, tuto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "מת",
+      "gloss": "umírám"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "této"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "přejdu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ale vy"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "přejdete"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "a obsadíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu dobrou zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tu zemi"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "dobrou"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tuto"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:25.058324156Z",
+  "model": "glm-5.3"
+}

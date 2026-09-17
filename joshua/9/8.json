@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 9:8",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A řekli Jóšuovi: Tvoji sluhové jsme ⟨my⟩. Jóšua jim řekl: Kdo jste a odkud přicházíte?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "řekli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jóšuovi ⟨k⟩"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšua"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tvoji sluhové"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "jsme"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšua"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jste"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "a odkud"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "přicházíte"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:02.970818495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Nenechají z něj ⟨nic⟩ do rána a kost v něm nezalomí; podle všeho řádu pesachu vykonají ⟨את⟩ jej.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "nechají"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rána"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "a kost"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "zalomí"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "řádu"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesachu"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "vykonají"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    }
+  ],
+  "timestamp": "2026-09-17T13:40:20.976736411Z",
+  "model": "glm-5.3"
+}

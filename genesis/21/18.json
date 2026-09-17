@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Vstaň, zvedni ⟨את⟩ chlapce a pevně ho uchope ⟨את⟩ rukou svou, neboť z něho učiním národ veliký.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Vstaň"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "zvedni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chlapce"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "chlapce"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "a pevně uchope"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rukou svou"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "rukou svou"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "národ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "z něho učiním"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:12.976012974Z",
+  "model": "glm-5.3"
+}

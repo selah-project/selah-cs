@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Položil jsi mě do jámy nejhlubší, v temnotách, v hlubinách.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Položil jsi"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "do jámy"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "nejhlubší"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "v temnotách"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "v hlubinách"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:57.715153181Z",
+  "model": "glm-5.3"
+}

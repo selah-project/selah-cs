@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "Má spolčení s tebou trůn ničemnosti, který utváří nepravost zákonem?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "má spolčení s tebou"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trůn"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ničemnosti"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "který utváří"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "חק",
+      "gloss": "zákonem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:46.984491166Z",
+  "model": "glm-5.3"
+}

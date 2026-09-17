@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Miluješ všechna slova ⟨která⟩ polykají, jazyku klamavý!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Miluješ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "polykají"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jazyku"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "klamavý"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:51.283590348Z",
+  "model": "glm-5.3"
+}

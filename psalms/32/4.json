@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Neboť dnem i nocí tížila na mně tvá ruka, mé vláhy se změnily v letní sucho. Séla.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dnem"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i nocí"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "tížila"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mně"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvá ruka"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "se změnily"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "mé vláhy"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "v sucho"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "letní"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:12.127336397Z",
+  "model": "glm-5.3"
+}

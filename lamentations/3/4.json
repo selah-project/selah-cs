@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Zhubilo mé tělo i mou kůži, zlomilo mé kosti.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "Zhubilo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mé tělo"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "i mou kůži"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "zlomilo"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mé kosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:56:58.067448476Z",
+  "model": "glm-5.3"
+}

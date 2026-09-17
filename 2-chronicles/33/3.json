@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 33:3",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A obrátil se a znovu vystavěl ⟨את⟩ výšiny, které zbořil Chizkijahu, jeho otec; a vztyčil oltáře Baalům a udělal ašery a klaněl se veškerému vojsku nebes a sloužil ⟨אתם⟩ jim.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "A obrátil se"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a vystavěl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "výšiny"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "výšiny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "zbořil"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkijahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otec"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a vztyčil"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baalům"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "אשרות",
+      "gloss": "ašery"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a klaněl se"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "veškerému"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojsku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "a sloužil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "jim (vojsku nebes)"
+    }
+  ],
+  "timestamp": "2026-09-17T10:32:14.031395217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A ⟨stala se⟩ ⟨úrodná nedostatečnost⟩ hlad ⟨v⟩ zemi ⟨té⟩; a Abram sestoupil do Egypta, aby tam pobyl jako host, neboť těžký byl hlad v zemi ⟨té⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stala se"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hlad"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a sestoupil"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "aby pobyl jako host"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "těžký"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hlad"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:45.088983621Z",
+  "model": "glm-5.3"
+}

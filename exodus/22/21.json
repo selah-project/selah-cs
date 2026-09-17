@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Každou vdovu a sirotka nebudete utiskovat.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "každou"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "vdovu"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "a sirotka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "budete utiskovat"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:05.000247436Z",
+  "model": "glm-5.3"
+}

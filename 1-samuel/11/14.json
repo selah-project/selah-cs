@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Samuel řekl ⟨k⟩ lidu: Pojďte, pojďme do Gilgalu, a obnovme tam království.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Pojďte"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "pojďme"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "do Gilgalu"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "a obnovme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "království"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:24.315512797Z",
+  "model": "glm-5.3"
+}

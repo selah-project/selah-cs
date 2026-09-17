@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "V den své tísně Adonaje jsem hledal, moje ruka se v noci vylévá ⟨a⟩ nepolevuje, má duše odmítá být potěšena.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "V den"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "své tísně"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "jsem hledal"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "moje ruka"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "se vylévá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ⟨ne⟩"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "polevuje"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "odmítá"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "být potěšena"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:54.160730419Z",
+  "model": "glm-5.3"
+}

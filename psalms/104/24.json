@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Jak jsou mnohá tvá díla, Jahve! Všechna jsi učinil v moudrosti; země je plná tvých tvorů.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "jsou mnohá"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tvá díla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "v moudrosti"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi učinil"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "je plná"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "tvých tvorů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:02.468671869Z",
+  "model": "glm-5.3"
+}

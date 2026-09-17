@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Jenže za tvých dnů neudělám to kvůli Davidovi, otci tvému; z ruky tvého syna strhnu ⟨ji⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jenže"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "za tvých dnů"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "udělám to"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otci tvému"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvého syna"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "strhnu ⟨ji⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:15.702546404Z",
+  "model": "glm-5.3"
+}

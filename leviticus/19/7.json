@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A bude-li vůbec snězeno třetího dne, je to pígul — nebude přijato.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a bude-li"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "vůbec snězeno"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "snězeno"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "třetího dne — v den"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "třetí"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "pígul (znečištěné)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "bude přijato"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:44.271557090Z",
+  "model": "glm-5.3"
+}

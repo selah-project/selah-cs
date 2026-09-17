@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A David a celý dům Izraele vynášeli ⟨את⟩ Aron Jahve s jásotem a s hlasem šofaru.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "A David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celý"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "vynášeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "s jásotem"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "a s hlasem"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofaru"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:04.126413912Z",
+  "model": "glm-5.3"
+}

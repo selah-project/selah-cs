@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 9:12",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A řekli: Lež! Vypravuj nám to. A řekl: Tak a tak mi řekl ⟨slovy⟩: Takto praví Jahve: Pomazal jsem tě za krále nad Izraelem.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "A řekli"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "Lež"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Vypravuj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "totiž"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "a tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "slovy"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Takto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "Pomazal jsem tě"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za krále"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:09.030665290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "vlastník jámy to nahradí, stříbro vrátit musí jejímu vlastníkovi, a ⟨mrtvé⟩ zvíře bude jeho.",
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "vlastník"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "jámy"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "to nahradí"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "musí vrátit"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "jejímu vlastníkovi"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "a mrtvé"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jeho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:53.021959284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A vztáhl Abraham ⟨את⟩ svou ruku a vzal ⟨את⟩ nůž, aby zabil ⟨את⟩ svého syna.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a vztáhl"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nůž"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "nůž"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "aby zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého syna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svého syna"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:03.964400420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Přiblíž se k mé duši, vykoup ji; kvůli mým nepřátelům vykup mě.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Přiblíž se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mé duši"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "vykoup ji"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mým nepřátelům"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "vykup mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:31.981906504Z",
+  "model": "glm-5.3"
+}

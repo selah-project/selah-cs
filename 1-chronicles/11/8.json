@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A vystavěl ⟨tu⟩ město kolem dokola, od Miló až k okruhu; a Joab oživil ⟨את⟩ zbytek ⟨tého⟩ města.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a vystavěl"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "kolem dokola"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Miló"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "okruhu"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "a Joab"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "oživil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zbytek"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "zbytek"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    }
+  ],
+  "timestamp": "2026-09-17T10:17:54.855547394Z",
+  "model": "glm-5.3"
+}

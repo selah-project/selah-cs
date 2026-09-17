@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 22:19",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A řekl: Proto slyš slovo Jahve: Viděl jsem ⟨את⟩ Jahve, jak sedí na svém trůnu, a veškeré vojsko nebes stojí při něm po jeho pravici i po jeho levici.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Proto"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyš"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Viděl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sedí"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "svém trůnu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a veškeré"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojsko"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stojí"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "při něm"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "po jeho pravici"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "i po jeho levici"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:15.223044622Z",
+  "model": "glm-5.3"
+}

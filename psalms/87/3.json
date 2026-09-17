@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 87,
+  "translation": "Slavné věci ⟨se⟩ ⟨o⟩ tobě ⟨říkají⟩, město ⟨Elohim⟩. Séla.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "Slavné věci"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "⟨se⟩ ⟨o⟩ tobě ⟨říkají⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "o tobě"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨Elohim⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:51.968350834Z",
+  "model": "glm-5.3"
+}

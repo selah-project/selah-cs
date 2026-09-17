@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 60,
+  "translation": "Ukázal jsi svému lidu tvrdou věc; napojil jsi nás vínem chvění.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "Ukázal jsi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svému lidu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tvrdou (věc)"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "napojil jsi nás"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vínem"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "chvění"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:11.288299340Z",
+  "model": "glm-5.3"
+}

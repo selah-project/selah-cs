@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Neodpovídej hlupákovi podle jeho hlouposti, abys mu nebyl ⟨rovný⟩ i ty sám.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תען",
+      "gloss": "odpovídej"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "hlupákovi"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "podle jeho hlouposti"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abys ne"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "nebyl ⟨rovný⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty sám"
+    }
+  ],
+  "timestamp": "2026-09-17T11:16:25.459916056Z",
+  "model": "glm-5.3"
+}

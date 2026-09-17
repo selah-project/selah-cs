@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Od všech svých protivníků jsem se stal potupou, a ⟨to⟩ vůbec svým sousedům; a hrůzou svým známým — ti, kdo mě vidí na ulici, prchají ode mne.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "od všech"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "svých protivníků"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jsem se stal"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "potupou"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "a svým sousedům"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "vůbec"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "a hrůzou"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "svým známým"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ti, kdo mě vidí"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "na ulici"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "prchají"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:36.367707725Z",
+  "model": "glm-5.3"
+}

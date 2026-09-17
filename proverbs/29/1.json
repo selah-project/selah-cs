@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Muž ⟨s⟩ výčitkami tvrdí zátylí — náhle bude zlomen a ⟨není⟩ léčení.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "výčitkami"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "tvrdí"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "zátylí"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "náhle"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "bude zlomen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a ⟨není⟩"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "léčení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:02.841642442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Davidův, poučný ⟨píseň⟩. Jak šťastný je ten, jehož přestoupení ⟨je⟩ odneseno, jehož hřích ⟨je⟩ přikryt!",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poučný"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "jak šťastný"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "⟨je⟩ odneseno"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "přestoupení"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "⟨je⟩ přikryt"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "hřích"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:12.126771335Z",
+  "model": "glm-5.3"
+}

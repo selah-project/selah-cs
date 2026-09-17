@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Chanún tedy vzal ⟨את⟩ služebníky Davidovy, dal je oholit, ustřihl ⟨את⟩ jejich šaty do půli až k bedrům a poslal je pryč.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "vzal tedy"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chanún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "služebníky Davidovy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služebníky"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidovy"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "dal je oholit"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ustřihl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich šaty"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "jejich šaty"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "do půli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "bedrům"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "poslal je pryč"
+    }
+  ],
+  "timestamp": "2026-09-17T10:20:38.024493507Z",
+  "model": "glm-5.3"
+}

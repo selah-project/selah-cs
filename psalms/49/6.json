@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Proč bych se bál ve dnech zla, když mě nepravost mých patek obkličuje?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "bych se bál"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ve dnech"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "mých patek"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "mě obkličuje"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:39.039105593Z",
+  "model": "glm-5.3"
+}

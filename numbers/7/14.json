@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "jedna lopatka, deset ⟨šekel⟩ zlata, plná kadidla.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "lopatka (dlaně)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedna"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatem"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "plná"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadidla"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:50.046801399Z",
+  "model": "glm-5.3"
+}

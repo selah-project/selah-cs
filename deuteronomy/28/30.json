@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Ženu si zasnoubíš a jiný muž ji bude znát; dům vystavíš a nebudeš v něm bydlet; vinici vysadíš a nebudeš ji užívat.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "Ženu"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "si zasnoubíš"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a muž"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jiný"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "ji bude znát"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "vystavíš"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "budeš bydlet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vinici"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "vysadíš"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "budeš ji užívat"
+    }
+  ],
+  "timestamp": "2026-09-17T07:02:22.655715784Z",
+  "model": "glm-5.3"
+}

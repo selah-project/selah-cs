@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Čekal jsem, vytrvale jsem čekal na Jahve, a ⟨on⟩ se ke mně naklonil a vyslyšel můj křik.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Čekal jsem"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "vytrvale jsem čekal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Jahve"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "a se naklonil"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "a vyslyšel"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "můj křik"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:16.725500273Z",
+  "model": "glm-5.3"
+}

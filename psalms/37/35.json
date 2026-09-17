@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Viděl jsem bezbožného krutého, jak se rozlézá jako zakořeněný strom svěží zeleně.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Viděl jsem"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožného"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "krutého"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "jak se rozlézá"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "jako zakořeněný strom"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "svěží zeleně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:57.379067198Z",
+  "model": "glm-5.3"
+}

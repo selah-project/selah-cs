@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Země se zachvěla, i nebesa kápala před tváří Elohim — to Sinai ⟨se zachvěl⟩ před tváří Elohim, Elohim Izraele.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "se zachvěla"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "kápala"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:47.163760638Z",
+  "model": "glm-5.3"
+}

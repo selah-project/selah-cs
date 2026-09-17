@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Mnoho osiva vyneseš ⟨na⟩ pole, ale málo sklidíš, neboť je sežere kobylka.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "osiva"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mnoho"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "vyneseš"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨na⟩ pole"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "ale málo"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "sklidíš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "je sežere"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "kobylka"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:23.325333224Z",
+  "model": "glm-5.3"
+}

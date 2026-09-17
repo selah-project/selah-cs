@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "Když ⟨se⟩ zkyslo mé srdce a v mých ledvinách ⟨jsem⟩ cítil bodání,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "zkyslo ⟨se⟩"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "a v mých ledvinách"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "cítil ⟨jsem⟩ bodání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:09.045983386Z",
+  "model": "glm-5.3"
+}

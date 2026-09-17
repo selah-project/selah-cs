@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "⟨את⟩ samovolný výrostek své žně nesklidíš a ⟨את⟩ hrozny svého neořezaného vinice nebudeš sbírat — rok šabatónového odpočinku bude zemi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samovolný výrostek své žně"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "samovolný výrostek"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "své žně"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "nesklidíš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "hrozny svého neořezaného vinice"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "hrozny"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "svého neořezaného vinice"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "budeš sbírat"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "rok"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "šabatónového odpočinku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:56.483179284Z",
+  "model": "glm-5.3"
+}

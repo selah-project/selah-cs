@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Naši otcové zhřešili — ⟨oni⟩ již nejsou ⟨tu⟩, my jejich nepravosti neseme.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "Naši otcové"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "zhřešili"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "již nejsou ⟨tu⟩"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "jejich nepravosti"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "neseme"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:07.603564534Z",
+  "model": "glm-5.3"
+}

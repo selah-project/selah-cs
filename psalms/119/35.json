@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Veď mě stezkou svých přikázání, neboť v ní jsem si zalíbil.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Veď mě"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "stezkou"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "svých přikázání"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "jsem si zalíbil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:47.542457872Z",
+  "model": "glm-5.3"
+}

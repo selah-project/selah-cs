@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Pro zimní chlad zahálčivý neorá; v žních bude žebrat, a nic ⟨není⟩.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "pro zimní chlad"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "zahálčivý"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "orá"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "bude žebrat"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "v žních"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nic"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:42.700115839Z",
+  "model": "glm-5.3"
+}

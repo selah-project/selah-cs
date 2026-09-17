@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 14:2",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A Šaul seděl na kraji Gibey pod granátovým stromem, který je v Migrónu; a lid, který byl s ním, bylo asi šest set mužů.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "A Šaul"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "seděl"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "na kraji"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibey"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "granátovým stromem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "v Migrónu"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "a lid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "asi šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    }
+  ],
+  "timestamp": "2026-09-17T07:24:30.774645943Z",
+  "model": "glm-5.3"
+}

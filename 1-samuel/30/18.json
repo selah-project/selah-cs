@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A David zachránil ⟨את⟩ všechno, co vzal Amálek, a ⟨את⟩ své dvě manželky zachránil David.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "a zachránil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno, co vzal Amálek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amálek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "své dvě manželky"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "své manželky"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "zachránil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:35.202515765Z",
+  "model": "glm-5.3"
+}

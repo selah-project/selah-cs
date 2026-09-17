@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Nicotu mluví muž s ⟨את⟩ svým bližním, ret hladkosti, srdcem a srdcem mluví.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Nicotu"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mluví"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svým bližním"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svým bližním"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ret"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "hladkosti"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "srdcem"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "a srdcem"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mluví"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:56.279573758Z",
+  "model": "glm-5.3"
+}

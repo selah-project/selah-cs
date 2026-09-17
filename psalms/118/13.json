@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Strašlivě jsi mě odstrčil, abych padl, ale Jahve mi pomohl.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "strašlivě jsi odstrčil"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "mě odstrčil jsi"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "abych padl"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ale Jahve"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "mi pomohl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:31.176057676Z",
+  "model": "glm-5.3"
+}

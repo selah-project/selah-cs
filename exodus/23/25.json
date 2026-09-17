@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Budete sloužit ⟨את⟩ Jahve, svému Elohim, a on požehná tvému chlebu ⟨את⟩ a ⟨את⟩ tvým vodám; a odstraním nemoc ze tvého středu.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "Budete sloužit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "svému Elohim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "a požehná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvému chlebu"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "tvému chlebu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tvým vodám"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "tvým vodám"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "a odstraním"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "nemoc"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ze tvého středu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:47.030330976Z",
+  "model": "glm-5.3"
+}

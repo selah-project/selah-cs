@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I řekla matka toho chlapce: Jako že žije Jahve a jako že žije tvá duše, neopustím tě. A on vstal a šel za ní.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "matka"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "toho chlapce"
+    },
+    {
+      "surface": "חי",
+      "gloss": "žije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "a žije"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvá duše"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne-li (jestliže)"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "tě opustím"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a vstal"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "za ní"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:03.951475455Z",
+  "model": "glm-5.3"
+}

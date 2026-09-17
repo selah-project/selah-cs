@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "⟨את⟩ mne odvedl a uvedl ⟨mě⟩ do tmy, a ne do světla.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mne",
+      "marks": "mne"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "odvedl"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a uvedl"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "do tmy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אור",
+      "gloss": "do světla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:56:58.067216654Z",
+  "model": "glm-5.3"
+}

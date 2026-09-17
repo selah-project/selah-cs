@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Vedl jsi svůj lid jako stádo ⟨skrze⟩ ruku Mošeho a Aharonovu.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "Vedl jsi"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "jako stádo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨skrze⟩ ruku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošeho"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Aharonovu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:54.715608814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Jako vrabec při potulování, jako vlaštovka při létání, tak zlořečení bez příčiny nepřijde ⟨na nikoho⟩.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "Jako vrabec"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "při potulování"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "jako vlaštovka"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "při létání"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "zlořečení"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez příčiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "přijde"
+    }
+  ],
+  "timestamp": "2026-09-17T11:16:35.324630777Z",
+  "model": "glm-5.3"
+}

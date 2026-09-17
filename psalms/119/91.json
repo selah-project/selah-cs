@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Podle tvých výnosů stojí ⟨to⟩ ⟨ten⟩ den, neboť všeho ⟨jsou⟩ tví služebníci.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "Podle tvých výnosů"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "stojí"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨ten⟩ den"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "všeho"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "⟨jsou⟩ tví služebníci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:21.301551943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A stalo se, že když se porodní báby bály ⟨Elohim⟩, ⟨את⟩, udělal jim domy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že když"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bály se"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "porodní báby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "domy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:00.505701544Z",
+  "model": "glm-5.3"
+}

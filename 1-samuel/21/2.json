@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A přišel David do Nóbu k Achimelekovi knězi; a zachvěl se Achimelek, když šel vstříc Davidovi, a řekl mu: Proč jsi sám, a nikdo ⟨את⟩ s tebou není?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "do Nóbu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelekovi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "knězi"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "a zachvěl se"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelek"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "když šel vstříc"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "proč"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "jsi sám"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a nikdo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tebou",
+      "marks": "s tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:19.688002573Z",
+  "model": "glm-5.3"
+}

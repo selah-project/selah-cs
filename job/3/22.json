@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "kteří se radují ⟨až⟩ k jásotu, jásají, když najdou hrob.",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "kteří se radují"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨až⟩ k"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "jásotu"
+    },
+    {
+      "surface": "ישישו",
+      "gloss": "jásají"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "najdou"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "hrob"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:07.776445635Z",
+  "model": "glm-5.3"
+}

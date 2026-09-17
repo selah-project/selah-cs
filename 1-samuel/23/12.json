@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A řekl David: Vydají páni Keíly ⟨את⟩ mne a ⟨את⟩ mé muže do ruky Šaúlově? A řekl Jahve: Vydají.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Vydají"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "páni"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keíly"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mé muže"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mé muže"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "do ruky"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúlově"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Vydají"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:09.057756350Z",
+  "model": "glm-5.3"
+}

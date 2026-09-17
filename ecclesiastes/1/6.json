@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Jde k jihu a točí se k severu; točí se, točí se, jde vítr, a po svých okruzích se vrací vítr.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "jde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "jihu"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "a točí se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "severu"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "točí se"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "točí se"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "jde"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "vítr"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a po"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "svých okruzích"
+    },
+    {
+      "surface": "שב",
+      "gloss": "se vrací"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "vítr"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:03.697313731Z",
+  "model": "glm-5.3"
+}

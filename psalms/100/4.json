@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 100,
+  "translation": "Vcházejte jeho branami s díkůvzdáním, jeho nádvořími s chválou; vyznávejte jej, žehnejte jeho jménu!",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Vcházejte"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "jeho branami"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "s díkůvzdáním"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "jeho nádvořími"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "s chválou"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "vyznávejte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "žehnejte"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jménu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:28.683506042Z",
+  "model": "glm-5.3"
+}

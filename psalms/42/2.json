@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Jako laň prahne po potocích vody, tak prahne moje duše po tobě, Elohime.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Jako laň"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "prahne"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "potocích"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moje duše"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "prahne"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "po tobě"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:18.940802158Z",
+  "model": "glm-5.3"
+}

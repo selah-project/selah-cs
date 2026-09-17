@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A obešli celou zemi a po devíti měsících a dvaceti dnech přišli do Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "a obešli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "a přišli"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "po (konci)"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "devíti"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "měsících"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "a dvaceti"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnech"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:12.040436977Z",
+  "model": "glm-5.3"
+}

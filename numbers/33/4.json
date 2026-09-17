@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A Egypťané pohřbívali ⟨את⟩ ty, které Jahve zabil mezi nimi — každého prvrozeného; a na jejich elohim učinil Jahve soudy.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "A Egypťané"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "pohřbívali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty, které Jahve zabil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ty, které"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "mezi nimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "prvrozeného"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "a na jejich elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "soudy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:00.011217226Z",
+  "model": "glm-5.3"
+}

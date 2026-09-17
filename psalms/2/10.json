@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A nyní, králové, projevte rozum, nechte se napomenout, soudci země.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "králové"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "projevte rozum"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "nechte se napomenout"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "soudci"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:22.610861374Z",
+  "model": "glm-5.3"
+}

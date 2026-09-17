@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A když vůl nabere rohy muže ⟨את⟩ nebo ženu ⟨את⟩ a ⟨ten⟩ zemře, vůl bude jistě ukamenován a jeho maso se nesmí sníst ⟨את⟩; majitel vola však bude bez viny.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "A když"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "nabere rohy"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vůl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muže"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a ⟨ten⟩ zemře"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "bude ukamenován"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "jistě ukamenován"
+    },
+    {
+      "surface": "השור",
+      "gloss": "vůl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sníst ⟨se nesmí⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho maso"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jeho maso"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "a majitel"
+    },
+    {
+      "surface": "השור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "bez viny"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:55.402930432Z",
+  "model": "glm-5.3"
+}

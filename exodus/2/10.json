@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A dítě vyrostlo, a ona jej přivedla k dceři Paroa, a stal se jí ⟨za⟩ syna. I zavolala jeho jméno Moše a řekla: „Neboť z vody jsem jej vytáhla.“",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "a vyrostlo"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dítě"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "a ona jej přivedla"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "k dceři"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stal se"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "⟨za⟩ syna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "i zavolala"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "jsem jej vytáhla"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:52.104117940Z",
+  "model": "glm-5.3"
+}

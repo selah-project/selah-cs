@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 30:16",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A postavili se na svá stanoviště podle svého řádu, podle Tóry Mojžíše, muže Elohimova; kněží rozhazovali ⟨את⟩ krev ⟨přijímajíce ji⟩ z rukou levitů.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "a postavili se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "svá stanoviště"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "podle svého řádu"
+    },
+    {
+      "surface": "כתורת",
+      "gloss": "podle Tóry"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "זרקים",
+      "gloss": "rozhazovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krev"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z rukou"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitů"
+    }
+  ],
+  "timestamp": "2026-09-17T10:32:12.432532333Z",
+  "model": "glm-5.3"
+}

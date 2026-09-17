@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A Samuel spal až do rána a otevřel ⟨את⟩ dveře domu Jahve; Samuel se bál oznámit ⟨את⟩ vidění Eliovi.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "spal"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "rána"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "a otevřel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dveře"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dveře"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "bál se"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "oznámit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vidění"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "vidění"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Eovi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:53.965611206Z",
+  "model": "glm-5.3"
+}

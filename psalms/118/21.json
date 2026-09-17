@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Oslavím tě, neboť jsi mi odpověděl a stal ses mi ⟨k⟩ spasení.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Oslavím tě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "jsi mi odpověděl"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a stal ses"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "k spasení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:09.757978193Z",
+  "model": "glm-5.3"
+}

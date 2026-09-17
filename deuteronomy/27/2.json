@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A stane se v den, když přejdete ⟨את⟩ Jordán do země, kterouž Jahve, tvůj Elohim, dává tobě, že vztyčíš sobě kameny veliké a natřeš ⟨את⟩ je vápnem.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "A stane se"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "přejdete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterouž"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "že vztyčíš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sobě"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "a natřeš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je (kameny)"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "vápnem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:12.519113571Z",
+  "model": "glm-5.3"
+}

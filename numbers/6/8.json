@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Po všechny dny svého zasvěcení je svatý ⟨ten, jenž patří⟩ ⟨Jahvovi⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Po všechny"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "svého zasvěcení"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je ⟨on⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨Jahvovi⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:11.007595887Z",
+  "model": "glm-5.3"
+}

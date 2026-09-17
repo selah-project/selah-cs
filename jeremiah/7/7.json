@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "a způsobím, abyste ⟨את⟩ sídlili v tomto místě, v zemi, kterou jsem dal vašim otcům, od věku až do věku.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "a způsobím, abyste sídlili"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vám (sídlili)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "v místě"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomto"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "vašim otcům"
+    },
+    {
+      "surface": "למן",
+      "gloss": "od"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věku"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věku"
+    }
+  ],
+  "timestamp": "2026-09-17T11:47:02.762700057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "a činící chesed tisícům ⟨těm, kdo mě milují⟩ a ⟨těm, kdo⟩ zachovávají mé příkazy.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "a činící"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "tisícům"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "těm, kdo mě milují"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "a těm, kdo zachovávají"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mé příkazy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:18.567275664Z",
+  "model": "glm-5.3"
+}

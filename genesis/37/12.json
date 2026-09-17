@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A jeho bratři odešli pást ⟨את⟩ stádo jejich otce v Šekemu.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "A odešli"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jeho bratři"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "pást"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stádo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "stádo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "jejich otce"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "v Šekemu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:13.465372750Z",
+  "model": "glm-5.3"
+}

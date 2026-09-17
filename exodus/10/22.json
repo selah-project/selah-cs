@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I vztáhl Mojžíš ⟨את⟩ svou ruku k nebesům, a bylo tmy husté ⟨tma⟩ v celé zemi Egypta tři dny.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "a vztáhl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesům"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a bylo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tmy"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "husté ⟨tma⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v celé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:33.427441458Z",
+  "model": "glm-5.3"
+}

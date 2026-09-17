@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Neboť já ⟨jsem⟩ Jahve, nezměnil jsem se, a vy, synové Jákobovi, nejste zničeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "změnil jsem se"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "a vy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "jste zničeni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:45.207845561Z",
+  "model": "glm-5.3"
+}

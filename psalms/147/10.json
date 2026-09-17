@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "Ne v síle koně nalézá zalíbení, ne v lýtkách muže má potěšení.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "v síle"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "koně"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "nalézá zalíbení"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "v lýtkách"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "má potěšení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:22.256520605Z",
+  "model": "glm-5.3"
+}

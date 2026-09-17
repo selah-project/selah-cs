@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A šel ⟨jeden⟩ muž z domu Léviho a vzal ⟨את⟩ dceru Léviho.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Léviho"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dceru"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Léviho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:57.961615970Z",
+  "model": "glm-5.3"
+}

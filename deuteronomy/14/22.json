@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Desátek zajisté budeš desítit ⟨את⟩ veškerou úrodu svého osiva, ⟨to⟩, jež vychází z pole, rok po roce.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Desátek"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "budeš desítit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškerou úrodu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "úrodu"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "svého osiva"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "jež vychází"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "z pole"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "rok"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "po roce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:41:29.705805150Z",
+  "model": "glm-5.3"
+}

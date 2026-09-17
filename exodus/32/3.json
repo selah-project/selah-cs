@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A odtrhlo se všechen lid ⟨od sebe⟩ ⟨את⟩ zlaté náušnice, které byly v jejich uších, a přinesli ⟨je⟩ Áronovi.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "A odtrhlo se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlaté náušnice"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "náušnice"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlaté"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "v jejich uších"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "a přinesli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áronovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:36.066165307Z",
+  "model": "glm-5.3"
+}

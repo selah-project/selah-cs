@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Proklínání a lež a vražda a krádež a cizoložství — vypukly ⟨to⟩, a krve se krve dotýkají.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Proklínání"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "a lež"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "a vražda"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "a krádež"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "a cizoložství"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "vypukly"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "a krve"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "se krve"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "dotýkají"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:21.203258256Z",
+  "model": "glm-5.3"
+}

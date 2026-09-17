@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A pevně se ho držel jeho tchán, otec té dívky, a zůstal ⟨את⟩ s ním tři dny; jedli a pili a přenocovali tam.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "pevně se držel"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "jeho tchán"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otec"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "té dívky"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "zůstal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním",
+      "marks": "s ním"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "jedli"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "pili"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "přenocovali"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T07:19:35.231924856Z",
+  "model": "glm-5.3"
+}

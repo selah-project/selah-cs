@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Vydal se Abraham odtud do země ⟨negebu⟩ jižní a bydlel mezi Kádešem a Šúrem a pohostinně se zdržoval v Geraru.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Vydal se"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do země"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "jižní ⟨negebu⟩"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a bydlel"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kádešem"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Šúrem"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "a pohostinně se zdržoval"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "v Geraru"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:45.221937329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Což by Elohim nepronikl touto ⟨věcí⟩? Neboť on zná tajnosti srdce.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "což ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "pronikl by \/ prozkoumal"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "tajnosti"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:51.755158067Z",
+  "model": "glm-5.3"
+}

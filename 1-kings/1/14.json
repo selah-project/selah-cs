@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Hle, ještě budeš mluvit tam s králem, a já vejdu za tebou a doplním ⟨את⟩ tvá slova.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "budeš mluvit"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a já"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "vejdu"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za tebou"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "doplním"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvá slova"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tvá slova"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:45.114042035Z",
+  "model": "glm-5.3"
+}

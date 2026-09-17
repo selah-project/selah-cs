@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Mikala vzala ⟨את⟩ terafim a položila ⟨je⟩ na lůžko a ⟨את⟩ kozí rohož dala k jeho čelu hlavovému a přikryla ⟨to⟩ oděvem.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "vzala"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "položila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "lůžko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kozí rohož"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "rohož"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kozí"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dala"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "k jeho čelu hlavovému"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "přikryla"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "oděvem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:52.992046461Z",
+  "model": "glm-5.3"
+}

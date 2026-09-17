@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Požehnáni jste ⟨ od ⟩ Jahve, tvůrce nebes i země.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "Požehnáni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jste ⟨ vy ⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve (od)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tvůrce"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i zeme"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:14.319857339Z",
+  "model": "glm-5.3"
+}

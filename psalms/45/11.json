@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "Slyš, dcero, a viz, a nakloň své ucho, a zapomeň ⟨na⟩ svůj lid a ⟨na⟩ dům svého otce.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Slyš"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcero"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "a viz"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "a nakloň"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "své ucho"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "a zapomeň"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "a ⟨na⟩ dům"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svého otce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:42.100805033Z",
+  "model": "glm-5.3"
+}

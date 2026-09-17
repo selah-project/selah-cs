@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A Mojžíš postavil oltář a nazval jeho jménem Jahve-nissi (Jahve je má zástava).",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "A postavil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jménem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "nissi (má zástava)"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:15.255963166Z",
+  "model": "glm-5.3"
+}

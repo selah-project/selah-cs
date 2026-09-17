@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "tesařům a zedníkům a opravářům ⟨zdí⟩, a na koupi dřeva a tesaných kamenů k posílení ⟨את⟩ domu.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "tesařům"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "a zedníkům"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "a opravářům"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "a na koupi"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "dřeva"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "a kamenů"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "tesaných"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "k posílení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:45.898066255Z",
+  "model": "glm-5.3"
+}

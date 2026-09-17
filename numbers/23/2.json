@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A Balak udělal, jak řekl Bíl'am, a Balak a Bíl'am obětovali ⟨na každém oltáři⟩ býka a berana na oltáři.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bíl'am"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a obětovali"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "a Bíl'am"
+    },
+    {
+      "surface": "פר",
+      "gloss": "býka"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "a berana"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "na oltáři"
+    }
+  ],
+  "timestamp": "2026-09-17T06:48:42.861258601Z",
+  "model": "glm-5.3"
+}

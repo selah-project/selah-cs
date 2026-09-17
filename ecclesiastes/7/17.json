@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Nekonej mnoho zla a nebudiž pošetilý — proč bys měl zemřít ne ve svůj čas?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "konej zla"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mnoho"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "budiž"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "pošetilý"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "by ses měl zemřít"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ne ve"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "svůj čas"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:57.013192583Z",
+  "model": "glm-5.3"
+}

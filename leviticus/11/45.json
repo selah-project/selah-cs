@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Neboť já jsem Jahve, který vás vyvádím ⟨את⟩ z země Egypta, abych vám byl za Elohima; a budete svatí, neboť já jsem svatý.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "který vyvádím"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vy\/vás"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "להית",
+      "gloss": "abych byl"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "za Elohima"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "a budete"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svatí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:01.582779524Z",
+  "model": "glm-5.3"
+}

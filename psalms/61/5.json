@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 61,
+  "translation": "Chci pobývat v tvém stanu ⟨po⟩ věky věků, utíkat se do úkrytu tvých křídel. Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "chci pobývat"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "v tvém stanu"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "věky věků"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "chci utíkat se"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "do úkrytu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "tvých křídel"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:27.878777399Z",
+  "model": "glm-5.3"
+}

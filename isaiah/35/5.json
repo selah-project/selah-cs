@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Tehdy se otevřou oči slepých a uši hluchých se odemknou.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tehdy"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "se otevřou"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "slepých"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "a uši"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "hluchých"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "se odemknou"
+    }
+  ],
+  "timestamp": "2026-09-17T08:10:48.490356606Z",
+  "model": "glm-5.3"
+}

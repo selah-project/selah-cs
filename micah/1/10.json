@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "V Gatu nevypravujte, neplačte ⟨tam⟩; v Bét-le-Afre se v prachu valuji.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "V Gatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "vypravujte"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "plačte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "plačte"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v Bét"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Afre"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "v prachu"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "valuji"
+    }
+  ],
+  "timestamp": "2026-09-17T09:02:33.934297970Z",
+  "model": "glm-5.3"
+}

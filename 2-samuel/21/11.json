@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A bylo Davidovi oznámeno ⟨את⟩ to, co učinila Ríspa, dcera Ajova, konkubína Saulova.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a bylo oznámeno"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co učinila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "učinila"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ríspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ajova"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "konkubína"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulova"
+    }
+  ],
+  "timestamp": "2026-09-17T07:39:15.272430432Z",
+  "model": "glm-5.3"
+}

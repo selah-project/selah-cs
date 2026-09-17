@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "I poslal David ⟨a⟩ vypátral ⟨tu⟩ ženu, a ⟨kdosi⟩ řekl: Není-li toto Bat-ševa, dcera Eliama, žena Urije Chetity?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I poslal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "vypátral"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tu ženu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Není-li"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Bat-ševa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "Eliama"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urije"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetity"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:26.606694441Z",
+  "model": "glm-5.3"
+}

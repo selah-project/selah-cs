@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 132,
+  "translation": "Píseň stupňů. Pomni, Jahve, Davidovi, ⟨את⟩ veškeré jeho útrapy.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stupňů"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Pomni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškeré jeho útrapy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "jeho útrapy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:18.798322713Z",
+  "model": "glm-5.3"
+}

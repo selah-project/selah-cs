@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Píseň, žalm synů Korachových, přednímu zpěváku, na (podle) Machalat le-anot, poučná báseň Hejmana Ezrachovce.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "žalm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachových"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "přednímu zpěváku"
+    },
+    {
+      "surface": "על",
+      "gloss": "na (podle)"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "le-anot"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poučná báseň"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "Hejmana"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Ezrachovce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:09.661076432Z",
+  "model": "glm-5.3"
+}

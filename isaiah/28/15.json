@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 28:15",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Neboť řekli jste: Uzavřeli jsme smlouvu s ⟨את⟩ smrtí a se šeolem jsme učinili úmluvu; bič záplavy, až přejde, nedostihne nás, neboť učinili jsme si lež naším útočištěm a ve lži jsme se skryli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "řekli jste"
+    },
+    {
+      "surface": "כרתנו",
+      "gloss": "uzavřeli jsme"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "smrtí"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a s"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeolem"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "učinili jsme"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "úmluvu"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "bič"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "záplavy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "až"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "přejde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבואנו",
+      "gloss": "dostihne nás"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "učinili jsme"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lež"
+    },
+    {
+      "surface": "מחסנו",
+      "gloss": "naším útočištěm"
+    },
+    {
+      "surface": "ובשקר",
+      "gloss": "a ve lži"
+    },
+    {
+      "surface": "נסתרנו",
+      "gloss": "skryli jsme se"
+    }
+  ],
+  "timestamp": "2026-09-17T08:08:20.522487464Z",
+  "model": "glm-5.3"
+}

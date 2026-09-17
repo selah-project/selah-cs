@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A odhalil ⟨את⟩ závoj Judska, a hleděla jsi v ten den na zbroj domu lesa.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "A odhalil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "závoj Judska"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "závoj"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judska"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "a hleděla jsi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tento"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "zbroj"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "היער",
+      "gloss": "lesa"
+    }
+  ],
+  "timestamp": "2026-09-17T11:45:26.028565464Z",
+  "model": "glm-5.3"
+}

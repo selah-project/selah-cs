@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A uděláš ⟨את⟩ prkna pro příbytek z dřeva šitim, stojící ⟨vztyčená⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "a uděláš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prkna"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "prkna"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "pro příbytek"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z dřeva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stojící ⟨vztyčená⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:45.612199924Z",
+  "model": "glm-5.3"
+}

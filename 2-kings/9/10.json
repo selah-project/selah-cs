@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A ⟨את⟩ Jezabel sežerou psi v dílu Jezreelu, a nebude ⟨koho⟩ pohřbít. A otevřel dveře a utekl.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Jezabel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sežerou"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "v dílu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jezreelu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nebude"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "pohřbít"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "a otevřel"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "dveře"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "utekl"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:09.030358593Z",
+  "model": "glm-5.3"
+}

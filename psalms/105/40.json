@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Žádali, a přivedl křepelky; chlebem nebes ⟨jich⟩ nasytil.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Žádali"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přivedl"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "křepelky"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "nasytil ⟨jich⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:59.824004979Z",
+  "model": "glm-5.3"
+}

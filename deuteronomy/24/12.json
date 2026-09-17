@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A je-li to chudý muž, nebudete ⟨si⟩ lehat s jeho zástavou.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A je-li"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "עני",
+      "gloss": "chudý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to ⟨on⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "nebudete lehat"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "s jeho zástavou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:07.731598988Z",
+  "model": "glm-5.3"
+}

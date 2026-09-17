@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Za tohoto chlapce jsem se modlila, a Jahve mi dal ⟨את⟩ mou prosbu, kterou jsem od něho žádala.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Za"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tohoto chlapce"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "jsem se modlila"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou prosbu"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "mou prosbu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "jsem žádala"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "od něho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:20:56.889168141Z",
+  "model": "glm-5.3"
+}

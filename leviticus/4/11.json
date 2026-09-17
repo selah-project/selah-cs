@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A ⟨את⟩ kůži býka a ⟨את⟩ všechno jeho maso, na jeho hlavě a na jeho nohou, i jeho vnitřnosti a jeho výkal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kůži"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "býka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jeho maso"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jeho hlavě"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "jeho nohou"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "i jeho vnitřnosti"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "a jeho výkal"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:30.556536332Z",
+  "model": "glm-5.3"
+}

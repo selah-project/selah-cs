@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A toto je to, z čeho nesmíte jíst ⟨z nich⟩: orel, orlosup a krutihlav.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "A toto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smíte jíst"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "orel"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "a orlosup"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "a krutihlav"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:48.342313923Z",
+  "model": "glm-5.3"
+}

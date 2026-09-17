@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Neboť stavíš ho jako požehnání navždy, oblažuješ ho radostí ⟨z tváří⟩ tvých ⟨před tváří⟩ — ⟨s⟩ ⟨את⟩ tváří tvou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "stavíš ho"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "jako požehnání"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "oblažuješ ho"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "radostí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tváří tvou"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tváří tvou"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:27.958877507Z",
+  "model": "glm-5.3"
+}

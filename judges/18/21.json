@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Obrátili se a odešli; postavili ⟨את⟩ děti, ⟨את⟩ dobytek a ⟨את⟩ veškerý majetek před sebe.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "obrátili se"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "a odešli"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "postavili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "děti"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "děti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dobytek"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "dobytek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "majetek"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "veškerý majetek"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "před sebe"
+    }
+  ],
+  "timestamp": "2026-09-17T10:49:45.001773708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A Jósef si vzpomněl na ⟨את⟩ sny, které jim vyprávěl ⟨sen⟩, a řekl jim: Vyzvědači jste; přišli jste vidět ⟨את⟩ nahotu země.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "vzpomněl si"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sny"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "sny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "vyprávěl ⟨sen⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vyzvědači"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jste"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "vidět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nahotu země"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nahotu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "přišli jste"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:38.769502453Z",
+  "model": "glm-5.3"
+}

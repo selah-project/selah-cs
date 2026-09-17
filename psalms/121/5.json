@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 121,
+  "translation": "Jahve ⟨je⟩ tvůj strážce, Jahve ⟨je⟩ tvůj stín na tvé pravici.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "tvůj strážce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "tvůj stín"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvé pravé"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:01.200975336Z",
+  "model": "glm-5.3"
+}

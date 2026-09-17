@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Josef poznal ⟨את⟩ své bratry, ale oni nepoznali jeho.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "poznal"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své bratry"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "své bratry"
+    },
+    {
+      "surface": "והם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "poznali jeho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:58.731254265Z",
+  "model": "glm-5.3"
+}

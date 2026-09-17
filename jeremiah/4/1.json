@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 4:1",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Jestliže se obrátíš, Izraeli, výrok Jahve, ke mně se obrať; a jestliže odstraníš své ohavy ⟨od⟩ mé tváře, nebudu tě nechávat toulat.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se obrátíš"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se obrať"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "תסיר",
+      "gloss": "odstraníš"
+    },
+    {
+      "surface": "שקוציך",
+      "gloss": "své ohavy"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "od ⟨tváře⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תנוד",
+      "gloss": "touláš"
+    }
+  ],
+  "timestamp": "2026-09-17T08:20:19.137735328Z",
+  "model": "glm-5.3"
+}

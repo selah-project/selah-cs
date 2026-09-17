@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "amos 5:18",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Běda těm, kdo touží po ⟨את⟩ dni Jahveho! Proč by vám ⟨to byl⟩ den Jahveho? On ⟨je⟩ tma, a ne světlo.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "kdo touží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den Jahveho"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světlo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:00:47.528775423Z",
+  "model": "glm-5.3"
+}

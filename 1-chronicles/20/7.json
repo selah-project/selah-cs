@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A když tupil ⟨את⟩ Izrael, zabil ho Jonatan, syn Šimy, bratra Davidova.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "a když tupil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "zabil ho"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Šimy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bratra"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-09-17T10:20:32.808811127Z",
+  "model": "glm-5.3"
+}

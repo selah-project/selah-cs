@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A Samuel slyšel ⟨את⟩ všechna slova lidu a přednesl je v uších Jahve.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "A slyšel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechna slova lidu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "a přednesl je"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "v uších"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:44.084937533Z",
+  "model": "glm-5.3"
+}

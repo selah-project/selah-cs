@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Ale já jsem doufal v tebe, Jahve; řekl jsem: Můj Elohim jsi ty.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ale já"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "v tebe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "jsem doufal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "řekl jsem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Můj Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi ty"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:39.498032681Z",
+  "model": "glm-5.3"
+}

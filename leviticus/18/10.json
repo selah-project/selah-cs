@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Nahotu dcery tvého syna nebo dcery tvé dcery neodhalíš, protože jejich nahota ⟨je⟩ tvá nahota.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nahotu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcery"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvého syna"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcery"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "tvé dcery"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "odhalíš"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "jejich nahotu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "tvá nahota"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨je⟩ jejich"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:05.381451828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Víc než všichni moji učitelé ⟨jsem⟩ prohlédl, neboť tvá svědectví ⟨jsou⟩ mým přemítáním.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "než všichni"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "moji učitelé"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "prohlédl jsem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "tvá svědectví"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "přemítání"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:30.515159468Z",
+  "model": "glm-5.3"
+}

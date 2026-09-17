@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 89:48",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Vzpomeň, jaký ⟨jsem⟩ pomíjivý ⟨tvor⟩; proč jsi marně stvořil všechny syny lidské?",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "vzpomeň"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jaký"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "pomíjivý"
+    },
+    {
+      "surface": "על",
+      "gloss": "proč"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "marně"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "jsi stvořil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidské"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:18.077392818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Střez se, abys neopustil ⟨את⟩ levitu po všechny své dny na své půdě.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "střez se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "se"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abys ne"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "opustil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levitu"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levitu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "po všechny"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "své dny"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "své půdě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:22.177036437Z",
+  "model": "glm-5.3"
+}

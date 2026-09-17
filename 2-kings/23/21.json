@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A král přikázal ⟨את⟩ veškerému lidu takto: „Učiňte pesach pro Jahve, vašeho Elohim, jak je psáno v této knize smlouvy.“",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "A přikázal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškerému lidu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerému"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Učiňte"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vašeho Elohim"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "jak je psáno"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knize"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "této"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:11.926159109Z",
+  "model": "glm-5.3"
+}

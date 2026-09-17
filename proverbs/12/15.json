@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Cesta hlupáka ⟨je⟩ přímá v jeho očích, ale kdo naslouchá radě, ⟨ten je⟩ moudrý.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "cesta"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "hlupáka"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "⟨je⟩ přímá"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v jeho očích"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "a naslouchá"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "radě"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrý"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:51.960704024Z",
+  "model": "glm-5.3"
+}

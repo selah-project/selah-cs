@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A abys vyprávěl do uší svého syna a syna svého syna, jak jsem ⟨את⟩ to, co jsem konal v Egyptě, a ⟨את⟩ svá znamení, která jsem ustanovil v nich — a poznáte, že já jsem Jahve.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "a abys"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "vyprávěl"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "do uší"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "a syna"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co jsem konal v Egyptě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "jsem konal"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Egyptě"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svá znamení"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "svá znamení"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "jsem ustanovil"
+    },
+    {
+      "surface": "בם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "a poznáte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:26.238526454Z",
+  "model": "glm-5.3"
+}

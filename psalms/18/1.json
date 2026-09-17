@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Pro předního zpěváka, pro sluhu Jahveho, pro Davida, který mluvil k Jahvemu ⟨את⟩ slova této písně v den, kdy Jahve vytrhl ⟨את⟩ jej z rukou všech jeho nepřátel a z rukou Šaula.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "pro sluhu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "pro Davida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "k Jahvemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slova této písně"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "této písně"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "této"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "vytrhl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ jej"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "z rukou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "jeho nepřátel"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "a z rukou"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:38.147944464Z",
+  "model": "glm-5.3"
+}

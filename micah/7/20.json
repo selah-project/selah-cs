@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Dáš věrnost Jákobovi, chesed Abrahamovi, jak jsi přisáhl našim otcům ode dnů pradávna.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Dáš"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "věrnost"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jákobovi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamovi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "jsi přisáhl"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "našim otcům"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ode dnů"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "pradávna"
+    }
+  ],
+  "timestamp": "2026-09-17T11:48:43.883714371Z",
+  "model": "glm-5.3"
+}

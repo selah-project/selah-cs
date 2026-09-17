@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "„Svrť to na Jahve — ať ⟨ho⟩ vysvobodí, ať ⟨ho⟩ zachrání, vždyť v něm ⟨má⟩ zalíbení!“",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Svrť"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "ať vysvobodí ⟨ho⟩"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "ať zachrání ⟨ho⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "má zalíbení"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:14.067851909Z",
+  "model": "glm-5.3"
+}

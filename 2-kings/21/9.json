@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 21:9",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Ale neposlechli, a Menaše je svedl, aby konali ⟨את⟩ zlo — více než ⟨totiž⟩ národy, které Jahve vyhubil před tváří synů Izraele.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ale neposlechli"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslechli"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "svedl je"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aby konali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "vyhubil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T11:40:57.160212723Z",
+  "model": "glm-5.3"
+}

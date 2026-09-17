@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 76,
+  "translation": "Znám ⟨je⟩ v Judsku Elohim, v Izraeli velké ⟨je⟩ jeho jméno.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "znám"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "v Judsku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Izraeli"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velké"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:23.129717835Z",
+  "model": "glm-5.3"
+}

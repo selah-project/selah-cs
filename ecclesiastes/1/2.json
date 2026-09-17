@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Marnost nad marnostmi, pravil Kohelet, marnost nad marnostmi — všechno ⟨je⟩ marnost.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Marnost"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "nad marnostmi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pravil"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "marnost"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "nad marnostmi"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "marnost"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:07.639537386Z",
+  "model": "glm-5.3"
+}

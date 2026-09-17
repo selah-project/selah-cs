@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Neboť nepohrdl a nezneuctil strádání strádajícího a neskril svou tvář před ním, a když k němu volal, vyslyšel ⟨ho⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "pohrdl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "zneuctil"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "strádání"
+    },
+    {
+      "surface": "עני",
+      "gloss": "strádajícího"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "skryl"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "a když volal"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "vyslyšel"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:47.684697858Z",
+  "model": "glm-5.3"
+}

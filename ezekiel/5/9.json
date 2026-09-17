@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A učiním v tobě ⟨את⟩ to, co jsem neudělal, a ⟨את⟩ to, čeho podobu už neudělám, kvůli všem tvým ohavnostem.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "a učiním"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co jsem neudělal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "to, čeho podobu už neudělám"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "čeho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "udělám"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "jeho podobu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    },
+    {
+      "surface": "יען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "tvým ohavnostem"
+    }
+  ],
+  "timestamp": "2026-09-17T11:44:18.550558436Z",
+  "model": "glm-5.3"
+}

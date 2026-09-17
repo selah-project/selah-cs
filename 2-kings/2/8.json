@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A vzal Elijáš ⟨את⟩ svůj plášť, svinul jej a udeřil ⟨את⟩ vody, a rozdělily se sem i tam, a přešli oba dva po suchu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj plášť"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "svůj plášť"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "svinul"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "a udeřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vody"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "a rozdělily se"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sem"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "i tam"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "a přešli"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba dva"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "po suchu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:51:47.322311217Z",
+  "model": "glm-5.3"
+}

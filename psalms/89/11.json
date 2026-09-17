@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Ty jsi rozdrtil jako mrtvého Rachava; paží své síly jsi rozprášil své nepřátele.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "jsi rozdrtil"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "jako mrtvého"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rachava"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "paží"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "své síly"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "jsi rozprášil"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "své nepřátele"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:54.062822529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Neboť sen přichází s množstvím starostí a hlas blázna ⟨přichází⟩ s množstvím slov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přichází"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "s množstvím"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "starostí"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "a hlas"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "blázna"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "s množstvím"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "slov"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:23.330925386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "I řekl Jahve: Hle, místo ⟨u⟩ ⟨אתי⟩ mě, a ty budeš stát na skále.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨אתי⟩ u"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "a budeš stát"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "skále"
+    }
+  ],
+  "timestamp": "2026-09-17T13:39:39.149915810Z",
+  "model": "glm-5.3"
+}

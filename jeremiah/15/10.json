@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 15:10",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Běda mi, matko má, že jsi mě porodila muže pře a muže sváru celé zemi; nepůjčoval jsem ani mi nepůjčovali — všichni mě proklínají.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "běda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "matko má"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "jsi mě porodila"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "pře"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a muže"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "sváru"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "půjčoval jsem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "נשו",
+      "gloss": "mi nepůjčovali"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "מקללוני",
+      "gloss": "mě proklínají"
+    }
+  ],
+  "timestamp": "2026-09-17T08:23:17.047422699Z",
+  "model": "glm-5.3"
+}

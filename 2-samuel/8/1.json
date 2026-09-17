@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Stalo se poté, a David porazil ⟨את⟩ Pelištejce a podmanil si je; a David vzal ⟨את⟩ uzdu meteg-haamma z ruky Pelištejců.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poté"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨tak⟩"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "porazil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelištejce"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejce"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "podmanil si je"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uzdu meteg-haamma"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "uzdu meteg-"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "haamma"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejců"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:21.479809943Z",
+  "model": "glm-5.3"
+}

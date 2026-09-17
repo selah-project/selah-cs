@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 3:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Had však byl nejchytřejší ze všech polních zvířat, která učinil Jahve Elohim. I řekl ženě: „Jakže, pravil Elohim: Nesmíte jíst ze žádného stromu zahrady?“",
+  "tokens": [
+    {
+      "surface": "והנחש",
+      "gloss": "Had však"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "nejchytřejší"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "חית",
+      "gloss": "zvířat"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "polních"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ženě"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženě"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Jakže"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pravil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nesmíte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze žádného"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "stromu"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "zahrady"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:23.836516114Z",
+  "model": "glm-5.3"
+}

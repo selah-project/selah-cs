@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 128,
+  "translation": "Hle, zajisté tak bude požehnán muž, jenž se bojí Jahve.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zajisté"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bude požehnán"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "muž"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "jenž se bojí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T11:57:13.807273998Z",
+  "model": "glm-5.3"
+}

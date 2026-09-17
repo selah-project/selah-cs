@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A Jonathan odpověděl Saulovi: ⟨את⟩ — „David si naléhavě vyprosil ⟨u mne⟩ dovolení odejít až do Bet-lechemu.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a odpověděl"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulovi"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "naléhavě si vyprosil"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "vyprosil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lechemu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:35.027733859Z",
+  "model": "glm-5.3"
+}

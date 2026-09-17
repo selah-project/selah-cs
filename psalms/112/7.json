@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 112,
+  "translation": "Zlé zprávy se nebude bát; pevné ⟨je⟩ jeho srdce, doufá v Jahve.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "zprávy"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "bude bát"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "pevné"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jeho srdce"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "doufá"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:30.748645430Z",
+  "model": "glm-5.3"
+}

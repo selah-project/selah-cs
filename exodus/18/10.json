@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A řekl Jitro: Požehnaný ⟨budiž⟩ Jahve, který vás vysvobodil ⟨אתכם⟩ z ruky Egypta a z ruky faraona, který vysvobodil ⟨את⟩ lid z pod ruky Egypta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jitro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Požehnaný ⟨budiž⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "vysvobodil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "z ruky Egypta a z ruky faraona"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "a z ruky"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "vysvobodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "z pod"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruky"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:37.027901092Z",
+  "model": "glm-5.3"
+}

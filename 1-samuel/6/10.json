@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A muži učinili tak, a vzaly dvě krávy dojící, a uvázali je v ďele, a ⟨את⟩ jejich telata zavřeli v domě.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "a učinili"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "muži"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "vzali"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "krávy"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "dojící"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "uvázali je"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "v ďele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jejich telata"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "jejich telata"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "zavřeli"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:21.109651200Z",
+  "model": "glm-5.3"
+}

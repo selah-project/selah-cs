@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 137,
+  "translation": "Jak bychom zpívali ⟨את⟩ píseň Jahve na cizí půdě?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Jak"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "bychom zpívali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "píseň Jahve"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "půdě"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "cizí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:29.977809515Z",
+  "model": "glm-5.3"
+}

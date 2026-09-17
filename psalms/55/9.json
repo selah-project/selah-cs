@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Urychluji útěk pro sebe ⟨od⟩ větru bouřlivého, ⟨od⟩ vichřice.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "Urychluji"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "útěk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pro sebe"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "od větru"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "bouřlivého"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "od vichřice"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:36.414077118Z",
+  "model": "glm-5.3"
+}

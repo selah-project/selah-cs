@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Pospěš mi na pomoc, Adonaj, spása má!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "pospěš"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "mi na pomoc"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "spása má"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:06.204629319Z",
+  "model": "glm-5.3"
+}

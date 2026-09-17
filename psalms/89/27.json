@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "On mě bude vzývat: „Můj otče jsi, můj El a skála mé spásy.“",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "mě bude vzývat"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Můj otče"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "můj El"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "a skála"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mé spásy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:39.366164183Z",
+  "model": "glm-5.3"
+}

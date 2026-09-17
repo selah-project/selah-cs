@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 125,
+  "translation": "A ty, kdo se uhyňují ke svým křivým cestám, ty povede Jahve s ⟨את⟩ pachateli ničemnosti. Pokoj ⟨bude⟩ na Izraeli!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "a ty, kdo se uhyňují"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "ke svým křivým cestám"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "ty povede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pachateli ničemnosti"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pachateli"
+    },
+    {
+      "surface": "האון",
+      "gloss": "ničemnosti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Pokoj"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:33.604955129Z",
+  "model": "glm-5.3"
+}

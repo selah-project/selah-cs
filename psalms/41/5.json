@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Já jsem řekl: Jahve, smiluj se nade mnou, uzdrav mou duši, neboť jsem se proti tobě provinil.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jsem řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "smiluj se nade mnou"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "uzdrav"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji duši"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "jsem se provinil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "proti tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:34.716343171Z",
+  "model": "glm-5.3"
+}

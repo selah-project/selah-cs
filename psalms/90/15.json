@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Obšťastni nás podle dnů, ⟨v nichž⟩ jsi nás trýznil, podle let, ⟨v nichž⟩ jsme viděli zlo.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Obšťastni nás"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "podle dnů"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "jsi nás trýznil"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "podle let"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "jsme viděli"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:57.198060432Z",
+  "model": "glm-5.3"
+}

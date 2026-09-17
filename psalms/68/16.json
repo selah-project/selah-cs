@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Hora Elohim je hora Bašan, hora hřbetů je hora Bašan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "Hora"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hora"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bašan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hora"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "hřbetů"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hora"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bašan"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:56.657429352Z",
+  "model": "glm-5.3"
+}

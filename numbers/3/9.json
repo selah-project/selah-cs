@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A dáš ⟨את⟩ levíty Áronovi a jeho synům; dáni, dáni jsou mu ⟨את⟩ ⟨od⟩ synů Izraele.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "a dáš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levíty"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levíty"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Áronovi"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "a jeho synům"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "dáni"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "dáni"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jsou"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ⟨od⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:10.323307834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A muž Elohim řekl: „Kam to spadlo?“ A ⟨on⟩ mu ukázal ⟨את⟩ místo; a naťal dřevo a hodil tam, a železo vyplavalo ⟨na hladinu⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Kam"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "spadlo"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "a ukázal mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "místo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "a naťal"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "dřevo"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "a hodil"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "a vyplavalo"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "železo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:37.135027797Z",
+  "model": "glm-5.3"
+}

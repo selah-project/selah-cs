@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A David vyslal zvědy a poznal, že Šaúl přišel ⟨a⟩ skutečně ⟨dorazil⟩ k Nachónu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "vyslal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "zvědy"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "a poznal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "Nachónu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:36.042318191Z",
+  "model": "glm-5.3"
+}

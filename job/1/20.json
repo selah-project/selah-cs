@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I Jób vstal, roztrhl ⟨את⟩ svůj plášť, oholil ⟨את⟩ svou hlavu, padl na zem a klaněl se.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "vstal"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jób"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "roztrhl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj plášť"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "svůj plášť"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "oholil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou hlavu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "svou hlavu"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "padl"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na zem"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a klaněl se"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:30.751897985Z",
+  "model": "glm-5.3"
+}

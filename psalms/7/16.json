@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Jámu vykopal a vyhloubil ⟨ji⟩, a padl do jámy, kterou ⟨sám⟩ udělal.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "Jámu"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "vykopal"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "a vyhloubil ⟨ji⟩"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "a padl"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "do jámy"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "udělal"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:30.373907401Z",
+  "model": "glm-5.3"
+}

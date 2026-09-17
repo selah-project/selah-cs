@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Neboť hle, bezbožní napínají luk, připravili svůj šíp na tětivě, aby zasáhli ve tmě ⟨ty, kdo jsou⟩ přímého srdce.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "bezbožní"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "napínají"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "připravili"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "svůj šíp"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "tětivě"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "aby zasáhli"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ve"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "tmě"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "přímého srdce ⟨ty⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:35.191156291Z",
+  "model": "glm-5.3"
+}

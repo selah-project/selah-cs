@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Slyš svého otce, toho ⟨kdo⟩ tě zplodil, a nepohrdej svou matkou, neboť zestárnula.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Slyš"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "zplodil tě"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "pohrdej"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "zestárnula"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "svou matkou"
+    }
+  ],
+  "timestamp": "2026-09-17T11:16:13.433510551Z",
+  "model": "glm-5.3"
+}

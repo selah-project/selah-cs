@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A shromáždili se všichni starší Izraele a přišli k Samuelovi do Rámy.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "shromáždili se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelovi"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "do Rámy"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:51.869658423Z",
+  "model": "glm-5.3"
+}

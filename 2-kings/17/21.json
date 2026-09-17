@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Neboť Již vytrhl Izrael z ⟨nad⟩ domu Davidova, a učinili králem ⟨את⟩ Jarobama, syna Nevata; a Jarobam odvrátil ⟨את⟩ Izrael od následování Jahve a uvedl je ve velký hřích.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "vytrhl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z ⟨nad⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "učinili králem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jarobama"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevata"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "odvrátil"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "od následování"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "uvedl je ve hřích"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "hřích"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "velký"
+    }
+  ],
+  "timestamp": "2026-09-17T07:58:14.275006332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "procházejícího tržištěm poblíž jejího rohu, a cestou k jejímu domu kráčel",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "procházejícího"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "tržištěm"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "poblíž"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "rohu"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "a cestou"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "k jejímu domu"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "kráčel"
+    }
+  ],
+  "timestamp": "2026-09-17T09:37:32.547027288Z",
+  "model": "glm-5.3"
+}

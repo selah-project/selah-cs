@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Chvalozpěv Davidův. Vyvyšovat tě budu, Eloah můj, ⟨králi⟩, a žehnat budu tvému jménu na věky věků.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Chvalozpěv"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Vyvyšovat tě budu"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah můj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨králi⟩"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "a žehnat budu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvému jménu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "věků"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:41.185989670Z",
+  "model": "glm-5.3"
+}

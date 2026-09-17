@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Amínadab zplodil ⟨את⟩ Nachšona, a Nachšon zplodil ⟨את⟩ Salmona.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "a Amínadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachšona"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachšona"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "a Nachšon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmona"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmona"
+    }
+  ],
+  "timestamp": "2026-09-17T09:55:56.447316121Z",
+  "model": "glm-5.3"
+}

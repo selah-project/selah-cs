@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 108,
+  "translation": "Píseň, žalm Davidův.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "žalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:08.553389116Z",
+  "model": "glm-5.3"
+}

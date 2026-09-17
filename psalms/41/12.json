@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Z ⟨toho⟩ poznám, že ve mně máš zalíbení: že můj nepřítel nevykřikuje ⟨vítězně⟩ nade mnou.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "z ⟨toho⟩"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "poznám"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "máš zalíbení"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ve mně"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "vykřikuje"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "můj nepřítel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:21.521889619Z",
+  "model": "glm-5.3"
+}

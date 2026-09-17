@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Elohime, navrať nás, a zazáří tvář tvá, a budeme zachráněni.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "navrať nás"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "a zazáří"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvář tvá"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "a budeme zachráněni"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:48.312788060Z",
+  "model": "glm-5.3"
+}

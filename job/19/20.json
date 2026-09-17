@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Má kůže a mé tělo přilnuly k mým kostem, a unikl jsem ⟨jen⟩ kůží svých zubů.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "mé kůži"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "a mé tělo"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "přilnuly"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "k mým kostem"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "a unikl jsem"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "kůží"
+    },
+    {
+      "surface": "שני",
+      "gloss": "svých zubů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:48:49.681502702Z",
+  "model": "glm-5.3"
+}

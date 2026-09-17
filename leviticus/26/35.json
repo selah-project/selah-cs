@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Po všechny dny pustnutí bude odpočívat ⟨את⟩ to, co neodpočívalo ve vaše šabaty, když jste na ní bydleli.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "po všechny"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "pustnutí"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "bude odpočívat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co neodpočívalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "odpočívalo"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "ve vaše šabaty"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "když jste bydleli"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na ní"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:20.785172765Z",
+  "model": "glm-5.3"
+}

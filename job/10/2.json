@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Řeknu Eloahovi: Nevyhlašuj mě ⟨za⟩ vinného; dej mi vědět, proč se se mnou soudíš!",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "řeknu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloahovi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "vyhlašuj mě vinným"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "dej mi vědět"
+    },
+    {
+      "surface": "על",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "מה",
+      "gloss": "čemu"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "se mnou soudíš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:47:07.177488487Z",
+  "model": "glm-5.3"
+}

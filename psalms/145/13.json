@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Tvá království ⟨je⟩ království všech věků a tvá vláda v každém pokolení a pokolení.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Tvá království"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "království"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "věků"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "a tvá vláda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v každém"
+    },
+    {
+      "surface": "דור",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "a pokolení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:29.410212752Z",
+  "model": "glm-5.3"
+}

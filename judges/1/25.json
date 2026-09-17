@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A ukázal jim ⟨את⟩ vchod do města, a zasáhli ⟨את⟩ město ostřím meče, ale ⟨את⟩ muže a ⟨את⟩ celou jeho rodinu propustili.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "ukázal jim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vchod"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "vchod"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "zasáhli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "město"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostřím"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meče"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "muže"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "celou jeho rodinu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "jeho rodinu"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "propustili"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:42.514539159Z",
+  "model": "glm-5.3"
+}

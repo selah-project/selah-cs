@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Ale v sedmém roce bude šabat klidu ⟨pro⟩ zemi, šabat ⟨pro⟩ Jahveho; své pole nebudete sít a svou vinici nebudete zastřihávat.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Ale v roce"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "sedmém"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "klidu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "⟨pro⟩ zemi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨pro⟩ Jahveho"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "své pole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "budeš sít"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "a svou vinici"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "budeš zastřihávat"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:24.375950994Z",
+  "model": "glm-5.3"
+}

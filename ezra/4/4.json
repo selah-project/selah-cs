@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A stalo se, že lid země ochaboval ruce lidu Judova a děsil ⟨את⟩ je ⟨od⟩ stavení.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "ochaboval"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ruce"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judova"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "a děsil"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "od stavení (לִבְנוֹת)"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "⟨od⟩ stavení"
+    }
+  ],
+  "timestamp": "2026-09-17T10:09:04.078585920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Neboť ⟨jeho⟩ knížata ⟨byla⟩ v Coanu a jeho vyslanci došli do Chanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byla"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "v Coanu"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "jeho knížata"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "a jeho vyslanci"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "do Chanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "došli"
+    }
+  ],
+  "timestamp": "2026-09-17T11:45:30.739971270Z",
+  "model": "glm-5.3"
+}

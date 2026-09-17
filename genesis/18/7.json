@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 18:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A ke stádu běžel Abraham a vzal tele měkké a dobré a dal ⟨to⟩ mládenci, a ten spěchal ⟨את⟩ upravit ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "a ke"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "stádu (skotu)"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "běžel"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "tele (syn)"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "skotu"
+    },
+    {
+      "surface": "רך",
+      "gloss": "měkké"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "a dobré"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(k)"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mládenci"
+    },
+    {
+      "surface": "וימהר",
+      "gloss": "a spěchal"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "upravit (připravit)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tele (upravit je)"
+    }
+  ],
+  "timestamp": "2026-09-17T13:02:44.829543475Z",
+  "model": "glm-5.3"
+}

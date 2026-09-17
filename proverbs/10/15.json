@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Majetek bohatého ⟨je⟩ jeho město pevnosti, zkáza chudých ⟨je⟩ jejich chudoba.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Majetek"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "bohatého"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "město"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "jeho pevnosti"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "zkáza"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "chudých"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "jejich chudoba"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:15.319577386Z",
+  "model": "glm-5.3"
+}

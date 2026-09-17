@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Kůží a masem jsi mě oděl, a kostmi a šlachami jsi mě ⟨opletal⟩.",
+  "tokens": [
+    {
+      "surface": "עור",
+      "gloss": "Kůží"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "a masem"
+    },
+    {
+      "surface": "תלבישני",
+      "gloss": "jsi mě oděl"
+    },
+    {
+      "surface": "ובעצמות",
+      "gloss": "a kostmi"
+    },
+    {
+      "surface": "וגידים",
+      "gloss": "a šlachami"
+    },
+    {
+      "surface": "תסככני",
+      "gloss": "jsis mě ⟨opletal⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:46:10.548514802Z",
+  "model": "glm-5.3"
+}

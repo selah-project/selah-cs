@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "I přemluvil David ⟨את⟩ své muže slovy a nedal jim povstat proti Šaúlovi; a Šaúl vstal z jeskyně a šel cestou.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "I přemluvil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své muže"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "své muže"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "slovy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "dal jim"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "povstat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúlovi"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "a Šaúl"
+    },
+    {
+      "surface": "קם",
+      "gloss": "vstal"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "z jeskyně"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cestou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:34.997911576Z",
+  "model": "glm-5.3"
+}

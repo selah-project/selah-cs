@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Když postavíš nový dům, uděláš zábradlí na své střeše, abys nevkládal krev na svůj dům, když by ⟨někdo⟩ padl — padnoucí — z ní.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "postavíš"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nový"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "uděláš"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "zábradlí"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "na své střeše"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "abys ne-"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "vkládal"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krev"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "na svůj dům"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když by"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "padl"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "padnoucí"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z ní"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:18.625827272Z",
+  "model": "glm-5.3"
+}

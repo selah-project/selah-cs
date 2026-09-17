@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Sláma není dána tvým sluhům, a cihly nám říkají ⟨k vykonání⟩: Učiňte! A hle, tví sluhové jsou biti — a vina ⟨je na⟩ tvém lidu.",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "Sláma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dána"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "tvým sluhům"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "a cihly"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "říkají"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Učiňte!"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "A hle"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tví sluhové"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "jsou biti"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "a vina"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvém lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:55.665589456Z",
+  "model": "glm-5.3"
+}

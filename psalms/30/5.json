@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Zpívejte Jahvem, jeho chasídové, a díky vzdejte památce jeho svatosti.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Zpívejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "jeho chasídové"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "a díky vzdejte"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "památce"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "jeho svatosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:56.207694573Z",
+  "model": "glm-5.3"
+}

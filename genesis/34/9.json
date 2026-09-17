@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A uzavřete příbuzenství ⟨s⟩ ⟨את⟩ námi: své dcery dejte nám a ⟨את⟩ naše dcery vezměte ⟨sobie⟩ sobě.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "a uzavřete příbuzenství"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ námi",
+      "marks": "námi"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "své dcery"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dejte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "naše dcery"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "naše dcery"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "vezměte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sobě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:21.340404970Z",
+  "model": "glm-5.3"
+}

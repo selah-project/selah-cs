@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Zařve lev v lese, a kořisti jestli nemá? Vydá mladý lev svůj hlas ze svého doupěte, ne-liť ⟨jen⟩ když ulovil?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Zařve"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lev"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "v lese"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "a kořisti"
+    },
+    {
+      "surface": "אין",
+      "gloss": "jestli nemá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Vydá"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "mladý lev"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "ze svého doupěte"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ne-liť"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨jen⟩ když"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ulovil"
+    }
+  ],
+  "timestamp": "2026-09-17T08:59:23.633454534Z",
+  "model": "glm-5.3"
+}

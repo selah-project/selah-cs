@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 13:11",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A činil to, co je zlé v očích Jahve; neodvrátil se od všech hříchů Jeroboáma, syna Nebatova, jimiž dovedl ⟨את⟩ Izrael k hříchu — v nich chodil.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "A činil"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "to, co je zlé"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סר",
+      "gloss": "odvrátil se"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od všech"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "hříchů"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboáma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebatova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jimiž"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "dovedl k hříchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "chodil"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:03.984428296Z",
+  "model": "glm-5.3"
+}

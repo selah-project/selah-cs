@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Neobcházet ⟨budeš⟩ okraj své hlavy, a\/nebudeš ničit ⟨את⟩ okraj svého plnovousu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "obcházet\/ostříhávat do kolečka"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "okraj"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "své hlavy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ničit\/kazit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okraj (svého plnovousu)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "okraj"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "svého plnovousu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:56:50.860398948Z",
+  "model": "glm-5.3"
+}

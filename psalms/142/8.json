@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 142,
+  "translation": "Vyveď z žaláře mou duši, abych děkoval ⟨את⟩ tvému jménu; spravedliví mě obklopí, neboť na mně dobrotivě splníš ⟨svou slibovanou míru⟩.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Vyveď"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "z žaláře"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mou duši"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "abych děkoval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvému jménu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvému jménu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mě"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "obklopí"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "spravedliví"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "dobrotivě splníš"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mně"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:19.161404429Z",
+  "model": "glm-5.3"
+}

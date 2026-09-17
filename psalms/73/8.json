@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "Posmívají se a mluví ve zlém útlaku, z výsosti ⟨naduto⟩ mluví.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "posmívají se"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "a mluví"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ve zlém"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "útlaku"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "z výsosti"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mluví"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:17.114405247Z",
+  "model": "glm-5.3"
+}

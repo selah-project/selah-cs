@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A spojíš ⟨את⟩ pět závěsů zvlášť a ⟨את⟩ šest závěsů zvlášť, a zdvojíš ⟨את⟩ šestý závěs na přední straně stanu.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "a spojíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pět závěsů"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pět"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "závěsů"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "zvlášť"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "šest závěsů"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "závěsů"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "zvlášť"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "a zdvojíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šestý závěs"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "závěs"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "šestý"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מול",
+      "gloss": "přední straně"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváři"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "stanu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:34.484472764Z",
+  "model": "glm-5.3"
+}

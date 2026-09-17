@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I řekl Jahve rybě, a zvrhla ⟨את⟩ Jonáše na souš.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "rybě"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "a zvrhla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonáše"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonáše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "souš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:01:27.097280523Z",
+  "model": "glm-5.3"
+}

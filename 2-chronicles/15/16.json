@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 15:16",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "I též Ma'achu, matku krále Asy, zbavil ⟨jí⟩ úřadu panovnice, protože udělala Ašeře obludnou modlu; a Asa porazil ⟨את⟩ její obludnou modlu, rozdrtil ji a spálil v údolí Kidronu.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i též"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Ma'achu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "matku"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "הסירה",
+      "gloss": "zbavil ⟨jí⟩"
+    },
+    {
+      "surface": "מגבירה",
+      "gloss": "úřadu panovnice"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "protože"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "udělala"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "Ašeře"
+    },
+    {
+      "surface": "מפלצת",
+      "gloss": "obludnou modlu"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "a porazil"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její obludnou modlu"
+    },
+    {
+      "surface": "מפלצתה",
+      "gloss": "její obludnou modlu"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "rozdrtil"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "a spálil"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "v údolí"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidronu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:27:53.802984552Z",
+  "model": "glm-5.3"
+}

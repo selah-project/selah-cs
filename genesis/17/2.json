@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A dáme ⟨את⟩ svou smlouvu mezi sebe a mezi tebe, a rozmnožím tě velmi, velmi.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "A dáme"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svou smlouvu"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mezi sebe"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "a mezi tebe"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "a rozmnožím"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ tě",
+      "marks": "tebe"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:05.114445292Z",
+  "model": "glm-5.3"
+}

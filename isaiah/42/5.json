@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 42:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Takto řekl El Jahve, tvůrce nebes a ten, kdo je rozpíná, ten, kdo rozprostřel zemi a její plody, dávajíci dech lidu na ní a ducha těm, kdo po ní chodí.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Takto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "tvůrce"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ונוטיהם",
+      "gloss": "a ten, kdo je rozpíná"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "ten, kdo rozprostřel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "וצאצאיה",
+      "gloss": "a její plody"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dávajíci"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "dech"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na ní"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "a ducha"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "těm, kdo chodí"
+    },
+    {
+      "surface": "בה",
+      "gloss": "po ní"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:47.342186281Z",
+  "model": "glm-5.3"
+}

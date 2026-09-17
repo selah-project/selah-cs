@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A vy slyšte slovo Jahveho, veškerá gola ⟨vyhnanství⟩, kterou jsem poslal z Jeruzaléma do Babylónu —",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "A vy"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slyšte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerá"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "gola ⟨vyhnanství⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "jsem poslal"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "z Jeruzaléma"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "do Babylónu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:28:27.992866532Z",
+  "model": "glm-5.3"
+}

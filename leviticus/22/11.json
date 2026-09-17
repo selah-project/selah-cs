@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Kněz však, když koupí osobu ⟨za⟩ peníze, smí jíst ⟨z toho⟩; i doma narození jeho domu — ti smí jíst jeho chléb.",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "Kněz však"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "koupí"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "osobu"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "koupě"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "peníze"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smí jíst"
+    },
+    {
+      "surface": "בו",
+      "gloss": "z toho"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "i doma narození"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jeho domu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "smí jíst"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "jeho chléb"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:50.902384699Z",
+  "model": "glm-5.3"
+}

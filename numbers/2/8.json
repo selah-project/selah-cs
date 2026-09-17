@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "a jeho vojsko a jeho sečítaní — sedm a padesát tisíc a čtyři sta.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "a jeho vojsko"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "a jeho sečítaní"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "a padesát"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "a čtyři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:32.928133726Z",
+  "model": "glm-5.3"
+}

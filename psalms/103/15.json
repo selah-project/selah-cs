@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Člověk — jako tráva jsou jeho dny, jako květ pole tak rozkvete.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "člověk (smrtelný)"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "jako tráva"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jeho dny"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "jako květ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "rozkvete"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:08.901455267Z",
+  "model": "glm-5.3"
+}

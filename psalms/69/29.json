@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Ať jsou vymazáni z knihy živých, a s spravedlivými ať nejsou zapsáni.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "Ať jsou vymazáni"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "z knihy"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živých"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a s"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "spravedlivými"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "jsou zapsáni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:29.110276228Z",
+  "model": "glm-5.3"
+}

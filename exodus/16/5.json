@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A stane se ⟨to⟩ v šestý den, že připraví ⟨את⟩ to, co přinesou, a bude to dvojí ⟨množství⟩ proti tomu, co sbírají den za dnem.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "a stane se"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "šestý"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "připraví"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co přinesou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "přinesou"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "dvojí"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tomu, co"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "sbírají"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "יום",
+      "gloss": "za dnem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:13.409124933Z",
+  "model": "glm-5.3"
+}

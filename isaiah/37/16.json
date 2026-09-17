@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "„Jahve Cevaot, Elohim Izraele, sídlící ⟨nad⟩ cheruby, ty jsi ⟨ten⟩ Elohim, jenž ty sám ⟨jsi⟩ ze všech království země — ty jsi učinil ⟨את⟩ nebesa a ⟨את⟩ zemi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sídlící"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "cherubů"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ten⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "jenž ty sám"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "království"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi učinil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nebesa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T08:10:50.256518780Z",
+  "model": "glm-5.3"
+}

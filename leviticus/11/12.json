@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Vše, co nemá ploutvi a šupiny ve vodách, ohavnost ⟨to je⟩ pro vás.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nemá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tomu"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ploutvi"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "a šupiny"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ve vodách"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ohavnost"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pro vás"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:06.996031480Z",
+  "model": "glm-5.3"
+}

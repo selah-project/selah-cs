@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Na čistém svícnu bude upravovat ⟨את⟩ lampy před Jahvem stále.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Na"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "svícnu"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "čistém"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "bude upravovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lampy"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lampy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:46.147398507Z",
+  "model": "glm-5.3"
+}

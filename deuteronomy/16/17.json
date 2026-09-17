@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 16:17",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Každý ⟨muž⟩ podle daru své rukou, podle požehnání Jahve, tvého Elohim, které ti dal.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "každý ⟨muž⟩"
+    },
+    {
+      "surface": "כמתנת",
+      "gloss": "podle daru"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "své rukou"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "podle požehnání"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvého Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:20.310310966Z",
+  "model": "glm-5.3"
+}

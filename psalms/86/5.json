@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 86,
+  "translation": "Neboť ty, Adonaj, jsi ⟨dobrý⟩ a odpouštějící, a hojný ⟨v⟩ chesedu všem, kdo tě vzývají.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrý"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "a odpouštějící"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "a hojný"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "kteří tě vzývají"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:56.747901781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Volal k Jahve a řekl: Jahve, Elohim můj, i na tu vdovu, u níž jsem pohostinem, jsi způsobil zlo ⟨tím⟩, že jsi usmrtil ⟨את⟩ jejího syna?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "volal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "tu vdovu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u níž"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "jsem pohostinem"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "u ní"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "způsobil jsi zlo"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "usmrtil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejího syna"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "jejího syna"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:58.196573881Z",
+  "model": "glm-5.3"
+}

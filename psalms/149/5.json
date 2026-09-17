@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 149,
+  "translation": "Ať jásají zasvěcenci ⟨v⟩ slávě, ať zpívají hlasitě na svých ložích.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "ať jásají"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "zasvěcenci"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "⟨v⟩ slávě"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ať zpívají hlasitě"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "svých ložích"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:57.918485400Z",
+  "model": "glm-5.3"
+}

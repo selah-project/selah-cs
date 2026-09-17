@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Bloudili na poušti, v pustině — cestu, město k bydlení nenašli.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "Bloudili"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "v pustině"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "k bydlení"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "našli"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:49.816595990Z",
+  "model": "glm-5.3"
+}

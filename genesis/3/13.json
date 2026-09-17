@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "I řekl Jahve Elohim ženě: Co jsi to udělala? A žena řekla: Had ⟨mě⟩ svedl — a já jsem jedla ⟨z něho⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ženě"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi udělala"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Had"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "svedl mě"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "a jedla jsem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:24.282474750Z",
+  "model": "glm-5.3"
+}

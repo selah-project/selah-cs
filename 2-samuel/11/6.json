@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A poslal David k Joábovi ⟨slovo⟩: Pošli ke mně ⟨את⟩ Uriju Chetejského. A poslal Joáb ⟨את⟩ Uriju k Davidovi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joábovi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Pošli"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriju Chetejského"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetejského"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "A poslal"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriju"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:05.657240922Z",
+  "model": "glm-5.3"
+}

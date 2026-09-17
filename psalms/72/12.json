@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "Neboť vysvobodí chudého volajícího o pomoc, i utištěného, ⟨který⟩ nemá pomocníka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "vysvobodí"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "chudého"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "volajícího o pomoc"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "utištěného"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nemá ⟨nic⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "pomocníka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨který⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:04.916241210Z",
+  "model": "glm-5.3"
+}

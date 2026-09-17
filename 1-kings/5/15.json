@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 5:15",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A poslal Chíram, král Córu, ⟨את⟩ své služebníky, k Šalomounovi, neboť uslyšel, že ⟨את⟩ něj pomazali za krále místo jeho otce; neboť Chíram byl ⟨milovníkem⟩ Davida po všechny dny.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chíram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Córu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své služebníky"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "své služebníky"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomounovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uslyšel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ něj",
+      "marks": "pomazali"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "pomazali"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za krále"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "jeho otce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "milovníkem"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chíram"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "po všechny"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dny"
+    }
+  ],
+  "timestamp": "2026-09-17T07:42:41.726678130Z",
+  "model": "glm-5.3"
+}

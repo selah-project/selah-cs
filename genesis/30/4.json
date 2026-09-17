@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A dala mu ⟨את⟩ Bilhu, svou služebnici, za ženu, a vešel k ní Jákob.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "a dala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhu"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "svou služebnici"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a vešel"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k ní"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:44.241942491Z",
+  "model": "glm-5.3"
+}

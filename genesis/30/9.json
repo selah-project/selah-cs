@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A Lea viděla, že přestala rodit, a vzala ⟨את⟩ Zilpu, svou otrokyni, a dala ⟨את⟩ ji Jákobovi za ženu.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "viděla"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "přestala"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "rodit"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "vzala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpu"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpu"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "svou otrokyni"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "dala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ji",
+      "marks": "Jákobovi (objekt: ji)"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jákobovi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:40.822724845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Půjdou dva společně, ne-liť se ⟨jen⟩ když se sejdou?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Půjdou"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "společně"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ne-liť"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨jen⟩ když"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "se sejdou"
+    }
+  ],
+  "timestamp": "2026-09-17T08:59:23.633317494Z",
+  "model": "glm-5.3"
+}

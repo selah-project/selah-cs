@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Tam plují lodi, tam Leviatan, jehož jsi utvořil, aby ⟨si⟩ v něm hrál.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "lodi"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "plují"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Leviatan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tam ⟨je⟩ on"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "jsi utvořil"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "aby hrál"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:42.189952354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Semeno Abrahama, jeho služebníka, synové Jákoba, jeho vyvolení.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Semeno"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "jeho služebníka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "jeho vyvolení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:57.992822338Z",
+  "model": "glm-5.3"
+}

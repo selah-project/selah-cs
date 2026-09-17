@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A napojily ⟨את⟩ otce svého vínem v onu noc; vešla prvorozená a obcovaná s ⟨את⟩ otcem svým, a on nepoznal, když ona lehala, ani když vstávala.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "a napojily"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otce svého"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "otce svého"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vínem"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "v onu noc"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "onu"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "vešla"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "prvorozená"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "a obcovaná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otcem svým"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "otcem svým"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nepoznal"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "když ona lehala"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "ani když vstávala"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:41.031621990Z",
+  "model": "glm-5.3"
+}

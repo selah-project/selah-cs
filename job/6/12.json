@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Snad je síla kamenů má síla? Snad je mé tělo z bronzu?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "snad"
+    },
+    {
+      "surface": "כח",
+      "gloss": "síla"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kamenů"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "má síla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "snad"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mé tělo"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "z bronzu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:14.522652821Z",
+  "model": "glm-5.3"
+}

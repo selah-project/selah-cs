@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Souhrn tvého slova ⟨je⟩ pravda, a na věky každý výrok tvé spravedlnosti.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Souhrn"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tvého slova"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "pravda"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "a na věky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "výrok"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tvé spravedlnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:49.041163793Z",
+  "model": "glm-5.3"
+}

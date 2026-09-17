@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "A Josef vzal oba ⟨את⟩, ⟨את⟩ Efrajima na své pravé ruce po levé ruce Izraele, a ⟨את⟩ Manasese na své levé ruce po pravé ruce Izraele, a přivedl je k němu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "A vzal"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oba"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrajima"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "na své pravé ruce"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "po levé ruce"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Manasese"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasese"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "na své levé ruce"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "po pravé ruce"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "a přivedl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:46.051923330Z",
+  "model": "glm-5.3"
+}

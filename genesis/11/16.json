@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A žil Ever čtyři a třicet let a zplodil ⟨את⟩ Pelega.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "A žil"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "a třicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelega"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Pelega"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:20.863868898Z",
+  "model": "glm-5.3"
+}

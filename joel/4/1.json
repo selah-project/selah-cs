@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Neboť hle, v těch dnech a v ⟨té⟩ chvíli, kdy obrátím ⟨את⟩ zajetí Judova a Jeruzaléma,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "v těch dnech"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "těch"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "a v ⟨té⟩ chvíli"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "té"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdy"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "obrátím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zajetí"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "zajetí"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judova"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "a Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T11:07:58.071244126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "V onu noc uprchl spánek krále, a poručil přinést ⟨את⟩ knihu pamětních zápisů, kroniku dnů, a byly čteny před králem.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "V onu noc"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onu"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "uprchl"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "spánek"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a poručil"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "přinést"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "knihu pamětních zápisů"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knihu"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "pamětních zápisů"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kroniku"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "a byly"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "čteny"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:47.383732875Z",
+  "model": "glm-5.3"
+}

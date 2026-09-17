@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 146,
+  "translation": "Ten, kdo činí nebesa a zemi, ⟨את⟩ moře a ⟨את⟩ vše, co je v nich; ⟨ten, kdo⟩ střeží věrnost na věky.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "činí"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "a zemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moře"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בם",
+      "gloss": "je v nich"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "střeží"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "věrnost"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:49.380706123Z",
+  "model": "glm-5.3"
+}

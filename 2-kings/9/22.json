@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 9:22",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A stalo se, když Jóram uviděl ⟨את⟩ Jehúa, řekl: „Je pokoj, Jehú?“ A on řekl: „Jaký pokoj, dokud jsou cizoložství tvé matky Jezabel a její četná čarodějnictví?“",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "když uviděl"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jóram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehúa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehúa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Je pokoj"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehú"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on řekl"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Jaký"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "cizoložství"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Jezabel"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tvé matky"
+    },
+    {
+      "surface": "וכשפיה",
+      "gloss": "a její čarodějnictví"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "četná"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:12.943020651Z",
+  "model": "glm-5.3"
+}

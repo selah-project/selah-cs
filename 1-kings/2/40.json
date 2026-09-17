@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Šimeí vstal, osedlal ⟨את⟩ svého osla a šel do Gatu k Akíšovi hledat ⟨את⟩ své sluhy. Šimeí šel a přivedl ⟨את⟩ své sluhy z Gatu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "vstal"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimeí"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "osedlal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého osla"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "svého osla"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "do Gatu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akíšovi"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hledat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své sluhy"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "své sluhy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Šimeí"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přivedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své sluhy"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "své sluhy"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "z Gatu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:35.608597103Z",
+  "model": "glm-5.3"
+}

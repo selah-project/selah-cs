@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Jahve, Elohim Cevaot, přiveď nás zpět, rozjasni svou tvář, a budeme spaseni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "přiveď nás zpět"
+    },
+    {
+      "surface": "האר",
+      "gloss": "rozjasni"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "a budeme spaseni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:01.764771198Z",
+  "model": "glm-5.3"
+}

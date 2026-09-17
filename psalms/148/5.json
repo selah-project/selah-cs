@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 148,
+  "translation": "Chvalte ⟨את⟩ jméno Jahveho, neboť on přikázal a ⟨byly⟩ stvořeny.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Chvalte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jméno Jahveho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "a ⟨byly⟩ stvořeny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:42.583292958Z",
+  "model": "glm-5.3"
+}

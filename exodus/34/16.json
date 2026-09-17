@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A ⟨když⟩ bys bral z jeho dcer tvým synům a jeho dcery by se ženily za jejich elohimy a přivedly by ⟨את⟩ tvé syny, aby se ženili za jejich elohimy.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "a bral bys"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "z jeho dcer"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "tvým synům"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "a ženily by se"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "jeho dcery"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "jejich elohimy"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "a přivedly by k smilnění"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé syny"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvé syny"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "jejich elohimy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:30.894537096Z",
+  "model": "glm-5.3"
+}

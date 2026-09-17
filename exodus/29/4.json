@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A ⟨את⟩ Árona a ⟨את⟩ jeho syny přiblížíš ke vchodu stanu setkávání a umyješ ⟨את⟩ je vodou.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "A ⟨את⟩",
+      "marks": "Árona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho syny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho syny"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "přiblížíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "a umyješ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vodou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:32.840173061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A řekne otec dívky starším: ⟨את⟩ svou dceru jsem dal tomuto muži za ženu, a on ji znenáviděl.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "a řekne"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otec"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "dívky"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(řekne)"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starším"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou dceru"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "svou dceru"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomuto"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "a on ji znenáviděl"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:47.946801058Z",
+  "model": "glm-5.3"
+}

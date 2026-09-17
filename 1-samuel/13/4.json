@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A celý Izrael uslyšel ⟨zprávu⟩: Porazil Šául ⟨את⟩ posádku Pelíštejců, a také se Izrael stal ohavným Pelíštejcům; a lid se shromáždil za Šáulem do Gilgalu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "A celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uslyšel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨zprávu⟩:"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "Porazil"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šául"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "posádku Pelíštejců"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "posádku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelíštejců"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a také"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "se stal ohavným"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Pelíštejcům"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "a se shromáždil"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šáulem"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "do Gilgalu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:24:27.823638284Z",
+  "model": "glm-5.3"
+}

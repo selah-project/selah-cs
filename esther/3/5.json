@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A Haman viděl, že Mordokaj nekleká a neprosteruje se před ním, a Haman se naplnil hněvem.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaj"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "kleká"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "a neprosteruje se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "a naplnil se"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "hněvem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:56.904741300Z",
+  "model": "glm-5.3"
+}

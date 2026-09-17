@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 1:28",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Kam bychom vystupovali? Naši bratři rozpustili ⟨את⟩ naše srdce, řkouce: Lid větší a vyšší než my, města velká a opevněná až do nebe — a také jsme tam viděli syny Anakovce.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "bychom"
+    },
+    {
+      "surface": "עלים",
+      "gloss": "vystupovali"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "naši bratři"
+    },
+    {
+      "surface": "המסו",
+      "gloss": "rozpustili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naše srdce"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "naše srdce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řkouce"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "větší"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "a vyšší"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "než my"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "města"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "velká"
+    },
+    {
+      "surface": "ובצורת",
+      "gloss": "a opevněná"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "do nebe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a také"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "Anakovce"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "jsme viděli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:32.777464867Z",
+  "model": "glm-5.3"
+}

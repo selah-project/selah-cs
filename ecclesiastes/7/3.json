@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Lépe ⟨je⟩ hořkost než smích, neboť ve ztrápenosti tváře ⟨se⟩ srdce zlepší.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Lépe"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "hořkost"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "než smích"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ve ztrápenosti"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tváře"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "zlepší"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:56.802292083Z",
+  "model": "glm-5.3"
+}

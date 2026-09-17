@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Nebo již nyní jsem mohl vztáhnout ⟨את⟩ svou ruku a zasáhnout tebe i ⟨את⟩ tvůj lid morem — a byl bys vyhlazen z ⟨את⟩ země.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "již nyní"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "jsem vztáhl (mohl vztáhnout)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "a zasáhnout"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "tebe ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "tvůj lid"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvůj lid"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "morem"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "a byl bys vyhlacen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:54.172846696Z",
+  "model": "glm-5.3"
+}

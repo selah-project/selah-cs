@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A David učinil tak, jak mu přikázal Jahve, a porazil ⟨את⟩ Pelištejce od Geby, až ⟨jsi⟩ přišel ⟨do⟩ Gezeru.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "mu přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a porazil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelištejce"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejce"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "od Geby"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "באך",
+      "gloss": "jsi přišel"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezeru"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:52.582316832Z",
+  "model": "glm-5.3"
+}

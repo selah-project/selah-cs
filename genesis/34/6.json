@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A Chamor, otec Šchemův, vyšel k Jakobovi, aby s ním mluvil ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otec"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šchemův"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobovi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "aby mluvil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:52.913733357Z",
+  "model": "glm-5.3"
+}

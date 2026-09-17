@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Když jsi viděl zloděje, běžel jsi ⟨s ním⟩, a s cizoložníky je tvůj podíl.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Když"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "jsi viděl"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "zloděje"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "běžel jsi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨s ním⟩"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a s"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "cizoložníky"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "je tvůj podíl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:48.616300327Z",
+  "model": "glm-5.3"
+}

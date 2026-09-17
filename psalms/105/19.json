@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Až do ⟨času, kdy⟩ přišlo jeho slovo, výrok Jahveho ho vybrousil.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "עת",
+      "gloss": "času, kdy"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišlo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jeho slovo"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "ho vybrousil"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:30.658552849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "Milostivý ⟨je⟩ Jahve a spravedlivý, a náš Elohim se smilovává.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Milostivý"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "a spravedlivý"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "a náš Elohim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "se smilovává"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:33.492299544Z",
+  "model": "glm-5.3"
+}

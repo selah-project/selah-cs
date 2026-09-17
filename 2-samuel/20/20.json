@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A Joab odpověděl a řekl: „Chraň bůh, chraň bůh mi ⟨to⟩, abych polykal či ničil.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "A odpověděl"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Chraň bůh"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "chraň bůh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "abych"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "polykal"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "či"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ničil"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:09.293857640Z",
+  "model": "glm-5.3"
+}

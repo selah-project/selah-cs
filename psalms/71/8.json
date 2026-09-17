@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "Ať se naplní má ústa tvou chválou, celý den tvou nádherou.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "ať se naplní"
+    },
+    {
+      "surface": "פי",
+      "gloss": "má ústa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tvou chválou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "tvou nádherou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:50.521696353Z",
+  "model": "glm-5.3"
+}

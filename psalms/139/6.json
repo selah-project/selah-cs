@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Podivuhodná je ⟨ta⟩ znalost nad mě — ⟨je⟩ vznesená, nedokážu ji.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "podivuhodná"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "znalost"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nad mě"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "vznesená"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "dokáži"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ji"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:35.894493091Z",
+  "model": "glm-5.3"
+}

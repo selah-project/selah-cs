@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Jako oni ⟨budou⟩ ti, kdo je dělají, všichni, kdo v ně doufají.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "jako oni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "budou"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ti, kdo je dělají"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "douvají"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:56.636063785Z",
+  "model": "glm-5.3"
+}

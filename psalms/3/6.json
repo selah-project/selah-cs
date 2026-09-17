@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Já jsem si lehl a spal, probudil jsem se, neboť Jahve mě podpírá.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "jsem si lehl"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "a spal"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "probudil jsem se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "mě podpírá"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:13.118013017Z",
+  "model": "glm-5.3"
+}

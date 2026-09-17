@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A dá pokrýtí ⟨את⟩ svatyně svatých, a ⟨את⟩ stan setkávání, ⟨את⟩ oltář dá pokrýtí; a za kněze a za celý lid shromáždění dá pokrýtí.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "a dá pokrýtí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svatyně svatých"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatých"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "stan setkávání"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "dá pokrýtí"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a za"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a za"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "dá pokrýtí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:01.443314823Z",
+  "model": "glm-5.3"
+}

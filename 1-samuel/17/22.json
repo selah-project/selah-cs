@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A David složil ⟨את⟩ věci ze sebe do ruky strážce věcí, a běžel k šiku ⟨bojiště⟩, a přišel a vyptával se na pokoj svých bratří.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "a složil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "věci"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "věci"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "ze sebe"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruky"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "strážce"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "věcí"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "a běžel"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "k šiku"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "a vyptával se"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "svých bratří"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "na pokoj"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:47.807270547Z",
+  "model": "glm-5.3"
+}

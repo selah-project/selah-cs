@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A své muže, kteří byli s ním, vyvedl David nahoru, každého muže s jeho domácností; a usadili se v městech ⟨okresu⟩ Chevronu.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "A své muže"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "byli s ním"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "vyvedl nahoru"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každého muže"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "s jeho domácností"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "a usadili se"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "v městech"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevronu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:41.353754005Z",
+  "model": "glm-5.3"
+}

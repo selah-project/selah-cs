@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A král se zaryl a řekl: Živ je Jahve, který vykupil ⟨את⟩ mou duši z každé tísni!",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "a zaryl se"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Živ ⟨je⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "vykupil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou duši"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mou duši"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "z každé"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tísni"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:24.387394610Z",
+  "model": "glm-5.3"
+}

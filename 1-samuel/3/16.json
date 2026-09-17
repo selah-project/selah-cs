@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Eli zavolal ⟨את⟩ Samuel a řekl: „Samueli, synu můj.“ On řekl: „Hle, jsem tu.“",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "zavolal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samueli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu můj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hle, jsem tu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:38.318640571Z",
+  "model": "glm-5.3"
+}

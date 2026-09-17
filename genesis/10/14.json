@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "a ⟨את⟩ Patrusim a ⟨את⟩ Kasluchim, z nichž vyšli Pelíštejci, a ⟨את⟩ Kaptorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Kasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "z nichž"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "vyšli"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelíštejci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Kaptorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaptorim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:09.322565696Z",
+  "model": "glm-5.3"
+}

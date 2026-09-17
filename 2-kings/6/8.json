@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A král Aramu vedl válku proti Izraeli; a radil se se svými služebníky a řekl: „Na místo to a to ⟨budou⟩ má ležení.“",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "A král"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "vedl ⟨byl⟩"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "válku"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "proti Izraeli"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "a radil se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svými služebníky"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "to a to"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "to a to"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "má ležení"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:37.135466435Z",
+  "model": "glm-5.3"
+}

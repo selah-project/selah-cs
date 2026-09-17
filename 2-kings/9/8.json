@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "a zahyne celý dům Achabův; a vyhubím Achabovi každého, kdo se postaví ⟨ke zdi⟩ ⟨k močení⟩, i zavřeného i ponechaného v Izraeli.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "a zahyne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabův"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "a vyhubím"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Achabovi"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "kdo se postaví ⟨ke zdi⟩ ⟨k močení⟩"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ke zdi"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "i zavřeného"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "i ponechaného"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:49.018219510Z",
+  "model": "glm-5.3"
+}

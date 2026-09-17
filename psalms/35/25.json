@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Ať neříkají v svém srdci: „Haha, ⟨to je⟩ naše tužba!“ Ať neříkají: „Pohltili jsme ho!“",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "říkají"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "v svém srdci"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Haha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naše duše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "říkají"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "pohltili jsme ho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:14.160604675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Jahve, ne tříhej mě ve svém hněvu a ve své prchlivosti mě nekázej!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ve svém hněvu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "tříhej mě"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "ve své prchlivosti"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "nekázej mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:44.961677226Z",
+  "model": "glm-5.3"
+}

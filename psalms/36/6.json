@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Jahve, ⟨až⟩ do nebe ⟨dosahuje⟩ tvé milosrdenství, tvá věrnost až k oblakům.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "do nebe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvé milosrdenství"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tvá věrnost"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "oblakům"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:07.384679598Z",
+  "model": "glm-5.3"
+}

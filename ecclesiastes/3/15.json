@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Co bylo, už dávno ⟨je⟩, a co má být, už dávno bylo; a Elohim vyhledává ⟨את⟩ pronásledovaného.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "už dávno"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a co"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "má být"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "už dávno"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "vyhledává"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pronásledovaného"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "pronásledovaného"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:37.297217508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A ten, kdo ji spaluje, vypere ⟨את⟩ ⟨své šaty⟩ ve vodě a omije své tělo ve vodě a bude nečistý až do večera.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "a ten, kdo spaluje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ji",
+      "marks": "ji (krávu)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "vypere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "své šaty"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ve vodě"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "a omije"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "své tělo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ve vodě"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "a bude nečistý"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večera"
+    }
+  ],
+  "timestamp": "2026-09-17T06:46:29.244030405Z",
+  "model": "glm-5.3"
+}

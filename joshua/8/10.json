@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A Jozue vstal časně ráno a přehlédl ⟨את⟩ lid, a vytáhl on i starší Izraele před lidem k Haj.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a vstal časně"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "a přehlédl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a vytáhl"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "i starší"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidem"
+    },
+    {
+      "surface": "העי",
+      "gloss": "k Haj"
+    }
+  ],
+  "timestamp": "2026-09-17T07:06:59.055925448Z",
+  "model": "glm-5.3"
+}

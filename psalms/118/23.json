@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Od ⟨את⟩ Jahve se to stalo; ⟨to⟩ je podivuhodné v našich očích.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "od Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "se to stalo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "podivuhodné"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "v našich očích"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:09.758385611Z",
+  "model": "glm-5.3"
+}

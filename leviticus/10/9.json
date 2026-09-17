@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Víno a opojný nápoj nepiješ, ty a tvoji synové s ⟨את⟩ tebou, když vcházíte do stanu setkávání, a nezemřete — ⟨je to⟩ ustanovení věčné pro vaše pokolení:",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "víno"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "a opojný nápoj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "piješ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "a tvoji synové"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tebou",
+      "marks": "ty a tvoji synové"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "když vcházíte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "zemřete"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ustanovení"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věčné"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "pro vaše pokolení"
+    }
+  ],
+  "timestamp": "2026-09-17T13:39:24.270474986Z",
+  "model": "glm-5.3"
+}

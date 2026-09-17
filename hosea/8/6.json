@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 8:6",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Vždyť z Izraele ⟨to⟩ pochází — řemeslník to vyrobil, a není to Elohim; ano, v střepy se rozpadne býček Šomronu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "z Izraele"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "řemeslník"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "to vyrobil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "שבבים",
+      "gloss": "v střepy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se rozpadne"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "býček"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomronu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:57:56.149844080Z",
+  "model": "glm-5.3"
+}

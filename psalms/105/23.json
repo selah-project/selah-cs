@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "A přišel Jisra'el do Micrajim a Ja'akov se usadil jako pohostín v zemi Cham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Micrajim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "a Ja'akov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "se usadil jako pohostín"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:03.839347159Z",
+  "model": "glm-5.3"
+}

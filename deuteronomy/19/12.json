@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "pošlou starší jeho města a vezmou ⟨את⟩ ho odtud a vydají ⟨את⟩ ho do ruky krvího vykupitele, a zemře.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "pošlou"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "jeho města"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "a vezmou"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (odtud)"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "a vydají"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (do ruky)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "do ruky"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "krvího vykupitele"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krvího vykupitele"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:58:40.917204671Z",
+  "model": "glm-5.3"
+}

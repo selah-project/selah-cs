@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Kteří se tě bojí, ⟨mě⟩ uvidí a zaradují se, neboť na tvé slovo jsem doufal.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "kteří se tě bojí"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "uvidí mě"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "a zaradují se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "na tvé slovo"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "jsem doufal"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:14.591463213Z",
+  "model": "glm-5.3"
+}

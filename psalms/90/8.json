@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Postavil jsi naše nepravosti před tebe, naše skryté věci do světla tvé tváře.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Postavil jsi"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "naše nepravosti"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "před tebe"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "naše skryté věci"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "do světla"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvé tváře"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:01.230880469Z",
+  "model": "glm-5.3"
+}

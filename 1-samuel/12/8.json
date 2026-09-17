@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Když přišel Jákob do Egypta a vaši otcové volali k Jahvovi, poslal Jahve ⟨את⟩ Mojžíše a ⟨את⟩ Árona, a ti vyvedli ⟨את⟩ vaše otce z Egypta a usadili je na tomto místě.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Když"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "a volali"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "vaši otcové"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Árona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "a ti vyvedli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše otce"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "vaše otce"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "a usadili je"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na místě"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomto"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:21.604994951Z",
+  "model": "glm-5.3"
+}

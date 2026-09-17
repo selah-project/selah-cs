@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Jahve sestoupil, aby viděl ⟨את⟩ město a ⟨את⟩ věž, kterou stavěli synové člověka.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "a sestoupil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "aby viděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "město"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "věž"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "věž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "stavěli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:33.552424148Z",
+  "model": "glm-5.3"
+}

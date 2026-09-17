@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A stalo se po smrti Abrahama, že Elohim požehnal ⟨את⟩ Jicchaka, jeho syna; a bydlel Jicchak u studně Lechai-roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a požehnal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jicchaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchaka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a bydlel"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "u"
+    },
+    {
+      "surface": "באר",
+      "gloss": "studně"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lechai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "roi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:49.487107395Z",
+  "model": "glm-5.3"
+}

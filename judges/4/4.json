@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Debora, žena prorokyně, manželka Lapidota — ona soudila ⟨את⟩ Izrael v onen čas.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "A Debora"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "prorokyně"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "manželka"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Lapidota"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "soudila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "v onen čas (v čas)"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "onen"
+    }
+  ],
+  "timestamp": "2026-09-17T07:13:47.506014426Z",
+  "model": "glm-5.3"
+}

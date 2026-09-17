@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A podoba tváří jejich: tvář člověka, a tvář lva měly vpravo — těm čtyřem; a tvář býka vlevo — těm čtyřem; a tvář orla — těm čtyřem.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "a podoba"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "tváří jejich"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "a tvář"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "pravo"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "těm čtyřem"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "a tvář"
+    },
+    {
+      "surface": "שור",
+      "gloss": "býka"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "vlevo"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "těm čtyřem"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "a tvář"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "orla"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "těm čtyřem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:37:12.430134845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "V pýše své ⟨bezbožný⟩ pronásleduje chudého; ať jsou chyceni v úkladech, ⟨které⟩ vymysleli.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "V pýše"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožný"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "pronásleduje"
+    },
+    {
+      "surface": "עני",
+      "gloss": "chudého"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "ať jsou chyceni"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "v úkladech"
+    },
+    {
+      "surface": "זו",
+      "gloss": "⟨které⟩"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "vymysleli"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:30.171980884Z",
+  "model": "glm-5.3"
+}

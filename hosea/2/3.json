@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Řekněte svým bratřím: „Ammi ⟨můj lid⟩“, a svým sestrám: „Ruama ⟨milovaná⟩“.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Řekněte"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "svým bratřím"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi ⟨můj lid⟩"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "a svým sestrám"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruama ⟨milovaná⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:34.569547655Z",
+  "model": "glm-5.3"
+}

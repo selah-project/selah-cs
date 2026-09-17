@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "A Jahve byl ⟨s⟩ Josefem ⟨את⟩, a ⟨provinul⟩ k němu milosrdenství, a dal mu nalézt přízeň v očích přednosty domu vězení.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a byl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefem"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "a ⟨provinul⟩"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "milosrdenství"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "přízeň"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "שר",
+      "gloss": "přednosty"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "vězení"
+    }
+  ],
+  "timestamp": "2026-09-17T06:11:48.655571795Z",
+  "model": "glm-5.3"
+}

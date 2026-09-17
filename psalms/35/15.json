@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A když jsem klopýtal, radovali se a shromáždili se; shromáždili se proti mně ranitelé — a nevěděl jsem; trhali a neumlkli.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "A když jsem klopýtal"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "radovali se"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "a shromáždili se"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "shromáždili se"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "ranitelé"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "věděl jsem"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "trhali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "umlkli"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:56.962867792Z",
+  "model": "glm-5.3"
+}

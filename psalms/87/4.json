@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 87,
+  "translation": "Připomenu Rahaba a Babylon těm, kdo mě znají; hle, Plešeť a Cór s Kúšem — tento ⟨tam⟩ se narodil.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Připomenu"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahaba"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "a Babylon"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "těm, kdo mě znají"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Plešeť"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "a Cór"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kúšem"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "se narodil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:51.968586218Z",
+  "model": "glm-5.3"
+}

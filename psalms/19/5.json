@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Do celé země vyšel jejich šňůra ⟨a⟩ k okraji světa jejich slova; slunci v nich postavil stan.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "do celé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "קום",
+      "gloss": "jejich šňůra"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "a k okraji"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "světa"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "jejich slova"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "slunci"
+    },
+    {
+      "surface": "שם",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:55.583997477Z",
+  "model": "glm-5.3"
+}

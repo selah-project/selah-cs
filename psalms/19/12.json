@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Také tvůj služebník je skrze ně varován; v jejich zachovávání ⟨je⟩ odměna veliká.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvůj služebník"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "varován"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "skrze ně"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "v jejich zachovávání"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "odměna"
+    },
+    {
+      "surface": "רב",
+      "gloss": "veliká"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:05.882870912Z",
+  "model": "glm-5.3"
+}

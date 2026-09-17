@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A řekl jsem: Kam jdeš? A řekl mi: Změřit ⟨את⟩ Jeruzalém, abych viděl, jaká je jeho šíře a jaká jeho délka.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "a řekl jsem"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "jdeš"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "למד",
+      "gloss": "změřit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalém"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "abych viděl"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "jaká"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "jeho šíře"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "a jaká"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "jeho délka"
+    }
+  ],
+  "timestamp": "2026-09-17T11:09:49.209225957Z",
+  "model": "glm-5.3"
+}

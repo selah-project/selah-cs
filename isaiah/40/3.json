@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Hlas volajícího: Na poušti připravte cestu Jahve, v arábě urovnejte výšinnou cestu pro našeho Elohima.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Hlas"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "volajícího"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "Na poušti"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "připravte"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "urovnejte"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "v arábě"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "výšinnou cestu"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "pro našeho Elohima"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:20.299433734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Ráno rozkvétá a přechází, večer se seká a vadne.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Ráno"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "rozkvétá"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "a přechází"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "se seká"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "a vadne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:01.230598915Z",
+  "model": "glm-5.3"
+}

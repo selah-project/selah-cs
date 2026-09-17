@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "A říkají: ⟨Jak⟩ by El věděl? A je-li poznání u Nejvyššího?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "A říkají"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "⟨Jak⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "by věděl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "A je-li"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "poznání"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "u Nejvyššího"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:09.278699407Z",
+  "model": "glm-5.3"
+}

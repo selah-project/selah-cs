@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 148,
+  "translation": "Ať chválí ⟨את⟩ jméno Jahve, neboť jeho jméno je samo vyvýšeno, jeho nádhera je nad zemí i nad nebesy.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Ať chválí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jméno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "je vyvýšeno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "samo"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "jeho nádhera"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemí"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "i nad nebesy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:08.983231164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Pět z vás pronikne za stovkou a sto z vás za deseti tisíci pronikne; a padnou vaši nepřátelé před vámi pod mečem.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "pronikne"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "z vás"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pět"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "stovkou"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "a sto"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "z vás"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "za deseti tisíci"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "pronikne"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "a padnou"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vaši nepřátelé"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "před vámi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "pod mečem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:57.544236810Z",
+  "model": "glm-5.3"
+}

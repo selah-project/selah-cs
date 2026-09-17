@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A vy, kteří lpíte na Jahve, svém Elohim, žíte dnes všichni.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "A vy"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "kteří lpíte"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "svém Elohim"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "žijete"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:16.849329975Z",
+  "model": "glm-5.3"
+}

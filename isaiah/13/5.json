@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 13:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Přicházejí ze země daleké, od konce ⟨nebes⟩ — Jahve a nástroje jeho hněvu, aby zhubil celou ⟨zemi⟩.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "Přicházejí"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "daleké"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "od konce"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨nebes⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "a nástroje"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "jeho hněvu"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "aby zhubil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨zemi⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:05.991833061Z",
+  "model": "glm-5.3"
+}

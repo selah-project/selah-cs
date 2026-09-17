@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Toulá se ⟨a hledá⟩ chléb — kde ⟨je⟩? Ví, že den temnoty je připraven v jeho ruce.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "Toulá se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "za chlebem"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kde ⟨je⟩?"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Ví"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "je připraven"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v jeho ruce"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "temnoty"
+    }
+  ],
+  "timestamp": "2026-09-17T09:47:40.152680132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 83,
+  "translation": "Řekli: „Pojďme, ať je vyhladíme ⟨jako⟩ národ, a ať jméno Izraele není připomínáno už ⟨nikdy⟩.“",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Řekli"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Pojďme"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "ať je vyhladíme"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "jako národ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ať ne"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "je připomínáno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    }
+  ],
+  "timestamp": "2026-09-17T13:08:25.301771622Z",
+  "model": "glm-5.3"
+}

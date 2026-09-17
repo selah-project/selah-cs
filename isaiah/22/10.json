@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A ⟨את⟩ domy Jeruzaléma jste spočítali a domy jste zbořili, abyste opevnili zeď.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "domy"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "domy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "jste spočítali"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "a zbořili jste"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "domy"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "abyste opevnili"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "zeď"
+    }
+  ],
+  "timestamp": "2026-09-17T08:06:14.184761756Z",
+  "model": "glm-5.3"
+}

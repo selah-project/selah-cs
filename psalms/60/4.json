@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 60,
+  "translation": "Roztreštil jsi zemi, rozpáral jsi ji; zahoj její trhliny, vždyť se kymácí!",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Roztreštil jsi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "rozpáral jsi ji"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "zahoj"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "její trhliny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "se kymácí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:04.899370910Z",
+  "model": "glm-5.3"
+}

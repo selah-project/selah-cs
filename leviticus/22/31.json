@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A budete střežit má přikázání a budete ⟨je⟩ činit ⟨את⟩; já ⟨jsem⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "A budete střežit"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "má přikázání"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "a budete činit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:07.963775141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Abramovi bylo sto let, když se mu narodil ⟨את⟩ Izák, jeho syn.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "A Abramovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bylo… let"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "když se narodil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izáka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Izák"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syn"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:33.843938894Z",
+  "model": "glm-5.3"
+}

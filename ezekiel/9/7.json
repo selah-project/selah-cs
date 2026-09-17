@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A řekl jim: Znesvěťte ⟨את⟩ dům a naplňte ⟨את⟩ nádvoří zabitými; vyjděte! A vyšli a bili v městě.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "Znesvěťte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "a naplňte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nádvoří"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "nádvoří"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "zabitými"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "vyjděte"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "A vyšli"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "a bili"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v městě"
+    }
+  ],
+  "timestamp": "2026-09-17T08:41:18.870654789Z",
+  "model": "glm-5.3"
+}

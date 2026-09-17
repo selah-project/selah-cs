@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Zdali nemá ⟨jen⟩ boj ⟨přidělen⟩ smrtelníku na zemi, a jako dny nájemníka ⟨jsou⟩ jeho dny?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "zdali ne"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "boj"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "smrtelníkovi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "a jako dny"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "nájemníka"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jeho dny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:34.686692598Z",
+  "model": "glm-5.3"
+}

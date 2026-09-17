@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A vojsko Kasdim stíhalo krále a dostihlo ⟨את⟩ ho v aravotských pláních Jericha; a celé jeho vojsko se rozprchlo od něj.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "a stíhalo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vojsko"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "za"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "a dostihlo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "v pláních"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jericha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celé"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "jeho vojsko"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "rozprchlo se"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "od něj"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:53.833137634Z",
+  "model": "glm-5.3"
+}

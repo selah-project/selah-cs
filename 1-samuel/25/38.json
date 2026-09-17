@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Stalo se po deseti dnech, že Jahve udeřil ⟨את⟩ Nabala a on zemřel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "po deseti"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dnech"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "že udeřil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabala"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabala"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a on zemřel"
+    }
+  ],
+  "timestamp": "2026-09-17T07:29:51.005861916Z",
+  "model": "glm-5.3"
+}

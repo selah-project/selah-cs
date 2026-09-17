@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Vaši otcové — kde ⟨jsou⟩? A proroci, zda budou žít navěky?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "vaši otcové"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kde"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨jsou⟩"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "a proroci"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "zdaka navěky"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "budou žít"
+    }
+  ],
+  "timestamp": "2026-09-17T09:06:51.387071487Z",
+  "model": "glm-5.3"
+}

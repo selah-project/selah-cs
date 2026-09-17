@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I řekl: Vrať svou ruku do svého ḽůna. Vrátil svou ruku do svého ḽůna, vytáhl ji z ḽůna — a hle, byla navrácena jako jeho ⟨ostatní⟩ tělo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "השב",
+      "gloss": "vrať"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "svého ḽůna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "svého ḽůna"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "a vytáhl ji"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "ze svého ḽůna"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "byla navrácena"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "jako jeho tělo"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:38.028953530Z",
+  "model": "glm-5.3"
+}

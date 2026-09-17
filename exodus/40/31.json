@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A umývali z něj Mojžíš, Áron a jeho synové ⟨את⟩ své ruce a ⟨את⟩ své nohy.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "a umývali"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Áron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "a jeho synové"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své ruce"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "své ruce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "své nohy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:32.139413949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A přiběhl k Élimu a řekl: Hle, ⟨jsem⟩ zde, neboť jsi mě zavolal. Ale ⟨Eli⟩ řekl: Nezavolal jsem ⟨tě⟩; vrať se, lehni si. A šel a lehl si.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "a přiběhl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Élimu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hle, ⟨jsem⟩ zde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "jsi zavolal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mě"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "zavolal jsem"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vrať se"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lehni si"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "a lehl si"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:58.277059508Z",
+  "model": "glm-5.3"
+}

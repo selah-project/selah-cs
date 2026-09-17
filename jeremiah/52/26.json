@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "A vzal ⟨את⟩ je Nebúzaradan, velký kuchař ⟨tělesné stráže⟩, a vedl ⟨את⟩ je ke králi babelskému, do Ribly.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "vzalomě — zajatce"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebúzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velký"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "kuchař ⟨tělesné stráže⟩"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a vedl"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "ke králi babelskému — zajatce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babelskému"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "do Ribly"
+    }
+  ],
+  "timestamp": "2026-09-17T08:36:57.504150843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Vezmi ⟨prosím⟩ ⟨את⟩ mé požehnání, které ti bylo přineseno, neboť Elohim mi byl milostiv, a protože mám všechno. A nutil ⟨ho⟩, a ⟨Esav⟩ to vzal.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Vezmi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mé požehnání"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "mé požehnání"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "bylo přineseno"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mi byl milostiv"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "a protože"
+    },
+    {
+      "surface": "יש",
+      "gloss": "mám"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "nutil"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "vzal"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:09.651079429Z",
+  "model": "glm-5.3"
+}

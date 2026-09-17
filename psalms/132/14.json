@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 132,
+  "translation": "„Toto ⟨je⟩ mé odpočinutí na věky věků; zde budu bydlet, neboť jsem ji zatoužil.“",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "mé odpočinutí"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "עד",
+      "gloss": "věků"
+    },
+    {
+      "surface": "פה",
+      "gloss": "zde"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "budu bydlet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "jsem ji zatoužil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:25.761768840Z",
+  "model": "glm-5.3"
+}

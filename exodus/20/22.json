@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "I řekl Jahve Mojžíšovi: Takto řekneš synům Izraele: Vy jste viděli, že z ⟨nebes⟩ jsem mluvil s vámi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "takto"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "řekneš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "jste viděli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨nebes⟩"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jsem mluvil"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vámi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:36.737442041Z",
+  "model": "glm-5.3"
+}

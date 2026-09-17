@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Když Adonaj smyje ⟨את⟩ nečistotu dcer Sijónu a ⟨את⟩ krev Jeruzaléma vymije z jeho středu, duchem soudu a duchem spalujícím —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Když"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "smyje"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nečistotu dcer Sijónu"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "nečistotu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dcer"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijónu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "krev Jeruzaléma"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krev"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "vymije"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "z jeho středu"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "duchem"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "soudu"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "a duchem"
+    },
+    {
+      "surface": "בער",
+      "gloss": "spalujícím"
+    }
+  ],
+  "timestamp": "2026-09-17T08:02:28.883419791Z",
+  "model": "glm-5.3"
+}

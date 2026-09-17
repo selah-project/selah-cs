@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Společně proti mně šeptají všichni, kdo mě nenávidí; proti mně plánují zlo ⟨pro mě⟩:",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Společně"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "šeptají"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "kdo mě nenávidí"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "plánují"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨pro mě⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:34.716906906Z",
+  "model": "glm-5.3"
+}

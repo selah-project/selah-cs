@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Neboť hle, číhá na mou duši, shromažďují se proti mně silní — ne pro mou vzpouru ani pro můj hřích, Jahve!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "číhá"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "na mou duši"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "shromažďují se"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "silní"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pro mou vzpouru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani pro"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "můj hřích"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:05.617705357Z",
+  "model": "glm-5.3"
+}

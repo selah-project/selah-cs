@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Když se tě zítra zeptá tvůj syn a řekne: Co znamenají ⟨ta⟩ svědectví a ustanovení a práva, která přikázal Jahve, náš Elohim, ⟨אתכם⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "se tě zeptá"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvůj syn"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "zítra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekne"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "a ustanovení"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "a práva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "vám"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:31.757742979Z",
+  "model": "glm-5.3"
+}

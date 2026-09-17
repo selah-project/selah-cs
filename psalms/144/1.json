@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "Davidův. Požehnaný ⟨je⟩ Jahve, má skálo, ten, jenž učí mé ruce k boji, mé prsty k válce.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Požehnaný"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "má skálo"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ten, jenž učí"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mé ruce"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "k boji"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "mé prsty"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "k válce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:55.729129058Z",
+  "model": "glm-5.3"
+}

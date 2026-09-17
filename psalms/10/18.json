@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "abys rozsoudil sirotka a utlačeného, aby už smrtelný ze země neděsil ⟨více⟩ —",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "abys rozsoudil"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "sirotka"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "a utlačeného"
+    },
+    {
+      "surface": "בל",
+      "gloss": "aby už ne"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "přidal"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "více"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "děsit"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtelný"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:55.335349323Z",
+  "model": "glm-5.3"
+}

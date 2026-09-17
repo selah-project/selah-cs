@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Vždyť i kdyby člověk žil mnoho let, ať se raduje ve všech ⟨z nich⟩, ale ať pamatuje ⟨את⟩ dny temnoty, neboť budou mnohé — vše, co přichází, je hebel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "אם",
+      "gloss": "i kdyby"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mnoho"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "žil by"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "ve všech"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ať se raduje"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "ať pamatuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dny"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "temnoty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mnohé"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "budou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "co přichází"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:27.631645034Z",
+  "model": "glm-5.3"
+}

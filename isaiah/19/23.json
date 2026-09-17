@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "V onen den bude cesta z Egypta do Asýrie, a Asýrie přijde do Egypta a Egypt do Asýrie, a Egypt bude sloužit ⟨s⟩ ⟨את⟩ Asýrií.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "V den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "cesta"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "do Asýrie"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "a přijde"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asýrie"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "a Egypt"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "do Asýrie"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "a bude sloužit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asýrií"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asýrií"
+    }
+  ],
+  "timestamp": "2026-09-17T08:05:54.399097881Z",
+  "model": "glm-5.3"
+}

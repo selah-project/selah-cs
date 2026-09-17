@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A prorokem vyvedl Jahve ⟨את⟩ Izraele z Egypta, a prorokem byl střežen.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "A prorokem"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "vyvedl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "a prorokem"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "byl střežen"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:57.714972612Z",
+  "model": "glm-5.3"
+}

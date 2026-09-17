@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A slovo krále zvítězilo nad Joabem, a vyšel Joab a prošel celým Izraelem a přišel do Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "a slovo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "zvítězilo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabem"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "a prošel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "celým"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T11:24:30.454337054Z",
+  "model": "glm-5.3"
+}

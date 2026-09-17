@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 98,
+  "translation": "Žalm. Zpívejte Jahvovi píseň novou, neboť učinil divy, spásu ⟨mu⟩ způsobilа jeho pravice a jeho svatá paže.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Žalm"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Zpívejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "divy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "způsobilа spásu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mu⟩"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "jeho pravice"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "a paže"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "jeho svatá"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:17.428037357Z",
+  "model": "glm-5.3"
+}

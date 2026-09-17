@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekly jí: ⟨Jistě⟩ s ⟨את⟩ tebou se vrátíme k tvému lidu.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "a řekly"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨jistě⟩"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tebou"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "se vrátíme"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "k tvému lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:55:30.368557308Z",
+  "model": "glm-5.3"
+}

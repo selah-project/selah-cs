@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Elohime, ty znáš mou pošetilost, a mé viny před tebou nejsou skryty.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znáš"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "mé pošetilosti"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "a mé viny"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "jsou skryty"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:13.698710085Z",
+  "model": "glm-5.3"
+}

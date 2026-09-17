@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "I řekl Mojžíš lidu: Pamatuj ⟨את⟩ ten den ⟨tomto⟩, kdy jste vyšli z Egypta, z domu otroctví, neboť silnou rukou vás vyvedl Jahve ⟨את⟩ odtud; a kvašené ⟨se⟩ nesmí jíst.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨tomuto⟩"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Pamatuj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ten den"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ten den"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨tomto⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdy"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "jste vyšli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "otroctví"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "silnou"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "vyvedl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "nesmí jíst"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "kvašené"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:42.032342074Z",
+  "model": "glm-5.3"
+}

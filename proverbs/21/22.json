@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Moudrý vystoupil ⟨proti⟩ městu hrdinů a strhl pevnost jeho důvěry.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "městu"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "hrdinů"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "vystoupil ⟨proti⟩"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "Moudrý"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a strhl"
+    },
+    {
+      "surface": "עז",
+      "gloss": "pevnost"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "jeho důvěry"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:43.245831456Z",
+  "model": "glm-5.3"
+}

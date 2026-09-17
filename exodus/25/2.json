@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Mluv k synům Izraele, ať vezmou mi dar ⟨את⟩; od každého muže, jehož srdce jej nadchne, vezmete ⟨את⟩ můj dar.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mluv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ať vezmou"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jehož"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "nadchne"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "vezmete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "můj dar"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "můj dar"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:52.651153289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 35:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "I řekl Jákob svému domu a všem, kdo byli s ním: Odstraňte ⟨את⟩ cizí bohy, kteří jsou mezi vámi, a očistěte se a změňte svá roucha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svému domu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svému domu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a všem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vším"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "הסרו",
+      "gloss": "Odstraňte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cizí bohy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bohy"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "cizí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "mezi vámi"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "a očistěte se"
+    },
+    {
+      "surface": "והחליפו",
+      "gloss": "a změňte"
+    },
+    {
+      "surface": "שמלתיכם",
+      "gloss": "svá roucha"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:58.147817280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Cítí ke mně ohavnost, vzdálili se ode mě a přede mou tváří nešetřili sliny.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "cítí ke mně ohavnost"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "vzdálili se"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ode mě"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "a přede mou tváří"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "šetřili"
+    },
+    {
+      "surface": "רק",
+      "gloss": "slinu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:51:01.948196805Z",
+  "model": "glm-5.3"
+}

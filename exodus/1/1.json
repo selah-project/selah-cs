@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A tato ⟨jsou⟩ jména synů Izraele, kteří přišli do Egypta: ⟨את⟩ Jákoba, každý muž a jeho dům, přišli.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A tato"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jména"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "kteří přišli"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jákoba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý muž"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "a jeho dům"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišli"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:43.913668191Z",
+  "model": "glm-5.3"
+}

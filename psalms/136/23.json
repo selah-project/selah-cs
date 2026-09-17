@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "Který si nás v našem ponížení vzpomněl, neboť na věky ⟨trvá⟩ jeho chesed.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "v našem ponížení"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "si vzpomněl"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nás"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:11.024221082Z",
+  "model": "glm-5.3"
+}

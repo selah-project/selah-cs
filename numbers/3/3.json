@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Tohle ⟨jsou⟩ jména synů Árona, pomazaných kněží, jejichž ruce ⟨on⟩ naplnil ⟨k⟩ vykonávání kněžské služby.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Tohle"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jména"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "pomazaných"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jejichž"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "naplnil"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "jim ruce"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "vykonávat kněžskou službu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:34.935462814Z",
+  "model": "glm-5.3"
+}

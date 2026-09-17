@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A uděláš ⟨את⟩ její lampy, sedm, a vyvýšíš ⟨את⟩ její lampy, aby svítily přesně před její tvář.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "a uděláš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její lampy"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "její lampy"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "a vyvýšíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její lampy"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "její lampy"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "aby svítily"
+    },
+    {
+      "surface": "על",
+      "gloss": "před"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "přesně naproti"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "její tvář"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:27.696603184Z",
+  "model": "glm-5.3"
+}

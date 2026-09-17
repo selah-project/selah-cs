@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 25:7",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A jestliže muž nebude chtít vzít ⟨את⟩ svou švagrovou, pak jeho švagrová vystoupí k bráně, ke starším, a řekne: ‚Můj švagr odmítá povznést bratrovi jméno v Izraeli; nechce vykonat povinnost mého švagra.‘",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A jestliže"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "bude chtít"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "vzít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou švagrovou"
+    },
+    {
+      "surface": "יבמתו",
+      "gloss": "svou švagrovou"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "vystoupí"
+    },
+    {
+      "surface": "יבמתו",
+      "gloss": "jeho švagrová"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "k bráně"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "starším"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "a řekne"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "odmítá"
+    },
+    {
+      "surface": "יבמי",
+      "gloss": "můj švagr"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "povznést"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "bratrovi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Izraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nechce"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "souhlasit"
+    },
+    {
+      "surface": "יבמי",
+      "gloss": "vykonat povinnost švagra"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:46.122215457Z",
+  "model": "glm-5.3"
+}

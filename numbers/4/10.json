@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A dají ⟨את⟩ ni a ⟨את⟩ všechny její nádoby do pokrývky z kůže tachaše a dají ⟨to⟩ na nosítko.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "a dají"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ni (menoru)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechny její nádoby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "její nádoby"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "pokrývky"
+    },
+    {
+      "surface": "עור",
+      "gloss": "z kůže"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tachaše"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "a dají"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "nosítko"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:40.729790255Z",
+  "model": "glm-5.3"
+}

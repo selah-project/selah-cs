@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 14:27",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A vytáhl Mojžíš ⟨את⟩ svou ruku nad moře, a vrátilo se moře před úsvitem rána ke své síle; a Micrajim prchali naproti němu, a setřásl Jahve ⟨את⟩ Micrajim do středu moře.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "A vytáhl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátilo se"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "před (k) úsvitem"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rána"
+    },
+    {
+      "surface": "לאיתנו",
+      "gloss": "ke své síle"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "a Micrajim"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "prchali"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "naproti němu"
+    },
+    {
+      "surface": "וינער",
+      "gloss": "a setřásl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Micrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "do středu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:25.232535056Z",
+  "model": "glm-5.3"
+}

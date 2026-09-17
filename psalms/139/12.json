@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "i tma nezatemní před tebou a noc jako den rozzáří, tma je jako světlo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "nezatemní"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "před tebou (od tebe)"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "a noc"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jako den"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "rozzáří"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "tma"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "jako světlo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:17.038279367Z",
+  "model": "glm-5.3"
+}

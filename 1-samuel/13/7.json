@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A Hebrejci přešli ⟨את⟩ Jordán do země Gád a Gileádu; a Ša'úl byl ještě v Gilgalu a veškerý lid třásl se za ním.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "A Hebrejci"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "přešli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "do země"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gád"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "a Gileádu"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "a Ša'úl"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "byl ještě"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "v Gilgalu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a veškerý"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "třásl se"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za ním"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:32.911925254Z",
+  "model": "glm-5.3"
+}

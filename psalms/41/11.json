@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Ty pak, Jahve, smiluj se nade mnou a vztyč mě, a já ⟨jim⟩ to oplatím.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ty pak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "smiluj se nade mnou"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "a vztyč mě"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "a já to oplatím"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:21.521757259Z",
+  "model": "glm-5.3"
+}

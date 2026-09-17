@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A vzal David ⟨את⟩ zlaté štíty, které byly na sloužících Hadadezera, a přinesl ⟨je⟩ do Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlaté štíty"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "štíty"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlaté"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byly"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sloužících"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "a přinesl je"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T10:21:01.730431396Z",
+  "model": "glm-5.3"
+}

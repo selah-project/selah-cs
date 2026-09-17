@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "exodus 12:48",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A bude-li s ⟨את⟩ tebou pobývat cizinec a bude slavit pesach pro Jahve, obřezán musí být každý jeho samec — pak smí přijít a slavit jej, a bude jako rodák země; každý neobřezaný však z něj jíst nesmí.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a bude-li"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "pobývat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ (s) tebou",
+      "marks": "s tebou — předložkové את (H854, s), nikoli předmětné"
+    },
+    {
+      "surface": "גר",
+      "gloss": "cizinec"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a bude slavit"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    },
+    {
+      "surface": "המול",
+      "gloss": "obřezán musí být"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samec"
+    },
+    {
+      "surface": "ואז",
+      "gloss": "pak"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "smí přijít"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "slavit jej"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "jako rodák"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "neobřezaný"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "בו",
+      "gloss": "z něj"
+    }
+  ],
+  "timestamp": "2026-09-17T13:40:16.394918361Z",
+  "model": "glm-5.3"
+}

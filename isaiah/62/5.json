@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "Nebo jako se mládence žení panna, tak se s tebou ožení tvoji synové; a jako ⟨je⟩ radost ženicha nad nevěstou, tak se bude radovat nad tebou tvůj Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nebo jako"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "žení se"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "mládenec"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "panna"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "ožení se s tebou"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvoji synové"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "a jako radost"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ženich"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "nevěsta"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "bude se radovat"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad tebou"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:42.302744103Z",
+  "model": "glm-5.3"
+}

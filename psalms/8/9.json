@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Ptactvo nebes a ryby moře, ⟨to, co⟩ přechází stezky moří.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "Ptactvo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "a ryby"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "⟨to, co⟩ přechází"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "stezky"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "moří"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:41.144767994Z",
+  "model": "glm-5.3"
+}

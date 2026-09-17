@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "a že Jaakob uposlechl svého otce a svou matku a šel do Paddan-Aramu —",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a uposlechl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "svého otce (k)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otci"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "matce"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aramu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:55.171190044Z",
+  "model": "glm-5.3"
+}

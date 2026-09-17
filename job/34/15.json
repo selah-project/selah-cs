@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "vydechne posledním dechem veškeré ⟨tělo⟩ pospolu, a člověk se navrátí na prach.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "vydechne posledním dechem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tělo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "pospolu"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "a člověk"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prach"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se navrátí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:52:18.160970380Z",
+  "model": "glm-5.3"
+}

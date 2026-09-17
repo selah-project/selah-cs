@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Kdo zná ⟨jestli⟩ ducha synů člověka, ⟨ten⟩ stoupajícího vzhůru, a ducha dobytčete, ⟨ten⟩ sestupujícího dolů k zemi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "stoupajícího vzhůru"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ten⟩ jest"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "vzhůru"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "a ducha"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dobytčete"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "sestupujícího"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ten⟩ jest"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "dolů"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "k zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:23.804499066Z",
+  "model": "glm-5.3"
+}

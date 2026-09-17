@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Kdo chodí v prostotě ⟨srdce⟩, chodí v bezpečí; kdo však kriví své cesty, bude odhalen.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Kdo chodí"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "v prostotě ⟨srdce⟩"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "chodí"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "v bezpečí"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "kdo však kriví"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "své cesty"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bude odhalen"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:10.285152773Z",
+  "model": "glm-5.3"
+}

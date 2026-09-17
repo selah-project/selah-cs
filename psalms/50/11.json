@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Znám každé ptactvo hor, a co se hýbe v poli — se mnou ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Znám"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každé"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactvo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hor"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "a co se hýbe (země)"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "v poli"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "se mnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:28.772274712Z",
+  "model": "glm-5.3"
+}

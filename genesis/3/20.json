@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A člověk nazval jménem své ženy Chava, neboť ona se stala matkou všech živých.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "A nazval"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jménem"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "své ženy"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "se stala"
+    },
+    {
+      "surface": "אם",
+      "gloss": "matkou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živých"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:22.435638904Z",
+  "model": "glm-5.3"
+}

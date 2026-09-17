@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A pokorní zdědí zemi a budou se kochat v hojnosti pokojů.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "a pokorní"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "zdědí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "a budou se kochat"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hojnosti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokojů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:05.017779677Z",
+  "model": "glm-5.3"
+}

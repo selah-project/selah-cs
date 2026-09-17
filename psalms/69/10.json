@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Neboť žárlost pro tvůj dům mě pohltila, a potupy tych, kteří tě potupují, padly na mě.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "žárlost"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "pro tvůj dům"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "mě pohltila"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "a potupy"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "tych, kteří tě potupují"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padly"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:57.681051728Z",
+  "model": "glm-5.3"
+}

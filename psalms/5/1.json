@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Pro vedoucího ⟨chorvatu⟩, na ⟨nehilot⟩, žalm Davidův.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro vedoucího ⟨chorvatu⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "⟨nehilot⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "žalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:21.826708650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "A Josef zemřel ve věku sto deseti let; a nabalsamovali ⟨את⟩ jej a byl uložen v rakvi v Egyptě.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ve věku ⟨doslova „syn“⟩"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "deseti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "a nabalsamovali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jej"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "a byl uložen"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "v rakvi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Egyptě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:54.044661322Z",
+  "model": "glm-5.3"
+}

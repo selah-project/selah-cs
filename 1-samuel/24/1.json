@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A David vyšel odtud a bydlel v pevnostech Ejn-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a bydlel"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "v pevnostech"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ejn-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:41.147707067Z",
+  "model": "glm-5.3"
+}

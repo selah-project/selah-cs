@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A stalo se ve třetím roce, že sestoupil Jóšafat, král Judska, ke králi Izraele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "v roce"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "třetím"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "že sestoupil"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jóšafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judska"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:51:35.855562431Z",
+  "model": "glm-5.3"
+}

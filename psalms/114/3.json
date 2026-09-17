@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 114,
+  "translation": "Moře vidělo a uteklo, Jordán se obrátil zpět.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidělo"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "a uteklo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "se obrátil"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "zpět"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:56.303023039Z",
+  "model": "glm-5.3"
+}

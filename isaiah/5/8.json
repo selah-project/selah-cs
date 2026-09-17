@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Běda těm, kteří připojují dům k domu, pole k poli přibližují, až nezbyde místo ⟨žádné⟩ — a budete usazeni sami sami ⟨uprostřed⟩ země!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "těm, kteří připojují"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "k domu"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "k poli"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "přibližují"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "nezbyde ⟨žádné⟩"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "a budete usazeni"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "sami"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "⟨uprostřed⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T08:03:16.651930206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Velmi vyper mě z mé vinny viny a od mého hříchu mě očisti.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Velmi"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "vyper mě"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "z mé viny"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "a od mého hříchu"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "mě očisti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:32.071600545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A vezmou z krve a dají ⟨ji⟩ na obě veřejě a na nadpraží ⟨na⟩ domy, v nichž budou jíst ⟨את⟩ ho.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "a vezmou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krve"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "a dají"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "obě"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "veřejě (sloupky dveří)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "nadpraží"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨na⟩ (u)"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "domů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v nichž"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "budou jíst"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:38.819455600Z",
+  "model": "glm-5.3"
+}

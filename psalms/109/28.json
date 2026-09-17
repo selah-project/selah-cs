@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Proklínají ⟨oni⟩, ale ty žehnáš; povstanou a budou zahanbeni, tvůj služebník však bude jásat.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "Proklínají"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨oni⟩"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ale ty"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "žehnáš"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "povstanou"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "a budou zahanbeni"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "tvůj služebník však"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bude jásat"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:22.278714965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A stane se, až vám řeknou vaši synové: Co je ⟨to⟩ za službu pro vás?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "a stane se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "až"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "řeknou"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vaši synové"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "služba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pro vás"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:26.071453887Z",
+  "model": "glm-5.3"
+}

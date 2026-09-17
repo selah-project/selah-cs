@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 75,
+  "translation": "Neboť povýšení ⟨není⟩ z východu, ani ze západu, ani z pouště ⟨se neděje⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "není"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "z východu"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ani ze západu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "z pouště"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "povýšení ⟨se neděje⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:53.689493247Z",
+  "model": "glm-5.3"
+}

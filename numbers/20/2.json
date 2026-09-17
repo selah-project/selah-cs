@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A nebylo vody pro ⟨obec⟩, a shromáždili se proti Mojžíšovi a proti Áronovi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "pro ⟨obec⟩"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "a shromáždili se"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a proti"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áronovi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:43:13.108325716Z",
+  "model": "glm-5.3"
+}

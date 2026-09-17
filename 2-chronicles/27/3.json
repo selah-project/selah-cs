@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "On vystavěl ⟨את⟩ horní bránu domu Jahve a na zdi Ofelu stavěl hojně.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "vystavěl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "horní bránu domu Jahve"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bránu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "horní"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "a na zdi"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ofelu"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "stavěl"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "hojně"
+    }
+  ],
+  "timestamp": "2026-09-17T10:30:04.676487502Z",
+  "model": "glm-5.3"
+}

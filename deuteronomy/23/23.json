@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A když se zdržíš slibovat, nebude v tobě vina.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a když"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "se zdržíš"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "slibovat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "vina"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:01.386391712Z",
+  "model": "glm-5.3"
+}

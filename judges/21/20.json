@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A přikázali ⟨את⟩ synům Benjamína takto: Jděte a ležte v záloze ve vinicích.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synům Benjamína"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamína"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "jděte"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "a ležte v záloze"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "ve vinicích"
+    }
+  ],
+  "timestamp": "2026-09-17T07:19:53.851006276Z",
+  "model": "glm-5.3"
+}

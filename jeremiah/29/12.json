@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Budete volat ⟨את⟩ mne, půjdete a modlit se budete ke mně, a já vás vyslyším.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Budete volat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mne"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "půjdete"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "modlit se budete"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "a já vyslyším"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vás"
+    }
+  ],
+  "timestamp": "2026-09-17T11:46:04.556705196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A synům Kehatovým nedal ⟨nic⟩, neboť služba svatyně ⟨je⟩ na nich: na rameni ponesou ⟨ji⟩.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "a synům Kehatovým"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatovým"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "služba"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "na nich"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "na rameni"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ponesou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:33.242840228Z",
+  "model": "glm-5.3"
+}

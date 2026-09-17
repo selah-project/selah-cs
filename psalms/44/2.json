@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Eloime, vlastními ušima jsme slyšeli, naši otcové nám vyprávěli ⟨o⟩ díle, které jsi vykonal za jejich dnů, za dnů dávných.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Eloime"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "vlastními ušima"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "jsme slyšeli"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "naši otcové"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "vyprávěli"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "⟨o⟩ díle"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "které jsi vykonal"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "za jejich dnů"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "za dnů"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "dávných"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:56.065224831Z",
+  "model": "glm-5.3"
+}

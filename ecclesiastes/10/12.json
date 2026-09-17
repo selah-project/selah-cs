@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Slova úst moudrého ⟨jsou⟩ milostivá, ale rty blázna jej polykají.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "פי",
+      "gloss": "úst"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrého"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milostivá (חן)"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "ale rty"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "blázna"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "jej polykají"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:25.156180476Z",
+  "model": "glm-5.3"
+}

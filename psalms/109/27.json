@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "A ⟨ať⟩ poznají, že tvoje ruka to ⟨je⟩ — ty, Jahve, jsi to učinil.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "A ⟨ať⟩ poznají"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvoje ruka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "jsi to učinil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:22.278589519Z",
+  "model": "glm-5.3"
+}

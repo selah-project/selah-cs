@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A řekl: Volal jsem z úzkosti své k Jahveovi a ⟨on⟩ mi odpověděl; z lůna šeolu volal jsem — tys vyslyšel hlas můj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Volal jsem"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "z úzkosti"
+    },
+    {
+      "surface": "לי",
+      "gloss": "své"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveovi"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "a odpověděl mi"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "z lůna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeolu"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "volal jsem"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "tys vyslyšel"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "hlas můj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:01:59.282125397Z",
+  "model": "glm-5.3"
+}

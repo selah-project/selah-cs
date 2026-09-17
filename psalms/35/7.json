@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Neboť zadarmo mi skryli jámu, svou síť; zadarmo kopali ⟨jámu⟩ proti mé duši.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zadarmo"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "skryli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "jámu"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "svou síť"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "zadarmo"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "kopali"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "proti mé duši"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:58.995674296Z",
+  "model": "glm-5.3"
+}

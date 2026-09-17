@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Pro předního zpěváka. Píseň, žalm. Jásejte Elohimovi, celá země!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "žalm"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Jásejte"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimovi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:01.173966440Z",
+  "model": "glm-5.3"
+}

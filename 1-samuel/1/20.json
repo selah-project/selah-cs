@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A stalo se, když se obrátily lhůty dnů, že Čanna počala a porodila syna; a nazvala ⟨את⟩ jeho jméno Šmuel, neboť „od Jahve jsem si ho vyžádala“.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "když se obrátily lhůty"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "že počala"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Čanna"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "a nazvala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šmuel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "od Jahve"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "jsem si ho vyžádala"
+    }
+  ],
+  "timestamp": "2026-09-17T13:39:56.611944032Z",
+  "model": "glm-5.3"
+}

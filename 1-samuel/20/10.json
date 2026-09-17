@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A David řekl Jónatánovi: Kdo ⟨mi⟩ to oznámí? Nebo co když ti tvůj otec odpoví tvrdě?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jónatánovi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "oznámí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "ti odpoví"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvůj otec"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tvrdě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:34.553363771Z",
+  "model": "glm-5.3"
+}

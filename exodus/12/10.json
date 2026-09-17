@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A nenechávat z něj nic do rána; co z něho zbyde do rána, ohněm spálíte.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "A nenechávat"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "necháte zbytkem"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rána"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "co zbyde"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rána"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "spálíte"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:25.029959976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "I seděli knížata, o mně rozmlouvali; tvůj služebník rozjímal o tvých ustanoveních.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "seděli"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "knížata"
+    },
+    {
+      "surface": "בי",
+      "gloss": "o mně"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "rozmlouvali"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvůj služebník"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "rozjímal"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "o tvých ustanoveních"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:59.671463126Z",
+  "model": "glm-5.3"
+}

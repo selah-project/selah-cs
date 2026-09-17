@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Nýbrž v Tóře Jahve ⟨je⟩ jeho zalíbení a v Tóře jeho přemítá dnem i nocí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nýbrž"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "v Tóře"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "jeho zalíbení"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "a v Tóře jeho"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "přemítá"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dnem"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i nocí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:09.777613863Z",
+  "model": "glm-5.3"
+}

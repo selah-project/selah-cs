@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "neboť Jahve, váš Elohim, ⟨je⟩ ten, který jde s vámi, aby bojoval za vás s vašimi nepřáteli, aby vás zachránil ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ten, který jde"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vámi"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "aby bojoval"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vás"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vašimi nepřáteli"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "aby zachránil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:03.787950198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Elohim byl ⟨s⟩ ⟨את⟩ tím chlapcem, a vyrostl a bydlel na poušti a stal se ⟨lukostřelcem⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a byl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tím chlapcem"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tím chlapcem"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "a vyrostl"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a bydlel"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stal se"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "rostoucím"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "lukostřelcem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:05.831866094Z",
+  "model": "glm-5.3"
+}

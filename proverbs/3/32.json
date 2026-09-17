@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Nebo ohavnost je Jahvemu křivák ⟨vybočený⟩, ale s ⟨את⟩ přímými ⟨je⟩ jeho tajemství ⟨důvěrná rada⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ohavnost"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "křivák"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ale ⟨את⟩ s",
+      "marks": "s přímými"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "přímými"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "jeho tajemství"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:59.691440823Z",
+  "model": "glm-5.3"
+}

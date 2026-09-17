@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A král Šalomoun miloval mnoho cizích žen, ⟨את⟩ dceru faraonovu, Moabitky, Ammonitky, Edomitky, Sidonky a Chetitky.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "A král"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miloval"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "cizí"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "mnoho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dceru faraonovu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonovu"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabitky"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Ammonitky"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomitky"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Sidonky"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Chetitky"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:27.490531209Z",
+  "model": "glm-5.3"
+}

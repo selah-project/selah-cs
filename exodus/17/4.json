@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Mojžíš tedy volal k Jahve a řekl: Co udělám s tímto lidem? Ještě málo a ukamenují mě!",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "volal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "udělám"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "s lidem"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tímto"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Ještě"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "málo"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "a ukamenují mě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:25.710448894Z",
+  "model": "glm-5.3"
+}

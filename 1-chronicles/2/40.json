@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Elasa zplodil ⟨את⟩ Sisemaje, a Sisemaj zplodil ⟨את⟩ Šaluma.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "A Elasa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisemaje"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sisemaj"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "a Sisemaj"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaluma"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Šalum"
+    }
+  ],
+  "timestamp": "2026-09-17T10:14:58.350286884Z",
+  "model": "glm-5.3"
+}

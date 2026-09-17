@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 91,
+  "translation": "Pouze svýma očima se ⟨budeš⟩ dív⟨at⟩ a odměnu ⟨kteřou dostanou⟩ bezbožníci ⟨uvidíš⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Pouze"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "svýma očima"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "se dív⟨at⟩"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "a odměnu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožníků"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "⟨uvidíš⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:51:07.026710540Z",
+  "model": "glm-5.3"
+}

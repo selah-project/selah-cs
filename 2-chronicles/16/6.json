@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Král Ása pak vzal ⟨את⟩ celý Judsko a odnesli ⟨את⟩ kamení rámské i ⟨את⟩ jeho dřevo, jimiž stavěl Baša, a vystavěl z nich ⟨את⟩ Gébu a ⟨את⟩ Micpu.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Ása"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý Judsko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judsko"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "odnesli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamení rámské"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kamení"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "rámské"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho dřevo"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "jeho dřevo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jimiž"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "stavěl"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baša"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "vystavěl"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gébu"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gébu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Micpu"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Micpu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:28:33.489149735Z",
+  "model": "glm-5.3"
+}

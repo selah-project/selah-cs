@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Zbláznili se knížata Coanu, oklamána jsou knížata Nofu; oni svedli ⟨את⟩ Egypt, ⟨totiž⟩ roh kmenů jeho.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "zbláznili se"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knížata"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Coanu"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "oklamána jsou"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "knížata"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nofu"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "svedli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egypt"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "roh"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "kmenů jeho"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:50.173594339Z",
+  "model": "glm-5.3"
+}

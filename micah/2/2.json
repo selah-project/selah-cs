@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A dychtí po polích a zabírají je, a po domech — a odnášejí je; týrají muže i jeho dům, člověka i jeho dědictví.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "a dychtí"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "po polích"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "a zabírají je"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "a po domech"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "a odnášejí je"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "týrají"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "muže"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "i jeho dům"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "i jeho dědictví"
+    }
+  ],
+  "timestamp": "2026-09-17T09:03:20.779539464Z",
+  "model": "glm-5.3"
+}

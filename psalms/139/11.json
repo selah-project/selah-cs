@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "A řeknu-li: „Jistě mě přikryje tma, a noc ať je mi světlem kolem mě“ —",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "a řeknu-li"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tma"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "mě přikryje (doslova se na mě vrhne)"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "a noc"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světlo (bude)"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "kolem mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:17.038021701Z",
+  "model": "glm-5.3"
+}

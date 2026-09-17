@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "I rozkázal král, a udělali ⟨jednu⟩ schránku a postavili ji u brány domu Jahve, venku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "rozkázal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "a udělali"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "schránku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "a postavili ji"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "u brány"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "venku"
+    }
+  ],
+  "timestamp": "2026-09-17T10:29:41.882143204Z",
+  "model": "glm-5.3"
+}

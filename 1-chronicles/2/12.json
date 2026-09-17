@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Bóaz zplodil ⟨את⟩ Óbeda; a Óbed zplodil ⟨את⟩ Jišaje.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "A Bóaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Óbeda"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Óbeda"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "a Óbed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jišaje"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaje"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:11.981874021Z",
+  "model": "glm-5.3"
+}

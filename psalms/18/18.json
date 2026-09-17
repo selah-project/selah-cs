@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Vytáhl mě od nepřítele mého silného a ⟨od⟩ těch, kdo mě nenáviděli, neboť byli silnější nežli já.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Vytáhl mě"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "od nepřítele mého"
+    },
+    {
+      "surface": "עז",
+      "gloss": "silného"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "a ⟨od⟩ těch, kdo nenáviděli mě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "byli silnější"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nežli já"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:16.244279060Z",
+  "model": "glm-5.3"
+}

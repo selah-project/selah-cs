@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A rozprostřel ⟨את⟩ ji přede mnou, a ⟨je⟩ popsána zepředu i zezadu, a napsáno na ní: nářky, smutek a běda.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "a rozprostřel"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ji (svitek)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "a ⟨ona⟩"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "popsána"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "zepředu"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "i zezadu"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "a napsáno"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "na ní"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "nářky"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "smutek"
+    },
+    {
+      "surface": "והי",
+      "gloss": "a běda"
+    }
+  ],
+  "timestamp": "2026-09-17T08:37:38.452194627Z",
+  "model": "glm-5.3"
+}

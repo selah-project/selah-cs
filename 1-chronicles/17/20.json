@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Jahve, není nikoho jako ty a není Elohim mimo tebe, ve všem, co jsme slyšeli svýma ušima.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není nikoho"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jako ty"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "mimo tebe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "jsme slyšeli"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "svýma ušima"
+    }
+  ],
+  "timestamp": "2026-09-17T11:24:27.081143326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A uložili ⟨את⟩ jeho zbroj do domu Aštarot a ⟨את⟩ jeho tělo přibili na hradbu Bét-šanu.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "a uložili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho zbroj"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jeho zbroj"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Aštarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho tělo"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "jeho tělo"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "přibili"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "na hradbu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bét-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "-šanu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:31:53.396216354Z",
+  "model": "glm-5.3"
+}

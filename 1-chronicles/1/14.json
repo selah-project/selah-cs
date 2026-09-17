@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "a ⟨את⟩ Jebuseje a ⟨את⟩ Emoreje a ⟨את⟩ Girgašeje.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Jebuseje"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jebuseje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Emoreje"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoreje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Girgašeje"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgašeje"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:02.816422999Z",
+  "model": "glm-5.3"
+}

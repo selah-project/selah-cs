@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Když ustanovil svá znamení v Egyptě a svá zázraky na poli Coanu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ustanovil"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Egyptě"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "svá znamení"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "a svá zázraky"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Coanu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:16.906632708Z",
+  "model": "glm-5.3"
+}

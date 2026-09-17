@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A udělal ⟨את⟩ dům výšin a učinil kněze z konců ⟨the⟩ lidu, kteří nebyli ze synů Léviho.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "במות",
+      "gloss": "výšin"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "z konců"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ze synů"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Léviho"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:06.745606190Z",
+  "model": "glm-5.3"
+}

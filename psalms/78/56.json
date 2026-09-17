@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "A pokoušeli a vzpírali se ⟨את⟩ Elohim Nejvyššímu a jeho svědectví nebedli.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "a pokoušeli"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "a vzpírali se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Nejvyššímu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nejvyššímu"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "a jeho svědectví"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bedli"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:32.503603035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 97,
+  "translation": "Neboť ty, Jahve, jsi Nejvyšší nade vší ⟨zemí⟩; velmi jsi vyvýšen nade všemi bohy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nejvyšší"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vší"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemí"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "jsi vyvýšen"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všemi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bohy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:49.341866674Z",
+  "model": "glm-5.3"
+}

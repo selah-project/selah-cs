@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A vzala jsi ⟨את⟩ své syny a ⟨את⟩ své dcery, které jsi mi porodila, a obětovala jsi jim je k požírání. Je málo tvého smilnění?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "a vzala jsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své syny"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "své syny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "své dcery"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "své dcery"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "jsi porodila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "a obětovala jsi jim je"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "k požírání"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "Je málo"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "tvého smilnění"
+    }
+  ],
+  "timestamp": "2026-09-17T08:41:49.834203842Z",
+  "model": "glm-5.3"
+}

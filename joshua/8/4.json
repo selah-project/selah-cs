@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 8:4",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "I přikázal jim ⟨את⟩ tímto slovem: Hle, vy jste číhající ⟨proti⟩ městu, zezadu za městem; nevzdalujte se od města příliš a buďte všichni připraveni.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "jim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tímto slovem"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hle"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "jste číhající"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "⟨proti⟩ městu"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "zezadu za"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "městem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "vzdalujte se"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "příliš"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "a buďte"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "připraveni"
+    }
+  ],
+  "timestamp": "2026-09-17T07:07:24.837828149Z",
+  "model": "glm-5.3"
+}

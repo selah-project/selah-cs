@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A byl v ní nalezen jeden chudý moudrý muž, a on zachránil ⟨את⟩ ⟨to⟩ město svou moudrostí; ale žádný člověk si nevzpomněl na ⟨את⟩ toho chudého muže onoho.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "a byl nalezen"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "chudý"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrý"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "a zachránil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "město"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "svou moudrostí"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ale člověk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "vzpomněl si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chudého muže"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "chudého"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onen"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:37.316441628Z",
+  "model": "glm-5.3"
+}

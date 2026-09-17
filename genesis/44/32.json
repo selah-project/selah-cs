@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "neboť tvůj služebník se stal ručitelem ⟨את⟩ mladíka u otce svého, řka: Nepřivedu-li jej k tobě, budu hříšný proti otci svému po všechny dny.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvůj služebník"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "stal se ručitelem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mladíka"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mladíka"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "u"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otce svého"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "přivedu jej"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "budu hříšný"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "proti otci svému"
+    },
+    {
+      "surface": "כל",
+      "gloss": "po všechny"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dny"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:56.565822947Z",
+  "model": "glm-5.3"
+}

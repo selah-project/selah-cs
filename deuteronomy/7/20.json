@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "I ⟨את⟩ sršeň pošle Jahve, tvůj Elohim, proti nim, dokud nezahynou ti, kdo zůstali a kdo se skrývají před tebou.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sršeň"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "sršeň"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "pošle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "proti nim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "nezahynou"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ti, kdo zůstali"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "a kdo se skrývají"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "před tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:55:46.636052953Z",
+  "model": "glm-5.3"
+}

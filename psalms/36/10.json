@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Nebo u tebe ⟨je⟩ pramen života, ve tvém světle uvidíme světlo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u tebe"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "pramen"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "života"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "ve tvém světle"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "uvidíme"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světlo"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:16.318908778Z",
+  "model": "glm-5.3"
+}

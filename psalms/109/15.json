@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Ať jsou stále před Jahvem, aby vyhladil jejich památku ze země.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ať jsou"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "aby vyhladil"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "jejich památku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:57.778438073Z",
+  "model": "glm-5.3"
+}

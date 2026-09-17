@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Neboť takový pesach nebyl ⟨učiněn⟩ ode dnů soudců, kteří soudili ⟨את⟩ Izrael, ani za všech dnů králů Izraele a králů Judska.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "nebyl ⟨učiněn⟩"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "takový pesach"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "takový"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ode dnů"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "soudců"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "soudili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani za všech"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "a králů"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judska"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:11.926451350Z",
+  "model": "glm-5.3"
+}

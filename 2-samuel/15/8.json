@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Neboť slib zasliboval tvůj služebník, když jsem sídlil v Gušuru v Aramu, slovy: Jestliže mě Jahve navrátí, jistě mě navrátí do Jeruzaléma, budu sloužit ⟨את⟩ Jahvovi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "slib"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "zasliboval"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvůj služebník"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "když jsem sídlil"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "v Gušuru"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "v Aramu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "slovy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "navrátí"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "jistě mě navrátí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruzaléma"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "budu sloužit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvovi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvovi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:36:26.922897110Z",
+  "model": "glm-5.3"
+}

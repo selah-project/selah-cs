@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Buď jeho potomstvo ⟨k⟩ vyhlazení, v pokolení jiném budiž vymazáno jejich jméno.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "buď"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "jeho potomstvo"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "⟨k⟩ vyhlazení"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "v pokolení"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jiném"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "budiž vymazáno"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "jejich jméno"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:57.777922811Z",
+  "model": "glm-5.3"
+}

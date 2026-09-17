@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A král Egypta řekl hebrejským porodním, z nichž jméno jedné ⟨bylo⟩ Šifra a jméno druhé Púa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "porodním"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "hebrejským"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "z nichž"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jedné"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Šifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jméno"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "druhé"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Púa"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:38.804323445Z",
+  "model": "glm-5.3"
+}

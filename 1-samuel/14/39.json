@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 14:39",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Neboť živ je Jahve, který spasil ⟨את⟩ Izraele — i kdyby to byl Jonatán, můj syn, jistě zemře!“ Ale nikdo z celého lidu mu neodpověděl.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המושיע",
+      "gloss": "který spasil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "i"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kdyby"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "to byl"
+    },
+    {
+      "surface": "ביונתן",
+      "gloss": "Jonatán"
+    },
+    {
+      "surface": "בני",
+      "gloss": "můj syn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "Ale nikdo… ne"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "odpověděl mu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "z celého"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:07.275108397Z",
+  "model": "glm-5.3"
+}

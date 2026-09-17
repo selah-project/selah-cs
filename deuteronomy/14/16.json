@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "⟨את⟩výra, ⟨את⟩ kulíška a plcha",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "výra"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "výr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kulíška"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "kulíšek (sovička)"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "plch"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:50.879615397Z",
+  "model": "glm-5.3"
+}

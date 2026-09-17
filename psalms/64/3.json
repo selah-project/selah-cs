@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 64,
+  "translation": "Skryj mě před tajnou radou zlosynů, před vzbouřením původců ničemnosti.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Skryj mě"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "před tajnou radou"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zlosynů"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "před vzbouřením"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "původců"
+    },
+    {
+      "surface": "און",
+      "gloss": "ničemnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:16.004598330Z",
+  "model": "glm-5.3"
+}

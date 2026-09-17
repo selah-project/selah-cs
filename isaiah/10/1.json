@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Běda těm, kdo ustanovují nařízení nepravosti, a písařům, kdo píší útlak —",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "těm, kdo ustanovují"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "nařízení"
+    },
+    {
+      "surface": "און",
+      "gloss": "nepravosti"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "a písařům"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "útlak"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "píší"
+    }
+  ],
+  "timestamp": "2026-09-17T08:05:19.592964184Z",
+  "model": "glm-5.3"
+}

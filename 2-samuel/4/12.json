@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 4:12",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I přikázal David ⟨את⟩ mladíkům a zabili je, usekli ⟨את⟩ jejich ruce a ⟨את⟩ jejich nohy a pověsili je nad nádrží v Chevronu; ⟨את⟩ hlavu Iš-bošeta vzali a pochovali v hrobě Avnera v Chevronu.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "I přikázal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mladíkům"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "mladíkům"
+    },
+    {
+      "surface": "ויהרגום",
+      "gloss": "a zabili je"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "usekli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich ruce"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "jejich ruce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jejich nohy"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "jejich nohy"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "a pověsili je"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "nádrží"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "v Chevronu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hlavu Iš-bošeta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Iš-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "bošeta"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "vzali"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "a pochovali"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "v hrobě"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnera"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "v Chevronu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:55.952097006Z",
+  "model": "glm-5.3"
+}

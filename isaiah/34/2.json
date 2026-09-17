@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Neboť hněv ⟨je⟩ Jahvovi na všechny národy a prchlost na všechna jejich vojska: zadal ⟨je⟩ do cheremu, vydal ⟨je⟩ k porážce.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "hněv"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "a prchlost"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "jejich vojska"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "zadal ⟨je⟩ do cheremu"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "vydal ⟨je⟩"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "k porážce"
+    }
+  ],
+  "timestamp": "2026-09-17T10:58:52.956872307Z",
+  "model": "glm-5.3"
+}

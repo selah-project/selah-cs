@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Tak povede král aššurský ⟨את⟩ zajaté Egypta a ⟨את⟩ vyhnanství Kuše, mladíky i starce, nahé a bosé, s odhalenými zadnicemi — hanba Egypta.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "povede"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "aššurský"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zajaté Egypta"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "zajaté"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "vyhnanství Kuše"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "vyhnanství"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuše"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "mladíky"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "i starce"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "nahé"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "a bosé"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "s odhalenými"
+    },
+    {
+      "surface": "שת",
+      "gloss": "zadnicemi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "hanba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T08:06:45.398026896Z",
+  "model": "glm-5.3"
+}

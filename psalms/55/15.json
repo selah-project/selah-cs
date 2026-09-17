@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Kteří společně sladili ⟨naše⟩ tajné porady, v domě Elohim jsme chodili ve shromáždění.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "společně"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "sladili"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "tajné porady"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "chodili jsme"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "ve shromáždění"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:51.671731602Z",
+  "model": "glm-5.3"
+}

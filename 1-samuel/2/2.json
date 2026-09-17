@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Není svatého jako Jahve, neboť není nikdo kromě tebe, a není skály jako náš Elohim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Není"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svatého"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "jako Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není nikdo"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "kromě tebe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skály"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "jako náš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T07:20:47.951459276Z",
+  "model": "glm-5.3"
+}

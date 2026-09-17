@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A jestliže ten, kdo ⟨to⟩ posvětil, vykoupí ⟨את⟩ svůj dům, pak přidá pětinu stříbra tvého odhadu k tomu ⟨navíc⟩ a bude ⟨patřit⟩ jemu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "ten, kdo posvětil"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "vykoupí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj dům"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svůj dům"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "pak přidá"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "pětinu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbra"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "tvého odhadu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "k tomu ⟨navíc⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:52.528102816Z",
+  "model": "glm-5.3"
+}

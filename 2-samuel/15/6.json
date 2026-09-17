@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 15:6",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A činil Avšalom toto všemu Izraeli, každému, kdo přicházel k soudu ke králi; a Avšalom ukradl ⟨את⟩ srdce mužů Izraele.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A činil"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "toto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨toto⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všemu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "každému, kdo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "přicházel"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "k soudu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ויגנב",
+      "gloss": "a ukradl"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdce mužů Izraele"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:36:26.922586781Z",
+  "model": "glm-5.3"
+}

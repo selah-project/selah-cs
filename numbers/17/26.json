@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A učinil Mojžíš, jak přikázal Jahve ⟨את⟩ ⟨něj⟩, tak učinil.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A učinil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨něj⟩",
+      "marks": "Mojžíš (objekt přikázání)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:42:34.813557328Z",
+  "model": "glm-5.3"
+}

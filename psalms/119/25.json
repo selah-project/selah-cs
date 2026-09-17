@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Přilnula k prachu má duše; oživ mě podle svého slova.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "Přilnula"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "k prachu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "oživ mě"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "podle svého slova"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:49.247140433Z",
+  "model": "glm-5.3"
+}

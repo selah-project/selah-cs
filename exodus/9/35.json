@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A srdce faraona se zatvrdilo a nepustil ⟨את⟩ syny Izraele, jak mluvil Jahve rukou Mojžíše.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a zatvrdilo se"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pustil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    }
+  ],
+  "timestamp": "2026-09-17T13:01:05.941664559Z",
+  "model": "glm-5.3"
+}

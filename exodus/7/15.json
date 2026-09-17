@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 7:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Jdi k faraonovi ráno — hle, vychází k vodě — a postavíš se mu vstříc na břehu řeky; a hůl, která se proměnila v hada, vezmeš do své ruky.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonovi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vychází"
+    },
+    {
+      "surface": "המימה",
+      "gloss": "k vodě"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "a postavíš se"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "mu vstříc"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "břehu"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "řeky"
+    },
+    {
+      "surface": "והמטה",
+      "gloss": "a hůl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "se proměnila"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "v hada"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vezmeš"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "do své ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:51.289101460Z",
+  "model": "glm-5.3"
+}

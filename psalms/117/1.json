@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 117,
+  "translation": "Chvalte ⟨את⟩ Jahve, všechny národy, oslavujte ho, všechny kmeny!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chvalte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "oslavujte ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "kmeny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:09.394783657Z",
+  "model": "glm-5.3"
+}

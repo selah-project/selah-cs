@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Jahve, náš Elohim, s námi ⟨⟨⟩⟩ uzavřel smlouvu na Chorevu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "uzavřel (doslova 'zastřihl')"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "s námi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvu"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na Chorevu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:14.114866805Z",
+  "model": "glm-5.3"
+}

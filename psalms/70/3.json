@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 70,
+  "translation": "Ať se zastydí a hanbou se zarďí, kdo hledají mou duši; ať couvnou zpět a zahanbí se, kdo si přejí mé zlo!",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ať se zastydí"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "a hanbou se zarďí"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "kdo hledají"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji duši"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ať couvnou"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "zpět"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "a zahanbí se"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "kdo si přejí"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mého zla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:28.742919393Z",
+  "model": "glm-5.3"
+}

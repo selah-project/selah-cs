@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A archa Jahve byla v poli Pelištěnců sedm měsíců.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a byla"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "v poli"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištěnců"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "měsíců"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:27.572798313Z",
+  "model": "glm-5.3"
+}

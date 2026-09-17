@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A když Aram viděl, že byl poražen před tváří Izraele, shromáždili se ⟨společně⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a když viděl"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "byl poražen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "shromáždili se"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨společně⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:03.960758604Z",
+  "model": "glm-5.3"
+}

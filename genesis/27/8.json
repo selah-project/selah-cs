@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A nyní, synu můj, poslouchej můj hlas, ⟨totiž to⟩, co ti přikazuji ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu můj"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslouchej"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "můj hlas"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "⟨totiž to⟩ co"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "přikazuji"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:28.480407619Z",
+  "model": "glm-5.3"
+}

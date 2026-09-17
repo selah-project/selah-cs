@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Kolísá mé srdce, děs mě zachvátil ⟨את⟩ soumrak, který jsem toužil, obrátil mi ⟨v⟩ chvění.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "Kolísá"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "děs"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "mě zachvátil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soumrak"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "soumrak"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "který jsem toužil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "obrátil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "v chvění"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:34.033749541Z",
+  "model": "glm-5.3"
+}

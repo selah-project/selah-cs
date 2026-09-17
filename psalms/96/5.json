@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 96,
+  "translation": "Neboť všichni bohové národů jsou nicoty, Jahve však učinil nebesa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bohové"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "jsou nicoty"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve však"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:09.532850253Z",
+  "model": "glm-5.3"
+}

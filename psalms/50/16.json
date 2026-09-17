@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Bezbožnému však řekl Elohim: „Co ti po tom vyprávět má ustanovení a nosit mou smlouvu ve svých ústech?“",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Bezbožnému však"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "vyprávět"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "má ustanovení"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "a nosit"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "mou smlouvu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "v"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "svých ústech"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:03.800073695Z",
+  "model": "glm-5.3"
+}

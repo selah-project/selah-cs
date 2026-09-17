@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I povstal, a vešel, a táhl do Šomronu; ⟨byl⟩ u Bet-Ekedu pastýřů na cestě.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "I povstal"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a vešel"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a táhl"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "do Šomronu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "byl"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u Bet-"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Ekedu"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pastýřů"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:15.845005423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 16:8",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "I zavolal Jišaj Abínadába a předvedl ho před Samuela. Ale řekl: „Ani tohoto si Jahve nevyvolil.“",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "zavolal"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abínadába"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "předvedl ho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ale řekl"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "vyvolil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:15.145756521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Svá znamení jsme neviděli, není už proroka, ani ⟨את⟩ námi ⟨není⟩ nikdo, kdo ví, ⟨dokdy⟩.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "svá znamení"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "jsme viděli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ námi",
+      "marks": "nás — nikdo, kdo ví"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ví"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak dlouho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:40.270011283Z",
+  "model": "glm-5.3"
+}

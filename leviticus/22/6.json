@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Duše ⟨než⟩ se dotkne ⟨toho⟩, bude nečistá až do večera a nebude jíst ze svatých věcí, pokud neomyje své tělo vodou.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Duše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨než⟩"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "se dotkne"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨toho⟩"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "bude nečistá"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nebude"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svatých věcí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "omyje"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "své tělo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vodou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:33.976447059Z",
+  "model": "glm-5.3"
+}

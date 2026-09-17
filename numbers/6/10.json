@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A dne osmého přivede dvě hrdličky nebo dvě holoubata knězi, ke vchodu stanu setkávání.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "a dne"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "osmého"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "přivede"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "hrdličky"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mláďata"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "holoubata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "knězi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke vchodu"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:44.917262966Z",
+  "model": "glm-5.3"
+}

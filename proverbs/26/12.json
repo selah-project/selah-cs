@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Vidíš-li muže, jenž je moudrý ve svých vlastních očích, je více naděje pro hlupáka než pro ⟨něj⟩.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Vidíš-li"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrý"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ve svých vlastních očích"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "naděje"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "pro hlupáka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "než pro ⟨něj⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:41.448964958Z",
+  "model": "glm-5.3"
+}

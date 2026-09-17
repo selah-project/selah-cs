@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 123,
+  "translation": "Sešli na nás slitování, Jahve, sešli slitování, neboť jsme přesyceni pohaněním.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Sešli na nás slitování"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "sešli slitování"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "רב",
+      "gloss": "přesyceni"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "jsme"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "pohaněním"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:31.254703518Z",
+  "model": "glm-5.3"
+}

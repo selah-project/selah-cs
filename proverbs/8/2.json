@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Na vrcholu výšin, na ⟨cestě⟩, u domu stezek stojí ⟨se⟩.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "Na vrcholu"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "výšin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨cestě⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "u domu"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "stezek"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "stojí ⟨se⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:13.692892359Z",
+  "model": "glm-5.3"
+}

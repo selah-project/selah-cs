@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Království země, zpívejte Elohimovi, zazpívejte ⟨Adonajovi⟩, séla.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "Království"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "zpívejte"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimovi"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zazpívejte"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "⟨Adonajovi⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "séla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:14.212809498Z",
+  "model": "glm-5.3"
+}

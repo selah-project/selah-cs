@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "olej k svítilně, koření k pomazacímu oleji a k voňavému kadidlu ⟨z koření⟩ —",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "k svítilně"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "koření"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "k pomazacímu oleji"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazacímu"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "a k voňavému kadidlu"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "⟨z koření⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:25.534675200Z",
+  "model": "glm-5.3"
+}

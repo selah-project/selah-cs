@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A řekl: Propusť mě, neboť vzešel ⟨ten⟩ úsvit. Ale on řekl: Nepropustím tě, dokud mě nepožehnáš.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Propusť mě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "vzešel"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "úsvit"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ale on řekl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "propustím tě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "požehnáš mě"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:46.106777143Z",
+  "model": "glm-5.3"
+}

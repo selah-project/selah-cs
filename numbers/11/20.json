@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 11:20",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "nýbrž celý měsíc dní, dokud vám nevyjde z nozder a nestane se vám odporným, protože jste pohrdli ⟨את⟩ Jahve, který je ve vašem středu, a plakali jste před ním a říkali: Proč jsme to vyšli z Egypta?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "celý měsíc"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nevyjde"
+    },
+    {
+      "surface": "מאפכם",
+      "gloss": "z nozder"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "nestane se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "לזרא",
+      "gloss": "odporným"
+    },
+    {
+      "surface": "יען",
+      "gloss": "protože"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "jste pohrdli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ve vašem středu"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "plakali jste"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkali"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "יצאנו",
+      "gloss": "jsme vyšli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:44:50.614238021Z",
+  "model": "glm-5.3"
+}

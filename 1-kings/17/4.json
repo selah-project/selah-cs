@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A budeš pít z ⟨onoho⟩ údolí a havrany jsem přikázal, aby tě tam živili — ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "A budeš"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "z údolí"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "pít"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "havrany"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "havrany"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jsem přikázal"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "aby tě živili"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:08.977854345Z",
+  "model": "glm-5.3"
+}

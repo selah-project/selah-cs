@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Abimelek řekl: Nevím, kdo udělal ⟨את⟩ tuto věc; ani tys mi to neoznámil, ani já jsem o tom neslyšel až do dneška.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vím"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto věc"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "tys"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "oznámil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "slyšel"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "až (jinak než)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "do dneška"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:25.992490747Z",
+  "model": "glm-5.3"
+}

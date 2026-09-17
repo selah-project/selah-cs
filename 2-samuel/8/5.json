@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 8:5",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A přišlo Aram-damašské na pomoc Hadadezerovi, králi Coby, a David porazil z Aramu dvaadvacet tisíc mužů.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "a přišlo"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "damašské"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "na pomoc"
+    },
+    {
+      "surface": "להדדעזר",
+      "gloss": "Hadadezerovi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Coby"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a porazil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "z Aramu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "a dva"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    }
+  ],
+  "timestamp": "2026-09-17T07:33:36.919951893Z",
+  "model": "glm-5.3"
+}

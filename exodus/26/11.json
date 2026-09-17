@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A uděláš padesát spon z bronzu a uvedeš ⟨את⟩ spony do smyček, a spojíš ⟨את⟩ stan, a bude ⟨to⟩ jedno.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "a uděláš"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "spon"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "z bronzu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "padesát"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "a uvedeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spony"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "spony"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "do smyček"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "a spojíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stan"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedno"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:34.485149232Z",
+  "model": "glm-5.3"
+}

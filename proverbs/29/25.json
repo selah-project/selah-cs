@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Čeho se člověka bojí, ⟨je⟩ past; ale kdo důvěřuje v Jahve, bude vyvýšen.",
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "strach"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "past"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ale důvěřuje"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "ישגב",
+      "gloss": "bude vyvýšen"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:47.243598524Z",
+  "model": "glm-5.3"
+}

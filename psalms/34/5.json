@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Dotazoval jsem se Jahve, ⟨את⟩ Jahve, a ⟨on⟩ mě odpověděl a ze všech mých děsů mě vytrhl.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Dotazoval jsem se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "a odpověděl mi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "a ze všech"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "mých děsů"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "mě vytrhl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:30.562556197Z",
+  "model": "glm-5.3"
+}

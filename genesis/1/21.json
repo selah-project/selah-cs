@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A stvořil Elohim ⟨את⟩ velké tanninym a ⟨את⟩ každou živou duši hemžící se, kterou zplodily vody podle jejich druhů, a ⟨את⟩ každé okřídlené ptactvo podle jeho druhu; a viděl Elohim, že ⟨to je⟩ dobré.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "a stvořil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "velké tanninym"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "tanninym"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "velké"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "každou živou duši hemžící se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každou"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duši"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "živou"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "hemžící se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "zplodily"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "podle jejich druhů"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "každé okřídlené ptactvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každé"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactvo"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "okřídlené"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "podle jeho druhu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:40.780422466Z",
+  "model": "glm-5.3"
+}

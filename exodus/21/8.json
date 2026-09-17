@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 21:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Pokud se znelíbí v očích svého pána, který si ji neuradil, musí ji nechat vykoupit; cizímu lidu nesmí mocí prodat, protože se k ní dopustil zradě ⟨proti ní⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "se znelíbí"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "svého pána"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "si ji neuradil"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "musí ji nechat vykoupit"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "cizímu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nesmí"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "mocí"
+    },
+    {
+      "surface": "למכרה",
+      "gloss": "prodat ji"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "protože se dopustil zradě"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨proti ní⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:08.424563406Z",
+  "model": "glm-5.3"
+}

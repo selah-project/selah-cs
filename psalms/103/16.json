@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Vždyť vítr přejde přes něj, a již není, a jeho místo ho nepozná už více.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vítr"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "přejde"
+    },
+    {
+      "surface": "בו",
+      "gloss": "přes něj"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "a již není"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "pozná ho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už více"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "jeho místo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:08.901567232Z",
+  "model": "glm-5.3"
+}

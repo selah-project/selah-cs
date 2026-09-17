@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "V prvním vozu byli koně ryzí ⟨a⟩ ve druhém vozu koné vraní.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "v prvním vozu"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "prvním"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "koně"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "ryzí"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "a ve druhém vozu"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "druhém"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "koné"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "vraní"
+    }
+  ],
+  "timestamp": "2026-09-17T09:08:01.717991357Z",
+  "model": "glm-5.3"
+}

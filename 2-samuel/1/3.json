@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekl mu David: „Odkud jsi přišel?“ A on mu řekl: „Z tábora Izraele jsem uprchl.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אי",
+      "gloss": "kde"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "odkud"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "jsi přišel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "z tábora"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "jsem uprchl"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:44.261559600Z",
+  "model": "glm-5.3"
+}

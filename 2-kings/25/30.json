@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A jeho příděl — příděl stálý — dáván mu byl od ⟨את⟩ krále, záležitost dne v den svůj, po všechny dny jeho života.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "a jeho příděl"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "příděl"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stálý"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "dáván byl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "záležitost"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "v den svůj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "po všechny"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "jeho života"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:26.098733008Z",
+  "model": "glm-5.3"
+}

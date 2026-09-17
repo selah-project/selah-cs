@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Podle svého chesedu mě oživ, abych střehl svědectví tvých úst.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "podle svého chesedu"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "mě oživ"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "abych střehl"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tvých úst"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:47.412878503Z",
+  "model": "glm-5.3"
+}

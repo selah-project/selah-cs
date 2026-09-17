@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Neboť Jahve zná cestu spravedlivých, ale cesta bezbožných zahyne.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "spravedlivých"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ale cesta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "zahyne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:08.198299528Z",
+  "model": "glm-5.3"
+}

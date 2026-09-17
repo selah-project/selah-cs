@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A král Achveróš uložil daň ⟨na⟩ zemi a ostrovům moře.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a uložil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Achveróš"
+    },
+    {
+      "surface": "מס",
+      "gloss": "daň"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "a ostrovům"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    }
+  ],
+  "timestamp": "2026-09-17T11:21:21.164986511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 9:8",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Šly jednou stromy, aby si ⟨nad sebou⟩ pomazaly krále, a řekly olivě: Kraluj ⟨nad⟩ námi!",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Šly jednou"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "šly"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "stromy"
+    },
+    {
+      "surface": "למשח",
+      "gloss": "pomazaly"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "⟨nad sebou⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekly"
+    },
+    {
+      "surface": "לזית",
+      "gloss": "olivě"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "Kraluj"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "⟨nad⟩ námi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:54.686406039Z",
+  "model": "glm-5.3"
+}

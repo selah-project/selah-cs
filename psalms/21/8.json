@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Neboť král doufá v Jahve a v milosrdenství El Eljona ⟨ten⟩, kdo Nejvyššího — ⟨skrze⟩ milosrdenství Nejvyššího nebude otřesen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "doufá"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "a v milosrdenství"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nejvyššího"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bude otřesen"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:27.959148025Z",
+  "model": "glm-5.3"
+}

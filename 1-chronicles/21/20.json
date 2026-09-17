@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Arnan se obrátil a uviděl ⟨את⟩ ⟨posla⟩, a jeho čtyři synové s ním ⟨se⟩ skrývali; a Arnan mlátil pšenici.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "A se obrátil"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a uviděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨posla⟩"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "⟨posla⟩"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "a jeho čtyři"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "synové"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "⟨se⟩ skrývali"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "a Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "mlátil"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "pšenici"
+    }
+  ],
+  "timestamp": "2026-09-17T10:21:10.770566373Z",
+  "model": "glm-5.3"
+}

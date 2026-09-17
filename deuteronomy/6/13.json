@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "⟨את⟩ Jahve, svého Elohima, se budeš bát a ⟨את⟩ jeho budeš sloužit a v jeho jménu budeš přisahat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, svého Elohima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "se budeš bát"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "a ⟨את⟩ jeho"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "budeš sloužit"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "a v jeho jménu"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "budeš přisahat"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:15.318979784Z",
+  "model": "glm-5.3"
+}

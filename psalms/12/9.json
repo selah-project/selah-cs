@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Kolem ⟨dokola⟩ chodí bezbožní, když ⟨je⟩ povýšena nehodnost mezi syny ⟨lidí⟩ — אדם.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "kolem"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožní"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "chodí"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "když ⟨je⟩ povýšena (כְּרֻם, od רוּם II)"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "nehodnost"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mezi syny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidí (אדם)"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:28.694672836Z",
+  "model": "glm-5.3"
+}

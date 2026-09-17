@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Atalja, matka Achazjášova, viděla, že její syn zemřel, a vstala a vyhladila ⟨את⟩ veškeré potomstvo království.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "A Atalja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "matka"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Achazjášova"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "viděla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "מת",
+      "gloss": "zemřel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "její syn"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "vstala"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "vyhladila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškeré potomstvo království"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "potomstvo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "království"
+    }
+  ],
+  "timestamp": "2026-09-17T07:55:44.025012095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Když se přiblížíš k městu, abys proti němu bojoval, nabídneš mu mír.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "se přiblížíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "městu"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "abys bojoval"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "proti němu"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "nabídneš (vyhlásíš)"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "mír"
+    }
+  ],
+  "timestamp": "2026-09-17T06:58:18.496215903Z",
+  "model": "glm-5.3"
+}

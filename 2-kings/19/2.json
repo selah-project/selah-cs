@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A poslal ⟨את⟩ Eljakíma, ⟨toho⟩, který ⟨byl⟩ nad domem, a Šebnu písaře a ⟨את⟩ starší kněží, zahalené v žíních, k proroku Jišajáhuovi, synu Amocovu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "A poslal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakíma"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakíma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "a Šebnu"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "písař"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "starší kněží"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "zahalené"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "v žíních"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jišajáhuovi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amoc"
+    }
+  ],
+  "timestamp": "2026-09-17T07:58:57.232788105Z",
+  "model": "glm-5.3"
+}

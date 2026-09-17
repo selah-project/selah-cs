@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Dvanáct let sloužili ⟨את⟩ Kedórlaomerovi a ve třináctém roce se vzbouřili.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "dvanáct"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(náct)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sloužili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedórlaomerovi"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedórlaomerovi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "a ve třináctém"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(náct)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roce"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "se vzbouřili"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:59.277381832Z",
+  "model": "glm-5.3"
+}

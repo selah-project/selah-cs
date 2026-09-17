@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A vrátil se Áron k Mojžíšovi ke vchodu stanu setkávání, a ráně ⟨bylo⟩ učiněno přítrž.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "a rána"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "bylo učiněno přítrž"
+    }
+  ],
+  "timestamp": "2026-09-17T06:45:27.567148818Z",
+  "model": "glm-5.3"
+}

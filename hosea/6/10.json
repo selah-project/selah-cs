@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 6:10",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "V domě Izraele viděl jsem ohavnou věc: tam je nevěství Efrajima, znesvěcen je Izrael.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "viděl jsem"
+    },
+    {
+      "surface": "שעריריה",
+      "gloss": "ohavnou věc"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "nevěství"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "znesvěcen je"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T11:07:34.372867482Z",
+  "model": "glm-5.3"
+}

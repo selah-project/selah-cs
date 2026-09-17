@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A našli muže, Egypťana, na poli, a vzali ⟨את⟩ ho k Davidovi, a dali mu chléb, a jedl, a dali mu napít vody.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "a našli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Egypťana"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "a vzali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ho",
+      "marks": "ho (Egypťana)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "a dali"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "a jedl"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "a dali mu napít"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:04.504626918Z",
+  "model": "glm-5.3"
+}

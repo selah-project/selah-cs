@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Požehnán ⟨budeš⟩ ty při svém příchodu, a požehnán ⟨budeš⟩ ty při svém vycházení.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Požehnán"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "při svém příchodu"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "a požehnán"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "při svém vycházení"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:46.100317385Z",
+  "model": "glm-5.3"
+}

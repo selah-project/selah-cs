@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A řekne faraón o synech Izraele: Zmateni jsou v zemi, zavřel proti nim poušť.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "A řekne"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraón"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "o synech"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "Zmateni"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jsou"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zavřel"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "proti nim"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "poušť"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:54.665235885Z",
+  "model": "glm-5.3"
+}

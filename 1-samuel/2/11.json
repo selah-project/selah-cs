@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Elkana šel na Ramatu do svého domu; a chlapec sloužil ⟨את⟩ Jahve, ⟨את⟩ tváří Elijáše kněze.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "na Ramatu"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svého domu"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "a chlapec"
+    },
+    {
+      "surface": "היה",
+      "gloss": "— sloužil (byl)"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "sloužil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tváří Elijáše kněze"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Elijáše"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněze"
+    }
+  ],
+  "timestamp": "2026-09-17T07:20:11.077303596Z",
+  "model": "glm-5.3"
+}

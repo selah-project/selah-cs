@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Řekl jsem ⟨si⟩ ve svém srdci: Nuže, pokusím se o radost a uvidím v dobrém — a hle, i to ⟨je⟩ hevel.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Řekl jsem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨si⟩ (já)"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Nuže (pojď)"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "pokusím se"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "o radost"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a uvidím"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "v dobrém"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel (prázdnota)"
+    }
+  ],
+  "timestamp": "2026-09-17T11:19:47.846465226Z",
+  "model": "glm-5.3"
+}

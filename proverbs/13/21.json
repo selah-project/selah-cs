@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Hříšníky pronásleduje zlo, a ⟨את⟩ spravedlivým odplácí dobré.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "hříšníky"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "pronásleduje"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "spravedlivým"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "spravedlivým"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "odplácí"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:40.761391007Z",
+  "model": "glm-5.3"
+}

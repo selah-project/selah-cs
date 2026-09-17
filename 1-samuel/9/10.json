@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "I řekl Šaul svému mládenci: Dobré je tvé slovo; pojď, půjdeme. A šli k městu, v němž byl muž ⟨Elohimův⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "svému mládenci"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Dobré"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "je tvé slovo"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "pojď"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "půjdeme"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "A šli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "městu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v němž"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimův"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:34.207221058Z",
+  "model": "glm-5.3"
+}

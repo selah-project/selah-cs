@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A obrátil jsem svou tvář ⟨את⟩ k Adonaj, האלהים, abych hledal modlitbu a prosby, v postu, v žíní a v popelu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "A obrátil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou tvář"
+    },
+    {
+      "surface": "פני",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "abych hledal"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "modlitbu"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "a prosby"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "v postu"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "v žíní"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "v popelu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:05:21.281025547Z",
+  "model": "glm-5.3"
+}

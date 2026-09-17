@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A vezmeš odtud málo — v počtu — a svážeš ⟨את⟩ je v cípích svého roucha.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "A vezmeš"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "málo"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "v počtu"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "a svážeš"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (vlasy) do cípů roucha"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "v cípích svého roucha"
+    }
+  ],
+  "timestamp": "2026-09-17T08:39:35.611673087Z",
+  "model": "glm-5.3"
+}

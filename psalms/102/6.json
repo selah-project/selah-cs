@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Od hlasu mého vzdychání přilnuly mé kosti k mému tělu.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Od hlasu"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "mého vzdychání"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "přilnuly"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mé kosti"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "k mému tělu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:48.427450826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 99,
+  "translation": "Ať chválí ⟨tvé⟩ jméno ⟨jako⟩ veliké a děsivé — svatý ⟨on⟩ je!",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ať chválí"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jméno tvé"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "a děsivé"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:05.215343387Z",
+  "model": "glm-5.3"
+}

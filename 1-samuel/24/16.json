@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A bude Jahve soudcem a rozsoudí mezi mnou a mezi tebou; a uvidí, a zahájit bude ⟨את⟩ můj při, a dopomůže mi k právu z tvé ruky.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "soudcem"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "a rozsoudí"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mezi mnou"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "a mezi tebou"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a uvidí"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "a zahájit bude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "můj při"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "můj při"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "a dopomůže mi k právu"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "z tvé ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:11.677489537Z",
+  "model": "glm-5.3"
+}

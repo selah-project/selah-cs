@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A spěchal a odstranil ⟨את⟩ prach ze svých očí; a poznal ⟨אתו⟩ jej král Izraele, že je z proroků.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "a spěchal"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "a odstranil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prach"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "prach"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ze"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "svých očí"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "a poznal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "jej (proroka)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "z proroků"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:50.650156430Z",
+  "model": "glm-5.3"
+}

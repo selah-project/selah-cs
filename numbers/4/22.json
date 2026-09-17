@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Pozvedni ⟨את⟩ hlavu synů Geršonových, i jich, podle domu jejich otců, podle jejich čeledí —",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Pozvedni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlavu synů Geršonových"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Geršonových"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jich"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "podle domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jejich otců"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle jejich čeledí"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:24.263501203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 79,
+  "translation": "Stali jsme se potupou svým sousedům, výsměchem a posměchem ⟨pro⟩ ty, kdož jsou kolem nás.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Stali jsme se"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "potupou"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "svým sousedům"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "výsměchem"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "a posměchem"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "kolem nás"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:07.501942231Z",
+  "model": "glm-5.3"
+}

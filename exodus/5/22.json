@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A vrátil se Mojžíš k Jahvemu a řekl: Adonaj, proč jsi způsobil zlo tomuto lidu? Proč ⟨jsi⟩ to ⟨tak⟩ poslal mne?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "způsobil jsi zlo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tomuto lidu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomuto"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "poslal jsi mne"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:21.623868904Z",
+  "model": "glm-5.3"
+}

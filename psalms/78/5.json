@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Vzbudil svědectví v Jákobovi a tóru ustanovil v Izraeli, kterou přikázal ⟨את⟩ našim otcům, aby ji dali poznat jejich synům.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Vzbudil"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "v Jákobovi"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "a tóru"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ustanovil"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Izraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "našim otcům"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "našim otcům"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "aby ji dali poznat"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "jejich synům"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:05.365661017Z",
+  "model": "glm-5.3"
+}

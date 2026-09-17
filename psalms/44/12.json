@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Vydáváš nás jako ovce k poražení a mezi národy jsi nás rozptýlil.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Vydáváš nás"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "jako ovce"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "k poražení ⟨jako potravu⟩"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "a mezi národy"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "jsi nás rozptýlil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:12.162114507Z",
+  "model": "glm-5.3"
+}

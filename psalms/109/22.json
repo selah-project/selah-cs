@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Neboť ubohý a nuzný jsem já a mé srdce ⟨je⟩ zraněné v mém nitru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubohý"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "a nuzný"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jsem já"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "a mé srdce"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "zraněné"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "v mém nitru"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:52.622306123Z",
+  "model": "glm-5.3"
+}

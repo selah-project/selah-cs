@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "I řekl Jahve Jóšuovi: Viz, dal jsem ti do ruky ⟨את⟩ Jericho a ⟨את⟩ jeho krále, hrdiny síly.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšuovi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Viz"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dal jsem"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ti do ruky"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jericho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jericho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho krále"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "jeho krále"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "hrdiny"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "síly"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:14.377521033Z",
+  "model": "glm-5.3"
+}

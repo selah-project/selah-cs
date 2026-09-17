@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Zevulun nevyhnal obyvatele Kitronu ⟨את⟩ a obyvatele Nahalolu ⟨את⟩; a bydlel Kenaanec v jeho středu a stali se platícími tribut.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "nevyhnal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obyvatele"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "obyvatele"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitronu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obyvatele"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "obyvatele"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalolu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a bydlel"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanec"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "v jeho středu"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "a stali se"
+    },
+    {
+      "surface": "למס",
+      "gloss": "platícími tribut"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:12.977245445Z",
+  "model": "glm-5.3"
+}

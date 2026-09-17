@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "⟨את⟩ Jahve, svého Elohim, se budeš bát, ⟨אתו⟩ budeš sloužit, v něm se budeš držet a jeho jménem budeš přísahat.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, svého Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svého Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "se budeš bát"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "budeš sloužit (jemu)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "budeš sloužit"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "se budeš držet"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "a jeho jménem"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "budeš přísahat"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:10.540497609Z",
+  "model": "glm-5.3"
+}

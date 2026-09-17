@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Což nebyl vytržen jejich přepych z ⟨nich⟩? Zemřou, a ne v moudrosti.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Což ne"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "byl vytržen"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "jejich přepych"
+    },
+    {
+      "surface": "בם",
+      "gloss": "z ⟨nich⟩"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "Zemřou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "v moudrosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:46.946789833Z",
+  "model": "glm-5.3"
+}

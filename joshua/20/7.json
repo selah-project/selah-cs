@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A oddělili ⟨את⟩ Kedeš v Galileji na hoře Neftalím, ⟨a⟩ ⟨את⟩ Šekem na hoře Efrajim a ⟨את⟩ Kirjat-arba, to je Chevron, na hoře Judovy.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "a oddělili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeš"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedeš"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "v Galileji"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Neftalím"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Šekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Kirjat-arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovy"
+    }
+  ],
+  "timestamp": "2026-09-17T07:11:21.563885376Z",
+  "model": "glm-5.3"
+}

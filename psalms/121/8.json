@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 121,
+  "translation": "Jahve bude střežit tvé vycházení i tvé přicházení, od této chvíle až na věky.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bude střežit"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "tvé vycházení"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "i tvé přicházení"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "od této chvíle"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na věky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:01.201690848Z",
+  "model": "glm-5.3"
+}

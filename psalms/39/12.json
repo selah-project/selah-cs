@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "Trestáním pro nepravost člověka káráš a jako mol rozpouštíš, co si žádá; pouhá prázdnota ⟨je⟩ každý člověk. Sela.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "Trestáním"
+    },
+    {
+      "surface": "על",
+      "gloss": "pro"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "káráš"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "a rozpouštíš"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "jako mol"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "co si žádá"
+    },
+    {
+      "surface": "אך",
+      "gloss": "pouhá"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "prázdnota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:16.913152663Z",
+  "model": "glm-5.3"
+}

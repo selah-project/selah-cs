@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Všechny tvé příkazy ⟨jsou⟩ věrnost; klamem mě pronásledují — pomoz mi!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tvé příkazy"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "věrnost"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "klamem"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "mě pronásledují"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "pomoz mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:47.412560979Z",
+  "model": "glm-5.3"
+}

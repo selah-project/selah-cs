@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Vchod do prostřední boční komory byl na pravém rameni domu; točitými schody se stoupalo na prostřední a z prostřední do třetí.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "vchod"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "boční komory"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "prostřední"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "rameno"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "pravé"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "točitými schody"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "se stoupalo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "prostřední"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a z"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "prostřední"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "třetí"
+    }
+  ],
+  "timestamp": "2026-09-17T07:43:33.791396987Z",
+  "model": "glm-5.3"
+}

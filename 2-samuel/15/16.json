@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A vyšel král a celý jeho dům po jeho nohách; a opustil král ⟨את⟩ deset žen, vedlejších manželek, aby střežily dům.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "A vyšel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celý"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jeho dům"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "po jeho nohách"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "a opustil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "deset žen"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "žen"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "vedlejší manželky"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "aby střežily"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dům"
+    }
+  ],
+  "timestamp": "2026-09-17T07:36:11.106909665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 100,
+  "translation": "Žalm ⟨pro⟩ díkůvzdání. Jásejte Jahve, všechna země!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Žalm"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "⟨pro⟩ díkůvzdání"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Jásejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:28.682908571Z",
+  "model": "glm-5.3"
+}

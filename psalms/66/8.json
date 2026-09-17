@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Žehnejte, národy, Elohim našemu, a oznamujte hlas jeho chvály.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Žehnejte"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našemu"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "a oznamujte"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "jeho chvály"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:24.457893334Z",
+  "model": "glm-5.3"
+}

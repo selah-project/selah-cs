@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 81,
+  "translation": "V soužení jsi volal a já jsem tě vysvobodil; odpovídám ti v úkrytu hromu; zkouším tě u vod Meríva. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "v soužení"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "jsi volal"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "a vysvobodil jsem tě"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "odpovídám ti"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "v úkrytu"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "hromu"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "zkouším tě"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vod"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meríva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:08.120760157Z",
+  "model": "glm-5.3"
+}

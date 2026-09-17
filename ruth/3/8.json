@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A stalo se v půli noci, že se muž zachvěl a přetočil se — a hle, žena leží u nohou jeho.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "v půli"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noci"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "zachvěl se"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "a přetočil se"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "leží"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "u nohou jeho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:55:40.535788246Z",
+  "model": "glm-5.3"
+}

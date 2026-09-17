@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Elohim Cevaot, vrať se ⟨prosím⟩, pohleď z nebes a viz, a navštiv vinici tuto.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "vrať se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨prosím⟩"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "pohleď"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z nebes"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a viz"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "a navštiv"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "vinici"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tuto"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:46.475333806Z",
+  "model": "glm-5.3"
+}

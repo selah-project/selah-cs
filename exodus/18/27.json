@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A propustil Mojžíš ⟨את⟩ svého tchána a odešel ⟨si⟩ do své země.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a propustil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého tchána"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "svého tchána"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a odešel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨si⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "své země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:27.730817218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Neboť požehnaní ⟨od něj⟩ zdědí zemi, prokletí ⟨od něj⟩ budou vyťati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "požehnaní ⟨od něj⟩"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "zdědí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "a prokletí ⟨od něj⟩"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "budou vyťati"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:55.254374522Z",
+  "model": "glm-5.3"
+}

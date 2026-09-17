@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A slyšel jsem ⟨את⟩ hlas jeho slov; a když jsem uslyšel ⟨את⟩ hlas jeho slov, upadl jsem do hlubokého spánku tváří k zemi a tvář ⟨má⟩ ⟨byla⟩ k zemi.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "a slyšel jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "jeho slov"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "a když jsem uslyšel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "jeho slov"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a já"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "byl jsem"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "upadl do hlubokého spánku"
+    },
+    {
+      "surface": "על",
+      "gloss": "tváří k"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mé tváři"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "a tvář má"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "k zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:05:54.144201039Z",
+  "model": "glm-5.3"
+}

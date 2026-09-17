@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Naše neféš očekávala Jahve; on ⟨je⟩ naše pomoc a náš štít.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Naše neféš"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "očekávala"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "naše pomoc"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "a náš štít"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:44.832149964Z",
+  "model": "glm-5.3"
+}

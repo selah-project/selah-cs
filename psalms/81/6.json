@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 81,
+  "translation": "Za svědectví v ⟨domu⟩ Josefově ⟨je⟩ postavil, když vycházel nad zemí Micrajim; řeč, kterou jsem neznal, slýchám.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "v Josefovi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "když vycházel"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemí"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "řeč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "jsem neznal"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "slýchám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:08.120451433Z",
+  "model": "glm-5.3"
+}

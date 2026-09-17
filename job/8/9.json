@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Vždyť včera ⟨jsme⟩ my, a neznáme ⟨nic⟩, vždyť stín ⟨jsou⟩ dny naše na zemi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "včera"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "známe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "צל",
+      "gloss": "stín"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "dny naše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:17:04.427009456Z",
+  "model": "glm-5.3"
+}

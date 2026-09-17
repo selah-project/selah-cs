@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A mluvil Jahve Mojžíšovi a Áronovi v zemi Egyptské ⟨a řekl⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "⟨k⟩ Mojžíšovi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a Áronovi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áronovi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptské"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a řekl⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:40.407770875Z",
+  "model": "glm-5.3"
+}

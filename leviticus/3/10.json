@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "a ⟨את⟩ obě ledviny a ⟨את⟩ tuk, který je na nich, který je na bedrech, a ⟨את⟩ lalok nad játry — nad ledvinami ⟨jej⟩ oddělí.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obě ledviny"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "obě"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ledviny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tuk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "je na nich"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "bedrech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lalok"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "játry"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ledvinami"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "oddělí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:56.438678112Z",
+  "model": "glm-5.3"
+}

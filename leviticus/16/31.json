@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Šabat odpočinku to ⟨je⟩ pro vás a budete se trápit ⟨את⟩ své duše — řád věčný.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "odpočinku"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to ⟨je⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pro vás"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "a budete se trápit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své duše"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "své duše"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "řád"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věčný"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:48.554395502Z",
+  "model": "glm-5.3"
+}

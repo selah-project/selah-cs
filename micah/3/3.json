@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A jedí tělo mého lidu, a kůži jejich z nich svlékají, a ⟨את⟩ jejich kosti rozléhají a rozprostírají ⟨je⟩ jako ⟨to⟩ v hrnci a jako maso v nitru kotlíku.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "A kdo"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jedí"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "tělo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mého lidu"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "a kůži jejich"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "svlékají"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jejich kosti"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "jejich kosti"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "rozléhají"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "a rozprostírají"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jako"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "v hrnci"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "a jako maso"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "v nitru"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "kotlíku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:02:52.041125935Z",
+  "model": "glm-5.3"
+}

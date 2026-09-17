@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Přiznejte Jahveovi slávu ⟨jecí⟩ jeho jména, klekejte před Jahvem ve svaté nádheře.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Přiznejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveovi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slávu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "⟨jecí⟩ jeho jména"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "klekejte před"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "v nádheře"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svaté"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:40.192399455Z",
+  "model": "glm-5.3"
+}

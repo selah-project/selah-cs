@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Stavěje jsem ⟨si⟩ postavil dům ⟨jako⟩ zebul (bydliště) tobě, místo ustavené k tvému sídli na věky.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "stavěje"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "jsem postavil"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "zebul (bydliště)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "místo ustavené"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "k tvému sídli"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "na věky"
+    }
+  ],
+  "timestamp": "2026-09-17T07:45:02.679490550Z",
+  "model": "glm-5.3"
+}

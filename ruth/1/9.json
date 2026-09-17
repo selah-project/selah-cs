@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Nechť Jahve vám dá, abyste ⟨každá z vás⟩ našla odpočinutí, ⟨každá⟩ v domě svého muže. I políbila je, a ony pozvedly svůj hlas a plakaly.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Nechť … dá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "abyste našly"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "odpočinutí"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "každá ⟨žena⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "svého muže"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "a políbila"
+    },
+    {
+      "surface": "להן",
+      "gloss": "je"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "pozvedly"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "a plakaly"
+    }
+  ],
+  "timestamp": "2026-09-17T09:55:30.367889571Z",
+  "model": "glm-5.3"
+}

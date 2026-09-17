@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A vydá ⟨את⟩ Izraele kvůli hříchům Jereboáma, jimiž zhřešil a jimiž dovedl ⟨את⟩ Izrael k hříchu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a vydá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "hříchům"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jereboáma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jimiž"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "zhřešil"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a jimiž"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "dovedl k hříchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:08.641596947Z",
+  "model": "glm-5.3"
+}

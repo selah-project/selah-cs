@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A volali k Lotovi a řekli mu: „Kde ⟨jsou⟩ ti muži, kteří k tobě přišli této noci? Vyveď je k nám, a poznáme je ⟨את⟩.“",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "a volali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotovi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kde"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ti muži"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "této noci"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "vyveď je"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "k nám"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "a poznáme"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:48.880308173Z",
+  "model": "glm-5.3"
+}

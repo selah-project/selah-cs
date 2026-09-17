@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 124,
+  "translation": "Tehdy nás vody zaplavily, ⟨voda⟩ ⟩ ⟨byla⟩ ⟨rozvodněný⟩ potok přešel přes naši duši.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Tehdy"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "nás zaplavily"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "potok"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "přešel"
+    },
+    {
+      "surface": "על",
+      "gloss": "přes"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naši duši"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:33.929940686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 125,
+  "translation": "Prokaž dobro, Jahve, dobrým a přímým v jejich srdcích.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Prokaž dobro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "dobrým"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "a přímým"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "v jejich srdcích"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:34.268122054Z",
+  "model": "glm-5.3"
+}

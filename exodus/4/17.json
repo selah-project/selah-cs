@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A ⟨את⟩ tuto hůl vezmeš do své ruky, s níž učiníš ⟨את⟩ znamení.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "tuto hůl"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vezmeš"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "do své ruky"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "s níž"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "učiníš"
+    },
+    {
+      "surface": "בו",
+      "gloss": "s ní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "znamení"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "znamení"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:32.972979049Z",
+  "model": "glm-5.3"
+}

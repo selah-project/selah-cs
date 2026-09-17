@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A vzal ⟨את⟩ tele, které udělali, a spálil je v ohni, a rozmlel je, dokud ⟨se nestal⟩ práškem, a rozsypal ⟨jej⟩ na povrch vod, a napojil ⟨את⟩ syny Izraele.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tele"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "tele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "udělali"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "a spálil"
+    },
+    {
+      "surface": "באש",
+      "gloss": "v ohni"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "a rozmlel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "דק",
+      "gloss": "není práškem (roztříděný)"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "a rozsypal"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "povrch"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vod"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "a napojil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:01.972996065Z",
+  "model": "glm-5.3"
+}

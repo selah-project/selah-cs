@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Vracejí se k večeru, vřískají jako pes a obcházejí město.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "vracejí se"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "k večeru"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "vřískají"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "jako pes"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "a obcházejí"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:30.472012937Z",
+  "model": "glm-5.3"
+}

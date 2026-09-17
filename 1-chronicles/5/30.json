@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Elazar zplodil ⟨את⟩ Pinchase, Pinchas zplodil ⟨את⟩ Avišuu.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinchase"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchase"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avišuu"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avišuu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:16:12.741262729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Tvář Jahve ⟨je⟩ proti činitelům zla, aby vymazal z ⟨země⟩ jejich památku.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "Tvář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "proti činitelům"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zla"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "aby vymazal"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ⟨země⟩"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "jejich památku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:47.095955327Z",
+  "model": "glm-5.3"
+}

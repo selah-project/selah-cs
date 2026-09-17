@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "I hleděl na ⟨את⟩ Amaleka, pozvedl své podobenství a řekl: Prvním z národů ⟨je⟩ Amalek, a jeho konec ⟨bude⟩ věčně ničím.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "i hleděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "pozvedl"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "své podobenství"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "prvním"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "z národů"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "a jeho konec"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "věčně"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ničím"
+    }
+  ],
+  "timestamp": "2026-09-17T10:43:19.068134232Z",
+  "model": "glm-5.3"
+}

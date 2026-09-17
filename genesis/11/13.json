@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 11:13",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Arpakšad žil po zplodení ⟨את⟩ Shelacha tři sta tři roky a zplodil syny a dcery.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a žil"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakšad"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "zplodení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelacha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelacha"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "sta"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "a tři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roky"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "a dcery"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:20.863263045Z",
+  "model": "glm-5.3"
+}

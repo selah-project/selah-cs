@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A faraón se rozhněval na své dva dvořany, na předního z číšníků a na předního z pekařů.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "A se rozhněval"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraón"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "své dvořany"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שר",
+      "gloss": "předního"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "z číšníků"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "שר",
+      "gloss": "předního"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "z pekařů"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:15.731851929Z",
+  "model": "glm-5.3"
+}

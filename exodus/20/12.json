@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Cti ⟨את⟩ svého otce a ⟨את⟩ svou matku, aby se prodloužily tvé dny na půdě, kterou ti dává Jahve, tvůj Elohim.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Cti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého otce"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svou matku"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "svou matku"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "se prodloužily"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tvé dny"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "půdě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:07.925574827Z",
+  "model": "glm-5.3"
+}

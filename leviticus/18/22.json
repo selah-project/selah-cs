@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A s ⟨את⟩ mužem nebudeš obcovat jako obcování ženy — ohavnost to ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "mužem"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mužem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "budeš obcovat"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "jako obcování"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ohavnost"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to ⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:08.868314146Z",
+  "model": "glm-5.3"
+}

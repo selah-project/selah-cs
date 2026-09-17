@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "I řekl mi posel ⟨Elohim⟩ ve snu: Jákobe! A já jsem řekl: Hle, tu jsem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "posel"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "ve snu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řekl jsem"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hle, tu jsem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:09.258906548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 3:21",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Vstala jsem ráno, abych kojila ⟨את⟩ svého syna, a hle — mrtvý; zadívala jsem se na něj ráno, a hle — nebyl to můj syn, kterého jsem porodila.",
+  "tokens": [
+    {
+      "surface": "ואקם",
+      "gloss": "vstala jsem"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "להיניק",
+      "gloss": "abych kojila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého syna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtvý"
+    },
+    {
+      "surface": "ואתבונן",
+      "gloss": "zadívala jsem se"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "můj syn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterého"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "jsem porodila"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:26.561616826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A ⟨את⟩ maso a ⟨את⟩ kůži spálil ohněm vně tábora.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "maso"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "kůži"
+    },
+    {
+      "surface": "העור",
+      "gloss": "kůži"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "spálil"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "vně"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tábora"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:06.693906201Z",
+  "model": "glm-5.3"
+}

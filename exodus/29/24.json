@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A vložíš všechno na dlaně Árona a na dlaně jeho synů a zamáváš ⟨את⟩ nimi jako mávání před tváří Jahve.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "a vložíš"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dlaně"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "dlaně"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synů"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "a zamáváš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nimi",
+      "marks": "všechno položené na dlaně"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "jako mávání"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:09.650081186Z",
+  "model": "glm-5.3"
+}

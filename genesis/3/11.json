@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl: Kdo ti pověděl, že jsi nahý? Z toho stromu, z něhož jsem ti přikázal nejíst — jedls z něj?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "pověděl"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "nahý"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty (jsi)"
+    },
+    {
+      "surface": "המן",
+      "gloss": "z (zda ze)"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "toho stromu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "z něhož"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "přikázal jsem ti"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "abys ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jedl"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "jedls"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:26.386420112Z",
+  "model": "glm-5.3"
+}

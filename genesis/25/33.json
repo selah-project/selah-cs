@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A Jákob řekl: „Přísahej mi ⟨již dnes⟩.“ A ⟨Ezau⟩ mu přísahal a prodal ⟨את⟩ své prvorozenství Jákobovi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "přísahaj"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "⟨již dnes⟩"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "a přísahal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "a prodal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své prvorozenství"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "své prvorozenství"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jákobovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:32.181222770Z",
+  "model": "glm-5.3"
+}

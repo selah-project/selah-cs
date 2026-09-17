@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Kdo z vás dá ucho tomu ⟨tomu⟩? Kdo bedlivě poslouchá a slyší ⟨i⟩ do budoucna?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "z vás"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "dá ucho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tomu ⟨tomuto⟩"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "bedlivě poslouchá"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "a slyší"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "do budoucna"
+    }
+  ],
+  "timestamp": "2026-09-17T10:59:42.501992236Z",
+  "model": "glm-5.3"
+}

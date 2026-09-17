@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Lepší je konec věci než její začátek; lepší je trpělivost ducha než povýšenost ducha.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepší"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "konec"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "věci"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "než její začátek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lepší"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "trpělivost"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "než povýšenost"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:31.508078100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "S písní nebudou pít víno, nahořklne tišší pijákům.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "s písní"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "budou pít"
+    },
+    {
+      "surface": "יין",
+      "gloss": "víno"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "nahořklne"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "tišší"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "pijákům"
+    }
+  ],
+  "timestamp": "2026-09-17T08:07:13.238774225Z",
+  "model": "glm-5.3"
+}

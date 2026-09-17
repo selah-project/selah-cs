@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "I poslal ⟨את⟩ mladíky synů Israela, a přinesli celopaly a obětovali oběti šelamim Jahvovi, ⟨to⟩ býčci.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mladíky"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mladíky"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "a přinesli"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "celopaly"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "a obětovali"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "oběti"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "šelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "býčci"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:19.527873117Z",
+  "model": "glm-5.3"
+}

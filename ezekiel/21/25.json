@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Cestu připravíš, aby meč přišel ⟨את⟩ na Rabbatu synů Amónových, a ⟨את⟩ na Judu v Jeruzalémě opevněném.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "připravíš"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "aby přišel"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbatu synů Amónových"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbatu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amónových"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Judu v Jeruzalémě"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "opevněném"
+    }
+  ],
+  "timestamp": "2026-09-17T11:06:03.252680498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Jahve si nás zachoval v paměti, požehná — požehná ⟨את⟩ domu Izraelově, požehná ⟨את⟩ domu Áronově.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "si nás zachoval v paměti"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "požehná"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "požehná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domu Izraelově"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelově"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "požehná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "domu Áronově"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áronově"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:13.860395512Z",
+  "model": "glm-5.3"
+}

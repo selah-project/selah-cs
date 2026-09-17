@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 5:26",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A kněz vezme plnou hrst z daru — ⟨את⟩ jeho pamětní část — a zapálí ji na oltáři, a potom dá pít ⟨את⟩ ženě ⟨את⟩ vodu.",
+  "tokens": [
+    {
+      "surface": "וקמץ",
+      "gloss": "a vezme plnou hrst"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "daru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho pamětní část"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "jeho pamětní část"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a zapálí"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltáři"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a potom"
+    },
+    {
+      "surface": "ישקה",
+      "gloss": "dá pít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženě"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženě"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vodu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vodu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:41.684014966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Vysvoď mě z krveprolévání, Elohime, Elohe mé záchrany, a můj jazyk bude zpívat tvou spravedlnost.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "vysvoď mě"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "z krveprolévání"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "mé záchrany"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "bude zpívat"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "můj jazyk"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tvou spravedlnost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:43.910129294Z",
+  "model": "glm-5.3"
+}

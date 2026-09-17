@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 25:23",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Abigajil viděla ⟨את⟩ Davida, pospíchala a sestoupila s osla, padla před Davidovu tvář na svou tvář a klaněla se k zemi.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "viděla"
+    },
+    {
+      "surface": "אביגיל",
+      "gloss": "Abigajil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "pospíchala"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "sestoupila"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "osla"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "padla"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "před tvář"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "klaněla se"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "k zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:22.980399561Z",
+  "model": "glm-5.3"
+}

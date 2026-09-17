@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Reaja, syn Šovalův, zplodil ⟨את⟩ Jachat, a Jachat zplodil ⟨את⟩ Achumaje a ⟨את⟩ Lahada. Tohle jsou čeledi ceoratejské.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "A Reaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Šovalův"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Jachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "a Jachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achumaje"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Lahada"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Tohle"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "čeledi"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "ceoratejské"
+    }
+  ],
+  "timestamp": "2026-09-17T11:23:30.649081430Z",
+  "model": "glm-5.3"
+}

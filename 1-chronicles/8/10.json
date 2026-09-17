@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A ⟨את⟩ Jeúca a ⟨את⟩ Šekiju a ⟨את⟩ Mirmu. To jsou jeho synové, náčelníků otcovských rodů ⟨hlavy otců⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "A ⟨את⟩",
+      "marks": "Jeúca"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Jeúca"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Šekiju"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Šekiju"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Mirmu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmu"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "To jsou"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synové"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "náčelníci\/hlavy"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "otců"
+    }
+  ],
+  "timestamp": "2026-09-17T11:23:48.627514048Z",
+  "model": "glm-5.3"
+}

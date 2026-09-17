@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Lepší je dlouho-zlobivý ⟨než⟩ hrdina, a vládce svého ducha ⟨než⟩ dobyvatel města.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Lepší"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dlouho-"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "zlobivý"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "než hrdina"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "a vládce"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "svého ducha"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "než dobyvatel"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "města"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:03.549724701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Neboť moje vin'y přešly mou hlavu, jako těžké břímě jsou mi příliš těžké.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "moje viny"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "přešly"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "moji hlavu"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "jako břímě"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "těžké"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "jsou příliš těžké"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pro mne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:04.362417721Z",
+  "model": "glm-5.3"
+}

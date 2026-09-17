@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Od hlasu rámusu prchají národové; od tvého vyvýšení rozptýleny jsou ⟨národy⟩.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "od hlasu"
+    },
+    {
+      "surface": "המון",
+      "gloss": "rámusu"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "prchají"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národové"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "od tvého vyvýšení"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "rozptýleny jsou"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨národy⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T08:09:49.189563313Z",
+  "model": "glm-5.3"
+}

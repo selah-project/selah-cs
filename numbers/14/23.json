@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Jestliže uvidí ⟨את⟩ zemi, o níž jsem přisáhl jejich otcům — a všichni, kdo mě pohrdají, ji nespatří.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "uvidí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o níž"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jsem přisáhl"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "jejich otcům"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všichni"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "kdo mě pohrdají"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "ji spatří"
+    }
+  ],
+  "timestamp": "2026-09-17T11:57:06.478776215Z",
+  "model": "glm-5.3"
+}

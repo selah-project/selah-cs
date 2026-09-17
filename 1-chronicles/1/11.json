@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A Micrajim zplodil ⟨את⟩ Ludijce, ⟨את⟩ Anamijce, ⟨את⟩ Lehabijce a ⟨את⟩ Naftuchijce.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "a Micrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludijce"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludijce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anamijce"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamijce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lehabijce"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabijce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Naftuchijce"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuchijce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:38:48.691913780Z",
+  "model": "glm-5.3"
+}

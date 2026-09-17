@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Nechť přijde před tvou tvář mou modlitba, nakloň své ucho k mému volání.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Nechť přijde"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tvou tvář"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mou modlitbu"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "nakloň"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "své ucho"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "k mému volání"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:58.824807899Z",
+  "model": "glm-5.3"
+}

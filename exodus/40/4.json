@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A uvedeš ⟨את⟩ stůl a upravíš ⟨את⟩ jeho uspořádání, a uvedeš ⟨את⟩ svícen a vztyčíš ⟨את⟩ jeho lampy.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "A uvedeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stůl"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stůl"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "a upravíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho uspořádání"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "jeho uspořádání"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "a uvedeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svícen"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "svícen"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "a vztyčíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho lampy"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "jeho lampy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:47.118497960Z",
+  "model": "glm-5.3"
+}

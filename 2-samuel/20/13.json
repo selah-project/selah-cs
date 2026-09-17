@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 20:13",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Když byl odstraněn z cesty, přešel každý muž za Jóabem, aby pronásledoval ⟨za⟩ Šebou, synem Bikriho.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Když"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "byl odstraněn"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "cesty"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "přešel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóabem"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "aby pronásledoval"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨za⟩"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Šebou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "Bikriho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:41.543026743Z",
+  "model": "glm-5.3"
+}

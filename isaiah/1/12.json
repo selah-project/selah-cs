@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Když přicházíte, abyste se ukázali před mou tváří, kdo ⟨to⟩ vyžádal z vaší rukou, abyste pošlapávali mé dvory?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "přicházíte"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "abyste se ukázali před"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváří mou"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "vyžádal"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "z vaší rukou"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "pošlapávali"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "mé dvory"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:54.671801545Z",
+  "model": "glm-5.3"
+}

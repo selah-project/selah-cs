@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 1:22",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Od krve ⟨⟩ zabitých, z tuku mocných, luk Jonatanův se nevracel zpět a meč Šaulův se nevracel prázdný.",
+  "tokens": [
+    {
+      "surface": "מדם",
+      "gloss": "od krve"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "zabitých"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "z tuku"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "mocných"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatanův"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נשוג",
+      "gloss": "se vracel"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "zpět"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "a meč"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulův"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se vracel"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "prázdný"
+    }
+  ],
+  "timestamp": "2026-09-17T11:41:26.726752629Z",
+  "model": "glm-5.3"
+}

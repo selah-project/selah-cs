@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Slyšeli jsme ⟨את⟩ jeho zprávu — ochably naše ruce, sevřela nás tíseň, bolest jako u rodičky.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "slyšeli jsme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho zprávu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "zprávu"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "ochably"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "naše ruce"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tíseň"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "nás sevřela"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bolest"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "jako u rodičky"
+    }
+  ],
+  "timestamp": "2026-09-17T08:20:09.311526805Z",
+  "model": "glm-5.3"
+}

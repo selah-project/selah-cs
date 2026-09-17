@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Snad mi schází šílenců, že jste přivedli ⟨את⟩ tohoto, aby se bláznil přede mnou? Což tento ⟨má⟩ vstoupit do mého domu?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "schází"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "šílenců"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "jste přivedli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tohoto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "aby se bláznil"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "vstoupit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mého domu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:58.609501196Z",
+  "model": "glm-5.3"
+}

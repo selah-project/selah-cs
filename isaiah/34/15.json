@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 34:15",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Tam si hnízdo zbudovala zmije, snesla vejce, vylíhla ⟨mláďata⟩ a zahřívala ⟨je⟩ ve svém stínu; tam se sběhly dravé sokoly, každá se svou družkou.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "קננה",
+      "gloss": "zbudovala si hnízdo"
+    },
+    {
+      "surface": "קפוז",
+      "gloss": "zmije"
+    },
+    {
+      "surface": "ותמלט",
+      "gloss": "snesla (vejce)"
+    },
+    {
+      "surface": "ובקעה",
+      "gloss": "vylíhla"
+    },
+    {
+      "surface": "ודגרה",
+      "gloss": "zahřívala"
+    },
+    {
+      "surface": "בצלה",
+      "gloss": "ve svém stínu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tam (jenom)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "נקבצו",
+      "gloss": "seběhly se"
+    },
+    {
+      "surface": "דיות",
+      "gloss": "dravé sokoly (káně)"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "každá"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "se svou družkou"
+    }
+  ],
+  "timestamp": "2026-09-17T08:10:25.208231756Z",
+  "model": "glm-5.3"
+}

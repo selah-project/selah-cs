@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Ale mne ⟨את⟩ jsi nezval, Jaakobe, neboť jsi se mnou unavil, Israeli.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mne"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "jsi nezval"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakobe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "jsi se unavil"
+    },
+    {
+      "surface": "בי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    }
+  ],
+  "timestamp": "2026-09-17T10:59:55.710036525Z",
+  "model": "glm-5.3"
+}

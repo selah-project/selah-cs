@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A stalo se, když přešel celý národ ⟨את⟩ Jordán, že promluvil Jahve k Jozuovi a řekl:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "dokončil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "národ"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "přejít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "že promluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekl"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:03.158442669Z",
+  "model": "glm-5.3"
+}

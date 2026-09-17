@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A vejdeš ke králi a promluvíš k němu podle tohoto slova. A Joab vložil ⟨את⟩ slova do jejích úst.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "vejdeš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "promluvíš"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "podle slova"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "vložil"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slova"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "slova"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "do jejích úst"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:53.530361261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Pošlete od sebe jednoho, ať přivede ⟨את⟩ vašeho bratra; vy však buďte drženi ve vazbě, ať se prozkouší vaše slova, zda je pravda ⟨את⟩ u vás; a pokud ne — životem faraóna vyzvědači jste!",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Pošlete"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "od sebe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ať přivede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vašeho bratra"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vašeho bratra"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "vy však"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "buďte drženi ve vazbě"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "ať se prozkouší"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "vaše slova"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "pravda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ u"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a pokud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חי",
+      "gloss": "životem"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraóna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vyzvědači"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "vyzvědači"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jste"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:08.040826796Z",
+  "model": "glm-5.3"
+}

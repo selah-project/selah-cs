@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "K tobě volali a byli zachráněni; v tebe doufali a nebyli zahanbeni.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "K tobě"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "volali"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "a byli zachráněni"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tebe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "doufali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "byli zahanbeni"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:08.349834955Z",
+  "model": "glm-5.3"
+}

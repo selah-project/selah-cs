@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 97,
+  "translation": "Jahve kraluje — ať jásá země, ať se raduje mnoho ostrovů.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraluje"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ať jásá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ať se radují"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ostrovy"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnoho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:17.590673201Z",
+  "model": "glm-5.3"
+}

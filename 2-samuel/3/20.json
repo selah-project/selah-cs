@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 3:20",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "I přišel Abner k Davidovi do Chevronu a ⟨את⟩ něj dvacet mužů; a David připravil Abnerovi a mužům, kteří ⟨את⟩ něj byli, hostinu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "I přišel"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "do Chevronu"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "a ⟨את⟩ něj",
+      "marks": "jeho (Abnera)"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a připravil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Abnerovi"
+    },
+    {
+      "surface": "ולאנשים",
+      "gloss": "a mužům"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ něj",
+      "marks": "jeho (s ním)"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "hostinu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:56.633211782Z",
+  "model": "glm-5.3"
+}

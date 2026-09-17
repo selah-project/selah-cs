@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A učinil Mojžíš, jak přikázal Jahve ⟨את⟩ jemu; a shromáždila se obec ke vchodu stanu setkávání.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A učinil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jemu",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "a shromáždila se"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "obec"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:30:33.211387974Z",
+  "model": "glm-5.3"
+}

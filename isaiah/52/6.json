@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Proto můj lid pozná mé jméno; proto ⟨pozná⟩ v ten den, že já jsem ⟨ten⟩ hovořící — hle, jsem tu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Proto"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pozná"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mé jméno"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "proto"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jsem ⟨ten⟩"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hovořící"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hle, jsem tu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:59:37.233199215Z",
+  "model": "glm-5.3"
+}

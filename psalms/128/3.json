@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 128,
+  "translation": "Tvoje žena ⟨bude⟩ jako plodonosná réva v nitru tvého domu, tvoji synové jako výhonky olivovníku kolem tvého stolu.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Tvoje žena"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "jako réva"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "plodonosná"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "v nitru"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tvého domu"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvoji synové"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "jako výhonky"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "olivovníku"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "tvého stolu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:59.195630154Z",
+  "model": "glm-5.3"
+}

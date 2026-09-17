@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A ⟨את⟩ zápalnou oběť mu předložili po částech i ⟨את⟩ hlavu, a zádusil ⟨je⟩ na oltáři.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zápalnou oběť"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalnou oběť"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "předložili"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "po částech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hlavu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "zádusil"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:06.628782049Z",
+  "model": "glm-5.3"
+}

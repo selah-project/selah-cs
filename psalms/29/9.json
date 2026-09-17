@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Hlas Jahve se vzmáhá ⟨nad⟩ laňmi a obnažuje hvozdy; a v jeho paláci všechno volá: „Sláva!“",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Hlas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "se vzmáhá ⟨nad⟩"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "laňmi"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "a obnažuje"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "hvozdy"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "a v jeho paláci"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "volá:"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "„Sláva!“"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:10.513746790Z",
+  "model": "glm-5.3"
+}

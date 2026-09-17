@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A Akíš řekl: Nevytáhli jste dnes ⟨na výpravu⟩? A David řekl: Proti jižnímu kraji Judska, a proti jižnímu kraji Jerachmeelců, a k jižnímu kraji Kenijců.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "což"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "nevytáhli jste"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "jižnímu kraji"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judska"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a proti"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "jižnímu kraji"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Jerachmeelců"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "jižnímu kraji"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Kenijců"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:12.170899975Z",
+  "model": "glm-5.3"
+}

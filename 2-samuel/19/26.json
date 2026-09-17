@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 19:26",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Stalo se, že když přišel do Jeruzaléma vstříc králi, řekl mu král: „Proč jsi nešel se mnou, Mefibošete?“",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že když"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruzaléma"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vstříc"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "jsi šel"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "מפיבשת",
+      "gloss": "Mefibošete"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:29.228394647Z",
+  "model": "glm-5.3"
+}

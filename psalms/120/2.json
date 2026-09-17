@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 120,
+  "translation": "Jahve, vysvoboď moji nef'eš z rtů lži, z jazyka klamného!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "vysvoboď"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji nef'eš"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "z rtů"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lži"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "z jazyka"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "klamného"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:49.438991350Z",
+  "model": "glm-5.3"
+}

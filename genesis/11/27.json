@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A toto ⟨jsou⟩ rodokmeny Teracha: Terach zplodil ⟨את⟩ Avrama, ⟨את⟩ Náchora a ⟨את⟩ Harana; a Haran zplodil ⟨את⟩ Lota.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A toto"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "rodokmeny"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teracha"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrama"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Náchora"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Náchora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Harana"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Harana"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "a Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:21.675574921Z",
+  "model": "glm-5.3"
+}

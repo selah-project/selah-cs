@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A sestoupil Moše z hory k lidu, a posvětil ⟨את⟩ lid, a vyprali své šaty.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "A sestoupil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "hory"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "a posvětil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "a vyprali"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "své šaty"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:56.097016395Z",
+  "model": "glm-5.3"
+}

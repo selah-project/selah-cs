@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "I řekl mu: Pojď ⟨את⟩ se mnou domů, a jez chléb.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Pojď"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ se mnou",
+      "marks": "Pojď se mnou domů"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "domů"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "a jez"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:50.448879462Z",
+  "model": "glm-5.3"
+}

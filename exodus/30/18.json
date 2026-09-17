@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Učiníš umyvadlo z mědi a jeho podstavec z mědi k mytí, a postavíš je mezi stan setkávání a ⟨את⟩ oltář, a dáš tam vody.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "učiníš"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "umyvadlo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "z mědi"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "a jeho podstavec"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "z mědi"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "k mytí"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "a postavíš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ je",
+      "marks": "umyvadlo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltářem"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "a dáš"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:02.202307329Z",
+  "model": "glm-5.3"
+}

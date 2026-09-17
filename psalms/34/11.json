@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Mladí lvi chudnou a hladoví, ale ti, kdo hledají Jahve, nepostrádají žádné dobro.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Mladí lvi"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "chudnou"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "a hladoví"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ale ti, kdo hledají"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "postrádají"
+    },
+    {
+      "surface": "כל",
+      "gloss": "žádné"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:39.346069591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "I řekl jim Jákob: Bratři moji, odkud jste? A řekli: Z Cháranu jsme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Bratři moji"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "odkud"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "jste"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "Z Cháranu"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "jsme"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:27.838400661Z",
+  "model": "glm-5.3"
+}

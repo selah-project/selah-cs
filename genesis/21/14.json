@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 21:14",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Abraham se časně ráno vzbudil, vzal chléb a měch vody, dal ⟨to⟩ Hagar — vložil ⟨to⟩ na její rameno — i ⟨את⟩ dítě, a poslal ji pryč; a ona šla a bloudila v poušti Beer-ševa.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a vzbudil se časně"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "a měch"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "vložil"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "její rameno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dítě"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dítě"
+    },
+    {
+      "surface": "וישלחה",
+      "gloss": "a poslal ji"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "a šla"
+    },
+    {
+      "surface": "ותתע",
+      "gloss": "a bloudila"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v poušti"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-ševa"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:54.515747888Z",
+  "model": "glm-5.3"
+}

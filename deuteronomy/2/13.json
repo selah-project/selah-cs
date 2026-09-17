@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Nyní vstaňte a přejděte ⟨si⟩ ⟨את⟩ potok Zered. A přešli jsme ⟨את⟩ potok Zered.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nyní"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "vstaňte"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "a přejděte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨si⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potok Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "a přešli jsme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potok Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:57.253389594Z",
+  "model": "glm-5.3"
+}

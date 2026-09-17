@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 54,
+  "translation": "Hle, shromáždí se — ⟨את⟩ ⟨ne⟩ ode mne; kdo se shromáždí ⟨את⟩ ⟨s tebou⟩, na tebe padne.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "גור",
+      "gloss": "shromáždí"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "se (shromáždí)"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "⟨ne⟩ (nikoli)"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "ode mne"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "shromáždí"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨s tebou⟩"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "padne"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:21.721728569Z",
+  "model": "glm-5.3"
+}

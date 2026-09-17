@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Attaj zplodil ⟨את⟩ Nátana, a Nátan zplodil ⟨את⟩ Zabada.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "A Attaj"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nátana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nátana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a Nátan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabada"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabada"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:22.491830684Z",
+  "model": "glm-5.3"
+}

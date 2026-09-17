@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Veď mě ve své pravdě a uč mě, neboť ty jsi Elohim mé záchrany; ⟨את⟩ tebe jsem očekával celý den.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Veď mě"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ve své pravdě"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "a uč mě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mé záchrany"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "jsem očekával"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:20.957419169Z",
+  "model": "glm-5.3"
+}

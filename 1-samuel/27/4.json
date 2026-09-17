@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "I bylo oznámeno Šaulovi, že uprchl David do Gatu; a nepřidal ⟨se⟩ k tomu, aby ho ještě hledal.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "I bylo oznámeno"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "uprchl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "do Gatu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nepřidal"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "⟨se⟩ k tomu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "hledat ho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:31.893698907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 83,
+  "translation": "Neboť viz, tvoji nepřátelé řvou ⟨v hlučné vřavě⟩ a ti, kdo tě nenávidí, pozvedli hlavu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "viz"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "tvoji nepřátelé"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "řvou ⟨v hlučné vřavě⟩"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "a ti, kdo tě nenávidí"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "pozvedli"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:59.921058567Z",
+  "model": "glm-5.3"
+}

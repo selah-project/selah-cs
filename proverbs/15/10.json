@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Trest ⟨je⟩ tvrdý pro toho, kdo opouští cestu; kdo nenávidí výtku, zemře.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "trest"
+    },
+    {
+      "surface": "רע",
+      "gloss": "tvrdý"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "pro toho, kdo opouští"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "kdo nenávidí"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "výtku"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:39.252513806Z",
+  "model": "glm-5.3"
+}

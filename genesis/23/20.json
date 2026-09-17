@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A pole i jeskyně, která je v něm, byla upevněna Abrahamovi ⟨jako⟩ držení hrobu ⟨skrze⟩ ⟨את⟩ syny Chetovy.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "A byla upevněna"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "i jeskyně"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamovi"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "⟨jako⟩ držení"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "hrobu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨skrze⟩ ⟨את⟩",
+      "marks": "syny Chetovy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chetovy"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:36.213828115Z",
+  "model": "glm-5.3"
+}

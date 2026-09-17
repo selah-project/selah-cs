@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A ⟨את⟩ všechen jeho tuk z něj zvedne a na oltáři zakouří.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechen jeho tuk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "jeho tuk"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "zvedne"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a zakouří"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltáři"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:51.677358702Z",
+  "model": "glm-5.3"
+}

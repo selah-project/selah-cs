@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Nebude v tvé zemi ⟨ten, kdo⟩ potratí, ani neplodná; ⟨את⟩ počet tvých dnů naplním.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nebude"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨nebude⟩"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "⟨ta, kdo⟩ potratí"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "ani neplodná"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "v tvé zemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "počet tvých dnů"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "počet"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tvých dnů"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "naplním"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:47.030558608Z",
+  "model": "glm-5.3"
+}

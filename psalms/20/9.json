@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Oni poklekli a padli, my však jsme povstali a ⟨jsme se vztyčili⟩.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Oni"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "poklekli"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "a padli"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "my však"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "jsme povstali"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "a ⟨jsme se vztyčili⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:46.970674339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Proč, Jahve, zavrhuješ moji neféš, skrýváš svou tvář přede mnou?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "zavrhuješ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji neféš"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "skrýváš"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "přede mnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:55.408883248Z",
+  "model": "glm-5.3"
+}

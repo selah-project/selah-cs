@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "A Izrael uviděl ⟨את⟩ syny Josefovy a řekl: Kdo jsou tito?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "A uviděl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Josefovy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefovy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tito"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:41.562766146Z",
+  "model": "glm-5.3"
+}

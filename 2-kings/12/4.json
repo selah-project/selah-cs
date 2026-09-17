@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Jenže výšiny neustoupily; lid stále obětoval a pálil kadidlo na výšinách.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Jenže"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "výšiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ustoupily"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "obětoval"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "a pálil kadidlo"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "na výšinách"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:32.210258125Z",
+  "model": "glm-5.3"
+}

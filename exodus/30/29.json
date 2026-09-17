@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A posvětíš ⟨את⟩ je, a budou svatostí svatostí; všeliký, kdo se jich dotkne, bude svatý.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "A posvětíš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "a budou"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatostí"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svatostí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všeliký"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kdo se dotkne"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jich"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "bude svatý"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:18.306176501Z",
+  "model": "glm-5.3"
+}

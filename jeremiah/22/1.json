@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Tak řekl Jahve: Sestup do domu krále Judova a promluvíš tam ⟨את⟩ toto slovo:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Sestup"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judova"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "a promluvíš"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toto slovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toto"
+    }
+  ],
+  "timestamp": "2026-09-17T08:25:30.382078696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 132,
+  "translation": "„Její zásobu požehnám bohatě, její chudé nasytím chlebem.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "zásobu"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "požehnám"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "bohatě ⟨požehnám⟩"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "její chudé"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "nasytím"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:25.761912026Z",
+  "model": "glm-5.3"
+}

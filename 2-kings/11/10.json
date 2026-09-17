@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A dal kněz velitelům setnin ⟨את⟩ kopí a ⟨את⟩ štíty, které ⟨byly⟩ krále Davida, které ⟨jsou⟩ v domě Jahve.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "velitelům"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "setnin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kopí"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "kopí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "štíty"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "štíty"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:06.953551682Z",
+  "model": "glm-5.3"
+}

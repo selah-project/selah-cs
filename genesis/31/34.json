@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 31:34",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Ráchel pak vzala ⟨את⟩ terafim a vložila je do velbloudího sedla a posadila se na ně; Lában nahmatal ⟨את⟩ celý stan a nenašel ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "ורחל",
+      "gloss": "A Ráchel"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "vzala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafim"
+    },
+    {
+      "surface": "ותשמם",
+      "gloss": "a vložila je"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "do velbloudího sedla"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "velbloudího"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "a posadila se"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na ně"
+    },
+    {
+      "surface": "וימשש",
+      "gloss": "a nahmatal"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lában"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý stan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nenašel"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nenašel ⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:11.958817520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Tvůj otec učinil tvrdé ⟨את⟩ jho naše; a nyní zlehči tvrdou službu tvého otce a těžké jho jeho, které uvalil na nás, a budeme ti sloužit.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Tvůj otec"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": " učinil tvrdé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jho naše (עלנו)"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "jho naše"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "zlehči"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "službu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvého otce"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "tvrdou"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "a jho jeho"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "těžké"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uvalil"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na nás"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "a budeme ti sloužit"
+    }
+  ],
+  "timestamp": "2026-09-17T10:26:34.923617916Z",
+  "model": "glm-5.3"
+}

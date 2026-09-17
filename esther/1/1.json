@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A stalo se v dnech Achadveróše — onen Achadveróš, který kraluje od Hodu až po Kuš, nad sedmiadvaceti a sty provinciemi —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "v dnech"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achadveróše"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achadveróš"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "jenž kraluje"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "od Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuš"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedmi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "a dvaceti"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "a sty"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "provincií"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:33.898181129Z",
+  "model": "glm-5.3"
+}

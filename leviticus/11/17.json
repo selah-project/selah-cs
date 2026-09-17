@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "a ⟨את⟩ výrečka a ⟨את⟩ kormorána a ⟨את⟩ výra",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "výrečka"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "výreček"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kormorána"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "kormorán"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "výra"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "výr"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:43.773826400Z",
+  "model": "glm-5.3"
+}

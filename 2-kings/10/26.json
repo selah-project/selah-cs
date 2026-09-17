@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A vynesli ⟨את⟩ sloupy ⟨z⟩ domu Baala a spálili je.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "A vynesli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sloupy"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "sloupy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "a spálili je"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:07.194111933Z",
+  "model": "glm-5.3"
+}

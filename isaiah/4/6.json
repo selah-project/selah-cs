@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A bude přístřešek za stín ve dne před žárem a za úkryt a za skrýši před průtrží a před deštěm.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "A bude přístřešek"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "za stín"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ve dne"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "před žárem"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "a za úkryt"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "a za skrýši"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "před průtrží"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "a před deštěm"
+    }
+  ],
+  "timestamp": "2026-09-17T08:02:11.291196966Z",
+  "model": "glm-5.3"
+}

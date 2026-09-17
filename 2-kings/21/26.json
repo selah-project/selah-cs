@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A pohřbili ⟨את⟩ něj v jeho hrobce v zahradě Uzy, a místo něj kraloval Jošiášu, jeho syn.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "A pohřbili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "něj"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "v jeho hrobce"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "v zahradě"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzy"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a kraloval"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošiášu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:07.057373411Z",
+  "model": "glm-5.3"
+}

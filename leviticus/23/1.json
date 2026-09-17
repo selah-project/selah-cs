@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "I mluvil Jahve k Mojžíšovi ⟨toto⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨toto⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:38.250466221Z",
+  "model": "glm-5.3"
+}

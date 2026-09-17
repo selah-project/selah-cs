@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A ⟨když⟩ muž způsobí vadu svému bližnímu — jak učinil, tak ⟨se⟩ mu stane:",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A ⟨když⟩ muž"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨když⟩"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "způsobí"
+    },
+    {
+      "surface": "מום",
+      "gloss": "vadu"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "svému bližnímu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "stane ⟨se⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:45.189657720Z",
+  "model": "glm-5.3"
+}

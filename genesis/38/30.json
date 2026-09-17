@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Poté vyšel jeho bratr, na jehož ruce ⟨byla⟩ šarlatová nit; a nazval ⟨tě⟩ jeho jménem Zerach.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "Poté"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jeho bratr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na jehož"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ruce"
+    },
+    {
+      "surface": "השני",
+      "gloss": "⟨šarlatová nit⟩"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jménem"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    }
+  ],
+  "timestamp": "2026-09-17T06:11:25.463182208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Neboť k prachu ⟨je⟩ pokleslá naše duše, k zemi přilnul náš život ⟨v háři⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "pokleslá"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "k prachu"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naše duše"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "přilnul"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "k zemi"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "náš život ⟨v háři⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:10.795560889Z",
+  "model": "glm-5.3"
+}

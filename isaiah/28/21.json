@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 28:21",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Neboť jako na hoře Peracim povstane Jahve, jako v údolí u Gibeónu se rozhněvá, aby konal své dílo — cizí ⟨je⟩ jeho dílo — a aby vykonal svou práci — neobvyklá ⟨je⟩ jeho práce.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "jako na hoře"
+    },
+    {
+      "surface": "פרצים",
+      "gloss": "Peracim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "povstane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כעמק",
+      "gloss": "jako v údolí"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "u Gibeónu"
+    },
+    {
+      "surface": "ירגז",
+      "gloss": "se rozhněvá"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aby konal"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "své dílo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "cizí"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "jeho dílo"
+    },
+    {
+      "surface": "ולעבד",
+      "gloss": "a aby vykonal"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "svou práci"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "neobvyklá"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "jeho práce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:45:34.998826079Z",
+  "model": "glm-5.3"
+}

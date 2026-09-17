@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 148,
+  "translation": "A postavil ⟨je⟩ na věky věků, výnos dal, a nepřejde.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "a postavil ⟨je⟩"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "věků"
+    },
+    {
+      "surface": "חק",
+      "gloss": "výnos"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "přejde"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:42.583479031Z",
+  "model": "glm-5.3"
+}

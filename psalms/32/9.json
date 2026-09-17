@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Nebuďte jako kůň, jako mula bez rozumu: ⟨jejich⟩ ozdobou ⟨je⟩ uzda a otěž, ⟨aby⟩ je to zkrotilo, ⟨aby⟩ k tobě nepřibližovali.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "buďte"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "jako kůň"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "jako mula"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bez"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "rozumu"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "uzda"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "a otěž"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "jejich ozdobou"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "⟨aby⟩ je to zkrotilo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "přibližovali"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:36.344460425Z",
+  "model": "glm-5.3"
+}

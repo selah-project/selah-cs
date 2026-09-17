@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A řekl Jahve: Kdo by svedl ⟨את⟩ Achaba, aby šel a padl v Rámotu Giladu? A jeden řekl tak, a druhý řekl tak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "by svedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achaba"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "aby šel"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "a padl"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "v Rámotu"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "זה",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "a druhý"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:15.223445824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Proto řekni: Hle, já dávám jemu ⟨את⟩ svou smlouvu pokoje.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Proto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řeční"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hle, já"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dávám"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou smlouvu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svou smlouvu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoje"
+    }
+  ],
+  "timestamp": "2026-09-17T10:43:15.905465410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Těžší ať ⟨je⟩ práce na lidech, a ať v ní konají, a nechť se nezastavují u slov lži.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "těžší ať je"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "práce"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "lidech"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "a ať konají"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a nechť ne"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "zastavují se"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "u slov"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lži"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:33.315906328Z",
+  "model": "glm-5.3"
+}

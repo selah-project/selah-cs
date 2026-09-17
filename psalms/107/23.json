@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Sestupující k ⟨tomuto⟩ moři na lodích, konající práci na vodách mnohých.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "sestupující"
+    },
+    {
+      "surface": "הים",
+      "gloss": "k moři"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "na lodích"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "konající"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "práci"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na vodách"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnohých"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:11.725620262Z",
+  "model": "glm-5.3"
+}

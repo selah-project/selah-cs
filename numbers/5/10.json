@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A muž ⟨את⟩ své svaté věci — jeho budou; co kterýkoli muž dá knězi, jeho to bude.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "a muž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svaté věci jeho"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "svaté věci jeho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "budou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kterýkoli muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "knězi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:17.008268510Z",
+  "model": "glm-5.3"
+}

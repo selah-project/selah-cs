@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Přísloví Šalomouna. Moudrý syn ⟨těší⟩ otce, ale syn bláznivý ⟨je⟩ zármutek své matky.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Přísloví"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomouna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrý"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "⟨těší⟩"
+    },
+    {
+      "surface": "אב",
+      "gloss": "otce"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ale syn"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "bláznivý"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "zármutek"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "své matky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:08.985639639Z",
+  "model": "glm-5.3"
+}

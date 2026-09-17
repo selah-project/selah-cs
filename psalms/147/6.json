@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "Jahve zvedá pokorné, k zemi ponižuje bezbožné.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "zvedá"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pokorné"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "ponižuje"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožné"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "k"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:47.592732218Z",
+  "model": "glm-5.3"
+}

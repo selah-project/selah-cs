@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Obrátil jejich srdce, aby nenáviděli jeho lid, ⟨a⟩ ⟨aby⟩ lstivě jednali s jeho sluhy.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "obrátil"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "jejich srdce"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "aby nenáviděli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeho lid"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "lstivě jednali"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "s jeho sluhy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:22.918735384Z",
+  "model": "glm-5.3"
+}

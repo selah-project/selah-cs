@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Mění řeky v poušť a prameny vody v žíznivou zem.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Mění"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "řeky"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "v poušť"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "a prameny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "v žíznivou ⟨zem⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:48.026505763Z",
+  "model": "glm-5.3"
+}

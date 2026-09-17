@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A kněz je přivede před tvář Jahveho a vykoná ⟨את⟩ jeho obět za hřích a ⟨את⟩ jeho obět spálení.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "A přivede"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tvář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a vykoná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho obět za hřích"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "jeho obět za hřích"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho obět spálení"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "jeho obět spálení"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:16.799811104Z",
+  "model": "glm-5.3"
+}

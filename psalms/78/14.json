@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "A ve dne je vedl oblakem, a celou noc světlem ohně.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "vedl je"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "oblakem"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ve dne"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celou"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noc"
+    },
+    {
+      "surface": "באור",
+      "gloss": "světlem"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ohně"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:36.764964336Z",
+  "model": "glm-5.3"
+}

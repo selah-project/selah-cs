@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Každý člověk ⟨ho⟩ viděl, smrtelný hledí z dálky.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Každý"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ho⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtelný"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "hledí"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "z dálky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:52:09.108926938Z",
+  "model": "glm-5.3"
+}

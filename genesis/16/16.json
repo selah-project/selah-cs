@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A Abram ⟨byl⟩ syn osmdesáti let a šesti let, když porodila Hagar ⟨את⟩ Jišma'ela Abramovi.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "A Abram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "osmdesáti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "a šesti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "když porodila"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jišma'ela"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišma'ela"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Abramovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:22.427175919Z",
+  "model": "glm-5.3"
+}

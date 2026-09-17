@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Jeden útes ⟨se tyčil⟩ na sever naproti Mikmaši, a druhý na jih naproti Gebe.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "útes"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "⟨se tyčil⟩"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "na sever"
+    },
+    {
+      "surface": "מול",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmaši"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "a druhý"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "na jih"
+    },
+    {
+      "surface": "מול",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gebe"
+    }
+  ],
+  "timestamp": "2026-09-17T07:24:35.580522738Z",
+  "model": "glm-5.3"
+}

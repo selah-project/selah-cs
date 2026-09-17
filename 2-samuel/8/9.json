@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A uslyšel Toí, král Chamacu, že David porazil ⟨את⟩ celé vojsko Hadadezera.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a uslyšel"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toí"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamacu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "porazil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celé vojsko Hadadezera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vojsko"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    }
+  ],
+  "timestamp": "2026-09-17T07:33:17.779378744Z",
+  "model": "glm-5.3"
+}

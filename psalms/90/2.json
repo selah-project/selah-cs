@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Předtím než hory byly zrozeny, dříve než jsi ploď〈\/〉 zem〈i〉 svět, od věku až do věku ty ⟨jsi⟩ El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Předtím než"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hory"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "byly zrozeny"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "dříve než jsi ploď"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "i svět"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "od věku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:07.808667985Z",
+  "model": "glm-5.3"
+}

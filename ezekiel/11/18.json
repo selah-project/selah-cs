@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A vejdou tam a odstraní ⟨את⟩ všechny její ohavnosti a ⟨את⟩ všechny její hnusoty z ní.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "A vejdou"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "a odstraní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny její ohavnosti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "její ohavnosti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechny její hnusoty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "její hnusoty"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "z ní"
+    }
+  ],
+  "timestamp": "2026-09-17T08:40:52.928586668Z",
+  "model": "glm-5.3"
+}

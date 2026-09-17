@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 17:24",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A král asýrský přivedl ⟨lidi⟩ z Babylónu, z Kúty, z Avvy, z Chamatu a ze Sefarvajimu, a usadil je v městech Šomronu místo synů Izraele; a zmocnili se ⟨את⟩ Šomronu a bydleli v jeho městech.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "přivedl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "asýrský"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "z Babylónu"
+    },
+    {
+      "surface": "ומכותה",
+      "gloss": "z Kúty"
+    },
+    {
+      "surface": "ומעוא",
+      "gloss": "z Avvy"
+    },
+    {
+      "surface": "ומחמת",
+      "gloss": "z Chamatu"
+    },
+    {
+      "surface": "וספרוים",
+      "gloss": "ze Sefarvajimu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "usadil je"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "v městech"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomronu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "zmocnili se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šomronu"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomronu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "bydleli"
+    },
+    {
+      "surface": "בעריה",
+      "gloss": "v jeho městech"
+    }
+  ],
+  "timestamp": "2026-09-17T07:58:14.275728703Z",
+  "model": "glm-5.3"
+}

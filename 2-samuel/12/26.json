@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A bojoval Jóab proti Rabbátu synů Amónových, a dobyl ⟨את⟩ město ⟨to⟩ královské.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "A bojoval"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóab"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "proti Rabbátu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amónových"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a dobyl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "město královské"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "královské"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:18.947187256Z",
+  "model": "glm-5.3"
+}

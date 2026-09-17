@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 2:1",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A tito jsou synové ⟨provincie⟩, kteří vyšli ze zajetí vyhnanství, jež vyhnal Nebukadnecar, král Babylonu, do Babylonu, a vrátili se do Jeruzaléma a Judska, každý do svého města.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a tito"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "⟨provincie⟩"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "kteří vyšli"
+    },
+    {
+      "surface": "משבי",
+      "gloss": "ze zajetí"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "vyhnanství"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "vyhnal"
+    },
+    {
+      "surface": "נבוכדנצור",
+      "gloss": "Nebukadnecar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylonu"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "do Babylonu"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "a vrátili se"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "do Jeruzaléma"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Judska"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "do svého města"
+    }
+  ],
+  "timestamp": "2026-09-17T10:08:05.347990428Z",
+  "model": "glm-5.3"
+}

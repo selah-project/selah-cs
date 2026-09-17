@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Chléh svého Elohima, z přesvatých věcí i z svatých smí jíst.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "chléh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "z přesvatých"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "věcí"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i z"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svatých"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smí jíst"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:49.020934608Z",
+  "model": "glm-5.3"
+}

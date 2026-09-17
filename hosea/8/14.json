@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Izrael zapomněl ⟨את⟩ svého Tvůrce a staví paláce, a Judáš rozmnožil opevněná města; ale já pošlu oheň na jeho města a ten pohltí jeho paláce.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "a zapomněl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého Tvůrce"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "svého Tvůrce"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a staví"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "paláce"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Judáš"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "rozmnožil"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "města"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "opevněná"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "ale pošlu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "na jeho města"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "a ten pohltí"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "jeho paláce"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:55.255816423Z",
+  "model": "glm-5.3"
+}

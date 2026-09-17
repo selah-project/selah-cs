@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 5:7",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A kněží vnesli ⟨את⟩ archu smlouvy Jahve na její místo, do debíru domu, do svatyně svatých, pod křídla cherubů.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "a vnesli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu smlouvy Jahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "její místo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debíru"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svatých"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "křídla"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "cherubů"
+    }
+  ],
+  "timestamp": "2026-09-17T10:25:05.336679824Z",
+  "model": "glm-5.3"
+}

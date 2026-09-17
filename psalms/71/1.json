@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "V tobě, Jahve, jsem hledal útočiště, ať nejsem zahanben navěky.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "jsem hledal útočiště"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "jsem zahanben"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:17.620454310Z",
+  "model": "glm-5.3"
+}

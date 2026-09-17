@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A vzali ⟨את⟩ Jonáše a hodili jej do moře — a moře se utišilo od svého vzteku.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "A vzali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonáše"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonáše"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "a hodili jej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "a se utišilo"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "od svého vzteku"
+    }
+  ],
+  "timestamp": "2026-09-17T11:08:29.681720073Z",
+  "model": "glm-5.3"
+}

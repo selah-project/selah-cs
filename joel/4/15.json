@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Slunce i měsíc se zatmí a hvězdy zastíní svou záři.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Slunce"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "i měsíc"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "se zatmí"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "a hvězdy"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "zastíní"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "svou záři"
+    }
+  ],
+  "timestamp": "2026-09-17T08:59:02.916330173Z",
+  "model": "glm-5.3"
+}

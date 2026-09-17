@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A nyní, hle, Adonijáš se stal králem — a nyní, můj pane králi, ty ⟨o tom⟩ nevíš.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonijáš"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "se stal králem"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "můj pane"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nevíš"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:46.171467042Z",
+  "model": "glm-5.3"
+}

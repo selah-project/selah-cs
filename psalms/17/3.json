@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Zkoumal jsi mé srdce, navštívil jsi ⟨mě⟩ v noci, přetavil jsi mě — ⟨a⟩ nic nenašel jsi; mé úmysly nepřejdou ⟨přes⟩ má ústa.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Zkoumal jsi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "navštívil jsi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "přetavil jsi mě"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nic"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "nenašel jsi"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "mé úmysly"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "přejdou"
+    },
+    {
+      "surface": "פי",
+      "gloss": "má ústa"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:43.802412334Z",
+  "model": "glm-5.3"
+}

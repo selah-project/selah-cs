@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Jak dlouho budeš mluvit ⟨ty⟩ tyto ⟨věci⟩, a dech ⟨silný jako⟩ vítr ⟨jsou⟩ slova tvých úst?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jak dlouho"
+    },
+    {
+      "surface": "אן",
+      "gloss": "⟨dokud⟩"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "budeš mluvit"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "a dech vítr"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "silný jako vítr"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tvých úst"
+    }
+  ],
+  "timestamp": "2026-09-17T11:17:02.025527193Z",
+  "model": "glm-5.3"
+}

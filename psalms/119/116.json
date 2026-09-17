@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Podpěř mě podle svého výroku, a budu žít; a nedopřej mi být zklamán kvůli své naději.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "Podpěř mě"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "podle svého výroku"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "a budu žít"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "dopřej mi být zklamán"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "kvůli své naději"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:35.478558450Z",
+  "model": "glm-5.3"
+}

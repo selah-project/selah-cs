@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A Josef zdál sen a vyprávěl ⟨o něm⟩ svým bratrím, a oni ho ještě víc nenáviděli ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "zdál"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a vyprávěl"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "svým bratrím"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "a přidali \/ ještě víc"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nenáviděli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (Josef)"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:47.357827646Z",
+  "model": "glm-5.3"
+}

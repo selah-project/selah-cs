@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Tehdy řekl Šalomoun: „Jahve řekl, že ⟨chce⟩ přebývat v husté tmě.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tehdy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "přebývat"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "v husté tmě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:21.170136509Z",
+  "model": "glm-5.3"
+}

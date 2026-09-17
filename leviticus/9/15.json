@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A přiblížil ⟨את⟩ dar lidu, vzal ⟨את⟩ kance choteb za lid, zabil ho a obětoval za hřích jako toho prvního.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "přiblížil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dar lidu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "dar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kance choteb"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kance choteb"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "za hřích"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "za lid"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "zabil ho"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "obětoval za hřích"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "jako toho prvního"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:06.629416329Z",
+  "model": "glm-5.3"
+}

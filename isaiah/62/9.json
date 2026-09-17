@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "Neboť ti, kdo je sklidí, ji sní a chválit budou ⟨את⟩ Jahveho, a ti, kdo ji posbírají, vypijí ji v nádvořích mé svatosti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "ti, kdo ji sklidí"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "ji sní"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "a chválit budou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "a ti, kdo ji posbírají"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "vypijí ji"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "v nádvořích"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mé svatosti"
+    }
+  ],
+  "timestamp": "2026-09-17T08:16:50.604518607Z",
+  "model": "glm-5.3"
+}

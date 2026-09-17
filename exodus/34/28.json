@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 34:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A byl tam s Jahve čtyřicet dní a čtyřicet nocí — chléb nejedl a vodu nepil — a napsal na desky ⟨את⟩ slova smlouvy, deset slov.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A byl"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dní"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "a čtyřicet"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nocí"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jedl"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "a vodu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "pil"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "a napsal"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "desky"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slova smlouvy"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deset"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "slov"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:28.521990777Z",
+  "model": "glm-5.3"
+}

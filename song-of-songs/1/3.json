@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "K vůli vůni tvých olejů, ⟨kteří jsou⟩ dobří, ⟨je⟩ tvé jméno jako olej vylitý; proto tě panny milují.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "k vůni"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "tvých olejů"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dobří"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "vylitý"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto (nad)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "proto"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "panny"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "tě milují"
+    }
+  ],
+  "timestamp": "2026-09-17T09:54:23.357025029Z",
+  "model": "glm-5.3"
+}

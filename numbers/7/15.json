@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "jeden býk, syn dobytka, jeden beran, jeden jehně, syn svého roku, k zápalné oběti.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "býk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dobytka"
+    },
+    {
+      "surface": "איל",
+      "gloss": "beran"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "jehně"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "svého roku"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "k zápalné oběti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:50.047006889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 8:17",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Neboť mně patří každý prvorozený mezi syny Izraele, mezi lidmi i mezi dobytkem; v den, kdy jsem zabil každého prvorozeného v zemi Egypta, posvětil jsem ⟨את⟩ je sobě.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mně (patří)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "prvorozený"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mezi syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mezi lidmi"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "i mezi dobytkem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "הכתי",
+      "gloss": "když jsem zabil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "prvorozeného"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "posvětil jsem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sobě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:43:19.038408321Z",
+  "model": "glm-5.3"
+}

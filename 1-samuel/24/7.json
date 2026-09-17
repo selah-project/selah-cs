@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 24:7",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "I řekl svým mužům: Zachováno mi budiž od Jahve, abych učinil ⟨את⟩ tuto věc svému pánu, Mashíachovi Jahve, abych vztáhl svou ruku proti němu; neboť Mashíach Jahve on ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "לאנשיו",
+      "gloss": "svým mužům"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Zachováno budiž"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "od Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "abych"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto věc"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "svému pánu"
+    },
+    {
+      "surface": "למשיח",
+      "gloss": "Mashíachovi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "abych vztáhl"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "proti němu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashíach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on ⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:34.997729836Z",
+  "model": "glm-5.3"
+}

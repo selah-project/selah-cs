@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Synové Manasesa: Asriel, ⟨kterého⟩ porodila jeho konkubína, Aramejka; ⟨ta⟩ porodila ⟨את⟩ Machíra, otce Gileádu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Synové"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasesa"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Asriel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨kterého⟩"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "jeho konkubína"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "Aramejka"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Machíra"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machíra"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otce"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileádu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:17:34.637846328Z",
+  "model": "glm-5.3"
+}

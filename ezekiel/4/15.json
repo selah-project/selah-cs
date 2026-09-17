@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 4:15",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A řekl mi: Viz, dávám ti ⟨את⟩ trus skotu místo lidského trusu a připravíš na něm ⟨את⟩ svůj chléb.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Viz"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dávám"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trus skotu"
+    },
+    {
+      "surface": "צפועי",
+      "gloss": "trus"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "skotu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "גללי",
+      "gloss": "lidského trusu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "a připravíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj chléb"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "svůj chléb"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na nich"
+    }
+  ],
+  "timestamp": "2026-09-17T08:38:41.750517253Z",
+  "model": "glm-5.3"
+}

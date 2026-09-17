@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Stalo se pak následujícího dne, že Pelištejci přišli olupovat ⟨את⟩ padlé; a našli ⟨את⟩ Ša'úla a ⟨את⟩ jeho tři syny ležící na hoře Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "následujícího dne"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejci"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "olupovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "padlé"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "padlé"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "našli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ša'úla"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'úla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tři syny"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "syny jeho"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "ležící\/padlí"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:06.862743330Z",
+  "model": "glm-5.3"
+}

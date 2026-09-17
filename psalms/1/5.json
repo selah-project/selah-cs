@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Proto nebudou stát bezbožní v ⟨soudě⟩, ani hříšníci v obci spravedlivých.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Proto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Proto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "budou stát"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožní"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "v ⟨soudě⟩"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ani hříšníci"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "v obci"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "spravedlivých"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:08.197951341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "I řekl Lában Jákobovi: Co jsi udělal, že jsi mi ukradl ⟨את⟩ srdce a odvedl ⟨את⟩ mé dcery jako zajatkyně mečem?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lában"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jákobovi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi udělal"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "žes ukradl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdce"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "srdce (mé)"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "a odvedl jsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mé dcery"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "mé dcery"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "jako zajatkyně"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:18.815700548Z",
+  "model": "glm-5.3"
+}

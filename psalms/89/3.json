@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Neboť jsem řekl: Na věky je chesed vystavěn, nebesa — ty utvrdíš svou věrnost v nich.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jsem řekl"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "je vystavěn"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ty utvrdíš"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "svou věrnost"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:04.275651274Z",
+  "model": "glm-5.3"
+}

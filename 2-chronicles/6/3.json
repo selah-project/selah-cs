@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A král obrátil ⟨את⟩ svou tvář a požehnal ⟨את⟩ celému shromáždění Izraele; a celé shromáždění Izraele stálo.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "A obrátil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou tvář"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a požehnal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celému shromáždění Izraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celému"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celé"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "stálo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:25:06.788993134Z",
+  "model": "glm-5.3"
+}

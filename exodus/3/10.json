@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A nyní pojď, pošlu tě k faraónovi, a vyveď ⟨את⟩ můj lid, syny Izraele, z Egypta.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "pojď"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "pošlu tě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "vyveď"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "můj lid"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:24.533285760Z",
+  "model": "glm-5.3"
+}

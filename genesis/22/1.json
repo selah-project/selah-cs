@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A stalo se ⟨to⟩ po těchto věcech, že Elohim zkoušel ⟨את⟩ Abrahama; a řekl mu: „Abrahame!“ A on řekl: „Hle, já ⟨jsem⟩.“",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "těchto věcech"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "že Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "zkoušel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahame"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hle, já ⟨jsem⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:39.337900671Z",
+  "model": "glm-5.3"
+}

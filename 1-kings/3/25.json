@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A král řekl: Rozetněte ⟨את⟩ živé dítě na dvě ⟨části⟩ a dejte ⟨את⟩ polovinu jedné a ⟨את⟩ polovinu druhé.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "rozetněte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "živé dítě"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dítě"
+    },
+    {
+      "surface": "החי",
+      "gloss": "živé"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "na dvě"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "a dejte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polovinu"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "polovinu"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "jedné"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "polovinu"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "polovinu"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "druhé"
+    }
+  ],
+  "timestamp": "2026-09-17T07:42:15.114244365Z",
+  "model": "glm-5.3"
+}

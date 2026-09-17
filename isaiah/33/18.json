@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 33:18",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Tvé srdce bude přemítat ⟨o⟩ hrůze: Kde ⟨je⟩ písař? Kde ⟨je⟩ ten, kdo váží? Kde ⟨je⟩ ten, kdo počítá ⟨את⟩ věže?",
+  "tokens": [
+    {
+      "surface": "לבך",
+      "gloss": "Tvé srdce"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "bude přemítat"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "hrůze"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Kde ⟨je⟩"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "písař"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Kde ⟨je⟩"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ten, kdo váží"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Kde ⟨je⟩"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ten, kdo počítá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "věže"
+    },
+    {
+      "surface": "המגדלים",
+      "gloss": "věže"
+    }
+  ],
+  "timestamp": "2026-09-17T08:09:19.576761558Z",
+  "model": "glm-5.3"
+}

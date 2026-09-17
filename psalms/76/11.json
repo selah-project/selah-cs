@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 76,
+  "translation": "Neboť hněv člověka tě bude chválit; zbytek hněvu si opášeš pásem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hněv"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "tě bude chválit"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "zbytek"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "hněvu"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "si opášeš pásem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:08.477242434Z",
+  "model": "glm-5.3"
+}

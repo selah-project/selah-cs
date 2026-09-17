@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 61,
+  "translation": "Z konce země k tobě volám, když se mi zastírá srdce — na skálu vyvýšenou nad ⟨můj⟩ jq mě vedeš.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "z konce"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "volám"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "když se zastírá"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srdce mé"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "na skálu"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "vyvýšenou"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nade mnou"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "vedeš mě"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:18.256476093Z",
+  "model": "glm-5.3"
+}

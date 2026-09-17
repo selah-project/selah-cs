@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A dům Izraele pojmenoval ⟨את⟩ jeho jméno Mán; a ⟨byl⟩ jako semeno koriandru, bílý, a jeho chuť jako placka v medu.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "A pojmenoval"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Mán"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "jako semeno"
+    },
+    {
+      "surface": "גד",
+      "gloss": "koriandru"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "bílý"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "a jeho chuť"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "jako placka"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "v medu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:57.287489494Z",
+  "model": "glm-5.3"
+}

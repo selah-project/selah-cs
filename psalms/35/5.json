@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Ať jsou jako plevy před větrem a posel Jahve je žene ⟨pryč⟩.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Ať jsou"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "jako plevy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "větrem"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "a posel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "žene ⟨pryč⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:58.994775435Z",
+  "model": "glm-5.3"
+}

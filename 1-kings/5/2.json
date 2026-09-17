@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A bylo jídla Šalamounovi na jeden den třicet kor jemné mouky a šedesát kor mouky ⟨obyčejné⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A bylo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "jídla"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalamounovi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na den"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třicet"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "jemné mouky"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "a šedesát"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "mouky"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:10.268913747Z",
+  "model": "glm-5.3"
+}

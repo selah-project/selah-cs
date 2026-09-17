@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A nebudete znevažovat ⟨את⟩ jméno své svatosti má, a budu posvěcován uprostřed synů Izraele; já ⟨jsem⟩ Jahve, ten který vás posvěcuje.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "A ne"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "budete znevažovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jméno své svatosti má"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "svatosti má"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "a budu posvěcován"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ten který vás posvěcuje"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:07.963986778Z",
+  "model": "glm-5.3"
+}

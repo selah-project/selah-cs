@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A uděláš kaporet ze zlata ryzího: dvě lokty a půl lokty ⟨bude⟩ její délka a loket a půl její šíře.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "A uděláš"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ze zlata"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ryzího"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "dvě lokty"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "a půl lokty"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "její délka"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a loket"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "a půl"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "její šíře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:24:14.667053786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 97,
+  "translation": "Oznámila nebesa jeho spravedlnost a viděly všechny národy jeho slávu.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "Oznámila"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "jeho spravedlnost"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "a viděly"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "jeho slávu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:24.315764051Z",
+  "model": "glm-5.3"
+}

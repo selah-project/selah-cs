@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Egypt je prázdnost a nic, marně pomůže; proto jsem to nazval ⟨tímto jménem⟩: Rahab — sedět nečinně.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "prázdnost"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "a nic"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "pomůže"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "proto"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "jsem nazval"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "—"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sedět nečinně"
+    }
+  ],
+  "timestamp": "2026-09-17T08:09:46.771682280Z",
+  "model": "glm-5.3"
+}

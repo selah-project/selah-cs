@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": " Slyšet nářek vězně, otevřít ⟨syny⟩ určené k smrti —",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": " Slyšet"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "nářek"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "vězně"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "otevřít"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨syny⟩"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "určené k smrti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:43.388991355Z",
+  "model": "glm-5.3"
+}

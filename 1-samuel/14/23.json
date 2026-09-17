@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A Jahve vysvobodil v onen den ⟨את⟩ Izrael; a bitva přešla ⟨את⟩ Bet-aven.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "A vysvobodil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "a bitva"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "přešla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-aven"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "און",
+      "gloss": "aven"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:20.135815491Z",
+  "model": "glm-5.3"
+}

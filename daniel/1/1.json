@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Ve třetím roce kralování Jehojakíma, krále Jehudy, přišel Nevúkadnecar, král Bavelu, k Jeruzalému a obléhal ⟨ji⟩.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Ve třetím roce (začátek)"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "třetím"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "kralování"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakíma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevúkadnecar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavelu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "k Jeruzalému"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "a obléhal"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "⟨ji⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:43.629891782Z",
+  "model": "glm-5.3"
+}

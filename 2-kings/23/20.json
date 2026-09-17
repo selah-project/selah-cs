@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A zabil ⟨את⟩ všechny kněze výšin, kteří tam ⟨stáli⟩ na oltářích, a spálil ⟨את⟩ kosti člověka na nich; a vrátil se do Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "A zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny kněze výšin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "výšin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "oltářích"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "a spálil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kosti člověka"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na nich"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:29.005593943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Poučenie Asafovo. Proč, Elohime, zavrhls ⟨nás⟩ navždy, dýmá hněv tvůj proti stádu tvého pastvy?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Poučenie"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafovo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "zavrhls"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "dýmá"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "hněv tvůj"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "proti stádu"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "tvé pastvy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:59.579706440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "Ve své spravedlnosti mě zachraň a vytrhni mě; přikloň ke mně své ucho a spas mě.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "ve své spravedlnosti"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "zachraň mě"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "a vytrhni mě"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "přikloň"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "své ucho"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "a spas mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:17.620665108Z",
+  "model": "glm-5.3"
+}

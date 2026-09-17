@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Kdo vylévá krev člověka, člověkem bude vylita krev jeho; neboť v obrazu Elohim učinil ⟨את⟩ člověka.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Kdo vylévá"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "člověkem"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krev jeho"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "bude vylita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "v obrazu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "člověka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:36.425352487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Nyní povstávám, praví Jahve, nyní se pozvedám, nyní se vyvyšuji.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nyní"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "povstávám"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "se pozvedám"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "se vyvyšuji"
+    }
+  ],
+  "timestamp": "2026-09-17T08:08:36.996669933Z",
+  "model": "glm-5.3"
+}

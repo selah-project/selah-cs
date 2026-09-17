@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Ale ty, Jahve, znáš mě; vidíš mě a zkoumáš mé srdce ⟨spolu⟩ s ⟨את⟩ tebou. Vytrhej je jako ovce k porážce a odděl je k dni záhubě!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ale ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "znáš mě"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "vidíš mě"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "a zkoumáš"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ s tebou",
+      "marks": "s tebou"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "Vytrhej je"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "jako ovce"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "k porážce"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "a odděl je"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "k dni"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "záhubě"
+    }
+  ],
+  "timestamp": "2026-09-17T08:22:47.716290085Z",
+  "model": "glm-5.3"
+}

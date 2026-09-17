@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A zasenu ji ⟨sobě⟩ v zemi a slituji se nad tou, jež nedočkala se slitování ⟨את⟩ nedostalo-se-slitování, a řeknu Ne-mému-lidu: Ty jsi můj lid, a on řekne: ⟨ty jsi⟩ můj Elohim.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "a zasenu ji"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨sobě⟩ (mně)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "a slituji se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nedostalo-se-slitování (Lo-Ruchama)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "slitování (Lo-Ruchama)"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "a řeknu"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "Ne-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mému-lidu (Lo-Ami)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty jsi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "řekne"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "můj Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T13:39:33.814963168Z",
+  "model": "glm-5.3"
+}

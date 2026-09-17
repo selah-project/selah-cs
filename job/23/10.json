@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Vždyť on zná cestu, jež ⟨je⟩ se mnou; když mě zkouší, vyjdu jako zlato.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "zkouší mě"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "jako zlato"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "vyjdu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:49:16.328468769Z",
+  "model": "glm-5.3"
+}

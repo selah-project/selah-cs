@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Nakláním své ucho k podobenství, otevřu na kinoru svou hádanku.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Nakláním"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "k podobenství"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "své ucho"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "otevřu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinoru"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "svou hádanku"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:39.038852467Z",
+  "model": "glm-5.3"
+}

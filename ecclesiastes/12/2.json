@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "dokud se nezatmí slunce a světlo a měsíc a hvězdy a mraky se nevrátí po dešti,",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "nezatmí"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "a světlo"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "a měsíc"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "a hvězdy"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "a nevrátí se"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "mraky"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "dešti"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:48.120107201Z",
+  "model": "glm-5.3"
+}

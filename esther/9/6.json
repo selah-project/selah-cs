@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A v suzánské pevnosti pobili a zahubili Judejci pět set mužů.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "a v Šúšanu"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "pevnosti"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "pobili"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Judejci"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "a zahubili"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pět"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:00.546998525Z",
+  "model": "glm-5.3"
+}

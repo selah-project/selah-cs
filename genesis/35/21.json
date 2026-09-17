@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A táhl Izrael dál a rozprostřel svůj stan za ⟨ Migdal-éderem ⟩.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "a táhl dál"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "a rozprostřel"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "svůj stan"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "za"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Migdal-"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "-éder"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:24.429020855Z",
+  "model": "glm-5.3"
+}

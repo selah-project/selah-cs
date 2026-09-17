@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "I řekl Jahve Mojžíšovi: Řekni Áronovi: Vzmi ⟨את⟩ svou hůl a uderz ⟨את⟩ prach země, a bude knisům v celé zemi Egyptské.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi (k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Řekni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Áronovi (k)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Vzmi (vztáhni)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou hůl"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "svou hůl"
+    },
+    {
+      "surface": "והך",
+      "gloss": "a uderz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prach země"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prach"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "knisům"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v celé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptské"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:42.855812810Z",
+  "model": "glm-5.3"
+}

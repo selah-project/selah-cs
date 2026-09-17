@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 61:2",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 61,
+  "translation": "abych vyhlásil rok přízně pro Jahve a den pomsty našemu Elohim, abych potěšil všechny truchlící.",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "abych vyhlásil"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "rok"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "přízně"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "a den"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pomsty"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "našemu Elohim"
+    },
+    {
+      "surface": "לנחם",
+      "gloss": "abych potěšil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "אבלים",
+      "gloss": "truchlící"
+    }
+  ],
+  "timestamp": "2026-09-17T08:17:47.909496699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A rozsvítil lampy před Jahve, jak přikázal Jahve ⟨את⟩ Mojžíše.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a rozsvítil"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "lampy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:20.682879181Z",
+  "model": "glm-5.3"
+}

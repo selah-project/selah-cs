@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A koupil jsem ⟨את⟩ pás podle slova Jahveho a dal jsem si ho na svá bedra.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "A koupil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pás"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "pás"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "podle slova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "a dal jsem"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "svá bedra"
+    }
+  ],
+  "timestamp": "2026-09-17T08:23:41.549002822Z",
+  "model": "glm-5.3"
+}

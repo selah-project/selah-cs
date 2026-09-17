@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A nebudeš stoupat po schodech na můj oltář, aby na něm nebyla odhalena tvá nahota.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "A ne"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "budeš stoupat"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "po schodech"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "můj oltář"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aby (aby ne)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "byla odhalena"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "tvá nahota"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něm"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:37.393648858Z",
+  "model": "glm-5.3"
+}

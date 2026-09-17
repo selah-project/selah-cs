@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekl jsem vám v ⟨tom⟩ ⟨ čase ⟩, ⟨kakž⟩ ⟨řka⟩: Nemohu ⟨já⟩ sám nést ⟨אתכם⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "A řekl jsem"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "v ⟨čase⟩"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨tom⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨řka⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mohu"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sám"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "nést"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "vás"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:42.572541812Z",
+  "model": "glm-5.3"
+}

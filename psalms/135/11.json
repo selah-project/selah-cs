@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Síchona, krále emorejského, a Óga, krále bašanského, a všechna království kenaanská.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Síchona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorejského"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "a Óga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "bašanského"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "a všechna"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "království"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanská"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:25.660407396Z",
+  "model": "glm-5.3"
+}

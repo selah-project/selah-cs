@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A povstali jeho služebníci a spikli ⟨se⟩ spiknutí a zasáhli ⟨את⟩ Jóaše v Bet-Milo, ⟨na cestě⟩ sestupující do Silly.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "a povstali"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeho služebníci"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "a spikli ⟨se⟩"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "spiknutí"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "a zasáhli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jóaše"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Jóaše"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v Bet-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "-Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "sestupující"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "do Silly"
+    }
+  ],
+  "timestamp": "2026-09-17T07:55:52.393746761Z",
+  "model": "glm-5.3"
+}

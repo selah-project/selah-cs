@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "I učinil Jonatán úmluvu s domem Davidovým — a žádal ⟨to⟩ Jahve z ruky nepřátel Davidových.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "i učinil úmluvu"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatán"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovým"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "a žádal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "nepřátel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidových"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:39.604970435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "I ⟨את⟩ vepře, neboť rozděluje kopyto, ale žvanec nepřežvykuje — nečistý je vám: z jejich masa nejezte a jejich mršiny se nedotkněte.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "vepře"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "vepře"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "rozděluje"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kopyto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "žvanec"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečistý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "z jejich masa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jezte"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "a jejich mršiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "dotkněte se"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:40.229945549Z",
+  "model": "glm-5.3"
+}

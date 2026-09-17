@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I řekla jí dcera faraonova: „Jdi.“ A dívka šla a zavolala ⟨את⟩ matku dítěte.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraonova"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Jdi"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "a šla"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "dívka"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "a zavolala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "matku"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dítěte"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:05.461524772Z",
+  "model": "glm-5.3"
+}

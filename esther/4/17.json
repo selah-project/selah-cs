@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Mordokai odešel ⟨a⟩ učinil podle všeho, co mu přikázala Ester.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "odešel"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokai"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "přikázala"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:22.835881399Z",
+  "model": "glm-5.3"
+}

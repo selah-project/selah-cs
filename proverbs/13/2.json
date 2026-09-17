@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Z plodu úst muž jí ⟨dobro⟩, ale duše zrádců ⟨jí⟩ násilí.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "Z plodu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "úst"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jí"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨dobro⟩"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "duše"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "zrádců"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "násilí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:02.523889909Z",
+  "model": "glm-5.3"
+}

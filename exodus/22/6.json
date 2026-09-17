@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Když dá člověk svému bližnímu stříbro nebo náčiní k hlídání a ⟨to⟩ ⟨je⟩ ukradeno z domu ⟨toho⟩ člověka — je-li nalezen zloděj, zaplatí dvojnásob.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨svému⟩"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bližnímu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "náčiní"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "k hlídání"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "a ⟨je⟩ ukradeno"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "je-li"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "nalezen"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "zloděj"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zaplatí"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dvojnásob"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:55.344974405Z",
+  "model": "glm-5.3"
+}

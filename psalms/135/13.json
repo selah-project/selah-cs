@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Jahve, tvé jméno ⟨je⟩ navěky; Jahve, tvá památka ⟨je⟩ z pokolení na pokolení.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "tvá památka"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "z pokolení"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na pokolení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:30.864253381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 7:15",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A stalo se, když uslyšel Gidón ⟨את⟩ vyprávění snu i ⟨את⟩ jeho výklad, že se klaněl, a vrátil se k táboru Izraele a řekl: Vstaňte, neboť Jahve dal do vašich rukou ⟨את⟩ tábor Midjánu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "když uslyšel"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidón"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyprávění snu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "vyprávění"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "snu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho výklad"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "jeho výklad"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "že se klaněl"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "táboru"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Vstaňte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "do vašich rukou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tábor Midjánu"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjánu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:15:58.195158390Z",
+  "model": "glm-5.3"
+}

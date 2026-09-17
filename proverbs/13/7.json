@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Je ⟨kdo⟩ předstírá bohatství, a není ⟨mu⟩ nic; ⟨kdo⟩ předstírá chudobu, a ⟨má⟩ hojnost majetku.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "je ⟨kdo⟩"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "předstírá bohatství"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nic"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "předstírá chudobu"
+    },
+    {
+      "surface": "והון",
+      "gloss": "a majetku"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hojnost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:30.942097105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A položil Mojžíš ⟨את⟩ hole před Jahve, do stanu svědectví.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "a položil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hole"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "hole"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "do stanu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svědectví"
+    }
+  ],
+  "timestamp": "2026-09-17T06:45:31.495591029Z",
+  "model": "glm-5.3"
+}

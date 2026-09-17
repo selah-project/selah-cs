@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 96,
+  "translation": "Neboť veliký ⟨je⟩ Jahve a velebitelný velmi, hrozivý ⟨je⟩ on nade všemi bohy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "a velebitelný"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "hrozivý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad(e)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všemi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bohy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:02.369436942Z",
+  "model": "glm-5.3"
+}

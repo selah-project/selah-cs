@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Zachraň mě z tlamy lva ⟨a⟩ z rohů divokých býků — ⟨tys⟩ mi odpověděl!",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Zachraň mě"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "z tlamy"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "lva"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "a z rohů"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "divokých býků"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "odpověděl jsi mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:26.945830488Z",
+  "model": "glm-5.3"
+}

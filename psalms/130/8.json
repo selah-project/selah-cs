@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 130,
+  "translation": "A on vykoupí ⟨את⟩ Izraele ze všech jeho nepravostí.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "A on"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "vykoupí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "jeho nepravostí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:26.504447224Z",
+  "model": "glm-5.3"
+}

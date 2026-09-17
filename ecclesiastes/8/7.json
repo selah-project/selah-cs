@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Neboť neví, co se stane; neboť když se to stane, kdo mu to oznámí?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ne- (není)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ví"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "se stane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se stane"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "oznámí"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:30.610038980Z",
+  "model": "glm-5.3"
+}

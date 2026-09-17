@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Já, hle, moje smlouva ⟨je⟩ ⟨את⟩ tebou, a budeš otcem hlučícího množství národů.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "moje smlouva"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tebou",
+      "marks": "s tebou"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "a budeš"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "otcem"
+    },
+    {
+      "surface": "המון",
+      "gloss": "hlučícího množství"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národů"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:05.114782653Z",
+  "model": "glm-5.3"
+}

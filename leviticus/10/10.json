@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "a ⟨abyste⟩ rozeznávali mezi svatým a mezi prostým a mezi nečistým a mezi čistým.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "a rozeznávat"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatým"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "החל",
+      "gloss": "prostým"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nečistým"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "čistým"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:22.711858022Z",
+  "model": "glm-5.3"
+}

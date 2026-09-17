@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "A ⟨את⟩ micnefet ze šeš, a ⟨את⟩ ozdoby peerot ha-migbaot ze šeš, a ⟨את⟩ kalhoty mi-chasad (z hindu) — oprava: kalhoty z badu, ze šeš, splétaného.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "micnefet"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "micnefet"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ze šeš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ozdoby peerot"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "ozdoby peerot"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "migbaot"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ze šeš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "kalhoty"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "kalhoty"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "z badu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ze šeš"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "splétaného"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:54.695815890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Žehná těm, kdo se bojí Jahve, ⟨ těm ⟩ malým i velkým.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "Žehná"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "těm, kdo se bojí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "malým"
+    },
+    {
+      "surface": "עם",
+      "gloss": "i (spolu s)"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "velkým"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:14.319503773Z",
+  "model": "glm-5.3"
+}

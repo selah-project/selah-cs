@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A Rochoboam šel do Šekemu, neboť do Šekemu přišel celý Izrael, aby ho učinil králem ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rochoboam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "do Šekemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "do Šekemu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "aby učinil králem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (Rochoboama)"
+    }
+  ],
+  "timestamp": "2026-09-17T10:53:51.332757350Z",
+  "model": "glm-5.3"
+}

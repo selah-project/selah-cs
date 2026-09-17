@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 85,
+  "translation": "Jistě ⟨je⟩ blízko těm, kdo se ho bojí, jeho spása — ⟨aby⟩ přebývala sláva v naší zemi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jistě"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "blízko"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "těm, kdo se ho bojí"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "jeho spása"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "⟨aby⟩ přebývala"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sláva"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "v naší zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:37.340401357Z",
+  "model": "glm-5.3"
+}

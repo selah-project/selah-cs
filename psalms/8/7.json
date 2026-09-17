@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Vládnout dáváš ⟨mu⟩ nad díly svých rukou, všechno jsi položil pod jeho nohy.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "vládnout dáváš ⟨mu⟩"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "nad díly"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "svých rukou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "jsi položil"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "jeho nohy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:35.770385209Z",
+  "model": "glm-5.3"
+}

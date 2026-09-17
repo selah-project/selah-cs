@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Jahve, miluji příbytek tvého domu a místo příbytku tvé slávy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "miluji"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "příbytek"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tvého domu"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "a místo"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "příbytku"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "tvé slávy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:36.372884994Z",
+  "model": "glm-5.3"
+}

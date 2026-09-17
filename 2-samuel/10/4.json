@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I vzal Chánún ⟨את⟩ služebníky Dawidovy a oholil ⟨את⟩ polovinu jejich brad, a ustřihl ⟨את⟩ jejich šaty v půli až po jejich zadky, a poslal je.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I vzal"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chánún"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "služebníky Dawidovy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služebníky"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawidovy"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "a oholil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "polovinu jejich brad"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "polovinu"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "jejich brad"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "a ustřihl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich šaty"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "jejich šaty"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "v půli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "jejich zadky"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "a poslal je"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:09.954376214Z",
+  "model": "glm-5.3"
+}

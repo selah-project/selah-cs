@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 85,
+  "translation": "Sesbíral jsi všechnu svou zuřivost, obrátil jsi se od planoucího svého hněvu.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Sesbíral jsi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "svou zuřivost"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "obrátil jsi se"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "planoucí"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "svého hněvu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:34.996550446Z",
+  "model": "glm-5.3"
+}

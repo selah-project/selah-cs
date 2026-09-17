@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A vezme ⟨את⟩ ty dva kozly a postaví ⟨את⟩ je před Jahve, ke vchodu stanu setkávání.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "A vezme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty dva kozly"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "kozly"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "a postaví"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ke vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:24.528118525Z",
+  "model": "glm-5.3"
+}

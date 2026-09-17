@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A udělal ⟨את⟩ břevna z dřeva šitim a potáhl ⟨את⟩ ⟨je⟩ zlatem.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "břevna"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "břevna"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z dřeva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "a potáhl"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨je⟩",
+      "marks": "zlatem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:37.275306725Z",
+  "model": "glm-5.3"
+}

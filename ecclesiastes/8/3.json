@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Nespěchej odejít z jeho tváře, nechoď ⟨a⟩ nestůj ve věci zlé, protože všechno, co chce, udělá.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "nespěchej"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "z jeho tváře"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "odejít"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "nestůj"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ve věci"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlé"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "chce"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "udělá"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:48.004238223Z",
+  "model": "glm-5.3"
+}

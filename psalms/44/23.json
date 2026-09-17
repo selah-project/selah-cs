@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Vždyť kvůli tobě jsme zabíjeni celý den, ⟨jsme⟩ počítáni jako ovce k zabití.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kvůli tobě"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "jsme zabíjeni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "⟨jsme⟩ počítáni"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "jako ovce"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "k zabití"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:52.681525315Z",
+  "model": "glm-5.3"
+}

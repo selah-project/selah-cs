@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 63,
+  "translation": "A král se bude radovat v Elohim, chlubit se bude každý, kdo přísahá jím; neboť ústa těch, kdo mluví lež, budou zacelena ⟨zavřena⟩.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "a král"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "bude se radovat"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "v Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "chlubit se bude"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "kdo přísahá"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "bude zavřeno"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ústa"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "těch, kdo mluví"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lež"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:54.601035616Z",
+  "model": "glm-5.3"
+}

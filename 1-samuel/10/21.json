@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 10:21",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A přivedl ⟨את⟩ kmen Binjaminův podle svých čeledí, a byla vylosována čeleď Matrítů; a byl vylosován Ša'ul, syn Kišův, a hledali ho, ale nenašel se.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a přivedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kmen Binjaminův"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kmen"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminův"
+    },
+    {
+      "surface": "למשפחתו",
+      "gloss": "podle svých čeledí"
+    },
+    {
+      "surface": "ותלכד",
+      "gloss": "a byla vylosována"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "čeleď"
+    },
+    {
+      "surface": "המטרי",
+      "gloss": "Matrítů"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a byl vylosován"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kišův"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "a hledali ho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "našel se"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:28.413357794Z",
+  "model": "glm-5.3"
+}

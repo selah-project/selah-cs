@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "S věrným jednáš věrně, s hrdinou bez úhony jednáš bez úhony.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "věrným"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "jednáš věrně"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hrdinou"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez úhony"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "jednáš bez úhony"
+    }
+  ],
+  "timestamp": "2026-09-17T07:39:43.471210431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A Amasa šel shromáždit ⟨את⟩ Judu, ale opozdil se nad termín, který mu byl určen.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "shromáždit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "ale opozdil se"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "termín"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "mu byl určen"
+    }
+  ],
+  "timestamp": "2026-09-17T07:39:18.626368405Z",
+  "model": "glm-5.3"
+}

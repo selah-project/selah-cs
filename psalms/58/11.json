@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 58,
+  "translation": "Spravedlivý se zaraduje, neboť spatří odplatu; své kroky si umyje v krvi bezbožného.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "zaraduje se"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "spatří"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "odplatu"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "své kroky"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "umyje"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "v krvi"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bezbožného"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:59.821558521Z",
+  "model": "glm-5.3"
+}

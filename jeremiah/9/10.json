@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A dám ⟨את⟩ Jeruzalém v hromady zřícenin, příbytek šakalů, a ⟨את⟩ města Judy dám v zpustošení, bez obyvatele.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "a dám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalém"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "v hromady zřícenin"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "příbytek"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "šakalů"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "města Judy"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dám"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "v zpustošení"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "obyvatele"
+    }
+  ],
+  "timestamp": "2026-09-17T08:22:11.793484956Z",
+  "model": "glm-5.3"
+}

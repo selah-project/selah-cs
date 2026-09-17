@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 2:17",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A sbírala na poli až do večera a vymlátila ⟨את⟩ to, co nasbírala, a bylo to jako éfa ječmene.",
+  "tokens": [
+    {
+      "surface": "ותלקט",
+      "gloss": "a sbírala"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večera"
+    },
+    {
+      "surface": "ותחבט",
+      "gloss": "a vymlátila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co nasbírala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לקטה",
+      "gloss": "nasbírala"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a bylo to"
+    },
+    {
+      "surface": "כאיפה",
+      "gloss": "jako éfa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ječmene"
+    }
+  ],
+  "timestamp": "2026-09-17T09:55:50.345890203Z",
+  "model": "glm-5.3"
+}

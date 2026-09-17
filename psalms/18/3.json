@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Jahve ⟨je⟩ má skála, má pevnost a můj vysvoboditel, můj El, má skála, v něhož se utíkám, můj štít a roh mé spásy, má útočiště.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "má skála"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "má pevnost"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "můj vysvoboditel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "můj El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "má skála"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "utíkám se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něhož"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "můj štít"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "a roh"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "mé spásy"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mé útočiště"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:38.148461681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Který zdáral národy mnohé a zabil krále mocné.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Který zdáral"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnohé"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "a zabil"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "krále"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "mocné"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:25.660271683Z",
+  "model": "glm-5.3"
+}

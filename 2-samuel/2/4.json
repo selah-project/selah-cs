@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 2:4",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Přišli muži Judovi a pomazali tam ⟨את⟩ Davida za krále nad domem Judovým. I oznámili Davidovi a řekli: Muži z Jabeše v Gileádu ⟨jsou to⟩, kdo pochoval ⟨את⟩ Saula.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Přišli"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muži"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovi"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "a pomazali"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za krále"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovým"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "I oznámili"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Muži"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "z Jabeše"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "v Gileádu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "pochovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saula"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:41.353902498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Nechť Paroh ⟨to⟩ učiní a ustanoví správce nad zemí, a odvede jednu pětinu ⟨את⟩ země Micrajim za sedmi let hojnosti.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "nechť učiní"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "a ustanoví"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "správce"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemí"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "a odvede jednu pětinu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "země Micrajim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "za sedmi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lety"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "hojnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:45.917648655Z",
+  "model": "glm-5.3"
+}

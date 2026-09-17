@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Ať mě potká tvé chesed, Jahve, tvá záchrana, jak ⟨jsi⟩ řekl ⟨ve svém⟩ slovu.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "ať mě potká"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvé chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "tvá záchrana"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "jak ⟨jsi⟩ řekl ⟨ve svém⟩ slovu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:44.711110822Z",
+  "model": "glm-5.3"
+}

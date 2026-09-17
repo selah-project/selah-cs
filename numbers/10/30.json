@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A on mu řekl: Nepůjdu, nýbrž do své země a ke svému rodišti půjdu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "půjdu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nýbrž"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨jen⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "své země"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "svému rodišti"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "půjdu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:42:45.056334152Z",
+  "model": "glm-5.3"
+}

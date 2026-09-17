@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Nedopustil, aby je ⟨člověk⟩ utlačoval, a karhal kvůli nim krále —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "nedopustil"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "aby je utlačoval"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "a karhal"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kvůli nim"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "krále"
+    }
+  ],
+  "timestamp": "2026-09-17T13:04:04.211965787Z",
+  "model": "glm-5.3"
+}

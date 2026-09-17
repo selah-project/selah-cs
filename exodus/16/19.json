@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A řekl Mojžíš k nim: Nikdo ať nenechává ⟨z⟩ něj nic navíc do rána.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "k nim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nikdo (každý muž)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "nenechává nic navíc"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "⟨z⟩ něj"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rána"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:23.563803295Z",
+  "model": "glm-5.3"
+}

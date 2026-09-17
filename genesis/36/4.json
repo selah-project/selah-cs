@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A Áda porodila Esavovi ⟨את⟩ Elífaze a Bosmat porodila ⟨את⟩ Reúela.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "A porodila"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Áda"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esavovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elífaze"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elífaze"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "a Bosmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reúela"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reúela"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:22.150265031Z",
+  "model": "glm-5.3"
+}

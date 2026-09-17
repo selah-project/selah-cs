@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A dáš ⟨את⟩ umyvadlo mezi stan setkávání a mezi oltář, a dáš tam vodu.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "dáš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyvadlo"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umyvadlo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltářem"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "dáš"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:26.368950034Z",
+  "model": "glm-5.3"
+}

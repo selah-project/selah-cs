@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Šest dní se bude konat práce, ale v den sedmý ⟨je⟩ šabat, šabat odpočinku, svaté shromáždění; žádnou práci nebudete dělat — šabat ⟨to⟩ ⟨je⟩ pro Jahve ve všech vašich bydlištích.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "šest"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "se bude konat"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "práce"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "a v den"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmý"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "šabat odpočinku"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svaté"
+    },
+    {
+      "surface": "כל",
+      "gloss": "žádnou (všechnu)"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "práci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "budete dělat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všech"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "vašich bydlištích"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:50.879571041Z",
+  "model": "glm-5.3"
+}

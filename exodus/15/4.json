@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 15:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Vozy faraóna a jeho vojsko vrhl do moře a výběr jeho velitelů se potopil v Moři rákosí.",
+  "tokens": [
+    {
+      "surface": "מרכבת",
+      "gloss": "Vozy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraóna"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "a jeho vojsko"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "vrhl"
+    },
+    {
+      "surface": "בים",
+      "gloss": "do moře"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "a výběr"
+    },
+    {
+      "surface": "שלשיו",
+      "gloss": "jeho velitelů"
+    },
+    {
+      "surface": "טבעו",
+      "gloss": "se potopil"
+    },
+    {
+      "surface": "בים",
+      "gloss": "v Moři"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "rákosí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:44.058598510Z",
+  "model": "glm-5.3"
+}

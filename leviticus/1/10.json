@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A jestliže jeho oběť ⟨je⟩ z malého dobytka, z ovcí nebo z koz, na zápalnou oběť, samec bez vady přivede ji.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A jestliže"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "malého dobytka"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "jeho oběť"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "ovcí"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "koz"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "na zápalnou oběť"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samec"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez vady"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "přivede ji"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:18.524045706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Když žena uviděla Samuelua ⟨את⟩, vykřikla velikým hlasem; a žena řekla Šaulovi: Proč jsi mě oklamal? A ty jsi Šaul!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "když uviděla"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuela"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "vykřikla"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlasem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velikým"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkajíc"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "jsi mě oklamal"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:35.052452581Z",
+  "model": "glm-5.3"
+}

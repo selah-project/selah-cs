@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Ať vejde má prosba před tvou tvář; podle svého ⟨slibu⟩ mě vytrhni ⟨z nebezpečí⟩.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ať vejde"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "má prosba"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tvou tvář"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "podle svého ⟨slibu⟩"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "mě vytrhni ⟨z nebezpečí⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:39.565354717Z",
+  "model": "glm-5.3"
+}

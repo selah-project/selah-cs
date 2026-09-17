@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "Buď hojnost obilí v zemi, na vrcholu hor ať se zmítá jako Libanon svým ovocem, a ať rozkvétají z města jako tráva země.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "buď"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "hojnost"
+    },
+    {
+      "surface": "בר",
+      "gloss": "obilí"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na vrcholu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hor"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "ať se zmítá"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "jako Libanon"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "svým ovocem"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "a ať rozkvétají"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "z města"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "jako tráva"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:44.127668451Z",
+  "model": "glm-5.3"
+}

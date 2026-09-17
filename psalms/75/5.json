@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 75,
+  "translation": "Řekl jsem pyšným: Neprojevujte se pyšně, a bezbožným: Nezdvihejte roh.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Řekl jsem"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "pyšným"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "projevujte se pyšně"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "a bezbožným"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "zdvihejte"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "roh"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:53.689061314Z",
+  "model": "glm-5.3"
+}

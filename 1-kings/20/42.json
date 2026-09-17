@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A řekl mu: Toto říká Jahve: Protože jsi propustil ⟨את⟩ muže mého cheremu z ruky, bude tvá duše místo jeho duše a tvůj lid místo jeho lidu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "říká"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יען",
+      "gloss": "protože"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "jsi propustil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muže"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "mého cheremu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvá duše"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jeho duše"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "a tvůj lid"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeho lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:50.650404597Z",
+  "model": "glm-5.3"
+}

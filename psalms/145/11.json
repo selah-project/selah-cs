@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Slávu tvého království řeknou a tvou moc vypravují.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Slávu"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "tvého království"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "řeknou"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "a tvou moc"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "vypravují"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:25.161263993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 24:16",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A ten, kdo vyrývá ⟨jméno⟩ Jahve, smrtí zemře; ukamenován bude, celá ⟨obec⟩ ho zasype kamením, jak Ger, tak Ezrach; když vyrývá ⟨jméno⟩, zemře.",
+  "tokens": [
+    {
+      "surface": "ונקב",
+      "gloss": "vyrývá"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "ukamenován"
+    },
+    {
+      "surface": "ירגמו",
+      "gloss": "zasype kamením"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celá"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "obec"
+    },
+    {
+      "surface": "כגר",
+      "gloss": "jak Ger"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "tak Ezrach"
+    },
+    {
+      "surface": "בנקבו",
+      "gloss": "když vyrývá"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:39.504723877Z",
+  "model": "glm-5.3"
+}

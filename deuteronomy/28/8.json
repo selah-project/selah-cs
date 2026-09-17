@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Jahve přikáže ⟨את⟩ ⟨s⟩ tebou ⟨את⟩ požehnání ve tvých sýpkách a ve všem, k čemu vztáhneš svou ruku, a požehná ti v zemi, kterou ti dává Jahve, tvůj Elohim.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "přikáže"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨s⟩ tebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "požehnání"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "požehnání"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "ve tvých sýpkách"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "a ve všem"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "k čemu vztáhneš"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "a požehná ti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:46.100866102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "a ⟨את⟩ Hadorama a ⟨את⟩ Uzala a ⟨את⟩ Dikla.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Hadorama"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadorama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Uzala"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Dikla"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Dikla"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:09.970521679Z",
+  "model": "glm-5.3"
+}

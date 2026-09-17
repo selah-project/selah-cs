@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Vaše země ⟨je⟩ zpustošená, vaše města spálená ohněm; vaši půdu před vámi cizinci požírají ⟨את⟩ — a ⟨je to⟩ pustina jako zhacená cizími.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "vaše země"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "zpustošená"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "vaše města"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "spálená"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "vaši půdu"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "před vámi"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "cizinci"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "požírají"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ji (půdu)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "a pustina"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "jako zhacená"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "cizími"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:21.093638140Z",
+  "model": "glm-5.3"
+}

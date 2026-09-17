@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Tvůj Elohim přikázal tvou sílu; ukaž sílu, Elohime — to, co jsi pro nás vykonal.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Tvůj Elohim"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tvou sílu"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "ukaž sílu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "זו",
+      "gloss": "to"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "jsi vykonal"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pro nás"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:49.694666578Z",
+  "model": "glm-5.3"
+}

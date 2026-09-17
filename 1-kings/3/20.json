@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A vstala o půlnoci a vzala ⟨את⟩ mého syna ode mne, tvá otrokyně spala, a uložila jej do svého lůna, a ⟨את⟩ jejího mrtvého syna uložila do mého lůna.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "A vstala"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "o prostředku"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noci"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "a vzala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mého syna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mého syna"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "tvá otrokyně"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "spala"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "a uložila jej"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "do svého lůna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": " jejího mrtvého syna"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "jejího syna"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mrtvého"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "uložila"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "do mého lůna"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:50.424314968Z",
+  "model": "glm-5.3"
+}

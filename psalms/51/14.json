@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Navrať mi radost ze svého spasení a velkodušným duchem ⟨mě⟩ podepři.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "navrať"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "radost"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ze svého spasení"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "a duchem"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "velkodušným"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "⟨mě⟩ podepři"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:43.909859964Z",
+  "model": "glm-5.3"
+}

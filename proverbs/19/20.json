@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Slyš radu a přijmi kázeň, abys byl moudrý ve svém konci.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Slyš"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "radu"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "a přijmi"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kázeň"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abys"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "byl moudrý"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "ve svém konci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:58.540244849Z",
+  "model": "glm-5.3"
+}

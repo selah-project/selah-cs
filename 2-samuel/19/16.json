@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "I vrátil se král a přišel až k Jordánu, a Juda přišel do Gilgalu, aby šel vstříc králi, aby převedl ⟨את⟩ krále přes ⟨את⟩ Jordán.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordánu"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Juda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "do Gilgalu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "aby šel"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vstříc"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "aby převedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:51.767555743Z",
+  "model": "glm-5.3"
+}

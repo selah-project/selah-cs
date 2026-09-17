@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "abych viděl ⟨dobro⟩ tvých vyvolených, abych se radoval z radosti tvého národa, abych se chlubil s tvým dědictvím.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "abych viděl"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "⟨z⟩ dobra"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "tvých vyvolených"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "abych se radoval"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "z radosti"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "tvého národa"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "abych se chlubil"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "tvým dědictvím"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:32.444199576Z",
+  "model": "glm-5.3"
+}

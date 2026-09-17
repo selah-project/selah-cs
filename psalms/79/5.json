@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 79,
+  "translation": "Jak dlouho, Jahve? Budeš se hněvat navěky? Tvé žárlivost ⟨se⟩ bude rozdílet jako oheň?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Jak dlouho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "budeš se hněvat"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "bude hořet"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jako"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "tvá žárlivost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:10.600340724Z",
+  "model": "glm-5.3"
+}

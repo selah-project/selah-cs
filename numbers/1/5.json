@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A tato ⟨jsou⟩ jména mužů, kteří budou stát ⟨את⟩ s vámi: za Rúbena Elícúr, syn Šedeúra.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A tato"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jména"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "budou stát"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ s vámi",
+      "marks": "⟨את⟩ s vámi"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "za Rúbena"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elícúr"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Šedeúra"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:35.482452967Z",
+  "model": "glm-5.3"
+}

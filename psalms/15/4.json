@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Zavrženíhodný je v jeho očích ⟨ten⟩ nehodnotný, ⟨את⟩ bojící se Jahve však ctí; přísahá ke svému zlu a nezmění ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "Zavrženíhodný"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v jeho očích"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "⟨ten⟩ nehodnotný"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bojící se Jahve"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "bojící se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "však ctí"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "přísahá"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ke svému zlu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "změní ⟨to⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:30.730869774Z",
+  "model": "glm-5.3"
+}

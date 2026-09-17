@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vzal David ⟨את⟩ zlaté štíty, které byly u sluhů Hadadezera, a přinesl je do Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlaté štíty"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "štíty"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlaté"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluhů"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "a přinesl je"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T07:33:36.920466034Z",
+  "model": "glm-5.3"
+}

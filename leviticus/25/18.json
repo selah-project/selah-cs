@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A budete konat ⟨את⟩ má ustanovení a ⟨את⟩ má práva budete střežit a budete ⟨את⟩ je konat; a bydlit budete v ⟨té⟩ zemi bezpečně.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "a budete konat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "má ustanovení"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "má ustanovení"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "má práva"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "má práva"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "budete střežit"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "a budete konat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "a bydlit budete"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bezpečně"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:11.917265931Z",
+  "model": "glm-5.3"
+}

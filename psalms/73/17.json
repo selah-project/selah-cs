@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "Až vejdeme do svatyní El, poznám jejich konec.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Až"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "vejdeme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "svatyní"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "poznám"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "jejich konec"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:12.192845379Z",
+  "model": "glm-5.3"
+}

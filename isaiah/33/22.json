@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 33:22",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Neboť Jahve ⟨je⟩ náš soudce, Jahve náš zákonodárce, Jahve náš král — on nás zachrání.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שפטנו",
+      "gloss": "náš soudce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחקקנו",
+      "gloss": "náš zákonodárce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "náš král"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "nás zachrání"
+    }
+  ],
+  "timestamp": "2026-09-17T08:09:02.872331050Z",
+  "model": "glm-5.3"
+}

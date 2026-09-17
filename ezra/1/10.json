@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "číší zlata třicet, číší stříbra druhého druhu čtyři sta a deset, nádob jiných tisíc.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "číší"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třicet"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "číší"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbra"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "druhého druhu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "a deset"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "nádob"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "jiných"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    }
+  ],
+  "timestamp": "2026-09-17T10:07:25.985473150Z",
+  "model": "glm-5.3"
+}

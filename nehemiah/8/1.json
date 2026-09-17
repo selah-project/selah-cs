@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 8:1",
+  "book": "nehemiah",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A shromáždil se všechen lid jako jeden muž na náměstí, které je před Vodní bránou, a řekli Ezerovi, písaři, aby přinesl ⟨את⟩ knihu Tóry Mojžíše, kterou přikázal Jahve ⟨את⟩ Izraeli.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "a shromáždil se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jako jeden muž"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הרחוב",
+      "gloss": "náměstí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "je před"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bránou"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Vodní"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "Ezerovi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "písaři"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "aby přinesl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "knihu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knihu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tóry"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-17T10:13:44.163461649Z",
+  "model": "glm-5.3"
+}

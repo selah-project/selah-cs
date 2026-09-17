@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 10:12",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A synové Izraele táhli svými přesuny z pouště Sinaj; a spočinul oblak v poušti Paran.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "A táhli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "svými přesuny"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "z pouště"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "a spočinul"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "oblak"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v poušti"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    }
+  ],
+  "timestamp": "2026-09-17T06:42:30.378343552Z",
+  "model": "glm-5.3"
+}

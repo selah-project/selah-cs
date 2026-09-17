@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A vrátil se anděl Jahve podruhé a dotkl se ho a řekl: Vstaň, jez, neboť příliš velká ⟨je⟩ pro tebe cesta.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "A vrátil se"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "anděl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "podruhé"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "a dotkl se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Vstaň"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jez"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "רב",
+      "gloss": "příliš velká"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "pro tebe"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "cesta"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:19.546034945Z",
+  "model": "glm-5.3"
+}

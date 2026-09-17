@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Aby ⟨tvá⟩ sláva ⟨ti⟩ zpívala chválu a neumlkla. Jahve, Elohim můj, děkovat ti budu na věky.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Aby"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "zpívala chválu ⟨ti⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sláva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "umlkla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim můj"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "děkovat ti budu"
+    }
+  ],
+  "timestamp": "2026-09-17T13:41:22.288256131Z",
+  "model": "glm-5.3"
+}

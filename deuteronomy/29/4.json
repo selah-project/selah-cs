@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A vedl jsem ⟨את⟩ vás čtyřicet let na poušti; vaše šaty se nerozpadly na vás a vaše obuv se nerozpadla na vaší noze.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "vedl jsem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vás"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "se nerozpadly"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "vaše šaty"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "na vás"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "a vaše obuv"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "se nerozpadla"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "na"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "vaší noze"
+    }
+  ],
+  "timestamp": "2026-09-17T07:02:25.637007571Z",
+  "model": "glm-5.3"
+}

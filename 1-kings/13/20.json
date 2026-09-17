@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 13:20",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A stalo se, ⟨když⟩ seděli u ⟨stolu⟩, že slovo Jahve přišlo k prorokovi, který ho přivedl zpět.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "seděli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨stolu⟩"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "že přišlo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorokovi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ho přivedl zpět"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:14.689384364Z",
+  "model": "glm-5.3"
+}

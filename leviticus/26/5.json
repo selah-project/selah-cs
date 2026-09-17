@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A dožene za vámi žně ⟨את⟩ vinobraní a vinobraní dožene ⟨את⟩ setbu; budete jíst svůj chléb do sytosti a bydlet v bezpečí ve své zemi.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "a dožene"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "za vámi"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "žně"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vinobraní"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "vinobraní"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "a vinobraní"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "dožene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setbu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "setbu"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "budete jíst"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "svůj chléb"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "do sytosti"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "a bydlet"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "v bezpečí"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "ve své zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:57.543495244Z",
+  "model": "glm-5.3"
+}

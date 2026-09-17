@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "I řekli služebníci krále, kteří ⟨byli⟩ v bráně krále, Mordokajovi: „Proč překračuješ ⟨את⟩ příkaz krále?“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "I řekli"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služebníci"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "v bráně"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordokajovi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "překračuješ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "příkaz krále"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "příkaz"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:52.465181664Z",
+  "model": "glm-5.3"
+}

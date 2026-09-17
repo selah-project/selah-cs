@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "judges 11:38",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "I řekl: Jdi. A propustil ⟨את⟩ ji na dva měsíce; odešla ⟨ona⟩ i její přítelkyně a plakala nad svým panenstvím na horách.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Jdi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a propustil"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ji",
+      "marks": "ji (se zájmenem) — ukazuje na ni"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "a odešla"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ורעותיה",
+      "gloss": "i její přítelkyně"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "a plakala"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בתוליה",
+      "gloss": "svým panenstvím"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "horách"
+    }
+  ],
+  "timestamp": "2026-09-17T07:17:15.447210800Z",
+  "model": "glm-5.3"
+}

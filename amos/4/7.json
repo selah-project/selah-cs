@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 4:7",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I já jsem vám zadržel ⟨את⟩ déšť, když zbývaly tři měsíce do žně; a nechal jsem pršet na jedno město a na druhé město jsem nenechal pršet — jeden díl byl zkropen deštěm a díl, na který nepršelo, uschl.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "מנעתי",
+      "gloss": "zadržel jsem"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "déšť"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "déšť"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "když zbývaly"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tři"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "לקציר",
+      "gloss": "do žně"
+    },
+    {
+      "surface": "והמטרתי",
+      "gloss": "a nechal jsem pršet"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "jedno město"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jiné"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמטיר",
+      "gloss": "jsem nenechal pršet"
+    },
+    {
+      "surface": "חלקה",
+      "gloss": "díl"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "תמטר",
+      "gloss": "byl zkropen deštěm"
+    },
+    {
+      "surface": "וחלקה",
+      "gloss": "a díl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na který"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תמטיר",
+      "gloss": "pršelo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "uschl"
+    }
+  ],
+  "timestamp": "2026-09-17T08:59:53.080221389Z",
+  "model": "glm-5.3"
+}

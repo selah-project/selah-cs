@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A pošlu oheň na dům Chaza-elův a pohltí pevnosti Ben-Hadadovy.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "A pošlu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na dům"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chaza-elův"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "pohltí"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "pevnosti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadovy"
+    }
+  ],
+  "timestamp": "2026-09-17T08:59:44.962653181Z",
+  "model": "glm-5.3"
+}

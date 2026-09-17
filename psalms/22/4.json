@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A ty jsi ⟨svatý⟩, trůnící ⟨na⟩ chválách Izraele.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "trůnící"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "chválách"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:02.313602427Z",
+  "model": "glm-5.3"
+}

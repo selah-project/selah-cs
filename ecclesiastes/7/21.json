@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Také ke všem slovům, která mluví, nedávej své srdce, abys neslyšel svého sluhu, jak tě proklíná ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ke všem"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "slovům"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mluví"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dávej"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "své srdce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abys"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "slyšel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého sluhu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svého sluhu"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "jak tě proklíná"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:34.229012868Z",
+  "model": "glm-5.3"
+}

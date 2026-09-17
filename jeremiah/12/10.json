@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Pastýřů mnoho zničilo mou vinici, pošlapali ⟨את⟩ můj díl; dali ⟨את⟩ díl mé rozkoše v poušť zpustošenou.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "pastýři"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnoho"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "zničili"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "mou vinici"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "pošlapali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "můj díl"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "můj díl"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "díl mé rozkoše"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "díl"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "mé rozkoše"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "v poušť"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "zpustošenou"
+    }
+  ],
+  "timestamp": "2026-09-17T11:01:36.645986004Z",
+  "model": "glm-5.3"
+}

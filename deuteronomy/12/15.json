@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 12:15",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Jen podle všeho, po čem touží tvá duše, smíš porazit ⟨a⟩ jíst maso podle požehnání, které ti dal Jahve, tvůj Elohim, ve všech tvých branách; nečistý i čistý je mohou jíst, jako daň i jako jeleně.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "jen"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אות",
+      "gloss": "po čem touží"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvá duše"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "smíš porazit"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "⟨a⟩ jíst"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "כברכת",
+      "gloss": "podle požehnání"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ti dal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všech"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "tvých branách"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nečistý i"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "čistý"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "je mohou jíst"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "jako daň"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "i jako jeleně"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:04.808355702Z",
+  "model": "glm-5.3"
+}

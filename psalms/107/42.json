@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Uvidí ⟨ti⟩ přímí a budou se radovat, a veškerá nepravost zavře svá ústa.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "uvidí"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "přímí"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "a budou se radovat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a veškerá"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "zavře"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "svá ústa"
+    }
+  ],
+  "timestamp": "2026-09-17T12:59:54.091853269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Vzpomínám na Elohim a sténám, rozjímám a můj duch slábne. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Vzpomínám"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "a sténám"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "rozjímám"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "a slábne"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "můj duch"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:54.160905735Z",
+  "model": "glm-5.3"
+}

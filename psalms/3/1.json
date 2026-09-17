@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Mizmor Davidův, když prchal před Avšalomem, synem svým.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "když prchal"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "synem svým"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:02.719951707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "Mé ústa budou vyprávět tvou spravedlnost, celý den tvou spásu, neboť čísel ⟨jich⟩ neznám.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "má ústa"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "budou vyprávět"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tvou spravedlnost"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "tvou spásu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znám"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "čísel"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:13.360736495Z",
+  "model": "glm-5.3"
+}

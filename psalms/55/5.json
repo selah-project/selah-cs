@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Srdce mé se svíjí ve mně a hrůzy smrti padly na mě.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "srdce mé"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "se svíjí"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ve mně"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "a hrůzy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padly"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:41.753726229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Adonaj se mu vysměje, neboť viděl, že přijde jeho den.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "vysměje"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "přijde"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "jeho den"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:03.521539194Z",
+  "model": "glm-5.3"
+}

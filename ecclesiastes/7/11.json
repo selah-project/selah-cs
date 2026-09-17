@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Dobrá je moudrost ⟨spolu⟩ s dědictvím, a ⟨je⟩ užitek těm, kdo vidí slunce.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Dobrá"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨spolu⟩ s"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "dědictvím"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "užitek"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "těm, kdo vidí"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:07.759571337Z",
+  "model": "glm-5.3"
+}

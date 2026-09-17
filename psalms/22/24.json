@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Vy, kdo se bojíte Jahve, chvalte ho; celé potomstvo Jakuba, oslavte ho, a lekejte se ho, celé potomstvo Izraele!",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "kdo se bojíte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chvalte ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "potomstvo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakuba"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "oslavte ho"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "a lekejte se"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "potomstvo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:26.946100167Z",
+  "model": "glm-5.3"
+}

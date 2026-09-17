@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 36:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A vyšel k němu Eljákím, syn Chilkijáhu, který byl nad domem, a Šebna písař a Jóach, syn Asafa, kronikář.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljákím"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilkijáhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "a Šebna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "písař"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "a Jóach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafa"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "kronikář"
+    }
+  ],
+  "timestamp": "2026-09-17T08:10:47.622542671Z",
+  "model": "glm-5.3"
+}

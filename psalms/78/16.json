@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "A vyvedl pramínky ze skály a vody sestupovaly jako řeky.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "a vyvedl"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "pramínky"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ze skály"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "a sestupoval"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "jako řeky"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:29.883550563Z",
+  "model": "glm-5.3"
+}

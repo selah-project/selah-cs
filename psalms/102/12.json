@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Moje dny jsou ⟨jako⟩ stín natažený a já jak tráva usychám.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "moje dny"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "jako stín"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "natažený"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a já"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "jak tráva"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "usychám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:50.414615454Z",
+  "model": "glm-5.3"
+}

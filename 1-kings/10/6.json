@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I řekla králi: Pravda ⟨bylo⟩ to slovo, které jsem slyšela ve své zemi, o tvých slovech a o tvé moudrosti.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "I řekla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(králi)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "Pravda"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨bylo⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "to slovo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jsem slyšela"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "ve své zemi"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "tvých slovech"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a o"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "tvé moudrosti"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:44.195722390Z",
+  "model": "glm-5.3"
+}

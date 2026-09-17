@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 64,
+  "translation": "Kvůli těmto věcem se ⟨budeš⟩ zdržovat, Jahve? Budeš mlčet a tísnit nás až ⟨do⟩ krajnosti?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "těmto věcem"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "se zdržovat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "budeš mlčet"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "a tísnit nás"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "krajnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T08:18:03.950717530Z",
+  "model": "glm-5.3"
+}

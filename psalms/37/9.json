@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Neboť ti, kdo činí zlo, budou vyhlazeni, ale ti, kdo čekají na Jahve, ti zdědí zemi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ti, kdo činí zlo"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "budou vyhlazeni"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "ale ti, kdo čekají"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "zdědí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:05.017392166Z",
+  "model": "glm-5.3"
+}

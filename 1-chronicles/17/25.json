@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 17:25",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Neboť ty, můj Elohim, jsi odkryl ⟨את⟩ ucho svého služebníka ⟨a řekl⟩, že mu vystavíš dům; proto si tvůj služebník dovolil modlit se před tvou tváří.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "můj Elohim"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "jsi odkryl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ucho"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ucho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svého služebníka"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "vystavíš"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨proto⟩"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "si dovolil"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvůj služebník"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "modlit se"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tvou tváří"
+    }
+  ],
+  "timestamp": "2026-09-17T10:20:35.883389210Z",
+  "model": "glm-5.3"
+}

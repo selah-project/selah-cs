@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A dali jim ⟨את⟩ Chebron v zemi Judovy i ⟨את⟩ jeho pastviny kolem něj.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "a dali"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho pastviny"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "jeho pastviny"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "kolem něj"
+    }
+  ],
+  "timestamp": "2026-09-17T10:17:00.168856195Z",
+  "model": "glm-5.3"
+}

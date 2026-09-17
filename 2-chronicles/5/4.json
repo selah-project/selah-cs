@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A přišli všichni starší Izraele, a levité zvedli ⟨את⟩ archu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "A přišli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "a zvedli"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levité"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "archu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:25:09.725474337Z",
+  "model": "glm-5.3"
+}

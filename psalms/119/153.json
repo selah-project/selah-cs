@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Viz ⟨mou⟩ soužení a vytrhni mě, neboť tvou tóru jsem nezapomněl.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "viz"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "soužení"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "a vytrhni mě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvou tóru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne(-)"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "jsem nezapomněl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:26.801842019Z",
+  "model": "glm-5.3"
+}

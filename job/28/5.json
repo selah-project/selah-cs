@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Země — z ní vychází chléb, a pod ní ⟨je⟩ převráceno jako ⟨při⟩ ohni.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "z ní"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vychází"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "a pod ní"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "převráceno"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jako"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    }
+  ],
+  "timestamp": "2026-09-17T09:50:27.840257988Z",
+  "model": "glm-5.3"
+}

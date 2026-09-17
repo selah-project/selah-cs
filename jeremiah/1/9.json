@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A Jahve vyslal svou ruku ⟨את⟩ a dotkl se mých úst; a řekl mi Jahve: Hle, dal jsem své slova do tvých úst.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "vyslal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "dotkl se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "moje ústa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dal jsem"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "svá slova"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "do tvých úst"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:18.134309973Z",
+  "model": "glm-5.3"
+}

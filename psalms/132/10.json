@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 132,
+  "translation": "Kvůli Davidovi, tvému služebníku, neodvracej tvář svého Mashíacha.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvému služebníku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "neodvracej"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "svého Mashíacha"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:15.729598786Z",
+  "model": "glm-5.3"
+}

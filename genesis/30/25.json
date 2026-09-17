@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A stalo se, když porodila Ráchel ⟨את⟩ Josefa, že řekl Jákob Lábanovi: Propusť mě, a odejdu ke svému místu a do své země.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ráchel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "že řekl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Lábanovi)"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lábanovi"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Propusť mě"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "a odejdu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "svému místu"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "a do své země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:50.319829808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A umístil na něj ⟨את⟩ náhrdelník ⟨את⟩ urim a ⟨את⟩ tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a umístil"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "náhrdelník"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "náhrdelník"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a vložil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "náhrdelníku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "tumim"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:25.304918533Z",
+  "model": "glm-5.3"
+}

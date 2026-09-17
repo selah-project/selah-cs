@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Kdo šetří svou hůl, nenávidí svého syna; kdo ho miluje, včas ho kárá.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "Kdo šetří"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "svou hůl"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nenávidí"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "kdo ho miluje"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "včas ho kárá"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "⟨kárá⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:40.761822383Z",
+  "model": "glm-5.3"
+}

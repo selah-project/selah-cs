@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A synové Izraele bydleli uprostřed Kenaana, Chetea, Emorea, Príza, Chivea a Jebúsea.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "A synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bydleli"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetea"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Emorea"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Príza"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "Chivea"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Jebúsea"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:57.418095662Z",
+  "model": "glm-5.3"
+}

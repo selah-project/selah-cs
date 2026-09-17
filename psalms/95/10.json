@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 95,
+  "translation": "Čtyřicet let jsem ⟨se hněval⟩ s tím pokolením a řekl jsem: ⟨Jsou⟩ to lid bloudící srdcem, a oni neznají mé cesty.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "Čtyřicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "jsem se hněval"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "s tím pokolením"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řekl jsem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "bloudící"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srdcem"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨Jsou⟩ to"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znají"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mé cesty"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:43.059261045Z",
+  "model": "glm-5.3"
+}

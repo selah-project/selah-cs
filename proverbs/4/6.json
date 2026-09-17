@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Neopouštěj ji a ⟨ona⟩ tě bude střežit; miluj ji a ⟨ona⟩ tě bude chránit.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "opouštěj ji"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "a ⟨ona⟩ tě bude střežit"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "miluj ji"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "a ⟨ona⟩ tě bude chránit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:34.014046110Z",
+  "model": "glm-5.3"
+}

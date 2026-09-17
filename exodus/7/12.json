@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neboť hodil každý ⟨kousek⟩ svou hůl a staly se hady; ale hůl Áronova pohltila ⟨את⟩ jejich hole.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "hodil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "svou hůl"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "a staly se"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "hady"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "pohltila"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "hůl"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áronova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich hole"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "jejich hole"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:16.129192533Z",
+  "model": "glm-5.3"
+}

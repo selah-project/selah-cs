@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A ⟨את⟩ koření a ⟨את⟩ olej pro světlo i pro olej pomazání a pro kadidlo vonných látek.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "koření"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "koření"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olej"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "pro světlo"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "i pro olej"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazání"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "a pro kadidlo"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "vonných látek"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:57.608109738Z",
+  "model": "glm-5.3"
+}

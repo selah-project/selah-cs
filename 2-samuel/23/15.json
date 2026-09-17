@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A zatoužil David a řekl: Kdo mi dá napít vody z studánky betlémské, která ⟨je⟩ u brány?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "A zatoužil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "mi dá napít"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ze studánky"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-lemské"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "u brány"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:15.984513950Z",
+  "model": "glm-5.3"
+}

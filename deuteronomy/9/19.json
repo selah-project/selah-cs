@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 9:19",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Neboť jsem se bál tváře ⟨h⟩o hněvu a prchlivosti, kterou Jahve rozzlobil proti vám, aby vás zničil ⟨את⟩; a Jahve vyslyšel mne i tentokrát.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "jsem se bál"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tváře"
+    },
+    {
+      "surface": "האף",
+      "gloss": "hněvu"
+    },
+    {
+      "surface": "והחמה",
+      "gloss": "a prchlivosti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "rozzlobil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "proti vám"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "aby zničil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "a vyslyšel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "tentokrát"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "té"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:45.926680252Z",
+  "model": "glm-5.3"
+}

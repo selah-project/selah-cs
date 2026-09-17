@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Jednou jsem mluvil, a neodpovím, a dvakrát — ale nedoplním ⟨už nic⟩.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "jednou"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "mluvil jsem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "odpovím"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "a dvakrát"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "doplním"
+    }
+  ],
+  "timestamp": "2026-09-17T09:52:57.908325935Z",
+  "model": "glm-5.3"
+}

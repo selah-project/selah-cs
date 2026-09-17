@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Mnozí říkají: „Kdo nám ukáže ⟨dobro⟩? Pozdvihni nad nás světlo své tváře, Jahve!“",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Mnozí"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "říkají"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "nám ukáže"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨dobro⟩"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Pozdvihni"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad nás"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": " své tváře"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:18.104603557Z",
+  "model": "glm-5.3"
+}

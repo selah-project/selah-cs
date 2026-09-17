@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Každý mužský z kněží ji smí jíst ⟨את⟩; svatost svatých ⟨to je⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Každý"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mužský"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "z kněží"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smí jíst"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ji (oběť míncha)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatost"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svatých"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:30.082213147Z",
+  "model": "glm-5.3"
+}

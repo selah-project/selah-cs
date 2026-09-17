@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Pojď, napojme vína ⟨את⟩ našeho otce a budeme s ním ležet, a uchováme potomstvo z našeho otce.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Pojď"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "napojme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "našeho otce"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "našeho otce"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vína"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "a budeme ležet"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "a uchováme"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "z našeho otce"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "potomstvo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:55.155782359Z",
+  "model": "glm-5.3"
+}

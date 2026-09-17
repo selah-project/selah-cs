@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 16:12",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "I poslal Mojžíš, aby zavolali Dátana a Abírama, syny Elíabovy; oni však řekli: Nepůjdeme nahoru.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i poslal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "aby zavolali"
+    },
+    {
+      "surface": "לדתן",
+      "gloss": "Dátana"
+    },
+    {
+      "surface": "ולאבירם",
+      "gloss": "a Abírama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Elíabovy"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "oni však řekli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "půjdeme nahoru"
+    }
+  ],
+  "timestamp": "2026-09-17T06:45:13.571442394Z",
+  "model": "glm-5.3"
+}

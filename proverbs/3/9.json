@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Osvěz ⟨את⟩ Jahve svým majetkem a z prvních plodů veškeré své úrody ⟨mu dej⟩,",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Osvěz (cti)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "svým majetkem"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "a z prvních plodů"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "své úrody"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:14.930463312Z",
+  "model": "glm-5.3"
+}

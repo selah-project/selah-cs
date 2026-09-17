@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Chutného chleba jsem nejedl a maso a víno nepřišlo do mých úst; olejem jsem se nepomazal, dokud se nenaplnily tři týdny dní.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "chutného"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "jsem-jedl"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "a maso"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "a víno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišlo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mých úst"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "a olejem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "pomazal-se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "nenaplnily"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "týdny"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    }
+  ],
+  "timestamp": "2026-09-17T10:06:07.682963119Z",
+  "model": "glm-5.3"
+}

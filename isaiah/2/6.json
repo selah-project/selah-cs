@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 2:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Vždyť jsi opustil svůj lid, dome Jákobův, neboť se naplnili ⟨oddáváním⟩ východům, ⟨jsou⟩ věštci jako Pelištejci, a s dětmi cizinců plácají ⟨rukama⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "נטשתה",
+      "gloss": "jsi opustil"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dome"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobův"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "se naplnili"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "východům"
+    },
+    {
+      "surface": "ועננים",
+      "gloss": "věštci"
+    },
+    {
+      "surface": "כפלשתים",
+      "gloss": "jako Pelištejci"
+    },
+    {
+      "surface": "ובילדי",
+      "gloss": "a s dětmi"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "cizinců"
+    },
+    {
+      "surface": "ישפיקו",
+      "gloss": "plácají ⟨rukama⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:13.923348409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 140,
+  "translation": "Muž jazyka nebude v zemi upevněn; muže násilí, zlo honí k záhubě.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jazyka"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "bude upevněn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "násilí"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "honí"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "k záhubě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:15.076654102Z",
+  "model": "glm-5.3"
+}

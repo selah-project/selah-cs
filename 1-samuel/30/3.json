@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A přišel David a jeho muži k městu — a hle, bylo spáleno ohněm; a jejich ženy, jejich synové a jejich dcery byly odvlečeny do zajetí.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "A přišel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "a jeho muži"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "městu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "spáleno"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "a jejich ženy"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "jejich synové"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "a jejich dcery"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "byly odvlečeny do zajetí"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:51.174309230Z",
+  "model": "glm-5.3"
+}

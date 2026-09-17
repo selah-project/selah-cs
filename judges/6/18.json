@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 6:18",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Neodcházej prosím odtud, dokud k tobě nepřijdu, a vyndám ⟨את⟩ svůj dar a položím jej před tebe. A řekl: Já sám zůstanu, dokud se nevrátíš.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "תמש",
+      "gloss": "odcházej"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "באי",
+      "gloss": "nepřijdu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "והצאתי",
+      "gloss": "a vyndám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj dar (mú dar)"
+    },
+    {
+      "surface": "מנחתי",
+      "gloss": "svůj dar"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "a položím"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já sám"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "zůstanu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "se nevrátíš"
+    }
+  ],
+  "timestamp": "2026-09-17T07:14:25.154180936Z",
+  "model": "glm-5.3"
+}

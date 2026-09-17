@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A hliněná nádoba, v níž ⟨se to⟩ uvaří, se roztříští; a jestliže ⟨byla⟩ uvařena v nádobě měděné, vydrhne se a vodou se vypláchne.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "A nádoba"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "hliněná"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v níž"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "uvaří se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "roztříští se"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "v nádobě"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "měděné"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "byla uvařena"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "vydrhne se"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "a vypláchne se"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vodou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:30.081938648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Budeš je ⟨את⟩ soudit, synu člověče? Budeš je soudit? ⟨את⟩ Ohavnosti jejich otců jim dej poznat —",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Budeš… soudit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (starší Izraele)"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "Budeš soudit"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohavnosti jejich otců"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "Ohavnosti"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "jejich otců"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "dej jim poznat"
+    }
+  ],
+  "timestamp": "2026-09-17T11:06:25.069432310Z",
+  "model": "glm-5.3"
+}

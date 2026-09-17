@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A Joktan zplodil ⟨את⟩ Almodada a ⟨את⟩ Šelefa a ⟨את⟩ Chacarmavet a ⟨את⟩ Jeracha.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "A Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodada"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Šelefa"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Šelefa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Chacarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chacarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Jeracha"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jeracha"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:09.970319123Z",
+  "model": "glm-5.3"
+}

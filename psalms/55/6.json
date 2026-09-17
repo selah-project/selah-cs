@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Hrůza a chvění přichází ⟨do⟩ mě a děs mě přikryl.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "hrůza"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "a chvění"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "přichází"
+    },
+    {
+      "surface": "בי",
+      "gloss": "do mě"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "a přikryl mě"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "děs"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:41.753960566Z",
+  "model": "glm-5.3"
+}

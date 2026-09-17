@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 8:12",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A budou bloudit od moře k moři a od severu až na východ, budou se honit sem a tam, hledat ⟨את⟩ slovo Jahveovo — a nenaleznou ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "A budou bloudit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "od moře"
+    },
+    {
+      "surface": "עד",
+      "gloss": "k"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moři"
+    },
+    {
+      "surface": "ומצפון",
+      "gloss": "a od severu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až na"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "východ"
+    },
+    {
+      "surface": "ישוטטו",
+      "gloss": "budou se honit sem a tam"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hledat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slovo Jahveovo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveovo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ⟨je⟩ nenaleznou ⟨ne⟩"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "nenaleznou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:01:11.548690172Z",
+  "model": "glm-5.3"
+}

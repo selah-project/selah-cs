@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A stalo se po dnech ⟨uplynuvších⟩, že Kain přinesl z plodu půdy dar Jahvovi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "po konci"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "že přinesl"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "z plodu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "půdy"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:47.305857390Z",
+  "model": "glm-5.3"
+}

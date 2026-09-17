@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 65,
+  "translation": "Blaze toho, koho si vybereš a přiblížíš ⟨k sobě⟩, aby přebýval ve tvých nádvořích; budeme nasyceni dobrem tvého domu, svatostí tvého chrámu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blaze"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "vybereš si"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "a přiblížíš"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "aby přebýval"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "ve tvých nádvořích"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "budeme nasyceni"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dobrem"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tvého domu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatostí"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "tvého chrámu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:40.189030158Z",
+  "model": "glm-5.3"
+}

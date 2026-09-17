@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Neboj se, neboť já jsem s tebou; nerozhlížej se úzkostlivě, neboť já jsem tvůj Elohim; posílil jsem tě, ano, pomohl jsem ti, ano, podpíral jsem tě pravicí své spravedlnosti.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "rozhlížej se úzkostlivě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "posílil jsem tě"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ano"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "pomohl jsem ti"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ano"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "podpíral jsem tě"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "pravicí"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "své spravedlnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:09.644156108Z",
+  "model": "glm-5.3"
+}

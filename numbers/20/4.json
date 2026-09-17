@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A proč jste přivedli ⟨את⟩ shromáždění Jahve k ⟨této⟩ poušti této, abychom tam umřeli my i ⟨naše⟩ dobytky naše?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "A proč"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "jste přivedli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shromáždění Jahve"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "poušti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "této"
+    },
+    {
+      "surface": "למות",
+      "gloss": "abychom umřeli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "i dobytky naše"
+    }
+  ],
+  "timestamp": "2026-09-17T10:43:28.081848827Z",
+  "model": "glm-5.3"
+}

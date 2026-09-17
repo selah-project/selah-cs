@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "esther 9:18",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A židé, kteří v Šúšanu, se shromáždili třináctého ⟨dne⟩ a čtrnáctého ⟨toho dne⟩, a odpočinuli patnáctého ⟨dne⟩ a učinili ⟨את⟩ ⟨jej⟩ dnem hostiny a radosti.",
+  "tokens": [
+    {
+      "surface": "והיהודיים",
+      "gloss": "A židé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "v Šúšanu"
+    },
+    {
+      "surface": "נקהלו",
+      "gloss": "se shromáždili"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "třináctého"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ného"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨dne⟩"
+    },
+    {
+      "surface": "ובארבעה",
+      "gloss": "a čtrnáctého"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-tého"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨toho dne⟩"
+    },
+    {
+      "surface": "ונוח",
+      "gloss": "a odpočinuli"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "patnáctého"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ého"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨dne⟩"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a učinili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "den"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnem"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "hostiny"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "a radosti"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:40.655554619Z",
+  "model": "glm-5.3"
+}

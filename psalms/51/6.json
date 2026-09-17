@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Tobě, jen tobě jsem se prohřešil, a zlé v tvých očích jsem udělal, abys byl ospravedlněn ve svých slovech, čistý byl při svém soudu.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "jen tobě"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "jsem se prohřešil"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "a zlé"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "v tvých očích"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem udělal"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abys"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "byl ospravedlněn"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "ve svých slovech"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "čistý byl"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "při svém soudu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:34.246320914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "A nyní ne vy jste mě poslali ⟨את⟩ sem, ale ⟨to⟩ Elohim; a učinil mě otcem faraónovi a pánem celého jeho domu a vládcem celé země Egypta.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "jste poslali"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mě"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ale"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "a učinil mě"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "otcem"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "a pánem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "celého"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jeho domu"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "a vládcem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:36.323172516Z",
+  "model": "glm-5.3"
+}

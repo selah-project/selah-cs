@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Nejsem poslal ⟨את⟩ proroky, a přece běželi; nepromluvil jsem k nim, a přece prorokovali.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "poslal jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "proroky"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "⟨ti⟩ proroci"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "běželi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "promluvil jsem"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k nim"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "prorokovali"
+    }
+  ],
+  "timestamp": "2026-09-17T08:26:22.514135538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A opustili ⟨את⟩ dům Jahve, Elohim svých otců, a sloužili ⟨את⟩ Ašeřám i ⟨את⟩ modlám; a ⟨stalo se⟩ hněv ⟨na⟩ Judu a Jeruzalém kvůli této jejich vině.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "A opustili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům Jahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "svých otců"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "a sloužili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ašeřám"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Ašeřám"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "modlám"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "modlám"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a ⟨stalo se⟩"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "hněv"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "a Jeruzalém"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "kvůli jejich vině"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "této"
+    }
+  ],
+  "timestamp": "2026-09-17T10:30:19.287468970Z",
+  "model": "glm-5.3"
+}

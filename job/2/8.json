@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 2:8",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I vzal si střep, aby se jím škrábal, a seděl uprostřed popela.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "si"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "střep"
+    },
+    {
+      "surface": "להתגרד",
+      "gloss": "aby se škrábal"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jím"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "seděl"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "popela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:27.408302785Z",
+  "model": "glm-5.3"
+}

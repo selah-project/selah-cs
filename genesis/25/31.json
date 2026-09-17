@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A řekl Jákob: „Prodej mi jako dnes ⟨את⟩ své prvorozenství.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Prodej"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jako dnes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své prvorozenství"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "své prvorozenství"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:14.067306875Z",
+  "model": "glm-5.3"
+}

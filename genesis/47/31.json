@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "A řekl: Přišmi se mi. A přišel se mu. A Izrael se sklonil ⟨ve klanění⟩ na čelo postele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "přišmi se"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "a přišel se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a sklonil se ⟨ve klanění⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "čelo"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "postele"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:11.711683440Z",
+  "model": "glm-5.3"
+}

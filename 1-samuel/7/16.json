@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A chodil od roku k roku a obcházel Bet-el, Gilgal a Micpa; a soudil ⟨את⟩ Izrael ⟨את⟩ všechna tato místa.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "chodil"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "od"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roku"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "k roku"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "obcházel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "a Micpa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "soudil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechna tato místa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "tato místa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tato"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:04.477625684Z",
+  "model": "glm-5.3"
+}

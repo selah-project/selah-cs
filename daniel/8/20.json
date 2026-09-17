@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Beran, kterého jsi viděl ⟨jako⟩ pána rohů — to jsou králové Médie a Persie.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "beran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterého"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "jsi viděl"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "pán"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "rohů"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králové"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Médie"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "a Persie"
+    }
+  ],
+  "timestamp": "2026-09-17T10:05:30.755594841Z",
+  "model": "glm-5.3"
+}

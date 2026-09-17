@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A bude vám ⟨to⟩ ke střežení až do čtrnáctého dne tohoto měsíce; a zabijí ⟨את⟩ ho celé shromáždění obce Izraele mezi večery.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "ke střežení"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "čtrnácti (čtyři)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "čtrnácti (deset)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "a zabijí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "obce"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "večery"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:38.819247735Z",
+  "model": "glm-5.3"
+}

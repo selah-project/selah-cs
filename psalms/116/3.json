@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "Obklopily mě provazy smrti a úzkosti šeolu mě našly, úzkost a zármutek jsem nalezl ⟨jsem⟩.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "Obklopily mě"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "provazy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "a úzkosti"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "šeola"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "mě našly"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "úzkost"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "a zármutek"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "jsem nalezl ⟨jsem⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:32.342413923Z",
+  "model": "glm-5.3"
+}

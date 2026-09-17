@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "divů v zemi Cham, děsivých věcí na moři Suf.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "divů"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "děsivých věcí"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moři"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:07.569484479Z",
+  "model": "glm-5.3"
+}

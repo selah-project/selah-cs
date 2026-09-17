@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vzal ⟨את⟩ všecken tuk, kterýž jest na vnitřnostech, a ⟨את⟩ lalok jater a ⟨את⟩ obě ledviny a ⟨את⟩ tuk jejich, a Mojžíš zapálil ⟨to⟩ na oltáři.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všecken tuk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všecken"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterýž"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "vnitřnostech"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lalok jater"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "lalok"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jater"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obě ledviny"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "obě"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ledviny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tuk jejich"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "tuk jejich"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "a zapálil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltáři"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:27.722055619Z",
+  "model": "glm-5.3"
+}

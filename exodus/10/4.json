@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Neboť jestliže odmítneš poslat ⟨את⟩ můj lid, hle, já přivádím zítra kobylky do tvých hranic.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "odmítneš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "poslat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "můj lid"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hle, já"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "přivádím"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "zítra"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "kobylky"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "do tvých hranic"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:26.238956432Z",
+  "model": "glm-5.3"
+}

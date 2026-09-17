@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A vstal Samuel a vyšel z Gilgalu do Giv'at Binjamin; a Ša'ul přepočítal ⟨את⟩ lid, který se u něho nacházel — jako šest set mužů.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "A vstal"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgalu"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "do Giv'at"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "a přepočítal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "který se nacházel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u něho"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "jako šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    }
+  ],
+  "timestamp": "2026-09-17T07:24:11.509901176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A postřikil z ⟨něj⟩ na ⟨ten⟩ oltář sedmkrát a pomazal ⟨את⟩ ⟨ten⟩ oltář a ⟨את⟩ veškeré jeho nádoby i ⟨את⟩ ⟨tu⟩ umyvadlo a ⟨את⟩ jeho podstavec, aby je posvětil.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "a postřikil"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "krát"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "a pomazal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltář"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "veškeré jeho nádoby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jeho nádoby"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "umyvadlo"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umyvadlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho podstavec"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "jeho podstavec"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "aby je posvětil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:26.992326828Z",
+  "model": "glm-5.3"
+}

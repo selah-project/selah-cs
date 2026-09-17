@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 98,
+  "translation": "Ať zahřmí moře i jeho plnost, svět i jeho obyvatelé ⟨v něm⟩.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Ať zahřmí"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "i jeho plnost"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "svět"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "i jeho obyvatelé"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨v něm⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:58.566187534Z",
+  "model": "glm-5.3"
+}

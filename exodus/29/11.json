@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A zabiješ ⟨את⟩ býka před Jahvem, u vchodu stanu setkávání.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "a zabiješ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "býka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "býka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:24:51.252600560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "⟨את⟩ svůj luk jsem dal do oblaku, a bude ⟨z⟩ znamením smlouvy mezi mnou a mezi ⟨ zemí⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj luk"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "svůj luk"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "do oblaku"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "⟨z⟩ znamením"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mezi mnou"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:27.921955740Z",
+  "model": "glm-5.3"
+}

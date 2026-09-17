@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 86,
+  "translation": "Všechny národy, které jsi učinil, přijdou a sklání se před tebou, Adonaj, a budou velebené tvé jméno.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Všechny"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi učinil"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "přijdou"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "a sklání se"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "a budou velebené"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "tvé jméno"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:03.836937997Z",
+  "model": "glm-5.3"
+}

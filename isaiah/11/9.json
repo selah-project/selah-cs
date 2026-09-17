@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Neuškodí a nezničí na celé mé svaté hoře, neboť země ⟨je⟩ plná poznání ⟨את⟩ Jahve, jako vody pokrývají moře.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "uškodí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "zničí"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na celé"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hoře"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "mé svaté"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "plná"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "poznání"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jako vody"
+    },
+    {
+      "surface": "לים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "pokrývají"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:37.185037189Z",
+  "model": "glm-5.3"
+}

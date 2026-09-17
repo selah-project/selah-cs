@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "Odvrať ode mě svou ránu; od soužení tvé ruky vyhasínám.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "Odvrať"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ode mě"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "svou ránu"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "od soužení"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvé ruky"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨a⟩ já"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "vyhasínám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:16.912563015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Neboť rozbil dveře z bronzu a železné závory zarazil ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "rozbil"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dveře"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "z bronzu"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "a železné závory"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "železné"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "zarazil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:41.982781326Z",
+  "model": "glm-5.3"
+}

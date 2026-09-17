@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 75,
+  "translation": "Nezdvihejte k výšině svůj roh, nemluvte s vytuhlou šíjí.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "zdvihejte"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "k výšině"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "svůj roh"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "mluvte"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "s šíjí"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "vytuhlou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:53.689349991Z",
+  "model": "glm-5.3"
+}

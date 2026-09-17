@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 2:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Jahve Elohim vydal z ⟨země⟩ ke vzrůstu každý strom žádoucí na pohled a dobrý k jídlu, a strom života uprostřed zahrady, a strom poznání dobra a zla.",
+  "tokens": [
+    {
+      "surface": "ויצמח",
+      "gloss": "vydal ke vzrůstu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "země"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "strom"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "žádoucí"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "na pohled"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "a dobrý"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "k jídlu"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "a strom"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "života"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "zahrady"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "a strom"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "poznání"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "a zla"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:50.954552961Z",
+  "model": "glm-5.3"
+}

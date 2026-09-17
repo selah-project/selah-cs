@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Jejich země se hemžila žábami, v komnatách jejich králů.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "hemžila se"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "jejich země"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "žábami"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "v komnatách"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "jejich králů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:27.857316668Z",
+  "model": "glm-5.3"
+}

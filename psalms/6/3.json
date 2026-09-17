@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Smiluj se nade mnou, Jahve, neboť jsem sláb; uzdrav mě, Jahve, neboť se třesou mé kosti.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Smiluj se nade mnou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "jsem sláb"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨já⟩"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "uzdrav mě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "se třesou"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mé kosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:44.961841017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A kněz napíše ⟨את⟩ tyto kletby do knihy a smyje je do hořkých vod.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "napíše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyto kletby"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "kletby"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "do knihy"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "smyje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vod"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "hořkých"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:15.930272578Z",
+  "model": "glm-5.3"
+}

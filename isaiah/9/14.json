@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Stařec a povýšený tváří — on ⟨je⟩ hlava; a prorok učící lež — on ⟨je⟩ ocas.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "Stařec"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "a povýšený"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hlava"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "a prorok"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "učící"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lež"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "ocas"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:36.663426574Z",
+  "model": "glm-5.3"
+}

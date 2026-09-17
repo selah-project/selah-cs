@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A lampa Elohim ještě nezhasla a Samuel ležel v chrámu Jahveho, kde ⟨tam⟩ je truhla Elohim.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "A lampa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ještě ne"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "zhasla"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "a Samuel"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ležel"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "v chrámu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨tam⟩"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "truhla"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:20.983730355Z",
+  "model": "glm-5.3"
+}

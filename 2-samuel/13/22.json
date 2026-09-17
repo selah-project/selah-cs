@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Avšalom však nepromluvil s Amnonem ani k zlému, ani k dobrému, neboť Avšalom nenáviděl ⟨את⟩ Amnona proto, že ponížil ⟨את⟩ Tamar, svou sestru.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "však ne"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnonem"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "k zlému"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ani k"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrému"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nenáviděl"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnona"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnona"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto, že"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ponížil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "svou sestru"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:01.865296442Z",
+  "model": "glm-5.3"
+}

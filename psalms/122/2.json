@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 122,
+  "translation": "Naše nohy stály ⟨jsou⟩ ve tvých branách, Jeruzaléme.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "stály"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨jsou⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Naše nohy"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ve tvých branách"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléme"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:37.295560316Z",
+  "model": "glm-5.3"
+}

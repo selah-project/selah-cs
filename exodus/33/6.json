@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A odložili synové Izraele ⟨את⟩ svou ozdobu od hory Chórev.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "A odložili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ozdobu"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ozdobu"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "od hory"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Chórev"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:57.612720204Z",
+  "model": "glm-5.3"
+}

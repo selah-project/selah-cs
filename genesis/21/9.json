@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A viděla Sára ⟨את⟩ syna Hagary, té Egypťanky, kterouž porodila Abrahamovi, jak se vysmívá.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "a viděla"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sára"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syna Hagary"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagary"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "té Egypťanky"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterouž"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamovi"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "jak se vysmívá"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:37.332889152Z",
+  "model": "glm-5.3"
+}

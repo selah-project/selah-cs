@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "A vrátil se Josef do Egypta, on i jeho bratři, i všichni, kteří s ⟨את⟩​ním vystoupili, aby pohřbili ⟨את⟩​jeho otce, poté, co pohřbil ⟨את⟩​jeho otce.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "i jeho bratři"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i všichni"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "kteří vystoupili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "s ⟨את⟩",
+      "marks": "ním (Josefem)"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "aby pohřbili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho otce"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otce"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poté, co"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "pohřbil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho otce"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:30.686721472Z",
+  "model": "glm-5.3"
+}

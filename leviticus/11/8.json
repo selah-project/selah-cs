@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Z jejich masa nebudete jíst a jejich mršiny se nedotknete — nečistí jsou vám.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "z jejich masa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "budete jíst"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "a jejich mršiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "dotknete se"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "nečistí"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jsou"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:26.221589990Z",
+  "model": "glm-5.3"
+}

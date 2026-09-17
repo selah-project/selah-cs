@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A řekl Jóšua: „Otevřete ⟨את⟩ ústa ⟨té⟩ jeskyně a vyveďte ke mně ⟨את⟩ těchto pět králů z ⟨té⟩ jeskyně.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "otevřete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ústa jeskyně"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ústa"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "jeskyně"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "a vyveďte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "těchto pět králů"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pět"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "králů"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "jeskyně"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:08.763150584Z",
+  "model": "glm-5.3"
+}

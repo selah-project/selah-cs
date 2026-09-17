@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A ⟨את⟩ vašeho nejmladšího bratra přivedete ke mně, a budou potvrzena vaše slova, a nezemřete. A udělali tak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "A ⟨את⟩"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "vašeho bratra"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nejmladšího"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "přivedete"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "a budou potvrzena"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "vaše slova"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "zemřete"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "A udělali"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:59.468572183Z",
+  "model": "glm-5.3"
+}

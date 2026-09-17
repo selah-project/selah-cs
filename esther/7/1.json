@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A přišel král i Háman k pití s Ester ⟨,⟩ královnou.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "i Háman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "k pití"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "královnou"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:21.460718703Z",
+  "model": "glm-5.3"
+}

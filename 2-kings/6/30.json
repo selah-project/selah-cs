@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A stalo se, když slyšel král ⟨את⟩ slova té ženy, že roztrhl ⟨את⟩ svá roucha — a on právě procházel po hradbě — a viděl lid, a hle, žíně na jeho těle, uvnitř.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "když slyšel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slova té ženy"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "té ženy"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "že roztrhl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá roucha"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "svá roucha"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "procházel"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "hradbě"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "השק",
+      "gloss": "žíně"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jeho těle"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uvnitř"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:48.029297702Z",
+  "model": "glm-5.3"
+}

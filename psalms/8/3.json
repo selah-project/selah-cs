@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Z úst pacholků a kojenců jsi založil sílu kvůli svým protivníkům, ⟨abys⟩ umlčel nepřítele i mstitele.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "z úst"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "pacholků"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "a kojenců"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "jsi založil"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sílu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "svým protivníkům"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "⟨abys⟩ umlčel"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nepřítele"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "i mstitele"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:18.304707223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A Jótám uložil se ⟨k odpočinku⟩ se svými otci a pochovali ⟨את⟩ jej v městě Davida; a vládl Achaz, jeho syn, místo něj.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a uložil se ⟨k odpočinku⟩"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jótám"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svými otci"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "a pochovali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v městě"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a vládl"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    }
+  ],
+  "timestamp": "2026-09-17T10:29:55.399986464Z",
+  "model": "glm-5.3"
+}

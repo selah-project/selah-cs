@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 2:6",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I odpověděl mládenec stojící nad ženci a řekl: „Moábská dívka ⟨to⟩ je, ta, která se vrátila s Noemi z pole moábského.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "I odpověděl"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mládenec"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "stojící-nad"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הקוצרים",
+      "gloss": "ženci"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "dívka"
+    },
+    {
+      "surface": "מואביה",
+      "gloss": "moábská"
+    },
+    {
+      "surface": "היא",
+      "gloss": "je"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "ta, která se vrátila"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "z pole"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-17T09:56:07.767353736Z",
+  "model": "glm-5.3"
+}

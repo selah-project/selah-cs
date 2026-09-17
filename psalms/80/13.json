@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Proč jsi protrhl její hradby, a ubírá ji každý, kdo jde kolem cestou?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "jsi protrhl"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "její hradby"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "a ubírá ji"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "kdo jde kolem"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:46.474925550Z",
+  "model": "glm-5.3"
+}

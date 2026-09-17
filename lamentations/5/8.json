@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Otrocké nad námi kraluje, ⟨z rukou⟩ jim ⟨se⟩ vymanit ⟨nemá⟩ kdo.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "Otrocké"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "králuje"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nad námi"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "⟨se⟩ vymanit"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨nemá⟩ kdo"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "⟨z rukou⟩ jim"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:07.603741806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "Tvůj lid, Jahve, drtí, a tvé dědictví utlačují.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "tvůj lid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "drtí"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "a tvé dědictví"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "utlačují"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:41.718197173Z",
+  "model": "glm-5.3"
+}

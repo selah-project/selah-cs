@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Rozpoltil skály na poušti a dal jim pít jak z velkých hlubin.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "Rozpoltil"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "skály"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "a dal pít"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "jak z hlubin"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "velkých"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:36.765222491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Řka: Tobě dám ⟨את⟩ zemi kenaanskou, provaz dědictví vašeho",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "Řka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Tobě"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi kenaanskou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanskou"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "provaz"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "dědictví vašeho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:00.465733284Z",
+  "model": "glm-5.3"
+}

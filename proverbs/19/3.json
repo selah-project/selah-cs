@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Bláznovství člověka křiví jeho cestu, a proti Jahvemu hněvá se jeho srdce.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "bláznovství"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "křiví"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "jeho cestu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a proti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "hněvá se"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jeho srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:59.024385392Z",
+  "model": "glm-5.3"
+}

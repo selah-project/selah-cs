@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Svolejte mi své zbožné, kteří smlouvu se mnou učinili nad obětí ⟨zástupy⟩.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Svolejte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "své zbožné"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "učinili (utvořili)"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "smlouvu (svou)"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "obětí ⟨zástupy⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:35.962327375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 7:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A ti, kdož vešli, samci a samice ze veškerého těla, vešli, jak přikázal ⟨את⟩ němu Elohim; a Jahve zavřel za ním.",
+  "tokens": [
+    {
+      "surface": "והבאים",
+      "gloss": "a ti, kdož vešli"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samci"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "a samice"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze veškerého"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "těla"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vešli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "němu (Noachovi)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "a zavřel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "za ním"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:08.384386085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 19:9",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A uslyšel ⟨o⟩ Tirhákovi, králi Kúše, takto: Hle, vyšel, aby bojoval s ⟨את⟩ tebou. A vrátil se a poslal posly k Chizkijášovi, řka:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a uslyšel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "תרהקה",
+      "gloss": "Tirhákovi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kúše"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto:"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle,"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "aby bojoval"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ tebou",
+      "marks": "s ⟨את⟩ tebou"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijášovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka:"
+    }
+  ],
+  "timestamp": "2026-09-17T07:57:53.143287558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Starost v srdci člověka sklání ⟨ho⟩ dolů, ale dobré slovo ⟨ho⟩ obveselí.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "starost"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "v srdci"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "sklání ⟨ho⟩ dolů"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ale slovo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "⟨ho⟩ obveselí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:52.638205505Z",
+  "model": "glm-5.3"
+}

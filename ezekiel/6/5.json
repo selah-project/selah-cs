@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A položím ⟨את⟩ mrtvá těla synů Izraele před tvář jejich hnusných model, a rozptýlím ⟨את⟩ vaše kosti kolem vašich oltářů.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "položím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mrtvá těla synů Izraele"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "mrtvá těla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tvář"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "jejich hnusných model"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "a rozptýlím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše kosti"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "vaše kosti"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "kolem"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "vašich oltářů"
+    }
+  ],
+  "timestamp": "2026-09-17T08:38:18.956707645Z",
+  "model": "glm-5.3"
+}

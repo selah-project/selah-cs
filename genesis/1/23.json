@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A byl večer a bylo ráno — den pátý.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A byl"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a bylo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "pátý"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:40.781933326Z",
+  "model": "glm-5.3"
+}

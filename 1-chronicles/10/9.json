@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Svlékli ho a vzali ⟨את⟩ jeho hlavu a ⟨את⟩ jeho zbroj, a rozeslali ⟨to⟩ do země Pelištejců dookola, aby ⟨to⟩ zvěstovali ⟨את⟩ jejich modlám a ⟨את⟩ lidu.",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "svlékli ho"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "a vzali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho hlavu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jeho hlavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho zbroj"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jeho zbroj"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "a rozeslali"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "do země"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejců"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dookola"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "aby zvěstovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich modlám"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "jejich modlám"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "lidu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:18:39.698302567Z",
+  "model": "glm-5.3"
+}

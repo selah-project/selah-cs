@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Každé, jež má rozdvojenou kopýtku a rozštěpené kopýtko úplně, a přežvykuje, z dobytka — ⟨את⟩ ono smíte jíst.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Každé"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "má rozdvojenou"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kopýtku"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "a rozštěpené"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "štěpení"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "kopýtko"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "přežvykuje"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "zvyk"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "z dobytka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ono"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "smíte jíst"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:41.814717659Z",
+  "model": "glm-5.3"
+}

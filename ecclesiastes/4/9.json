@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Lepší ⟨jsou⟩ dva než jeden, protože mají dobrú odměnu ze své námahy.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Lepší"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "מן",
+      "gloss": "než"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "protože"
+    },
+    {
+      "surface": "יש",
+      "gloss": "mají"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨pro ně⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "odměnu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrú"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "ze své námahy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:27.406407068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 56,
+  "translation": "V Elohim chválím slovo, v Jahve chválím slovo.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "v Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "chválím"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "chválím"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:51.774464339Z",
+  "model": "glm-5.3"
+}

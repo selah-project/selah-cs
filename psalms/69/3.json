@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Ponořil jsem se v hlubokém bahně, a není ⟨kde⟩ stát; přišel jsem do hlubin vod a příliv mě zaplavil.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Ponořil jsem se"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "v"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "hlubokém bahně"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "⟨kde⟩ stát"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "přišel jsem"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "do hlubin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vod"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "a příliv"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "mě zaplavil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:34.033540949Z",
+  "model": "glm-5.3"
+}

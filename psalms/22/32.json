@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Přijdou a vyhlásí jeho spravedlnost lidu, který se narodí, že ⟨to⟩ učinil.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "přijdou"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "a vyhlásí"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "jeho spravedlnost"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "který se narodí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:51.134866556Z",
+  "model": "glm-5.3"
+}

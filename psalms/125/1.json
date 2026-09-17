@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 125,
+  "translation": "Píseň stoupání. Ti, kdo důvěřují v Jahve, jsou jako hora Sijón: nebude pohnuta, na věky sídlí.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stoupání"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "důvěřující"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "jako hora"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijón"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "bude pohnuta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sídlí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:34.267610564Z",
+  "model": "glm-5.3"
+}

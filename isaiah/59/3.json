@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Neboť vaše dlaně jsou znečištěny krví a vaše prsty nepravostí; vaše rty mluvily lež, váš jazyk šeptá ⟨bezprávní⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "vaše dlaně"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "jsou znečištěny"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "krví"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "a vaše prsty"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "nepravostí"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "vaše rty"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mluvily"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lež"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "váš jazyk"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "bezprávní"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "šeptá"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:18.175557401Z",
+  "model": "glm-5.3"
+}

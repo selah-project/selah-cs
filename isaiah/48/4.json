@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "Věděl jsem, že jsi tvrdý, že tvůj šíj ⟨je⟩ šlacha železná a tvé čelo měděné.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Věděl jsem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tvrdý"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "a šlacha"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "železná"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "tvůj šíj"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "a tvé čelo"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "měděné"
+    }
+  ],
+  "timestamp": "2026-09-17T08:13:31.033298508Z",
+  "model": "glm-5.3"
+}

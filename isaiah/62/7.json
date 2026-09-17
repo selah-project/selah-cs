@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "a nedávejte ⟨mu⟩ pokoj ⟨klid⟩, dokud ⟨jej⟩ neustanoví, a dokud neučiní ⟨את⟩ Jeruzalém chválou v zemi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "nedávejte"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "pokoj ⟨klid⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mu⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "neustanoví"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a dokud"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "neučiní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalém"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "chválou"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:19.733797346Z",
+  "model": "glm-5.3"
+}

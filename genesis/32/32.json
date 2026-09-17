@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A vyšlo mu slunce, když přecházel ⟨את⟩ Penuel; a ⟨on⟩ kulhal na svém stehně.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "a vyšlo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "přecházel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a ⟨on⟩"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "kulhal"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "svém stehně"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:59.551004491Z",
+  "model": "glm-5.3"
+}

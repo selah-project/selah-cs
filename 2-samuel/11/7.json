@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A přišel Urija k němu, a ptal se David na pokoj Joába, na pokoj ⟨ lidu⟩ a na pokoj války.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "A přišel"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "ptal se"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "na pokoj"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joába"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "a na pokoj"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "a na pokoj"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "války"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:05.657425178Z",
+  "model": "glm-5.3"
+}

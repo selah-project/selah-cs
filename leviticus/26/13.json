@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 26:13",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Já ⟨jsem⟩ Jahve, váš Elohim, který jsem vás vyvedl ⟨את⟩ z země egyptské, abyste jim nebyli otroky, a zlomil jsem břevna jha vašeho a vedl jsem vás ⟨את⟩ vzpřímeně.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "vyvedl jsem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vás"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptské"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "abyste nebyli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "otroky"
+    },
+    {
+      "surface": "ואשבר",
+      "gloss": "a zlomil jsem"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "břevna"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jha vašeho"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "a vedl jsem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vás"
+    },
+    {
+      "surface": "קוממיות",
+      "gloss": "vzpřímeně"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:03.589261741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Obklopily mne jako vody celý den, sevřely mne dohromady.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "obklopily mne"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jako vody"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "sevřely"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mne"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "dohromady"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:25.715670574Z",
+  "model": "glm-5.3"
+}

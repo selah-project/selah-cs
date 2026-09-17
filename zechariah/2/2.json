@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I řekl jsem k andělu, jenž ve mně mluvil: Co jsou tyto? A řekl mi: Tyto jsou rohy, které rozehnaly ⟨את⟩ Judu, ⟨את⟩ Izraele a Jeruzalém.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "I řekl jsem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "andělu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "jenž mluví"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ve mně"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "rohy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "rozehnaly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "a Jeruzalém"
+    }
+  ],
+  "timestamp": "2026-09-17T11:09:30.412543732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Mluv k synům Izraele a řekni: Vyhraďte si ⟨את⟩ města útočiště, o nichž jsem k vám mluvil rukou Mojžíše.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mluv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekni"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Vyhraďte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "města útočiště"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "útočiště"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o nichž"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "jsem mluvil"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "k vám"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    }
+  ],
+  "timestamp": "2026-09-17T07:10:30.719966748Z",
+  "model": "glm-5.3"
+}

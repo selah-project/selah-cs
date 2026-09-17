@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Jahve slyšel ⟨mou⟩ úpěnlivou prosbu, Jahve ⟨přijme⟩ mou modlitbu.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "slyšel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "upeřnlivou prosbu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "modlitbu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "přijme"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:44.954742797Z",
+  "model": "glm-5.3"
+}

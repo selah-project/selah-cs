@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Lépe je utíkat se k Jahve než doufat v člověka.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Lépe"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "je utíkat se"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "k Jahve"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "než doufat"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "v člověka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:18.924609287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Přidej vinu k jejich vině a ať nevejdou do tvé spravedlnosti.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Přidej"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vinu"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "jejich vině"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ať ne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vejdou"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "do tvé spravedlnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:31.489607670Z",
+  "model": "glm-5.3"
+}

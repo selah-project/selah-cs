@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A země byla poskvrněna, a já jsem připomenul její vinu na ní, a země vyvrhla ⟨את⟩ své obyvatele.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "a byla poskvrněna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "a já jsem připomenul"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "její vinu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na ní"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "a vyvrhla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své obyvatele"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "své obyvatele"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:27.676028173Z",
+  "model": "glm-5.3"
+}

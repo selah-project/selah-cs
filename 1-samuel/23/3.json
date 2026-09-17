@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Muži Davidovi mu řekli: Hle, my jsme zde v Judsku a bojíme se — tím spíše půjdeme-li do Keily proti šikům Pelištejců!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "řekli"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "Muži"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    },
+    {
+      "surface": "פה",
+      "gloss": "zde"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "v Judsku"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "bojíme se"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "— tím spíše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "půjdeme-li"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "do Keily"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "šikům"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejců"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:35.716115862Z",
+  "model": "glm-5.3"
+}

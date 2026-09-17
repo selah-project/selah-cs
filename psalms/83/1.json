@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 83,
+  "translation": "Píseň, žalm Asafově.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "žalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafově"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:59.920675107Z",
+  "model": "glm-5.3"
+}

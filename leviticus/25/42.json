@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Neboť moji otroci jsou ⟨oni⟩, které jsem vyvedl ⟨את⟩ z země Egyptské; nesmí se prodávat jako prodej otroka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "moji otroci"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jsou ⟨oni⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "jsem vyvedl"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "z země Egyptské"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptské"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "nesmí se prodávat"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "jako prodej"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "otroka"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:48.438883737Z",
+  "model": "glm-5.3"
+}

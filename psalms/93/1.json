@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 93,
+  "translation": "Jahve kraluje, oděl se ⟨vznešeností⟩ majestátu, oděl se Jahve silou, přepásal se; ano, pevně stojí zeměkoule, nezakolísá.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraluje"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "vznešeností"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "odel se"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "odel se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "silou"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "prepásal se"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ano"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "pevně stojí"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "zeměkoule"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "zakolísá"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:40.164057653Z",
+  "model": "glm-5.3"
+}

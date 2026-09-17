@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A ty, synu člověka, chceš soudit, chceš soudit ⟨את⟩ město krve? A dáš jí poznat ⟨את⟩ všechny její ohavnosti.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ty"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "chceš soudit"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "chceš soudit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "město krve"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "krve"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "a dáš jí poznat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny její ohavnosti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "její ohavnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T08:44:29.255921715Z",
+  "model": "glm-5.3"
+}

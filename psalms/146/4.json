@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 146,
+  "translation": "Vydechne svůj dech, vrátí se ke své zemi; v onen den zaniknou jeho záměry.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "vyjde"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "jeho dech"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "vrátí se"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "ke své zemi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "zaniknou"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "jeho záměry"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:26.148006746Z",
+  "model": "glm-5.3"
+}

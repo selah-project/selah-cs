@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 22:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A stalo se, že tvá nejvybranější údolí se naplnila válečnými vozy a jezdci ⟨se⟩ usadili ⟨kvůli⟩ bráně.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "nejvybranější"
+    },
+    {
+      "surface": "עמקיך",
+      "gloss": "tvá údolí"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "se naplnila"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "válečnými vozy"
+    },
+    {
+      "surface": "והפרשים",
+      "gloss": "a jezdci"
+    },
+    {
+      "surface": "שת",
+      "gloss": "⟨se⟩ usadili"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "usadili se"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "⟨kvůli⟩ bráně"
+    }
+  ],
+  "timestamp": "2026-09-17T11:45:26.575335798Z",
+  "model": "glm-5.3"
+}

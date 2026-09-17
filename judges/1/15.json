@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekla mu: Dej mi dar, nebo jsi mi dal zemi Negev; dej mi tedy i zdroje vody. A dal jí Kalebj ⟨את⟩ zdroje horní i ⟨את⟩ zdroje dolní.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "dej"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "jsi mi dal"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "dej tedy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "zdroje"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zdroje horní"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "zdroje"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "horní"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zdroje dolní"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "zdroje"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "dolní"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:41.474553261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 24:3",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "David je rozdělil s Cádokem z synů Elázarových a s Achímelekem z synů Itamarových, podle jejich služebního zařazení při jejich službě.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "rozdělil je"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "s Cádokem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elázarových"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "a s Achímelekem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamarových"
+    },
+    {
+      "surface": "לפקדתם",
+      "gloss": "podle jejich zařazení"
+    },
+    {
+      "surface": "בעבדתם",
+      "gloss": "při jejich službě"
+    }
+  ],
+  "timestamp": "2026-09-17T10:22:14.096763750Z",
+  "model": "glm-5.3"
+}

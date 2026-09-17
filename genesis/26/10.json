@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 26:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A řekl Abímelek: „Co jsi nám to udělal? Skoro už lehl jeden z ⟨toho⟩ lidu s ⟨את⟩ tvou ženou — a byl bys uvedl na nás vinu.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abímelek"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi udělal"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "skoro"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ležel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "העם",
+      "gloss": "z ⟨toho⟩ lidu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou ženou"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "tvou ženou"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "a byl bys uvedl"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na nás"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "vinu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:12.106503156Z",
+  "model": "glm-5.3"
+}

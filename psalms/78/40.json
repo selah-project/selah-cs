@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Jak často se mu vzpírali na poušti, trápili ho v pustině!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "jak často"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "vzpírali se mu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "trápili ho"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "v pustině"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:39.168252670Z",
+  "model": "glm-5.3"
+}

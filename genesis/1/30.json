@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 1:30",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "„A ⟨את⟩ celé zelené byliny jsem dal všemu dravci země a všemu ptactvu nebes i všemu, co se plazí po zemi, v čemž je živá duše — za pokrm.“ A stalo se tak.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "A všemu"
+    },
+    {
+      "surface": "חית",
+      "gloss": "dravci"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "a všemu"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactvu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "i všemu"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "co se plazí"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v čemž"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duše"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "živá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celé zelené byliny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "zelené"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "byliny"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "za pokrm"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:22.979652007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 140,
+  "translation": "Střež mě, Jahve, před rukama zlého, před mužem násilí chraň mě — ti, kteří zamýšleli svrhnout kroky mé.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Střež mě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "před rukama"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zlého"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "před mužem"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "násilí"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "chraň mě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "zamýšleli"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "svrhnout"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "kroky mé"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:47.805009570Z",
+  "model": "glm-5.3"
+}

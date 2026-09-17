@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Jestliže opustíte ⟨את⟩ Jahve a budete sloužit cizím bohům, obrátí se a uškodí vám a zničí ⟨את⟩ vás poté, co vám prokázal dobré.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "opustíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "a budete sloužit"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bohům"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "cizím"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "obrátí se"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "a uškodí"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "a zničí"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poté, co"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "prokázal dobré"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:34.076244243Z",
+  "model": "glm-5.3"
+}

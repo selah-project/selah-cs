@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Nevymění ⟨את⟩ jej, dobré za zlé ani zlé za dobré; a jestliže skutečně vymění zvíře za zvíře, ⟨i ono⟩ a jeho náhrada ⟨bude⟩ svaté.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "vymění jej"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "změní"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "za zlé"
+    },
+    {
+      "surface": "או",
+      "gloss": "anebo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlé"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "za dobré"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "המר",
+      "gloss": "skutečně vymění"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "vymění"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "zvíře"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "za zvíře"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a ⟨stane se to, že⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "a jeho náhrada"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svaté"
+    }
+  ],
+  "timestamp": "2026-09-17T13:08:54.245061499Z",
+  "model": "glm-5.3"
+}

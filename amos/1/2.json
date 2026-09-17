@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekl: Jahve ze Siónu zařve a z Jeruzaléma vydá svůj hlas; a truchlit budou pastviny pastýřů a zvadne vrcholek Karmelu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ze Siónu"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "zařve"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "a z Jeruzaléma"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "vydá"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "truchlit budou"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "pastviny"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pastýřů"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "zvadne"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vrcholek"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmelu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:59:44.962330278Z",
+  "model": "glm-5.3"
+}

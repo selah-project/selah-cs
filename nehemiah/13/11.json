@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A hádal jsem s ⟨את⟩ předními, a řekl jsem: Proč je opuštěn dům ⟨Elohim⟩? A shromáždil jsem je a postavil jsem je na jejich stanoviště.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "a hádal jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "předními"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "předními"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "a řekl jsem"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "proč"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "je opuštěn"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨Elohim⟩"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "a shromáždil jsem je"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "a postavil jsem je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "jejich stanoviště"
+    }
+  ],
+  "timestamp": "2026-09-17T10:14:28.112234911Z",
+  "model": "glm-5.3"
+}

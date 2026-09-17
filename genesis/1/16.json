@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A udělal Elohim ⟨את⟩ dvě světla veliká: ⟨את⟩ světlo veliké k vládě nad dnem, a ⟨את⟩ světlo menší k vládě nad nocí — a ⟨את⟩ hvězdy.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dvě světla veliká"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "světla"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "veliká"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "světlo veliké"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "k vládě nad"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "světlo menší"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "menší"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "k vládě nad"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nocí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "hvězdy"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "hvězdy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:29.051365489Z",
+  "model": "glm-5.3"
+}

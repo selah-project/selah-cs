@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 93,
+  "translation": "Nad hluky vod mnohých, nad mohutnými vlnobitími moře — mohutný na výsostech ⟨je⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "nad hluky"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vod"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnohých"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "mohutnými"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "vlnobitími"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mohutný"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "na výsostech"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:40.164680689Z",
+  "model": "glm-5.3"
+}

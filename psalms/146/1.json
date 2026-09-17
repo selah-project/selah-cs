@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 146,
+  "translation": "Chvalte Jaha! Chval, má duše, ⟨את⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chvalte"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "Chval"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše má"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:26.147501892Z",
+  "model": "glm-5.3"
+}

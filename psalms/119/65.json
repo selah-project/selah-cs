@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Dobré jsi ⟨učinil⟩ se svým sluhou, Jahve, podle svého slova.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Dobré"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi ⟨učinil⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "se"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svým sluhou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "podle svého slova"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:07.314680853Z",
+  "model": "glm-5.3"
+}

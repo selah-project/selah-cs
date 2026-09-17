@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "desetinu a desetinu pro každého ⟨jednoho⟩ beránka, pro těch sedm beránků.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "desetinu"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "a desetinu"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "pro beránka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "každého ⟨jednoho⟩"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "pro těch sedm"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "beránků"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:27.435118891Z",
+  "model": "glm-5.3"
+}

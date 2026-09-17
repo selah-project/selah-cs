@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A bylo jich podle svých čeledí sečteno tři tisíce a dvě stě.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "A bylo"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "jich sečteno"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle svých čeledí"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisíce"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "a dvě stě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:54.919387037Z",
+  "model": "glm-5.3"
+}

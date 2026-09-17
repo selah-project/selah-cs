@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Řekl jsem Jahvovi: „Adonaj jsi ty, ⟨a⟩ mé dobro ⟨není⟩ nad tebou ⟨samo od sebe⟩.“",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Řekl jsem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "mé dobro"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨není⟩"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:15.928064072Z",
+  "model": "glm-5.3"
+}

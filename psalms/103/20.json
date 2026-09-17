@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Žehnejte Jahvemu, jeho andělé, hrdinové síly, konající jeho slovo, poslouchajíce hlas jeho slova!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Žehnejte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "jeho andělé"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "hrdinové"
+    },
+    {
+      "surface": "כח",
+      "gloss": "síly"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "konající"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jeho slovo"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "poslouchajíce"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jeho slova"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:04.253177458Z",
+  "model": "glm-5.3"
+}

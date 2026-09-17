@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Neboť jméno Jahve vyhlásím, přikažte velikost našemu Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "vyhlásím"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "přikažte"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "velikost"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "našemu Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:27.011757264Z",
+  "model": "glm-5.3"
+}

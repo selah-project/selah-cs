@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 10:7",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A stalo se, když přišel k nim ⟨ten⟩ dopis, že vzali ⟨את⟩ syny ⟨těho⟩ krále a pobili sedmdesát mužů a vložili ⟨את⟩ jejich hlavy do košů a poslali k němu do Jizreelu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "když přišel"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "⟨ten⟩ dopis"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k nim"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "vzali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny krále"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨těho⟩ krále"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "pobili"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sedmdesát"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "vložili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich hlavy"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "jejich hlavy"
+    },
+    {
+      "surface": "בדודים",
+      "gloss": "do košů"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "a poslali"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "do Jizreelu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:55:27.352559368Z",
+  "model": "glm-5.3"
+}

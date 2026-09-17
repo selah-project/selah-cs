@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A nyní, můj otec vás zatížil těžkým jhem, já však přidám na vašem jhu: můj otec vás trestal ⟨אתכם⟩ biči, já vás budu trestat ⟨אתכם⟩ štíry.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "můj otec"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "zatížil"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "vás"
+    },
+    {
+      "surface": "על",
+      "gloss": "jhem"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "těžkým"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "já však"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "přidám"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "vašem jihu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "můj otec"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "trestal"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "biči"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "biči"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "já"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "budu trestat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "štíry"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "štíry"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:23.907710626Z",
+  "model": "glm-5.3"
+}

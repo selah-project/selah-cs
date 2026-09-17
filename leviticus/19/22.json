@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 19:22",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A kněz vykoná za něj smíření beranem oběti za vinu před tváří Jahve kvůli jeho hříchu, který spáchal, a bude mu odpuštěno od jeho hříchu, který spáchal.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "vykoná smíření"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "za něj"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "beranem"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "oběti za vinu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "jeho hříchu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "spáchal"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "a bude odpuštěno"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "od jeho hříchu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "spáchal"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:28.558889809Z",
+  "model": "glm-5.3"
+}

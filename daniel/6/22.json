@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Tehdy Daniel promluvil s králem: Králi, žij navěky!",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "tehdy"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "králem"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Králi"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "žij"
+    }
+  ],
+  "timestamp": "2026-09-17T10:06:07.500117184Z",
+  "model": "glm-5.3"
+}

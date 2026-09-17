@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Ale moji bratři, kteří vystoupili se mnou, rozpustili ⟨את⟩ srdce lidu; já však jsem plně následoval Jahve, svého Elohim.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "ale moji bratři"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "vystoupili"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "rozpustili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdce"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "já však"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "jsem plně následoval"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "svého Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T07:08:51.559932128Z",
+  "model": "glm-5.3"
+}

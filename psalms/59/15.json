@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Ať se vrátí ⟨k⟩ večer, ať řvou jako pes a obcházejí ⟨celé⟩ město.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ať se vrátí"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "k večeru"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ať řvou"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "jako pes"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ať obcházejí"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:05.741183761Z",
+  "model": "glm-5.3"
+}

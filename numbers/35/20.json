@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A jestliže z nenávisti jej strčí, nebo na něj něco hodí z úkrytu a ⟨tím⟩ zemře —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "z nenávisti"
+    },
+    {
+      "surface": "יהדפנו",
+      "gloss": "jej strčí"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "hodí"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "בצדיה",
+      "gloss": "z úkrytu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:13.856028448Z",
+  "model": "glm-5.3"
+}

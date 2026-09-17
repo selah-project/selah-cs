@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "I řekl Jahve Mojžíšovi: Vezmi ⟨את⟩ všechny náčelníky lidu a vystav ⟨את⟩ je Jahvi naproti slunci, a odvrátí se plamen hněvu Jahve od Izraele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Vezmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny náčelníky lidu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "náčelníky"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "a vystav"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "Jahvi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunci"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a odvrátí se"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "plamen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "od Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:11.813255370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 18:23",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Buď jak buď, poběžím. A ⟨Joáb⟩ mu řekl: Běž. A Achimaas běžel cestou ⟨ přes ⟩ údolí a předběhl ⟨את⟩ Kušitu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Buď"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak buď"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "poběžím"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "Běž"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "běžel"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaas"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "údolí\/pláně"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "předběhl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kušitu"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "Kušitu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:01.952763008Z",
+  "model": "glm-5.3"
+}

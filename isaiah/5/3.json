@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A nyní, obyvatelé Jeruzaléma a muži Judovi, rozsuďte, prosím, mezi mnou a mou vinicí.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "obyvatelé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a muži"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovi"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "rozsuďte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mezi mnou"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "mou vinicí"
+    }
+  ],
+  "timestamp": "2026-09-17T08:03:23.278113986Z",
+  "model": "glm-5.3"
+}

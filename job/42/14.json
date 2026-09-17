@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A nazval jméno první Jemíma, jméno druhé Kecíja a jméno třetí Kerén-Hapúch.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "A nazval"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "první"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "Jemíma"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "druhé"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "Kecíja"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "třetí"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Kerén"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "Hapúch"
+    }
+  ],
+  "timestamp": "2026-09-17T09:53:54.563201384Z",
+  "model": "glm-5.3"
+}

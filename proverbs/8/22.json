@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 8:22",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Jahve mě stvořil jako počátek své cesty, před svými skutky ⟨ještě⟩ od dávna",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קנני",
+      "gloss": "mě stvořil"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "jako počátek"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "své cesty"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "před"
+    },
+    {
+      "surface": "מפעליו",
+      "gloss": "svými skutky"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "od dávna"
+    }
+  ],
+  "timestamp": "2026-09-17T09:37:17.789447483Z",
+  "model": "glm-5.3"
+}

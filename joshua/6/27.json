@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A byl Jahve s Jóšou ⟨את⟩ a jeho pověst byla ⟨roznesena⟩ v celé zemi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A byl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "s ⟨את⟩",
+      "marks": "Jóšou"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšou"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a byla"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "jeho pověst"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "v celé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:06:29.015337280Z",
+  "model": "glm-5.3"
+}

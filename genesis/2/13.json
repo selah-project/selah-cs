@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A jméno druhé řeky ⟨je⟩ Gichon; to je ta, která obíhá ⟨את⟩ celou zemi Kuš.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "A jméno"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "řeky"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhé"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "ta, která obíhá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celou zemi Kuš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemí"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuš"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:00.954171989Z",
+  "model": "glm-5.3"
+}

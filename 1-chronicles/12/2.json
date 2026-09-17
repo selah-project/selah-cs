@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "lučištníci, používající pravou i levou ruku, kameny a šípy ⟨z⟩ luku, z bratří Šaulových, z Benjamína.",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "lučištníci"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "⟨luku⟩"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "používající pravou"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "i levou ruku"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "a šípy"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "⟨z⟩ luku"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "z bratří"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulových"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "z Benjamína"
+    }
+  ],
+  "timestamp": "2026-09-17T10:18:48.379645501Z",
+  "model": "glm-5.3"
+}

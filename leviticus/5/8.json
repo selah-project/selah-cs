@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "a přivede ⟨את⟩ je ke knězi; ten přiblíží ⟨את⟩ to, co slouží za oběť za hřích, jako první, a ulomí ⟨את⟩ jeho hlavu od zadní strany šíje — a nerozdělí ji ⟨od těla⟩.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "a přivede"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "knězi"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "přiblíží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co slouží za oběť za hřích"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za oběť za hřích"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "jako první"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "a ulomí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho hlavu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jeho hlavu"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "od zadní strany"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "jeho šíje"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "rozdělí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:30:28.727132340Z",
+  "model": "glm-5.3"
+}

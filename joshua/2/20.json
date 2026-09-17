@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Ale vyzradíš-li ⟨את⟩ tento náš úkol, budeme zbaveni viny z tvé přísahy, kterou jsi nás přisahat nechala.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ale vyzradíšli"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "vyzradíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento náš úkol"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "náš úkol"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "budeme"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "zbaveni viny"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "z tvé přísahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "nás přisahat nechala"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:38.314771695Z",
+  "model": "glm-5.3"
+}

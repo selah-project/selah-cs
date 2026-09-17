@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A Šaul přišel až k ⟨městu⟩ Amaleka a nastražil léčku v údolí.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨městu⟩"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "nastražil léčku"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "v údolí"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:19.916716763Z",
+  "model": "glm-5.3"
+}

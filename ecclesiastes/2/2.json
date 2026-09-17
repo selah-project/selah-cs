@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "O smíchu jsem řekl: ⟨Je⟩ šílenství; a o radosti: Co to ⟨dokonává⟩?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "O smíchu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jsem řekl"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "šílenství (blouzní)"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "a o radosti"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "činí"
+    }
+  ],
+  "timestamp": "2026-09-17T11:19:47.846700331Z",
+  "model": "glm-5.3"
+}

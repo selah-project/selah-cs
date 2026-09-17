@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Vzala ⟨את⟩ mísu a vyložila ⟨to⟩ před něj, ale on odmítl jíst. Amnon řekl: „Vyveďte každého muže ode mne!“ A vyšel každý muž z jeho blízkosti.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "vzala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mísu"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "mísu"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "vyložila"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "odmítl"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "vyveďte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "z jeho blízkosti"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:06.001216979Z",
+  "model": "glm-5.3"
+}

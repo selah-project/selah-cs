@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Neboť své vzpoury znám, a můj hřích je stále přede mnou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "své vzpoury"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "znám"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "a můj hřích"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:34.246046206Z",
+  "model": "glm-5.3"
+}

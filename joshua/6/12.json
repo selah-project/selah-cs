@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A vstal Jóšua časně ráno a kněží pozvedli ⟨את⟩ Aronu Jahve.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "a vstal časně"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "a pozvedli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aronu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aronu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:03.426117579Z",
+  "model": "glm-5.3"
+}

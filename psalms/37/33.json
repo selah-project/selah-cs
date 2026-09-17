@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Jahve ho neopustí v jeho ruce a nezprohlásí vinným, když bude souzen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "opustí ho"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "v jeho ruce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "zprohlásí vinným"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "když bude souzen"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:57.378734167Z",
+  "model": "glm-5.3"
+}

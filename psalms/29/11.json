@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Jahve dá sílu svému lidu; Jahve požehná ⟨את⟩ svůj lid pokojem.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sílu"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "svému lidu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "požehná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj lid"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "pokojem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:10.514177536Z",
+  "model": "glm-5.3"
+}

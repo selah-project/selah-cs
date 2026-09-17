@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "A řekl: Já jsem ⟨El⟩, Elohim tvého otce. Neboj se sestoupit do Egypta, neboť tam z tebe učiním velký národ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Já"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨El⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvého otce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "sestoupit"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "národ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velký"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "z tebe učiním"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:02.043874161Z",
+  "model": "glm-5.3"
+}

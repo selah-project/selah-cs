@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A vyšel Hatach k Mordokajovi, na prostranství města, které ⟨je⟩ před branou krále.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokajovi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "prostranství"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "שער",
+      "gloss": "branou"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:52.615520589Z",
+  "model": "glm-5.3"
+}

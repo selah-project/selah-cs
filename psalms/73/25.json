@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "Kdo ⟨je⟩ mi v nebesích? A s tebou ⟨na⟩ zemi nežádal jsem <nikoho>.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "v nebesích"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "a s tebou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "žádal jsem"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:08.251668341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 124,
+  "translation": "Pomoc naše ⟨je⟩ ve jménu Jahve, tvůrce nebes i země.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Pomoc naše"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ve jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "tvůrce"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "i země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:50.701600530Z",
+  "model": "glm-5.3"
+}

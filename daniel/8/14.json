@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A řekl mi: Až do večera ⟨a⟩ rána — dva tisíce tři sta — a svatyně bude ⟨znovu⟩ ospravedlněna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večera"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rána"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dva tisíce"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "a tři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "a bude ospravedlněna"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatyně"
+    }
+  ],
+  "timestamp": "2026-09-17T10:05:33.633657710Z",
+  "model": "glm-5.3"
+}

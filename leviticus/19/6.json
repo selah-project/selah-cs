@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "V den vaší oběti bude snězen a následujícího dne; co zůstane do třetího dne, ohněm bude spáleno.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "vaší oběti"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bude snězen"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "a následujícího dne"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "a co zůstane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "třetího"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "bude spáleno"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:44.271404405Z",
+  "model": "glm-5.3"
+}

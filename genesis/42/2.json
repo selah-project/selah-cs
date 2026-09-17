@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A řekl: Hle, slyšel jsem, že je obilí v Egyptě. Sestupte tam a nakupte nám odtud, abychom živi byli a nezemřeli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "slyšel jsem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "obilí"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Egyptě"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "sestupte"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "a nakupte"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "abychom živi byli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "zemřeli"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:17.291818740Z",
+  "model": "glm-5.3"
+}

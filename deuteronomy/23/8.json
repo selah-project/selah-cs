@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Nebudeš cítit ohavu k Edomci, neboť ⟨je⟩ tvůj bratr; nebudeš cítit ohavu k Egypťanovi, neboť jsi byl hostem v jeho zemi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "budeš cítit ohavu"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "k Edomci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvůj bratr"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩ on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "budeš cítit ohavu"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "k Egypťanovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גר",
+      "gloss": "hostem"
+    },
+    {
+      "surface": "היית",
+      "gloss": "jsi byl"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "v jeho zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:18.256560957Z",
+  "model": "glm-5.3"
+}

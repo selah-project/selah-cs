@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "A plakal jsem, když postila se duše má, a ⟨to⟩ se mi stalo za potupu.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "A plakal jsem"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "když postila se"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše má"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a ⟨to⟩ se stalo"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "za potupu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:57.681192749Z",
+  "model": "glm-5.3"
+}

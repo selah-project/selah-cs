@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Kdo ubije člověka a ⟨ten⟩ zemře, jistě bude usmrcen.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Kdo ubije"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a zemře"
+    },
+    {
+      "surface": "מות",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bude usmrcen"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:41.913118787Z",
+  "model": "glm-5.3"
+}

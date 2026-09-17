@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Jahve, vyslyš moji modlitbu, a mé volání k tobě ⟨ať⟩ přijde.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "vyslyš"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "moji modlitbu"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "a mé volání"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "⟨ať⟩ přijde"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:26.161178824Z",
+  "model": "glm-5.3"
+}

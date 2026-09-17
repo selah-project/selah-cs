@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "V roce smrti krále Uzijáhu jsem viděl ⟨את⟩ Adonaje, jak sedí na trůnu vysokém a vyvýšeném, a lem ⟨jeho⟩ roucha naplňoval ⟨את⟩ chrám.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "V roce"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uzijáhu"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "jsem viděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonaje"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sedí"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "trůnu"
+    },
+    {
+      "surface": "רם",
+      "gloss": "vysokém"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "a vyvýšeném"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "a lem jeho roucha"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "naplňoval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chrám"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "chrám"
+    }
+  ],
+  "timestamp": "2026-09-17T08:03:25.553813411Z",
+  "model": "glm-5.3"
+}

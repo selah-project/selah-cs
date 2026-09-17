@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Nevydávej se na pole a na cestu nechoď, neboť meč ⟨má⟩ nepřítel, děs všude kolem.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "nevydávej se"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "na pole"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "a na cestu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "nechoď"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "nepřítel"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "děs"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "všude kolem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:20:08.798415919Z",
+  "model": "glm-5.3"
+}

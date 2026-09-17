@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Spravedlivý jí k nasycení své nefše, ale břicho bezbožných postrádá.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Spravedlivý"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jí"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "k nasycení"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "své nefše"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "ale břicho"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "postrádá"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:12.931790044Z",
+  "model": "glm-5.3"
+}

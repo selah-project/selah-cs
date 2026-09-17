@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A ty přikažeš ⟨את⟩ synům Izraele, a přinesou tobě olej olivový čistý, mlácený, pro světlo, k neustálému rozsvěcování lampy.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "přikažeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synům Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "a přinesou"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olivový"
+    },
+    {
+      "surface": "זך",
+      "gloss": "čistý"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "mlácený"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "pro světlo"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "k rozsvěcování"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampy"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neustálému"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:43.380861893Z",
+  "model": "glm-5.3"
+}

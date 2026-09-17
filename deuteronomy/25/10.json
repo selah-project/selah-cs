@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "a jeho jméno bude v Izraeli nazváno: Dům toho, komu byl stažen sandál.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "a bude nazváno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Izraeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "tomu, komu byl stažen"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "sandál"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:02.871292952Z",
+  "model": "glm-5.3"
+}

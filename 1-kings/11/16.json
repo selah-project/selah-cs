@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Neboť šest měsíců bydlil tam Joáb a celý Izrael, dokud nevyhladil každého samce v Edomu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "šest"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "měsíců"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bydlil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "nevyhladil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samce"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "v Edomu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:18.416972442Z",
+  "model": "glm-5.3"
+}

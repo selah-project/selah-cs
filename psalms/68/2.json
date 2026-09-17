@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Vznech se Elohim, ať se rozprchnou jeho nepřátelé, ať prchají ti, kdo ho nenávidí, před jeho tváří.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "vznech se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "ať se rozprchnou"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "jeho nepřátelé"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "ať prchají"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "ti, kdo ho nenávidí"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "před jeho tváří"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:35.760077873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Stalo se na konci dvaceti let, v nichž Šalomoun stavěl ⟨את⟩ dům Jahveův a ⟨את⟩ dům svůj.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na konci"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvaceti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v nichž"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "stavěl"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům Jahveův"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dům svůj"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "dům svůj"
+    }
+  ],
+  "timestamp": "2026-09-17T10:26:17.105880282Z",
+  "model": "glm-5.3"
+}

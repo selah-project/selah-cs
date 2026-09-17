@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "I Jicchak zavolal Jákoba a požehnal ⟨את⟩-ho a přikázal mu a řekl mu: Nevezmeš ženu z dcer Kenaanu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "zavolal"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jicchak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobovi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "požehnal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ho",
+      "marks": "Jákoba"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "přikázal mu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vezmeš"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "z dcer"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:27.772023243Z",
+  "model": "glm-5.3"
+}

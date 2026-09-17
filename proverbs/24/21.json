@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Boj se, synu, ⟨את⟩ Jahve a krále; s měnlivými se nemíchej.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "Boj se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "a krále"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "měnlivými"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "míchej se"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:58.264744049Z",
+  "model": "glm-5.3"
+}

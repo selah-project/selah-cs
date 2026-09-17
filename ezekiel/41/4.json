@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "A změřil ⟨את⟩ jeho délku, dvacet loket, a šířku dvacet loket před ⟨tváří⟩ chrámu; a řekl mi: „Toto je svatyně svatých.“",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "a změřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho délku"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "jeho délku"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "loket"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "a šířku"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "loket"
+    },
+    {
+      "surface": "אל",
+      "gloss": "před"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "chrámu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svatých"
+    }
+  ],
+  "timestamp": "2026-09-17T13:02:16.144427255Z",
+  "model": "glm-5.3"
+}

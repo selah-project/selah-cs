@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A postavíš ⟨את⟩ oltář zápalné oběti před vchod příbytku stanu setkávání.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "postavíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltář zápalné oběti"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalné oběti"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vchod"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "příbytku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:26.368802657Z",
+  "model": "glm-5.3"
+}

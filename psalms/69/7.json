@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Nechť se neurazí kvůli mně ti, kdo v tebe doufají, Adonaji, Jahve Cevaot; nechť se nestydí kvůli mně ti, kdo tě hledají, Elohime Izraele.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nechť ne"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "se urazí"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kvůli mně"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "ti, kdo v tebe doufají"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaji"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nechť ne"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "se nestydí"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kvůli mně"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ti, kdo tě hledají"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:13.698869755Z",
+  "model": "glm-5.3"
+}

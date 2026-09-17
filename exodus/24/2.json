@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A přiblíží se Moše sám k Jahvemu, ale oni se nepřiblíží a lid s ním nevystoupí.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "A přiblíží se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sám"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ale oni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "přiblíží se"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "a lid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "vystoupí"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:46.316773636Z",
+  "model": "glm-5.3"
+}

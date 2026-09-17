@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Pokud je rozsápáno — ⟨skutečně⟩ rozsápáno —, přivede ⟨o⟩ tom svědectví; rozsápané neodškodní.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "je rozsápáno"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "skutečně rozsápáno"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "přivede je"
+    },
+    {
+      "surface": "עד",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "zbytek rozsápaného"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "odškodní"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:55.059264384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Neboť tví služebníci si oblíbili ⟨את⟩ její kameny a ⟨את⟩ její prach milují.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "si oblíbili"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "tví služebníci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její kameny"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "její kameny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "její prach"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "její prach"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "milují"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:05.851295640Z",
+  "model": "glm-5.3"
+}

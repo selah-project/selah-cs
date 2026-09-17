@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Rozťal moře a ⟨je⟩ převedl ⟨skrze⟩, a vody postavil jako hromadu.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "Rozťal"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "a ⟨je⟩ převedl ⟨skrze⟩"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jako"
+    },
+    {
+      "surface": "נד",
+      "gloss": "hromadu"
+    }
+  ],
+  "timestamp": "2026-09-17T13:08:14.988406050Z",
+  "model": "glm-5.3"
+}

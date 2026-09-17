@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A pošlu před tebou posla ⟨את⟩ Kenaance, Emorejského, Chetejského a Perizejského, Chivejského a Jebuzejského vyženu.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "pošlu"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "posel"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "vyženu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaance"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaance"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejského"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Chetejského"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perizejského"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chivejského"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Jebuzejského"
+    }
+  ],
+  "timestamp": "2026-09-17T11:56:21.999160404Z",
+  "model": "glm-5.3"
+}

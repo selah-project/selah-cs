@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A řekl Abímelek Abrahámovi: Co jsi viděl, že jsi vykonal ⟨את⟩ tuto věc?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abímelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Abrahámovi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahámovi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "jsi viděl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi vykonal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto věc"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:29.508228491Z",
+  "model": "glm-5.3"
+}

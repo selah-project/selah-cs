@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Zhnisaly, zmizely mé rány kvůli mé bláznovosti.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "zhnisaly"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "zmizely"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "mé rány"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "mé bláznovosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:04.362638717Z",
+  "model": "glm-5.3"
+}

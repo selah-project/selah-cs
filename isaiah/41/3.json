@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Pronásleduje je, projde v bezpečí, stezku nohama svými nevstoupí.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Pronásleduje je"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "projde"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "v bezpečí"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "stezku"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "nohama svými"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "vstoupí"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:34.773605662Z",
+  "model": "glm-5.3"
+}

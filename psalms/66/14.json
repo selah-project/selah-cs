@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "jež rtové moji otevřeli a mých úst mluvilo v mé tísni.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "otevřeli"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "rtové moji"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "a mluvilo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mých úst"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "v tísni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:12.691875524Z",
+  "model": "glm-5.3"
+}

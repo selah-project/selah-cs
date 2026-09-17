@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Synové Neftalího, jejich pokolení, podle jejich čeledí, podle domu jejich otců, v počtu jmen, od dvacetiletého a výše, každý vycházející k vojsku —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Neftalího"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "jejich pokolení"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle jejich čeledí"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "podle domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jejich otců"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "v počtu"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "jmen"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "od"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacetiletého"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "a výše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vycházející"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "k vojsku"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:46.554878417Z",
+  "model": "glm-5.3"
+}

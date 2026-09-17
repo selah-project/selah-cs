@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Nebesa vypravují slávu Ela, a obloha oznamuje dílo jeho rukou.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Nebesa"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "vypravují"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slávu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "a dílo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "jeho rukou"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "oznamuje"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "obloha"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:46.509407789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Všechna slova jsou únavná — nemůže člověk ⟨je⟩ vyslovit; nenasýtí se oko viděním a nenaplní se ucho slyšením.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Všechna"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "slova"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "jsou únavná"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "může"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "vyslovit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "nasýtí se"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "viděním"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "naplní se"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ucho"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "slyšením"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:03.697613305Z",
+  "model": "glm-5.3"
+}

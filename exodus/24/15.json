@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A Mojžíš vystoupil na ⟨tu⟩ horu, a oblak pokryl ⟨את⟩ ⟨tu⟩ horu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a vystoupil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨tu⟩ horu"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "a pokryl"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "oblak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨tu⟩ horu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨tu⟩ horu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:29.705127711Z",
+  "model": "glm-5.3"
+}

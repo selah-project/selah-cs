@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A Elohim se setkal s Bíl'ámem a ⟨ten⟩ mu řekl: ⟨את⟩ sedm oltářů jsem uspořádal a obětoval jsem býka a berana na oltáři.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "a setkal se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bíl'ámem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sedm oltářů"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "oltářů"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "jsem uspořádal"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "a obětoval jsem"
+    },
+    {
+      "surface": "פר",
+      "gloss": "býka"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "a berana"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "na oltáři"
+    }
+  ],
+  "timestamp": "2026-09-17T06:48:42.861646111Z",
+  "model": "glm-5.3"
+}

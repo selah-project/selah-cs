@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A Baáša uložil se s svými otci a byl pohřben v Tirci a vládl Ela, jeho syn, místo něho.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "A uložil se"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baáša"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svými otci"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a byl pohřben"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "v Tirci"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a vládl"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:51.521778208Z",
+  "model": "glm-5.3"
+}

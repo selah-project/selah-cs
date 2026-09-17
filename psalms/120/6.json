@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 120,
+  "translation": "Dlouho ⟨již⟩ bydlela má duše ⟨s⟩ tím, kdo nenávidí mír.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Dlouho \/ přespříliš"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "bydlela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨jí⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nenávidícím"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "mír"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:57.164524519Z",
+  "model": "glm-5.3"
+}

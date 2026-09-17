@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 95,
+  "translation": "Pojďme, jásejme Jahvemu, zapějme Skálu ⟨je⟩ spásy naší!",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Pojďme"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "jásejme"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "zapějme"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "Skálu"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "spásy naší"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:12.321944880Z",
+  "model": "glm-5.3"
+}

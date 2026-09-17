@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "A učinil je ⟨את⟩ předměty soucitu před všemi, kdo je odvlekli do zajetí.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "je (předměty soucitu)"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "předměty soucitu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všemi"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "kdo je odvlekli do zajetí"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:19.296889Z",
+  "model": "glm-5.3"
+}

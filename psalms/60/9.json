@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 60,
+  "translation": "Můj je Gilad a můj je Menaše, Efrajim ⟨je⟩ pevnost mé hlavy, Juda ⟨je⟩ můj zákonodárce.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "můj je"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "a můj je"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "a Efrajim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "pevnost"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mé hlavy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "můj zákonodárce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:14.344764123Z",
+  "model": "glm-5.3"
+}

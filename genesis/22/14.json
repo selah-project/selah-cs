@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 22:14",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A Abrahám nazval jméno toho místa Jahve-jire (Jahve vidí); proto se říká dodnes: Na hoře Jahve ⟨bude⟩ viděno.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nazval"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahám"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "toho místa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "vidí (jire)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "proto (kteréž)"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "se říká"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dodnes"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na hoře"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "⟨bude⟩ viděno"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:15.212669079Z",
+  "model": "glm-5.3"
+}

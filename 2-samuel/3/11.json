@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A už nemohl odpovědět Abnerovi ani slovo ⟨את⟩ Abner ⟨את⟩ ⟨ho⟩, ze strachu před ním.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a už ne"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "mohl"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už (déle)"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "odpovědět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abnerovi"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abnerovi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "ze strachu před ním"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨ho⟩",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:31.495343797Z",
+  "model": "glm-5.3"
+}

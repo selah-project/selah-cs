@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Blahoslažený ⟨ten⟩, kdo čeká a dojde k dnům tisíc třem stům třiceti pěti.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blahoslažený ⟨ten⟩, kdo"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "čeká"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "a dojde"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "k dnům"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "třem"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "stům"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třiceti"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "pěti"
+    }
+  ],
+  "timestamp": "2026-09-17T11:21:42.078380585Z",
+  "model": "glm-5.3"
+}

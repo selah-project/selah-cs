@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 75,
+  "translation": "Rozpouštějí se země i všichni její obyvatelé — já jsem vyvážil její sloupy. Séla.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "rozpouštějí se"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i všichni"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "její obyvatelé"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "vyvážil jsem"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "její sloupy"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:25.560187054Z",
+  "model": "glm-5.3"
+}

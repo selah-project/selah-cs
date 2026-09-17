@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "On ⟨je⟩ Jahve, náš Elohim, po celé zemi ⟨jsou⟩ jeho rozsudky.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "po celé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "jeho rozsudky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:57.992961962Z",
+  "model": "glm-5.3"
+}

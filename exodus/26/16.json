@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Deset loktů ⟨bude⟩ délka prkna a loket a půl lokte šířka jednoho prkna.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "loktů"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "délka"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "prkna"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a loket"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "a půl"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "lokte"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "šířka"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "prkna"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednoho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:45.612355893Z",
+  "model": "glm-5.3"
+}

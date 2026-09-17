@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Všichni odpoví a řeknou tobě: I ty jsi oslaben jako my, nám jsi přirovnán.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "odpoví"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řeknou"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "jsi oslaben"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "jako my"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "jsi přirovnán"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:10.811023298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "„Tento měsíc je vám počátkem měsíců; první ⟨to je⟩ vám z měsíců roku.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Tento měsíc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Tento"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "počátkem"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "měsíců"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "první"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to je⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "z měsíců"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "roku"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:40.408036084Z",
+  "model": "glm-5.3"
+}

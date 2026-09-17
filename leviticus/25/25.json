@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Když tvůj bratr zchudne a prodá ⟨z části⟩ svého držení, a přijde jeho vykupitel, příbuzný jemu blízký, vykoupí ⟨את⟩ to, co prodal jeho bratr.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "zchudne"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvůj bratr"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "a prodá"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "svého držení"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "a přijde"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "jeho vykupitel"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "příbuzný blízký"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "a vykoupí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co prodal jeho bratr"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "prodejší"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jeho bratra"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:00.121855363Z",
+  "model": "glm-5.3"
+}

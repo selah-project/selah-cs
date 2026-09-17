@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 22:41",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A stalo se ráno, že Balak vzal ⟨את⟩ Biláma a vyvedl ho do Výšin Bála; a viděl odtamtud ⟨konec⟩ lidu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Biláma"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Biláma"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "vyvedl ho"
+    },
+    {
+      "surface": "במות",
+      "gloss": "do Výšin"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Bála"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtamtud"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "⟨konec⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:47:43.311046139Z",
+  "model": "glm-5.3"
+}

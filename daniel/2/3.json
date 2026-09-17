@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A řekl jim král: Sen jsem snil, a můj duch se znevklidnil, abych poznal ⟨את⟩ ten sen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "jsem snil"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "a můj duch se znevklidnil"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "můj duch"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "abych poznal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ten sen"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ten sen"
+    }
+  ],
+  "timestamp": "2026-09-17T10:03:02.598563607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 86,
+  "translation": "Neboť tvůj chesed ⟨je⟩ veliký vůči mně a vysvobodil jsi mou neféš ze šeolu, z jeho hlubin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvůj chesed"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "vůči mně"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "a vysvobodil jsi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moji neféš"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "ze šeolu"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "z jeho hlubin"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:52.102383008Z",
+  "model": "glm-5.3"
+}

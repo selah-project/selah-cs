@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "⟨Tomu, který⟩ zabil krále veliké, neboť na věky ⟨trvá⟩ jeho chesed.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "⟨tomu, který⟩ zabil"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "krále"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:12.887367210Z",
+  "model": "glm-5.3"
+}

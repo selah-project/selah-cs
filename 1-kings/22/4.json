@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "I řekl Jóšafatovi: „Půjdeš ⟨את⟩ se mnou do boje na Ramot v Giládu?“ A Jóšafat řekl králi Izraele: „Jako jsem já, tak jsi ty; jako ⟨je⟩ můj lid, tak tvůj lid; jako moji koně, tak tvoji koně.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jóšafatovi"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Půjdeš"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ se mnou",
+      "marks": "se mnou"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "do boje"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "na Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "v Giládu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jóšafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "králi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "Jako jsem já"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "tak jsi ty"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "jako ⟨je⟩ můj lid"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "tak tvůj lid"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "jako moji koně"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "tak tvoji koně"
+    }
+  ],
+  "timestamp": "2026-09-17T13:11:29.622795327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "A ty jsi ⟨ten samý⟩ a tvá léta se neskončí.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "A ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ten samý⟩ jsi"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "a tvá léta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "skončí"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:49.855656006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Z tvého paláce nad Jeruzalémem tobě králové přivedou dary.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Z tvého paláce"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalémem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "přivedou"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "králové"
+    },
+    {
+      "surface": "שי",
+      "gloss": "dary"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:49.694911880Z",
+  "model": "glm-5.3"
+}

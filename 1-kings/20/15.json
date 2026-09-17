@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A přeletřil ⟨את⟩ mladíky předních provincií a bylo jich dvě stě třicet dva; a po nich přeletřil ⟨את⟩ veškerý lid, všechny syny Izraele, sedm tisíc.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "a přeletřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mladíky předních provincií"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mladíky"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "předních"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "provincií"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "a bylo jich"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dvě stě"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "a třicet"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "a po nich"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "přeletřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškerý lid, všechny syny Izraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerý"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisíc"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:48.759755058Z",
+  "model": "glm-5.3"
+}

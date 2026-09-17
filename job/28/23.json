@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Elohim rozumí ⟨její⟩ cestě, ⟨a⟩ on zná ⟨את⟩ místo její.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "rozumí"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "cestě její"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "místo její"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "místo její"
+    }
+  ],
+  "timestamp": "2026-09-17T09:50:07.391254148Z",
+  "model": "glm-5.3"
+}

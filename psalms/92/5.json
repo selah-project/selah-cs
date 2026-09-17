@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 92,
+  "translation": "Neboť jsi mě rozveselil, Jahve, svým dílem; o skutcích svých rukou zpívám.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "jsi mě rozveselil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "svým dílem"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "o skutcích"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "svých rukou"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "zpívám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:27.927233544Z",
+  "model": "glm-5.3"
+}

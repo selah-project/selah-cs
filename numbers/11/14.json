@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Nemohu já sám nést ⟨את⟩ celý tento lid, neboť je příliš těžký pro mě.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mohu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sám"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "nést"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý tento lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "těžký"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "pro mě (ode mě)"
+    }
+  ],
+  "timestamp": "2026-09-17T06:44:28.470581491Z",
+  "model": "glm-5.3"
+}

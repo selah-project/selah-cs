@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "Člověk je podobný ם prázdnotě, jeho dny jsou jako stín, který přechází.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Člověk"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "prázdnotě"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "je podobný"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jeho dny"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "jako stín"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "který přechází"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:55.729832068Z",
+  "model": "glm-5.3"
+}

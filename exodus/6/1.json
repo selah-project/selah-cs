@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "I řekl Jahve Mojžíšovi: Nyní uvidíš, co učiním faraónovi, neboť silnou rukou je pošle ⟨ven⟩ a silnou rukou je vyžene ze své země.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi (k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uvidíš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "učiním"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "silnou rukou (v ruce)"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "silnou"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "je pošle"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "a silnou rukou (v ruce)"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "silnou"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "je vyžene"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ze své země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:52.237436965Z",
+  "model": "glm-5.3"
+}

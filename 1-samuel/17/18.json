@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A ⟨את⟩ těchto deset plátků sýra doneseš veliteli tisíce, a ⟨את⟩ své bratry navštívíš ⟨kvůli⟩ pokoji, a ⟨את⟩ jejich zástavu vezmeš.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "těchto deset plátků sýra"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "deset"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "plátků sýra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "sýra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "doneseseš"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "veliteli"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "tisíce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "své bratry"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "své bratry"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "navštívíš"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "pokoji"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jejich zástavu"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "jejich zástavu"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vezmeš"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:14.239859901Z",
+  "model": "glm-5.3"
+}

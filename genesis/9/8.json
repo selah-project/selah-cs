@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A řekl Elohim Noachovi a jeho synům ⟨s⟩ ním ⟨אתו⟩ takto:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachovi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ⟨k⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synům"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "s ním"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:03.931920114Z",
+  "model": "glm-5.3"
+}

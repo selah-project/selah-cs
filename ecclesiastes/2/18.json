@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A nenáviděl jsem já ⟨את⟩ veškerou svou námahu, kterou se namáhám pod sluncem, že ji mám zanechat člověku, který bude po mně.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "nenáviděl jsem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškerou svou námahu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "svou námahu"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "kterou já"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "se namáhám"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sluncem"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "že ji mám zanechat"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "člověku"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "který bude"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "po mně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:56.904849536Z",
+  "model": "glm-5.3"
+}

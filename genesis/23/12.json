@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A sklonil se Abraham před lidem ⟨té⟩ země.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "A sklonil se"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lidem"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨té⟩ země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:26.860246137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 122,
+  "translation": "Píseň výstupů, Davidova. Těšil jsem se, když mi řekli: Do domu Jahveova půjdeme.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "výstupů"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Těšil jsem se"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "když řekli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "půjdeme"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:37.295350915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 120,
+  "translation": "Co ti dá, co ti přidá, jazyku klamný?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ti dá"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "přidá"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jazyku"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "klamný"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:49.439183080Z",
+  "model": "glm-5.3"
+}

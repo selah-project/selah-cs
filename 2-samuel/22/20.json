@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A vyvedl ⟨mě⟩ ⟨את⟩ na šíré místo, vysvobodil ⟨mě⟩, neboť si ve mně zalíbil.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "A vyvedl"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "na šíré místo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "⟨mě⟩"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "vysvobodil ⟨mě⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "si zalíbil"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ve mně"
+    }
+  ],
+  "timestamp": "2026-09-17T07:39:53.700363128Z",
+  "model": "glm-5.3"
+}

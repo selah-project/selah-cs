@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A když se muži přou a jeden udeří ⟨את⟩ svého druha kamenem nebo pěstí, ale ⟨ten⟩ nezemře, jen upadne do lože ⟨na lůžko⟩,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "A když"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "se přou"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "muži"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "a udeří"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého druha"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svého druha"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "kamenem"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "pěstí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "jen upadne"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "do lože"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:13.364182650Z",
+  "model": "glm-5.3"
+}

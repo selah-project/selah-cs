@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 26:15",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Pohleď ze svého svatého příbytku, z nebe, a požehnej ⟨את⟩ svému lidu, ⟨את⟩ Izraeli, a ⟨את⟩ zemi, kterou jsi nám dal, jak jsi přisáhl našim otcům — zemi tekoucí mlékem a medem.",
+  "tokens": [
+    {
+      "surface": "השקיפה",
+      "gloss": "Pohleď"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "ze svého příbytku"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "svatého"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebe"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "a požehnej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svému lidu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svému lidu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "jsi dal"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "jsi přisáhl"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "naším otcům"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "tekoucí"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mlékem"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "a medem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:10.181729426Z",
+  "model": "glm-5.3"
+}

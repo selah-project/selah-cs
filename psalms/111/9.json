@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 111,
+  "translation": "Vykoupení poslal svému lidu, na věčnost ustanovil svou smlouvu; svaté a hrozné ⟨je⟩ jeho Jméno.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "Vykoupení"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "svému lidu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ustanovil"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věčnost"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "svou smlouvu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svaté"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "a hrozné"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho Jméno"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:57.331375299Z",
+  "model": "glm-5.3"
+}

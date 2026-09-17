@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 19:20",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A ⟨pokud⟩ muž leží s ⟨את⟩ ženou ložem semene, a ⟨ta⟩ je otrokyně zasnoubená muži, která nebyla vykoupena ani jí nebyla dána svoboda, nastane prošetření — nebudou usmrceni, neboť nebyla svobodná.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "a muž"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "leží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženou"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženou"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ložem"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "semene"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a ⟨ta⟩"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "otrokyně"
+    },
+    {
+      "surface": "נחרפת",
+      "gloss": "zasnoubená"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "a vykoupená"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebyla"
+    },
+    {
+      "surface": "נפדתה",
+      "gloss": "vykoupena"
+    },
+    {
+      "surface": "או",
+      "gloss": "ani"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "svoboda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebyla"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dána"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "בקרת",
+      "gloss": "prošetření"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nastane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "budou usmrceni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebyla"
+    },
+    {
+      "surface": "חפשה",
+      "gloss": "svobodná"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:56.831522290Z",
+  "model": "glm-5.3"
+}

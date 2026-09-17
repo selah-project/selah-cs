@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A rozřízne je ⟨את⟩ na jeho kusy, i ⟨את⟩ jeho hlavu a ⟨את⟩ jeho loj; a kněz rozmístí je ⟨את⟩ na dřeva, která jsou na ohni, který je na oltáři.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "a rozřízne"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "na jeho kusy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho hlavu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jeho hlavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho loj"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "jeho loj"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "a rozmístí"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dřeva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ohni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:29.554725226Z",
+  "model": "glm-5.3"
+}

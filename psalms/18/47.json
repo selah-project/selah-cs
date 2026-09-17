@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Živ je Jahve, a požehnaný ⟨buď⟩ má skálo, a vyvýšený ⟨buď⟩ Elohim, má spáso!",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "a požehnaný ⟨buď⟩"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "má skálo"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "a vyvýšený ⟨buď⟩"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "má spáso"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:01.806425997Z",
+  "model": "glm-5.3"
+}

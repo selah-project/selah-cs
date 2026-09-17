@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 21:6",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A synům Geršonových ⟨přišlo⟩ z rodů pokolení Isachar a z pokolení Ašer a z pokolení Neftalím a z poloviny pokolení Menaše v Basánu losem třináct měst.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "a synům"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Geršonových"
+    },
+    {
+      "surface": "ממשפחות",
+      "gloss": "z rodů"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Isachar"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "a z pokolení"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ašer"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "a z pokolení"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Neftalím"
+    },
+    {
+      "surface": "ומחצי",
+      "gloss": "a z poloviny"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "v Basánu"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "losem"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "měst"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "náct"
+    }
+  ],
+  "timestamp": "2026-09-17T07:10:42.640776464Z",
+  "model": "glm-5.3"
+}

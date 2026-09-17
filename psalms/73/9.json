@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "Postavili svá ústa ⟨proti⟩ nebesům a jejich jazyk chodí po zemi.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "Postavili"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨proti⟩ nebesům"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "svá ústa"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "a jejich jazyk"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "chodí"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:09.278294434Z",
+  "model": "glm-5.3"
+}

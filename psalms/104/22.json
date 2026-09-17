@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Když vzejde slunce, shromáždí se a ve svých doupatech se skládají k odpočinku.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "vzejde"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "shromáždí se"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ve"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "svých doupatech"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "skládají se k odpočinku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:02.468436624Z",
+  "model": "glm-5.3"
+}

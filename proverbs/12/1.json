@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Kdo miluje kázeň, miluje poznání; kdo však nenávidí výtku, je hrubý ⟨jako dobytek⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "miluje"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kázeň"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miluje"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "poznání"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "však nenávidí"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "výtku"
+    },
+    {
+      "surface": "בער",
+      "gloss": "je hrubý"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:56.822460736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 150,
+  "translation": "Chvalte ho pro jeho mocné činy, chvalte ho podle množství jeho velikosti!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Chvalte ho"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "pro jeho mocné činy"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chvalte ho"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "podle množství"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "jeho velikosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:11.362177601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 9:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A já ustanovím svou smlouvu ⟨את⟩ s ⟨את⟩ vámi, aby už nebylo vyhlazeno žádné tělo vodami potopy a aby už nikdy nebyla potopa ke zkáze ⟨the⟩ země.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "a já ustanovím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou smlouvu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svou smlouvu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ s vámi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "bylo vyhlazeno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "žádné"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tělo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "vodami"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potopy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "byla"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už nikdy"
+    },
+    {
+      "surface": "מבול",
+      "gloss": "potopa"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ke zkáze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:34.904036948Z",
+  "model": "glm-5.3"
+}

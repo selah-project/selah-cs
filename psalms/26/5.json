@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Nenáviděl jsem shromáždění ⟨zlých⟩ činů, a s bezbožnými neusednu.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "nenáviděl jsem"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "⟨zlých⟩ činů"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a s"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožnými"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "usednu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:36.372391455Z",
+  "model": "glm-5.3"
+}

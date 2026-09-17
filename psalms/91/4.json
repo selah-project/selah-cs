@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 91,
+  "translation": "Svým peřím tě přikryje, pod křídly jeho ⟨najdeš⟩ útočiště; štít a pavéza je jeho věrnost.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Svým peřím"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "přikryje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tě"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "křídly jeho"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "⟨najdeš⟩ útočiště"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "štít"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "a pavéza"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "jeho věrnost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:32.115569249Z",
+  "model": "glm-5.3"
+}

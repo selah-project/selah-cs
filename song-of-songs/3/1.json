@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Na svém lůži v nocích hledala jsem ⟨את⟩ toho, jehož miluje má duše; hledala jsem ho, ale nenašla jsem ho.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Na"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "svém lůžku"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "v nocích"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "hledala jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toho, jehož miluje má duše"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "jehož miluje"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "hledala jsem ho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne-"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "našla jsem ho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:54:36.056794801Z",
+  "model": "glm-5.3"
+}

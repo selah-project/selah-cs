@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Vzal jsem ⟨את⟩ levity místo každého prvorozeného mezi syny Izraele.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "vzal jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levity"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levity"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "prvorozeného"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mezi syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T06:43:19.038839487Z",
+  "model": "glm-5.3"
+}

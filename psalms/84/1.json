@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 84,
+  "translation": "Vedoucímu zpěváku podle gittit, synům Korachovým, žalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Vedoucímu zpěváku"
+    },
+    {
+      "surface": "על",
+      "gloss": "podle"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gittit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachovým"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "žalm"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:25.764806549Z",
+  "model": "glm-5.3"
+}

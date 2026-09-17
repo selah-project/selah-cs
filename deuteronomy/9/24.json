@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Vzpurní jste byli s Jahvem ode dne, kdy jsem poznal ⟨את⟩ vás.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Vzpurní"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "jste byli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ode dne"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "jsem poznal"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    }
+  ],
+  "timestamp": "2026-09-17T06:55:54.071914720Z",
+  "model": "glm-5.3"
+}

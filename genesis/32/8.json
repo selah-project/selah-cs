@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "I bál se Jákob velmi a bylo úzko jemu; a rozdělil ⟨את⟩ lid, který ⟨byl⟩ ⟨את⟩ s ním, ⟨i⟩ ⟨את⟩ brav, ⟨i⟩ ⟨את⟩ skot i velbloudy na dvě tábory.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "a bál se"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "a bylo úzko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "a rozdělil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním",
+      "marks": "lid, který je s Jákobem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "brav"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "brav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "skot"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "skot"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "i velbloudy"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "na dvě"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "tábory"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:57.840173250Z",
+  "model": "glm-5.3"
+}

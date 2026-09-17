@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "kterou uťal ⟨s⟩ Abrahamem ⟨את⟩, a jeho přísahu Jicchakovi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "uťal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamem"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamem"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "a jeho přísahu"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Jicchakovi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:19:48.319428778Z",
+  "model": "glm-5.3"
+}

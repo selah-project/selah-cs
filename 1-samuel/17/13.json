@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 17:13",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A šli tři synové Jišajovi, ti velcí <starší>, šli za Šaulem do války; a jména tří jeho synů, kteří šli do války: Elíab, prvorozený, a druhý jeho Abínadab, a třetí Šama.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "a šli"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišajovi"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "velcí"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "šli"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulem"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "do války"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jména"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tří"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "šli"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "do války"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Elíab"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorozený"
+    },
+    {
+      "surface": "ומשנהו",
+      "gloss": "a druhý jeho"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abínadab"
+    },
+    {
+      "surface": "והשלשי",
+      "gloss": "a třetí"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Šama"
+    }
+  ],
+  "timestamp": "2026-09-17T07:26:06.404294940Z",
+  "model": "glm-5.3"
+}

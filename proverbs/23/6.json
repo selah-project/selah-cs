@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Nejez ⟨את⟩ chléb zlého oka a netouž po jeho lahůdkách.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "jez"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chléb"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlého"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "netouž"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "po jeho lahůdkách"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:37.127467225Z",
+  "model": "glm-5.3"
+}

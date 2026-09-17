@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A David shromáždil ⟨את⟩ celý Izrael od Šíchoru Egypta až po příchod do Chamatu, aby přivedl ⟨את⟩ archu Elohim z Kirjat-jearimu.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "shromáždil"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý Izrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Šíchoru"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "příchod"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "aby přivedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "z Kirjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-jearimu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:19:59.932067830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "I Mošej promluvil tak k synům Izraele, ale neposlechli Mošeje kvůli krátkosti dechu a kvůli tvrdé otročině.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a promluvil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošej"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale neposlechli"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "neposlechli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(kvůli)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mošejovi"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "kvůli krátkosti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "dechu"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "a kvůli otročině"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tvrdé"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:16.964465962Z",
+  "model": "glm-5.3"
+}

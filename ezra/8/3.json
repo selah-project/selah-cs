@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 8:3",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Ze synů Šechanjášových, ze synů Parošových: Zacharijáš, a s ním byl zapsán podle rodopisu mužů sto padesát.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "ze synů"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Šechanjáš"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ze synů"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Paroš"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zacharijáš"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "a s ním"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "byl zapsán podle rodopisu"
+    },
+    {
+      "surface": "לזכרים",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "a padesát"
+    }
+  ],
+  "timestamp": "2026-09-17T10:10:40.058495983Z",
+  "model": "glm-5.3"
+}

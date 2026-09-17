@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "O Šalomounovi. Elohime, své soudy dej králi a svou spravedlnost synovi krále.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "O Šalomounovi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "své soudy"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "תן",
+      "gloss": "dej"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "a svou spravedlnost"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "synovi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:43.379706755Z",
+  "model": "glm-5.3"
+}

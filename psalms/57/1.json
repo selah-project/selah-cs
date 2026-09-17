@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 57,
+  "translation": "Pro předního zpěváka, ⟨podle⟩ „Nenič!“ — Davida, michtam, když prchal před Šaulem do jeskyně.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro předního zpěváka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "„Nenič!“"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "„(Nenič!)“"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "michtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "když prchal"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaulem"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "do jeskyně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:34.457463550Z",
+  "model": "glm-5.3"
+}

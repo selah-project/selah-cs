@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Mé mlácení ⟨a⟩ synu mého humna: co jsem slyšel od ⟨את⟩ Jahvea Cevaot, Elohimova Israele, to jsem vám oznámil.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Mé mlácení"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "⟨a⟩ synu"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "mého humna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jsem slyšel"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvea Cevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "jsem oznámil"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    }
+  ],
+  "timestamp": "2026-09-17T08:05:46.042651374Z",
+  "model": "glm-5.3"
+}

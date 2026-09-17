@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "Ten, kdo vsadil ucho — což ⟨ne⟩slyší? Ten, kdo utvořil oko — což ⟨ne⟩vidí?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Ten, kdo vsadil"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ucho"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "což ⟨ne⟩"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "slyší"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ten, kdo"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "utvořil"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "což ⟨ne⟩"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "vidí"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:07.187846883Z",
+  "model": "glm-5.3"
+}

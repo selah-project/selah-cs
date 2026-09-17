@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A postavil ⟨את⟩ všechny nalezené v Jeruzalémě a Benjamínovi, a konali obyvatelé Jeruzaléma podle smlouvy Elohim, Elohim jejich otců.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny nalezené"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nalezené"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "a Benjamínovi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "konali"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "obyvatelé"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "podle smlouvy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "jejich otců"
+    }
+  ],
+  "timestamp": "2026-09-17T10:33:30.766489762Z",
+  "model": "glm-5.3"
+}

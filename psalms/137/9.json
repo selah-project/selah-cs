@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 137,
+  "translation": "Blahoslavený ⟨bude⟩ ten, kdo se chopí a roztříská ⟨את⟩ tvé nemluvňata o skálu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blahoslavený"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "kdo se chopí"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "a roztříská"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé nemluvňata"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "tvé nemluvňata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "skálu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:57.666037869Z",
+  "model": "glm-5.3"
+}

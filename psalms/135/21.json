@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Požehnán buď Jahve z Cijónu, ⟨jenž⟩ přebývá v Jeruzalémě! Halelu-Jah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Požehnán"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "z Cijónu"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "přebývá"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Halelu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:55.801872744Z",
+  "model": "glm-5.3"
+}

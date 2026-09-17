@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Odejděte ode mne, všichni činitelé ničemnosti, neboť Jahve slyšel hlas mého pláče.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Odejděte"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "činitelé"
+    },
+    {
+      "surface": "און",
+      "gloss": "ničemnosti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyšel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "mého pláče"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:44.954562242Z",
+  "model": "glm-5.3"
+}

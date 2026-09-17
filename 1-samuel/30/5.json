@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A obě ženy Davidovy byly zajaty — Achinoam Jizreelitka a Abigail, žena Nábala Karmelitka.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "a obě"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovy"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "byly zajaty"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Achinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "Jizreelitka"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "a Abigail"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nábala"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "Karmelitka"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:18.497434882Z",
+  "model": "glm-5.3"
+}

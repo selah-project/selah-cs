@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 13:3",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "I vzplál hněv Jahve proti Izraeli, a vydal je do ruky Chazaela, krále aramského, a do ruky Ben-Hadada, syna Chazelova, po všechny dny.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "vzplál ⟨hněv⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněv (nos)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "proti Izraeli"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "vydal je"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "do ruky"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "aramského"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "a do ruky"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadada"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazelova"
+    },
+    {
+      "surface": "כל",
+      "gloss": "po všechny"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dny"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:57.730171906Z",
+  "model": "glm-5.3"
+}

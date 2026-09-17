@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Každý mužský mezi kněžími ji smí jíst; na svatém místě ⟨se⟩ bude jíst; svaté svatých ⟨to⟩ je.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mužský"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "mezi kněžími"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ji smí jíst"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na místě"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svatém"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨se⟩ bude jíst"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svaté"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svatých"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:31.372776270Z",
+  "model": "glm-5.3"
+}

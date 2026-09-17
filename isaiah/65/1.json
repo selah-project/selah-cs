@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 65:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 65,
+  "translation": "Byl jsem vyhledáván ⟨těmi, kdo⟩ se neptali; byl jsem nalezen ⟨těmi, kdo⟩ mne nehledali. Řekl jsem: Hle, jsem tu, hle, jsem tu, národu, který nevzývá mé jméno.",
+  "tokens": [
+    {
+      "surface": "נדרשתי",
+      "gloss": "byl jsem vyhledáván"
+    },
+    {
+      "surface": "ללוא",
+      "gloss": "kdo … ne"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "se ptali"
+    },
+    {
+      "surface": "נמצאתי",
+      "gloss": "byl jsem nalezen"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "kdo … ne"
+    },
+    {
+      "surface": "בקשני",
+      "gloss": "mne nehledali"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "řekl jsem"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hle, jsem tu"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hle, jsem tu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "národu, který"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "národu, který"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "vzývá"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "mé jméno"
+    }
+  ],
+  "timestamp": "2026-09-17T13:06:31.738550538Z",
+  "model": "glm-5.3"
+}

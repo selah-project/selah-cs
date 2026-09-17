@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A jeho syn prvorozený ⟨byl⟩ Abdon, a Cur, a Kiš, a Baal a Nadab",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "a jeho syn"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorozený"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "a Cur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "a Kiš"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "a Baal"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "a Nadab"
+    }
+  ],
+  "timestamp": "2026-09-17T10:17:33.277165682Z",
+  "model": "glm-5.3"
+}

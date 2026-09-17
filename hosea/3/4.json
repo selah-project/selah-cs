@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Neboť synové Izraele budou sedět mnoho dní bez krále a bez knížete, a bez oběti a bez stély, a bez efodu a bez terafim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mnoho"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "budou sedět"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a bez"
+    },
+    {
+      "surface": "שר",
+      "gloss": "knížete"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a bez"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a bez"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "stély"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a bez"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "a bez terafim"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:24.631323427Z",
+  "model": "glm-5.3"
+}

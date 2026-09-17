@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A ohavností budou pro vás; z jejich masa nebudete jíst a ⟨את⟩ jejich mršiny budete mít v ohavnosti.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "a ohavností"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "budou"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pro vás"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "z jejich masa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "budete jíst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jejich mršiny"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "jejich mršiny"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "budete mít v ohavnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:06.995897513Z",
+  "model": "glm-5.3"
+}

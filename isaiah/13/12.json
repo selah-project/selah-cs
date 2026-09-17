@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Učiním smrtelníka vzácnějším než ryzí zlato a člověka vzácnějším než 〈ryzí zlato z〉 Ofíru.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Učiním vzácnějším"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtelníka"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "než ryzí zlato"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "a člověka"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "než 〈zlato z〉"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofíru"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:10.816861168Z",
+  "model": "glm-5.3"
+}

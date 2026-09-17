@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Proč by národy říkaly: Kde ⟨je⟩ ⟨přece⟩ jejich Elohim?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "by říkaly"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "איה",
+      "gloss": "kde"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨přece⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "jejich Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:57.401672469Z",
+  "model": "glm-5.3"
+}

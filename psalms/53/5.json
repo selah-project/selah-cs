@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 53,
+  "translation": "Zdaž nevědí pachatelé ničemnosti, pojídači mého lidu? Jedli chléb; Elohim nevolali.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Zdaž"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nevědí"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pachatelé"
+    },
+    {
+      "surface": "און",
+      "gloss": "ničemnosti"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "pojídači"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mého lidu"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "Jedli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "volali"
+    }
+  ],
+  "timestamp": "2026-09-17T13:01:00.436814186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 19:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A toto je případek zabijáka, který tam uprchne a zůstane naživu: kdokoli ubije ⟨את⟩ svého druha bez vědomí, když ho nenáviděl ani včera ani předevčírem.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "případek \/ slovo"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "zabijáka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "uprchne"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "a zůstane naživu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdokoli"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ubije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého druha"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svého druha"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "vědomí"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nenáviděl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "ani včera"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ani předevčírem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:58:45.111541567Z",
+  "model": "glm-5.3"
+}

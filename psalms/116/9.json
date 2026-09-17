@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "Budu chodit před tváří Jahve v zemích ⟨těch⟩ živých.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "budu chodit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "v zemích"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "živých"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:14.171969536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A řekl: Jdi a řekni tomuto lidu: Slyšte stále slyšet, ale neporozumíte; vizte stále vidět, ale nepoznáte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "a řekni"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tomuto lidu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tomuto"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slyšte"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "stále slyšet"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "porozumíte"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "a vizte"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "stále vidět"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "poznáte"
+    }
+  ],
+  "timestamp": "2026-09-17T08:03:02.654042643Z",
+  "model": "glm-5.3"
+}

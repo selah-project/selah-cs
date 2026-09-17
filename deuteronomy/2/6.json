@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Jídlo si od ⟨את⟩ nich kupte za stříbro a jezte; i vodu si od ⟨את⟩ nich kupte za stříbro a pijte.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Jídlo"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "kupte"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "od ⟨את⟩ nich"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "za stříbro"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "a jezte"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodu"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "kupte"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "od ⟨את⟩ nich"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "za stříbro"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "a pijte"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:08.245102097Z",
+  "model": "glm-5.3"
+}

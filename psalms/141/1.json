@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 141,
+  "translation": "Žalm Davidův. Jahve, volal jsem tě, pospěš ke mně, přilož ucho k mému hlasu, když volám k tobě.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Žalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "volal jsem tě"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "pospěš"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "přilož ucho"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "k mému hlasu"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "když volám"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:36.979950701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A stalo se v prvním měsíci, v druhém roce, prvního dne měsíce, ⟨že⟩ byl vztyčen příbytek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v měsíci"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvním"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "v roce"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "druhém"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "prvního dne"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "byl vztyčen"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytek"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:51.538115765Z",
+  "model": "glm-5.3"
+}

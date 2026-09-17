@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A oči vidoucích nebudou ⟨zamlžené⟩ a uši slyšících budou naslouchat.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "A ne"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "budou ⟨zamlžené⟩"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "vidoucích"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "a uši"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "slyšících"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "budou naslouchat"
+    }
+  ],
+  "timestamp": "2026-09-17T08:08:45.965524629Z",
+  "model": "glm-5.3"
+}

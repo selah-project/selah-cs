@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A Elohim si vzpomněl na ⟨את⟩ Ráchel; Elohim ji vyslyšel a otevřel ⟨את⟩ její lůno.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "si vzpomněl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ráchel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ráchel"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "vyslyšel"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "otevřel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její lůno"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "její lůno"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:21.506354442Z",
+  "model": "glm-5.3"
+}

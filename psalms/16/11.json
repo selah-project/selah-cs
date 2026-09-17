@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Dáš mi poznat ⟨cestu⟩ života: sytost radostí ⟨je⟩ před tváří tvou, rozkoše ⟨jsou⟩ po tvé pravici ⟨až⟩ do ⟨konce⟩ ⟨věčnosti⟩ — ⟨את⟩ tváři tvé.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Dáš mi poznat"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "života"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sytost"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "radostí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tváři tvé"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tváři tvé"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "rozkoše"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "po tvé pravici"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "navěky"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:48.171636042Z",
+  "model": "glm-5.3"
+}

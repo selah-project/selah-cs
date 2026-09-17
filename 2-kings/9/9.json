@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A dám ⟨את⟩ dům Achabův jako dům Jarobeama, syna Nebatova, a jako dům Baešu, syna Achijova.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "a dám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům Achabův"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "jako dům"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebatova"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "a jako dům"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baešu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Achijova"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:09.030146049Z",
+  "model": "glm-5.3"
+}

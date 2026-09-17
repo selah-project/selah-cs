@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Život těla ⟨je⟩ srdce-léčivé, a hnijící ⟨je⟩ kosti žárlivost.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "život"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "těla"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "léčivé"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "a hnijící"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "žárlivost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:20.865559234Z",
+  "model": "glm-5.3"
+}

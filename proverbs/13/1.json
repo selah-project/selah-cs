@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Syn moudrý ⟨je⟩ kázní otce, ale posměvač neposlechl kárání.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Syn"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrý"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kázní"
+    },
+    {
+      "surface": "אב",
+      "gloss": "otce"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "posměvač"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslechl"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "kárání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:02.523659763Z",
+  "model": "glm-5.3"
+}

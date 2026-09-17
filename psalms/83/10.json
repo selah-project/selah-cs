@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 83,
+  "translation": "Učiň jim jako Midjánu, jako Síseře, jako Jábínovi u potoka Kíšon:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Učiň"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "jako Midjánu"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "jako Síseře"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "jako Jábínovi"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "u potoka"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kíšon"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:49.103867980Z",
+  "model": "glm-5.3"
+}

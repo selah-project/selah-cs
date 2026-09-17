@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Napájejí všechnu zvěř polní, divocí osli hasí ⟨svou⟩ žízeň.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "napájejí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zvěř"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "polní"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "hasí"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "divocí osli"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "žízeň"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:58.552687711Z",
+  "model": "glm-5.3"
+}

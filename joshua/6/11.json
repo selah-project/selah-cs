@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A obešla Arona Jahve ⟨את⟩ město, dokola jednou, a přišli do tábora a přenocovali v táboře.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "a obešla"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Arona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "město"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "dokola"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "[jednou]"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednou"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "a přišli"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "do tábora"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "a přenocovali"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "v táboře"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:03.425898120Z",
+  "model": "glm-5.3"
+}

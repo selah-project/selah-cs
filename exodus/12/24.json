@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A budete zachovávat ⟨את⟩ toto slovo jako ustanovení sobě i svým synům až navěky.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "A budete zachovávat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toto slovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "toto slovo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "(toto)"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "jako ustanovení"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sobě"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "i svým synům"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "navěky"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:22.674790413Z",
+  "model": "glm-5.3"
+}

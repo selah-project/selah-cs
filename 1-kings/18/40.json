@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 18:40",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Elijáš jim řekl: Chyťte ⟨את⟩ proroky Baala, ať žádný z nich neuteče! I chytili je, Elijáš je svedl dolů k potoku Kišon a tam je zabil.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáš"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "Chyťte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "proroky Baala"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "proroky"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žádný (muž)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "uteče"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "ויתפשום",
+      "gloss": "I chytili je"
+    },
+    {
+      "surface": "ויורדם",
+      "gloss": "svedl dolů"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potoku"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kišon"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:27.250521163Z",
+  "model": "glm-5.3"
+}

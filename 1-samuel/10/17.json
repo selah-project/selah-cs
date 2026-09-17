@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A svolal Samuel ⟨את⟩ lid k Jahvemu do Micpy.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "a svolal"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "do Micpy"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:30.554520477Z",
+  "model": "glm-5.3"
+}

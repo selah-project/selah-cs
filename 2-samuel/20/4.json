@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "I řekl král Amasovi: Svol mi ⟨את⟩ muže Judovy do tří dnů, a ty zde stůj.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasovi"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "svol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muže Judovy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovy"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tří"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "פה",
+      "gloss": "zde"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stůj"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:50.192646725Z",
+  "model": "glm-5.3"
+}

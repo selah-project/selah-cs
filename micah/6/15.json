@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Ty budeš sít, ale nebudeš žít; ty budeš šlapat olivy, ale nebudeš se pomazat olejem, a mošt — ale nebudeš pít víno.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "budeš sít"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne-"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "nebudeš žít"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "budeš šlapat"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olivy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne-"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "pomazat se"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olejem"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "a mošt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne-"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "budeš pít"
+    },
+    {
+      "surface": "יין",
+      "gloss": "víno"
+    }
+  ],
+  "timestamp": "2026-09-17T09:03:54.257933892Z",
+  "model": "glm-5.3"
+}

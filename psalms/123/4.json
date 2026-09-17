@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 123,
+  "translation": "Přesaťena je k přesycení naše duše posměchem ⟨těch⟩ spokojených, pohrdáním ⟨těch⟩ povýšených.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "přesaťena"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "k přesycení"
+    },
+    {
+      "surface": "לה",
+      "gloss": "je"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naše duše"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "posměchem"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "spokojených"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "pohrdáním"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "povýšených"
+    }
+  ],
+  "timestamp": "2026-09-17T13:03:54.766225886Z",
+  "model": "glm-5.3"
+}

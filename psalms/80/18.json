@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Buď tvá ruka nad mužem tvé pravice, nad synem člověka, kterého sis posílil ⟨pro sebe⟩.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Buď"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvá ruka"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužem"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvé pravice"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "sis posílil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨pro sebe⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:01.764497468Z",
+  "model": "glm-5.3"
+}

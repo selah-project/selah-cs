@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 13:11",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Když mu ⟨to⟩ přiblížila k jídlu, chopil se ji a řekl jí: „Pojď, ligej se se mnou, sestro má!“",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "přiblížila"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "k jídlu"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "chopil se"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "בואי",
+      "gloss": "pojď"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "ligej se"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "sestro má"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:06.002127640Z",
+  "model": "glm-5.3"
+}

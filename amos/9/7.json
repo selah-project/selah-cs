@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Zdaž jako synové Kušitů nejste mi, synové Izraele? je výrok Jahve. Zdaž ⟨את⟩ Izrael jsem vyvedl z země Egypta, a Pelíštejce z Kaftoru a Aramejce z Kiru?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "zdaž"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "jako synové"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "Kušitů"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nejste"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "je výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "zdaž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "jsem vyvedl"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "a Pelíštejce"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "z Kaftoru"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "a Aramejce"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "z Kiru"
+    }
+  ],
+  "timestamp": "2026-09-17T11:09:19.107537697Z",
+  "model": "glm-5.3"
+}

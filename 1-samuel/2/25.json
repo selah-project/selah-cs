@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 2:25",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Jestliže zhřeší člověk proti člověku, Elohim se zaň přimluví; jestliže však člověk zhřeší proti Jahve, kdo se za něj bude modlit?“ Ale neposlechli hlasu svého otce, protože Jahve chtěl je usmrtit.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "zhřeší"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "proti člověku"
+    },
+    {
+      "surface": "ופללו",
+      "gloss": "a přimluví se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "jestliže však"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "proti Jahve"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "zhřeší"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "bude se modlit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "za něj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "poslechli"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "hlasu"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "chtěl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להמיתם",
+      "gloss": "je usmrtit"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:34.072441832Z",
+  "model": "glm-5.3"
+}

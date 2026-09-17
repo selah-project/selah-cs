@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A poslal král Šalomoun skrze ruku Benajáhu, syna Jehojady, a ten jej zasáhl, takže zemřel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "A poslal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "skrze ruku"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajáhu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojady"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "a zasáhl"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jej"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    }
+  ],
+  "timestamp": "2026-09-17T07:42:05.688684128Z",
+  "model": "glm-5.3"
+}

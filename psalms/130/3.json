@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 130,
+  "translation": "Jestliže bedlivě zaznamenáváš nepravosti, Jah, Adonaj, kdo ⟨by⟩ obstál?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "nepravosti"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "bedlivě zaznamenáváš"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "obstál"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:17.100386281Z",
+  "model": "glm-5.3"
+}

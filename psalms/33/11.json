@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Rada Jahveho stojí navěky, úmysly jeho srdce na pokolení a pokolení.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Rada"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stojí"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "úmysly"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jeho srdce"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "na pokolení"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "a pokolení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:25.837872243Z",
+  "model": "glm-5.3"
+}

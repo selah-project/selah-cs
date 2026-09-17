@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 13:13",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Kdo pohrdá slovem, ⟨ten⟩ se ⟨sám⟩ zavyže; kdo se bojí přikázání, tomu ⟨bude⟩ odměněno.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "pohrdá"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "slovem"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "zavyže"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sám⟩"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "kdo se bojí"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ten⟩"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "odměněno"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:04.986963613Z",
+  "model": "glm-5.3"
+}

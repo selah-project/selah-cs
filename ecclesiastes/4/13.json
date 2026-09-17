@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Lepší je chudý a moudrý mladík než král starý a hloupý, který už neumí přijmout napomenutí.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "lepší"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "mladík"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "chudý"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "a moudrý"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "než král"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "starý"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "a hloupý"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "neumí ⟨přijmout⟩"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "napomenutí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:39.573133936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Syn ⟨jednoho⟩ roku ⟨byl⟩ Šául při svém uvedení ⟨na trůn⟩; a ⟨jen⟩ dva roky kraloval nad Izraelem.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Syn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨jednoho⟩ roku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šául"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "při svém uvedení ⟨na trůn⟩"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "a ⟨jen⟩ dva"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roky"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraloval"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:24:27.822885970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 143,
+  "translation": "A nevejdi v soud ⟨את⟩ svého služebníka, neboť se před tebou neospravedlní žádný ⟨z⟩ všech živých.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "vejdi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "v soud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého služebníka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svého služebníka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "se ospravedlní"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živých"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:01.623620705Z",
+  "model": "glm-5.3"
+}

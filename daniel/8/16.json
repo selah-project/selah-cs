@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A slyšel jsem hlas člověka mezi ⟨břehy⟩ Ulaje, který zavolal a řekl: Gabrieli, vysvětli ⟨tomuto⟩ ⟨את⟩ to vidění!",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "a slyšel jsem"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "⟨břehy⟩ Ulaje"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "který zavolal"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "Gabrieli"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "vysvětli"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "⟨tomuto⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to vidění"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "to vidění"
+    }
+  ],
+  "timestamp": "2026-09-17T10:05:33.633995490Z",
+  "model": "glm-5.3"
+}

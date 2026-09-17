@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A ke mně ⟨bylo⟩ unášeň slovo ⟨ukradmo⟩, a mé ucho zachytilo šeptnutí z něj.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "A ke mně"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "⟨bylo⟩ unášeň ⟨ukradmo⟩"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "a zachytilo"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "mé ucho"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "šeptnutí"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "z něj"
+    }
+  ],
+  "timestamp": "2026-09-17T11:17:03.705201551Z",
+  "model": "glm-5.3"
+}

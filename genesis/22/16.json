@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "a řekl: „Při sobě ⟨jsem⟩ přisáhl, výrok Jahve: že jsi udělal ⟨את⟩ tuto věc a nezadržel ⟨את⟩ svého syna, ⟨את⟩ svého jediného.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "בי",
+      "gloss": "při sobě"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "⟨jsem⟩ přisáhl"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "יען",
+      "gloss": "že (protože)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(kterž)"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto věc"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "tuto věc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "zadržel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého syna"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého jediného"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "svého jediného"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:15.213017127Z",
+  "model": "glm-5.3"
+}

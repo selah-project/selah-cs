@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A když budete porážet oběť šelamim pro Jahve, pro vaše zalíbení ji porazíte.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a když"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "budete porážet"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "šelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "pro Jahve"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "pro vaše zalíbení"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "ji porazíte"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:44.271081083Z",
+  "model": "glm-5.3"
+}

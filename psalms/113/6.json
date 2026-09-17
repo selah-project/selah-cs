@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 113,
+  "translation": "⟨kdo⟩ se ponížuje, aby hleděl ⟨do⟩ nebes i na zemi?",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "⟨kdo⟩ se ponížuje"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby hleděl"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨do⟩ nebes"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "i na zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:54.441113857Z",
+  "model": "glm-5.3"
+}

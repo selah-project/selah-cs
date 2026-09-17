@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Nazí přenocují bez šatů a nemají přikrývky v chladu.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Nazí"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "přenocují"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "šatů"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nemají"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "přikrývky"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "v chladu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:50:03.594348032Z",
+  "model": "glm-5.3"
+}

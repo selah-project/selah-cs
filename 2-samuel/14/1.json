@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A Joab, syn Cerujovy, poznal, že srdce krále ⟨je⟩ nad Avšalomem.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "poznal"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Cerujovy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:53.529502426Z",
+  "model": "glm-5.3"
+}

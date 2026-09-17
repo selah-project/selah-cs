@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A ⟨řekl⟩: Nazvi jeho jméno Lo-Ammi (Ne-můj-lid), neboť vy nejste můj lid a já nebudu ⟨ váš ⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ⟨řekl⟩"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Nazvi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (Ne-můj-lid)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nejste"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a já"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nebudu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨váš⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T08:55:05.127733989Z",
+  "model": "glm-5.3"
+}

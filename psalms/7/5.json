@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Jestliže jsem odplatil zlem svého druha ⟨v pokoji⟩, a vysvobodil ⟨bezdůvodně⟩ svého protivníka —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "jsem odplatil"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "svému druha ⟨v pokoji⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlem"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "a vysvobodil"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "svého protivníka"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "bezdůvodně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:54.121344769Z",
+  "model": "glm-5.3"
+}

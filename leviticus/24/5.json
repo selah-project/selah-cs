@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A vezmeš jemnou mouku a upečeš z ⟨את⟩ ni dvanáct placek; dvě desetiny ⟨bude⟩ na jednu placku.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "a vezmeš"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "jemná mouka"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "a upečeš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dvanáct placek"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-náct"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "plackek\/ placek"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "desetiny (éfy)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "placka"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jedna"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:45.566878048Z",
+  "model": "glm-5.3"
+}

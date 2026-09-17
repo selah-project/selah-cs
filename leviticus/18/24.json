@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 18:24",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Neposkvrňujte se žádnou z ⟨těchto věcí⟩, neboť ve všech těchto ⟨věcech⟩ se poskvrnily národy, které já vyháním před vámi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "poskvrňujte se"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "žádnou z"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨těchto věcí⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všech"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "těchto ⟨věcech⟩"
+    },
+    {
+      "surface": "נטמאו",
+      "gloss": "se poskvrnily"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "vyháním"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "před vámi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:08.868626571Z",
+  "model": "glm-5.3"
+}

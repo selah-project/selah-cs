@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A tito tři muži přestali odpovídat ⟨את⟩ Ijóbovi, protože on ⟨byl⟩ spravedlivý ve vlastních očích.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "přestali"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tito tři"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "muži"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tito"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "odpovídat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijóbovi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijóbovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ve vlastních očích"
+    }
+  ],
+  "timestamp": "2026-09-17T11:18:30.004994586Z",
+  "model": "glm-5.3"
+}

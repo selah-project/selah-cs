@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 39:31",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "A připevnili na ⟨tu⟩ šňůru z modři, aby ⟨byla⟩ upevněna na turbanu shora, jak přikázal Jahve ⟨את⟩ Mojžíše.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "a připevnili"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "šňůra"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "z modři"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "aby byla upevněna"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "turbanu"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "shora"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:06.257768368Z",
+  "model": "glm-5.3"
+}

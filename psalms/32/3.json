@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Když jsem mlčel, stravovaly se mé kosti <skrze> mé kvílení ⟨celý⟩ den.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "jsem mlčel"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "stravovaly se"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mé kosti"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "skrze mé kvílení"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:12.127180639Z",
+  "model": "glm-5.3"
+}

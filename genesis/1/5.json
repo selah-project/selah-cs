@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A nazval Elohim světlo dnem, a tmu nazval nocí. A byl večer a bylo jitro — den jeden ⟨jeden⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "A nazval"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnem"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "a tmu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nazval"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nocí"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "A byl"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a bylo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jitro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:10.259891593Z",
+  "model": "glm-5.3"
+}

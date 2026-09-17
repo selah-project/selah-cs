@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A pokryješ ⟨את⟩ njí ryzím zlatem, zevnitř i zvenčí ji pokryješ, a uděláš na ni zlatou korunu ⟨kolem dokola⟩.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "a pokryješ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ji (archu)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatem"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ryzím"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "zevnitř"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "i zvenčí"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "ji pokryješ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "a uděláš"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na ni"
+    },
+    {
+      "surface": "זר",
+      "gloss": "korunu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatou"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "⟨kolem dokola⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:37.703846272Z",
+  "model": "glm-5.3"
+}

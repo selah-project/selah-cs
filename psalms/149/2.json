@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 149,
+  "translation": "Ať se raduje Israel ve svém Tvůrci, synové Sionu ať jásají ve svém Králi.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ať se raduje"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "ve svém Tvůrci"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sionu"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ať jásají"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ve svém Králi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:12.689296291Z",
+  "model": "glm-5.3"
+}

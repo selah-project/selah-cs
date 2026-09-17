@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 18:4",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Ten, kdo trhá svou ⟨nefesh⟩ ve svém hněvu — kvůli tobě má být opuštěna země a skála přesunuta ze svého místa?",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "trhá"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svou ⟨nefesh⟩"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ve svém hněvu"
+    },
+    {
+      "surface": "הלמענך",
+      "gloss": "kvůli tobě"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "má být opuštěna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ויעתק",
+      "gloss": "a přesunuta"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skála"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "ze svého místa"
+    }
+  ],
+  "timestamp": "2026-09-17T09:48:31.538499938Z",
+  "model": "glm-5.3"
+}

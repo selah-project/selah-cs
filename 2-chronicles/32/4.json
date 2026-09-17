@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A shromáždil se lid mnohý, a zazdali ⟨את⟩ všechny prameny i ⟨את⟩ potok tekoucí uprostřed země, řkouce: Proč by přišli králové Asyrska a našeli vody hojnosti?",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "a shromáždil se"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mnohý"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "a zazdali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny prameny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "prameny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "potok"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "tekoucí"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řkouce"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "by přišli"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králové"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asyrska"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "a našli"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hojnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T11:26:38.513472211Z",
+  "model": "glm-5.3"
+}

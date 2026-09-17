@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "A Josef řekl faraónovi: „Sen faraónův je jeden: co Elohim činí, to oznámil faraónovi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "sen"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónův"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "co Elohim činí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "činí"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "oznámil"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraónovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:06.224281605Z",
+  "model": "glm-5.3"
+}

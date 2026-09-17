@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "I řekl král Hamanovi: Spěchej, vezmi ⟨את⟩ šat a ⟨את⟩ koně, jak jsi mluvil, a učiň tak Mordekaiovi Židovi, kterýž sedí v bráně královské — nenech upadnouti slova ze všeho, což jsi mluvil.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamanovi"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Spěchej"
+    },
+    {
+      "surface": "קח",
+      "gloss": "vezmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šat"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "šat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "koně"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "koně"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "jsi mluvil"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a učiň"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekaiovi"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "Židovi"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "kterýž sedí"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "v bráně"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "královské"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "nech upadnouti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "což"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "jsi mluvil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:32.400066567Z",
+  "model": "glm-5.3"
+}

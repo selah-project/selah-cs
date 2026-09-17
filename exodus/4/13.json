@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A ⟨on⟩ řekl: Ach, Adonaj, pošli, prosím, rukou ⟨toho⟩, koho pošleš.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "pošli"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "pošleš"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:42.073310740Z",
+  "model": "glm-5.3"
+}

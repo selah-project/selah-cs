@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Nebudeš se mstít a nebudeš držet v zálubi ⟨את⟩ syny svého lidu, ale budeš milovat svého bližního jako sebe sama; já ⟨jsem⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nebudeš se mstít"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "mstít"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nebudeš"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "držet v zálubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny svého lidu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "svého lidu"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "budeš milovat"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "svého bližního"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jako sebe sama"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:56.830857487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Neboť přímé ⟨je⟩ slovo Jahve, a veškeré jeho dílo ⟨je⟩ ve věrnosti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "přímé ⟨je⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a veškeré"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "jeho dílo ⟨je⟩"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ve věrnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:02.127461488Z",
+  "model": "glm-5.3"
+}

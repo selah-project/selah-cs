@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "a prostřední svorník uprostřed prkní ⟨bude⟩ probíhat od ⟨jedno⟩ konce ke ⟨druhému⟩ konci.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "a svorník"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "prostřední"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "prkní"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "probíhat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "konce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "konci"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:26.899024282Z",
+  "model": "glm-5.3"
+}

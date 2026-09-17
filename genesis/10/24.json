@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A Arpaachsen zplodil ⟨את⟩ Šélacha a Šélach zplodil ⟨את⟩ Évera.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "A Arpaachsen"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šélacha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Šélacha"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "a Šélach"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Évera"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Évera"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:08.306114574Z",
+  "model": "glm-5.3"
+}

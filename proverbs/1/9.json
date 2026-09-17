@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "neboť věnec přízně ⟨jsou⟩ pro tvou hlavu a náhrdelníky pro tvé hrdlo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "věnec"
+    },
+    {
+      "surface": "חן",
+      "gloss": "přízně"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨jsou⟩"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "pro tvou hlavu"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "a náhrdelníky"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "pro tvé hrdlo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:50.544962297Z",
+  "model": "glm-5.3"
+}

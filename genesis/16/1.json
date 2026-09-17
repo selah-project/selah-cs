@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A Saraj, žena Abramova, mu neporodila ⟨děti⟩; a měla otrokyni, Egypťanku, a její jméno ⟨bylo⟩ Hagar.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "A Saraj"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abramova"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "a měla"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "otrokyni"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "Egypťanku"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "a její jméno"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:43.460876314Z",
+  "model": "glm-5.3"
+}

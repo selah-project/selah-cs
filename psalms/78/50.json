@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Vyrovnával stezku svému vzteku, nezadržel jejich duši ⟨od⟩ smrti a jejich život more vydal ⟨ jim ⟩.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Vyrovnával"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "stezku"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "svému vzteku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "zadržel"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od smrti"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jejich duši"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "a jejich život"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "moru"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "vydal"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:19.460511835Z",
+  "model": "glm-5.3"
+}

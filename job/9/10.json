@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Činící věci veliké, až do ne-vyšetřitelnosti, a divy, až do ne-počitatelnosti.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "činící"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "věci veliké"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "vyšetřitelnosti"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "a divy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "počitatelnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:15.300141622Z",
+  "model": "glm-5.3"
+}

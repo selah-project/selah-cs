@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Cestu věrnosti jsem si vyvolil, tvé výsostní právo jsem si předložil.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "věrnosti"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "jsem si vyvolil"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tvé výsostní právo"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "jsem si předložil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:48.050013427Z",
+  "model": "glm-5.3"
+}

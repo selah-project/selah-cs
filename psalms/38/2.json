@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Jahve, ve svém hněvu mě nekárej a ve své prudkosti mě netrestej",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne (zakázaná částice)"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "ve svém hněvu"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "nekárej mě"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "a ve své prudkosti"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "netrestej mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:20.845377087Z",
+  "model": "glm-5.3"
+}

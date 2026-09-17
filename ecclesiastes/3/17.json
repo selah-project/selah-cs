@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Řekl jsem já v srdci svém: ⟨את⟩ spravedlivého i ⟨את⟩ bezbožného bude soudit Elohim, neboť ⟨je⟩ čas pro každé přání a pro každý čin ⟨tam⟩.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Řekl jsem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "v srdci svém"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spravedlivého"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "spravedlivého"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "bezbožného"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "bezbožného"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "bude soudit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pro každé"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "přání"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a pro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "čin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:56.300136857Z",
+  "model": "glm-5.3"
+}

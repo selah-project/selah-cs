@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A dali synové Izraele levitům ze svého dědictví podle úst Jahveových ⟨את⟩ tato města a ⟨את⟩ jejich pastviny.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "dali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levitům"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "ze svého dědictví"
+    },
+    {
+      "surface": "אל",
+      "gloss": "podle"
+    },
+    {
+      "surface": "פי",
+      "gloss": "úst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveových"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tato města"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "města"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jejich pastviny"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "jejich pastviny"
+    }
+  ],
+  "timestamp": "2026-09-17T07:10:51.417290695Z",
+  "model": "glm-5.3"
+}

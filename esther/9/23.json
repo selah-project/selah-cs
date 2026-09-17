@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A Židé přijali ⟨את⟩ to, co začali konat, a ⟨את⟩ to, co napsal Mordechaj jim.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "a přijali"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Židé"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co začali konat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "začali"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "konat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "to, co napsal Mordechaj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "napsal"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaj"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T11:21:14.090843011Z",
+  "model": "glm-5.3"
+}

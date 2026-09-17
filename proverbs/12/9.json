@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 12:9",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Lepší je opovrhovaný, který má ⟨pro sebe⟩ služebníka, než ten, kdo se sám oslavuje a postrádá chléb.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Lepší je"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "opovrhovaný"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "a má služebníka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨pro sebe⟩"
+    },
+    {
+      "surface": "ממתכבד",
+      "gloss": "než ten, kdo se sám oslavuje"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "a postrádající"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:38.684297014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Šest dnů budeš pracovat, ale v den sedmý budeš odpočívat; v čas orání i v čas žně budeš odpočívat.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "šest"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "budeš pracovat"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "a v den"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmý"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "budeš odpočívat"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "v čas orání"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "i v čas žně"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "budeš odpočívat"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:17.267608676Z",
+  "model": "glm-5.3"
+}

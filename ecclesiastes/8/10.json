@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A tak jsem viděl bezbožné pohřbené — ⟨ti⟩, kteří chodili ⟨a⟩ přicházeli z místa svatého, a byli zapomenuti ve městě, kde tak jednali. I toto je hevel.",
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "A tak"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "jsem viděl"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožné"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "pohřbené"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "přicházeli"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "z místa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svatého"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "chodili"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "a byli zapomenuti"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "jednali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "I"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:27.301878974Z",
+  "model": "glm-5.3"
+}

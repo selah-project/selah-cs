@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 26:2",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Vstal Šaul a sestoupil k poušti ZIF a ⟨את⟩ ním tři tisíce mužů, vyvolených z Izraele, hledat ⟨את⟩ Davida v poušti ZIF.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Vstal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a sestoupil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "poušti"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ZIF"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "a ⟨את⟩ ním"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisíce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "vyvolených"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "z Izraele"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hledat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "v poušti"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ZIF"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:24.260278562Z",
+  "model": "glm-5.3"
+}

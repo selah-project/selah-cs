@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Elohim Cevaot, navrať nás, zazář svou tvář, a budeme spaseni.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "navrať nás"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "a zazář"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "a budeme spaseni"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:50.725868807Z",
+  "model": "glm-5.3"
+}

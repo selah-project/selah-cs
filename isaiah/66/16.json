@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Neboť ohněm Jahve soudí a svým mečem ⟨את⟩ veškeré tělo ⟨maso⟩, a mnozí budou probodnutí Jahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "soudí"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "a svým mečem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškeré tělo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tělo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "a mnozí budou"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "probodnutí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T08:18:38.087832816Z",
+  "model": "glm-5.3"
+}

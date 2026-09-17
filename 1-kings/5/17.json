@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 5:17",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Ty znáš ⟨את⟩ Davida, otce mého, že nemohl postavit dům jménu Jahve, Elohima svého, kvůli válkám, které ho obklopovaly, dokud Jahve nepoložil ⟨את⟩ je pod chodidla nohou jeho.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znáš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otce mého"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "mohl"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "postavit"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohima svého"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "válkám"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "סבבהו",
+      "gloss": "obklopovaly"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "תת",
+      "gloss": "položil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "chodidla"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "nohou jeho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:43:55.813292410Z",
+  "model": "glm-5.3"
+}

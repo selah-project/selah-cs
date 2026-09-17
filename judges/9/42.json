@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 9:42",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A stalo se nazítří, že lid vyšel ⟨do⟩ pole, a oznamovali ⟨to⟩ Avimelkovi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nazítří"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "oznamovali"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "Avimelkovi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:15:23.724643590Z",
+  "model": "glm-5.3"
+}

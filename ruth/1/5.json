@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A zemřeli také oba dva, Machlon i Kilyon, ⟨a⟩ ta žena zůstala ⟨bez⟩ svých dvou synů i bez svého muže.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "a zemřeli"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba dva"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Machlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "i Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "a zůstala"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ta žena"
+    },
+    {
+      "surface": "משני",
+      "gloss": "bez svých dvou"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "i bez svého muže"
+    }
+  ],
+  "timestamp": "2026-09-17T11:19:19.729540586Z",
+  "model": "glm-5.3"
+}

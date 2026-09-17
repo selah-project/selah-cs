@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Vstaň, na pomoc nám, a vykoup ⟨⟨nás⟩⟩ nás pro své milosrdenství!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Vstaň"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "na pomoc"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "a vykoup nás"
+    },
+    {
+      "surface": "למען",
+      "gloss": "pro"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "své milosrdenství"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:10.795696532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "Oslavuj, Jeruzaléme, ⟨את⟩ Jahve; chval, Sione, svého Elohim!",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Oslavuj"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "chval"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svého Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sione"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:22.256805581Z",
+  "model": "glm-5.3"
+}

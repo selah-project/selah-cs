@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 57,
+  "translation": "Pevné ⟨je⟩ mé srdce, Elohime, pevné ⟨je⟩ mé srdce; zpívat budu, ano, žalmy zpívat budu.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Pevné"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "pevné"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "zpívat budu"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ano, žalmy zpívat budu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:34.527543926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A měl ⟨on⟩ dvě ženy; jméno jedné Chana a jméno druhé Penina; a Penině byly děti, a Chaně nebyly děti.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "a jemu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jedné"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Chana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jméno"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "druhé"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a byly"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penině"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "děti"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "a Chaně"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nebyly (nejsou)"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "děti"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:04.746172443Z",
+  "model": "glm-5.3"
+}

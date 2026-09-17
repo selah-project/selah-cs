@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "I řekl David celému shromáždění: „Žehnejte nyní ⟨את⟩ Jahve, Elohim svému!“ A žehnalo celé shromáždění Jahvovi, Elohim otců jejich, a sklonili se a padli na tvář před Jahvem a před králem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "celému"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "Žehnejte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim svému"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "a žehnalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "otců jejich"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "a sklonili se"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "a padli na tvář"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "před Jahvem"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "a před králem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:23:55.509430387Z",
+  "model": "glm-5.3"
+}

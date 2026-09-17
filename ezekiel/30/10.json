@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Tak řekl Adonaj Jahve: Zbavím ⟨את⟩ houf Egypta rukou Nevukadrecara, krále Babylónu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "Zbavím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "houf Egypta"
+    },
+    {
+      "surface": "המון",
+      "gloss": "houf"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukadrecar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:05:48.978625249Z",
+  "model": "glm-5.3"
+}

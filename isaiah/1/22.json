@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Tvé stříbro ⟨se⟩ stalo struskou, tvé víno ⟨je⟩ ředěné vodou.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "Tvé stříbro"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨se⟩ stalo"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "struskou"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "tvé víno"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "ředěné"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vodou"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:52.561268491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "silnou rukou a nataženou paží, neboť na věky trvá jeho chesed.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "silnou"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "a paží"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "nataženou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:03.306058138Z",
+  "model": "glm-5.3"
+}

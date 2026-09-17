@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Od každé zlé cesty jsem zadržel své nohy, abych chránil tvé slovo.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "od každé"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "cesty"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlé"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "jsem zadržel"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "své nohy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abych"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "chránil"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tvé slovo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:05.515167124Z",
+  "model": "glm-5.3"
+}

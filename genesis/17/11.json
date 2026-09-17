@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A budete obřezáni ⟨את⟩ předkožku svého těla, a bude to za znamení smlouvy mezi mnou a mezi vámi.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "A budete obřezáni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "předkožku svého těla"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "těla"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "předkožku vaši"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "za znamení"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mezi mnou"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "a mezi vámi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:20.678510184Z",
+  "model": "glm-5.3"
+}

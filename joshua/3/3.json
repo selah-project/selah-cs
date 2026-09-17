@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "a přikázali ⟨את⟩ lidu takto: Když uvidíte ⟨את⟩ archu smlouvy Jahve, vašeho Elohima, a kněze Levity nesoucí ⟨את⟩ ji, pak vytáhnete ze svého místa a půjdete za ní.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "a přikázali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "když uvidíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu smlouvy"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vašeho Elohima"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "a kněze"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levity"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "nesoucí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ji"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "pak vy"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "vytáhnete"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "ze svého místa"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "a půjdete"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za ní"
+    }
+  ],
+  "timestamp": "2026-09-17T07:04:56.539283798Z",
+  "model": "glm-5.3"
+}

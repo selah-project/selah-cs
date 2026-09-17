@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Propast volá k propasti za hlasu tvých vodopádů; všechny tvé příboje a tvé vlny přes mne přešly.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Propast"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "propasti"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "volá"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "za hlasu"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "tvých vodopádů"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "tvé příboje"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "a tvé vlny"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "přes mne"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "přešly"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:50.174165165Z",
+  "model": "glm-5.3"
+}

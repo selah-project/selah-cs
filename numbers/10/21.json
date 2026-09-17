@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A vytáhli Kehatité, nositelé svatyně, a ⟨oni⟩ vztyčili ⟨את⟩ příbytek, až do jejich příchodu.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "a vytáhli"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehatité"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nositelé"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "vztyčili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "příbytek"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "באם",
+      "gloss": "jejich příchodu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:42:24.244506460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "I král poslal ⟨ zavolat ⟩ ⟨את⟩ Achimeleka, syna Achitúba, kněze, a ⟨את⟩ celý dům jeho otce, kněze, kteří ⟨ byli ⟩ v Nobu; a přišli všichni k králi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "⟨zavolat⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achimeleka"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimeleka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitúba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "celý dům jeho otce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otce"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "v Nobu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "a přišli"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:40.167035133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A ta žena vzala ⟨a⟩ rozprostřela ⟨את⟩ plachtu nad ústím studny a rozprostřela na ni drcené zrno, a nic nebylo známo.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "a vzala"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ta žena"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "a rozprostřela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plachtu"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "plachtu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ústím"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "studny"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "a rozprostřela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na ni"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "drcené zrno"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "bylo známo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nic"
+    }
+  ],
+  "timestamp": "2026-09-17T07:36:40.199279689Z",
+  "model": "glm-5.3"
+}

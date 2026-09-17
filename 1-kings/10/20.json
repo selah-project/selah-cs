@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A dvanáct lvů stálo tam na šesti stupních, z téhle i z oné strany; nic takového nebylo uděláno žádnému království.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "a dvanáct"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(náct)"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "lvů"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stálo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šesti"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stupních"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "z téhle strany"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "i z oné strany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bylo uděláno"
+    },
+    {
+      "surface": "כן",
+      "gloss": "takového"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "žádnému"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "království"
+    }
+  ],
+  "timestamp": "2026-09-17T07:45:20.670837181Z",
+  "model": "glm-5.3"
+}

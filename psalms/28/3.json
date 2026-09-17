@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Nedávej mne odnést s bezbožnými a s činiteli ničemnosti, kteří mluví pokoj se svými druhy, a zlo ⟨je⟩ v jejich srdci.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nedávej"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "odnést mne"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožnými"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a s"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "činiteli"
+    },
+    {
+      "surface": "און",
+      "gloss": "ničemnosti"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "kteří mluví"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "se"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "svými druhy"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "a zlo"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "v jejich srdci"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:23.708486572Z",
+  "model": "glm-5.3"
+}

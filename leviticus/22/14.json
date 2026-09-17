@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A muž, bude-li z neopatrnosti jíst posvátnou věc, přidá k ní svou pětinu a dá knězi ⟨את⟩ tu posvátnou věc.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A muž"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bude-li"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "posvátnou věc"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "z neopatrnosti"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "přidá"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "svou pětinu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "k ní"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a dá"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "knězi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu posvátnou věc"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "tu posvátnou věc"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:09.549953815Z",
+  "model": "glm-5.3"
+}

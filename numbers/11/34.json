@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 11:34",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "I nazval ⟨את⟩ jméno toho místa Kivrot-ha-Taava, neboť tam pochovali ⟨את⟩ lid, kteří toužili.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jméno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "המקום",
+      "gloss": " toho místa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toho"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "Kivrot"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ha-Taava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "pochovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "kteří toužili"
+    }
+  ],
+  "timestamp": "2026-09-17T06:43:42.076202521Z",
+  "model": "glm-5.3"
+}

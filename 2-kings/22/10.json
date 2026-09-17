@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A oznámil Šafan písař králi řka: Knihu mi dal Chilkijá kněz, a četl ji Šafan před králem.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a oznámil"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "písař"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knihu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkijá"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "a četl ji"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šafan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:31.522566757Z",
+  "model": "glm-5.3"
+}

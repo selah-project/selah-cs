@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "V onen čas, je výrok Jahve, vynesou ⟨את⟩ kosti králů Judska a ⟨את⟩ kosti jeho knížat a ⟨את⟩ kosti ⟨těch⟩ kněží a ⟨את⟩ kosti ⟨těch⟩ proroků a ⟨את⟩ kosti obyvatel Jeruzaléma z jejich hrobů.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "v onen čas"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "vynesou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kosti králů Judska"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králů"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judska"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "kosti jeho knížat"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "jeho knížat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "kosti kněží"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "kosti proroků"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "proroků"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "kosti obyvatel Jeruzaléma"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "obyvatel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "z jejich hrobů"
+    }
+  ],
+  "timestamp": "2026-09-17T11:01:43.269798950Z",
+  "model": "glm-5.3"
+}

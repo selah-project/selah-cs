@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 148,
+  "translation": "Chvalte Jah! Chvalte ⟨את⟩ Jahve z nebes, chvalte jej ve výšinách!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chvalte"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Chvalte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chvalte jej"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ve výšinách"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:39.784851780Z",
+  "model": "glm-5.3"
+}

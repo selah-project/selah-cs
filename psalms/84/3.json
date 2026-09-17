@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 84,
+  "translation": "Toužebně lpí, ba i hyne duše má po dvorech Jahve; mé srdce i mé tělo jásají k El živému.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "Toužebně lpí"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ba i"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "hyne"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše má"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "po dvorech"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "srdce mé"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "i tělo mé"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "jásají"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živému"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:25.765246515Z",
+  "model": "glm-5.3"
+}

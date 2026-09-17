@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Večer, ráno a v poledne budu ⟨si⟩ rozmlouvat a sténat, a ⟨on⟩ uslyší můj hlas.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "a ráno"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "a v poledne"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "budu rozmlouvat"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "a sténat"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "a uslyčí"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "můj hlas"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:03.451876695Z",
+  "model": "glm-5.3"
+}

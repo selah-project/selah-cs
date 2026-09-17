@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "Oznamující od počátku konec a od pradávna, co ⟨ještě⟩ nebylo učiněno, ⟨když⟩ říká: Moje rada ⟨se⟩ ustojí a veškerou svou libost vykonám.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Oznamující"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "od počátku"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "konec"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "a od pradávna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "bylo učiněno"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "říká"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "Moje rada"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ustojí"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a veškerou"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "svou libost"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "vykonám"
+    }
+  ],
+  "timestamp": "2026-09-17T10:59:19.712640550Z",
+  "model": "glm-5.3"
+}

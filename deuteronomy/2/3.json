@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Dost ⟨bylo⟩ pro vás obcházet ⟨את⟩ tuhle horu; obraťte se pro sebe na sever.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Dost"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pro vás"
+    },
+    {
+      "surface": "סב",
+      "gloss": "obcházet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhle horu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "horu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuhle"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "obraťte se"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pro sebe"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "na sever"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:03.156864198Z",
+  "model": "glm-5.3"
+}

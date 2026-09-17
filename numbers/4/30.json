@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 4:30",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Od věku třiceti let a výše až do věku padesáti let je rozmístíš, každého, kdo vchází k službě ⟨vojska⟩, aby konal ⟨את⟩ službu stanu setkávání.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Od věku"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třiceti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "a výše"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "בן",
+      "gloss": "věku"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "padesáti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "je rozmístíš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "kdo vchází"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "k ⟨vojsku⟩"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "aby konal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "službu stanu setkávání"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "službu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:31.738917061Z",
+  "model": "glm-5.3"
+}

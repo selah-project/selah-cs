@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A přikázal o něm faraón mužům, a vyprovodili ⟨את⟩ jeho i ⟨את⟩ jeho ženu a ⟨את⟩ všechno, co měl.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "A přikázal"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "o něm"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraón"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mužům"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "a vyprovodili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho ženu"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jeho ženu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "měl"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:41.483901777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Odpověz mi, Jahve, neboť dobrý je tvůj chesed; podle množství svých slitování obrať se ke mně.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "Odpověz mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrý"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvůj chesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "podle množství"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "svých slitování"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "obrať se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:31.981530657Z",
+  "model": "glm-5.3"
+}

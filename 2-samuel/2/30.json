@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Joáb se vrátil od Abnéra, shromáždil ⟨את⟩ všech ⟨lid⟩ ⟨a⟩ zjistili, že z Davidových služebníků chybí devatenáct mužů a Asahél.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Joáb"
+    },
+    {
+      "surface": "שב",
+      "gloss": "se vrátil"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "od"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abnéra"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "shromáždil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všech lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "zjistili (spočítali)"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "ze služebníků"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidových"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "devět"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "náct"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Asahél"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:14.245766904Z",
+  "model": "glm-5.3"
+}

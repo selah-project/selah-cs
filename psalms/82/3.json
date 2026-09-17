@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 82,
+  "translation": "Rozsuzujte slabé a sirotka, ubohého a chudého ospravedlněte!",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Rozsuzujte"
+    },
+    {
+      "surface": "דל",
+      "gloss": "slabé"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "a sirotka"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubohého"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "a chudého"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "ospravedlněte"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:36.363843222Z",
+  "model": "glm-5.3"
+}

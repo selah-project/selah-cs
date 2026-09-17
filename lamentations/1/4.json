@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 1:4",
+  "book": "lamentations",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Cesty Siónu truchlí, protože nepřicházejí na ⟨svátek⟩ setkání; všechny její brány jsou zpustlé, její kněží vzdychají, její panny jsou zarmoucené a ona ⟨má⟩ hořkost ⟨sama pro sebe⟩.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "cesty"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siónu"
+    },
+    {
+      "surface": "אבלות",
+      "gloss": "truchlí"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "protože ne"
+    },
+    {
+      "surface": "באי",
+      "gloss": "přicházejí"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "na ⟨svátek⟩ setkání"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "שעריה",
+      "gloss": "její brány"
+    },
+    {
+      "surface": "שוממין",
+      "gloss": "jsou zpustlé"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "její kněží"
+    },
+    {
+      "surface": "נאנחים",
+      "gloss": "vzdychají"
+    },
+    {
+      "surface": "בתולתיה",
+      "gloss": "její panny"
+    },
+    {
+      "surface": "נוגות",
+      "gloss": "jsou zarmoucené"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "a ona"
+    },
+    {
+      "surface": "מר",
+      "gloss": "hořkost"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨sama pro sebe⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T13:06:27.928711186Z",
+  "model": "glm-5.3"
+}

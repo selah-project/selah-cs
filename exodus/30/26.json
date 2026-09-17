@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A pomazeš jím ⟨את⟩ stan setkávání i ⟨את⟩ archu svědectví.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "a pomazeš"
+    },
+    {
+      "surface": "בו",
+      "gloss": "jím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stan setkávání"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "archu svědectví"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svědectví"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:39.147739281Z",
+  "model": "glm-5.3"
+}

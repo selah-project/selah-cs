@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Jejich nohy běží k zlu a spěchají vylít krev nevinnou; jejich úmysly ⟨jsou⟩ úmysly ničemnosti, zpustošení a zlomení ⟨jsou⟩ na jejich cestách.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "jejich nohy"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "k zlu"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "běží"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "a spěchají"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "vylít"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinnou"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "jejich úmysly"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "úmysly"
+    },
+    {
+      "surface": "און",
+      "gloss": "ničemnosti"
+    },
+    {
+      "surface": "שד",
+      "gloss": "zpustošení"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "a zlomení"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "na jejich cestách"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:18.669386016Z",
+  "model": "glm-5.3"
+}

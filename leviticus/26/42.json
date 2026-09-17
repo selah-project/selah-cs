@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "a rozpomeni se na ⟨את⟩ svou smlouvu s Jákobem, i na ⟨את⟩ svou smlouvu s Jicchakem, i na ⟨את⟩ svou smlouvu s Avrahamem rozpomeni se, a na zem se rozpomeni.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "a rozpomeni se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou smlouvu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svou smlouvu"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "s Jákobem"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou smlouvu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svou smlouvu"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "s Jicchakem"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou smlouvu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svou smlouvu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "s Avrahamem"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "rozpomeni se"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "a na zem"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "se rozpomeni"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:12.024278590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 121,
+  "translation": "Jahve tě bude střežit před každým zlým, střežit bude ⟨את⟩ tvou duši.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "tě bude střežit"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "před každým"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlým"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "střežit bude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou duši"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvou duši"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:01.201568546Z",
+  "model": "glm-5.3"
+}

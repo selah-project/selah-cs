@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A Šalomoun vybudoval ⟨את⟩ Gezer a ⟨את⟩ Bet-Chóron dolní.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a vybudoval"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Bet-Chóron dolní"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "-Chóron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "dolní"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:58.520635518Z",
+  "model": "glm-5.3"
+}

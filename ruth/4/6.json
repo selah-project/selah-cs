@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 4:6",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I řekl vykupitel: Nemohu vykoupit pro sebe, abych nezničil ⟨את⟩ své dědictví; vykup si ty ⟨את⟩ mé vykoupení, neboť nemohu vykoupit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "vykupitel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mohu"
+    },
+    {
+      "surface": "לגאול",
+      "gloss": "vykoupit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pro sebe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abych ne"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "zničil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mé dědictví"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "své dědictví"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "vykup"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mé vykoupení"
+    },
+    {
+      "surface": "גאלתי",
+      "gloss": "mé vykoupení"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mohu"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "vykoupit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:55:40.403335678Z",
+  "model": "glm-5.3"
+}

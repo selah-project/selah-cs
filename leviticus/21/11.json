@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A k žádné mrtvé duši nesmí přijít; pro svého otce a pro svou matku se nesmí poskvrnit.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "A k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "žádné"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "duši"
+    },
+    {
+      "surface": "מת",
+      "gloss": "mrtvé"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "smí přijít"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "pro svého otce"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "a pro svou matku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "smí se poskvrnit"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:36.631701857Z",
+  "model": "glm-5.3"
+}

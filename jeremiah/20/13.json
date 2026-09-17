@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Zpívejte Jahvovi, chvalte ⟨את⟩ Jahve, neboť vysvobodil ⟨את⟩ duši nuzného z ruky zlosynů.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Zpívejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "chvalte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "vysvobodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duši nuzného"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duši"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "nuzného"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zlosynů"
+    }
+  ],
+  "timestamp": "2026-09-17T08:24:43.058006079Z",
+  "model": "glm-5.3"
+}

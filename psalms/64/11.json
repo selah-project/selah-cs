@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 64,
+  "translation": "Ať se raduje spravedlivý v Jahve a utíká se k němu; ať se chlubí všichni přímí srdcem.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ať se raduje"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "a utíká se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "ať se chlubí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "přímí"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdcem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:44.774417141Z",
+  "model": "glm-5.3"
+}

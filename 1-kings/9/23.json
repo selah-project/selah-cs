@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 9:23",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Tito byli velitelé předních, kteří stáli nad prací Šalomouna — padesát a pět set, kteří vládli lidu, jenž konal práci.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "tito"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "velitelé"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "předních\/dozorců"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "prací"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Šalomouna"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "padesát"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "a pět"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "kteří vládli"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "jenž konal"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "práci"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:19.162688868Z",
+  "model": "glm-5.3"
+}

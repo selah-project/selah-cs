@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "a ⟨את⟩ Parmaštu a ⟨את⟩ Arisaje a ⟨את⟩ Aridaje a ⟨את⟩ Vajezatu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Parmaštu"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Parmašta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Arisaje"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Arisaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Aridaje"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Aridaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Vajezatu"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Vajezata"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:17.840974939Z",
+  "model": "glm-5.3"
+}

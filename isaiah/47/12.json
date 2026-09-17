@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 47:12",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "Stůj nyní se svými zaklínadly a s množstvím svých čar, jimiž ses namáhala od svého mládí — snad budeš moci prospět, snad budeš působit hrůzu.",
+  "tokens": [
+    {
+      "surface": "עמדי",
+      "gloss": "Stůj"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "בחבריך",
+      "gloss": "se svými zaklínadly"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "a s množstvím"
+    },
+    {
+      "surface": "כשפיך",
+      "gloss": "svých čar"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "jimiž"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ses namáhala"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "od svého mládí"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "snad"
+    },
+    {
+      "surface": "תוכלי",
+      "gloss": "budeš moci"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "prospět"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "snad"
+    },
+    {
+      "surface": "תערוצי",
+      "gloss": "budeš působit hrůzu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:13:39.250585888Z",
+  "model": "glm-5.3"
+}

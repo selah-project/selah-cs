@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Zasažen jsem jako tráva a vyschlé ⟨je⟩ mé srdce, neboť jsem zapomněl jíst svůj chléb.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "Zasažen jsem"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "jako tráva"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "a vyschlé"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "jsem zapomněl"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "svůj chléb"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:48.427230109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neboť mnohokrát i tvé srdce ví, že i ty jsi proklel ⟨את⟩ jiné.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mnohokrát"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "krát (mnohé)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ví"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tvé srdce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "ty jsi ⟨את⟩",
+      "marks": "proklel jiné (zájmeno ty, ne značka předmětu)"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "jsi proklel"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "jiné"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:34.229282757Z",
+  "model": "glm-5.3"
+}

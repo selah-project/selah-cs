@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A bylo oznámeno Ša'ulovi, že David přišel do Keíly. A Ša'ul řekl: „Elohim ⟨ho⟩ vydal do mé ruky, neboť je zavržen ⟨v⟩ ⟨to⟩, že vešel do města s branami a závorou ⟨את⟩.“",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bylo oznámeno"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Ša'ulovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "do Keíly"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vydal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "do mé ruky"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "je zavržen"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "vešel"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "do města"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "s branami"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "a závorou"
+    }
+  ],
+  "timestamp": "2026-09-17T13:39:52.377833796Z",
+  "model": "glm-5.3"
+}

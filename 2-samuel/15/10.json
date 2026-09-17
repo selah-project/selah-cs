@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A poslal Avšalom výzvědy ke všem kmenům Izraele, řka: Jakmile uslyšíte ⟨את⟩ hlas šofaru, řeknete: Kraluje Avšalom v Chevronu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "A poslal"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "výzvědy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ke všem"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kmenům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "Jakmile uslyšíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas šofaru"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "šofaru"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "řeknete"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Kraluje"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalom"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "v Chevronu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:36:23.525041511Z",
+  "model": "glm-5.3"
+}

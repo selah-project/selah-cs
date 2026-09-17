@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Nebo nepřestane chudý ze středu země; proto já ti přikazuji, ⟨říkaje⟩: Otevírat otevřeš ⟨את⟩ svou ruku svému bratru, tvému nuznému a tvému chudému ve tvé zemi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "přestane"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "chudý"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ze středu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto ⟨kvůli tomu⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "proto"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ti přikazuji"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨říkaje⟩"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Otevírat"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "otevřeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "svému bratru"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "tvému nuznému"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "a tvému chudému"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ve tvé zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:51.400768708Z",
+  "model": "glm-5.3"
+}

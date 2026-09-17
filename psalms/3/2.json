@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Jahve, jak se rozmnožili ⟨ti, kdo mi⟩ tísní! Mnozí povstávají proti mně.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "se rozmnožili"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "⟨ti, kdo mi⟩ tísní"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Mnozí"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "povstávají"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:02.720201550Z",
+  "model": "glm-5.3"
+}

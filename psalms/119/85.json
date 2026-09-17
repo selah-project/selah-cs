@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Vykopali pro mě pyšní jámy, ⟨jednání⟩, jež není podle tvé tóry.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "vykopali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "pro mě"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "pyšní"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "jámy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "לא",
+      "gloss": "není"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "podle tvé tóry"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:47.412311834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A když přišel král z Damašku, viděl král ⟨את⟩ oltář; král se přiblížil k oltáři a obětoval na něm.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a když přišel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "z Damašku"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltář"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "se přiblížil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "obětoval"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něm"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:52.475125864Z",
+  "model": "glm-5.3"
+}

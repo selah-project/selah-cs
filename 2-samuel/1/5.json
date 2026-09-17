@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A David řekl mladíkovi, který mu to oznamoval: Jak víš, že Šaúl a Jehonatán, jeho syn, jsou mrtvi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mladíkovi"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "který oznamoval"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "איך",
+      "gloss": "jak"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "víš"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "מת",
+      "gloss": "jsou mrtvi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúl"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "a Jehonatán"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syn"
+    }
+  ],
+  "timestamp": "2026-09-17T07:31:50.369336250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Neboť v jejich ústech není ⟨nic⟩ pevného, jejich nitro je záhuba, otevřený hrob je jejich hrdlo, svým jazykem hladkají.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "v jejich ústech"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "pevného"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "jejich nitro"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "záhuba"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "hrob"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "otevřený"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "jejich hrdlo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "svým jazykem"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "hladkají"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:27.750777640Z",
+  "model": "glm-5.3"
+}

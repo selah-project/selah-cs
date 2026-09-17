@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 57,
+  "translation": "Budu volat k Elóhim Nejvyššímu, k Elu, který ⟨to⟩ pro mě dokončí.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Budu volat"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "k Elóhim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nejvyššímu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "k Elu"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "který dokončí"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "pro mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:34.457908685Z",
+  "model": "glm-5.3"
+}

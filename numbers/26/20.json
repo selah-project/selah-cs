@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A byli synové Júdovi podle svých čeledí: od Šély čeleď Šelanovců, od Perese čeleď Peresitů, od Zeracha čeleď Zerachitů.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "A byli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júdovi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle svých čeledí"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "od Šély"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "čeleď"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "Šelanovců"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "od Perese"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "čeleď"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "Peresitů"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "od Zeracha"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "čeleď"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zerachitů"
+    }
+  ],
+  "timestamp": "2026-09-17T06:48:39.995391852Z",
+  "model": "glm-5.3"
+}

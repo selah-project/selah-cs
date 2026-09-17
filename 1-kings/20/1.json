@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A Ben-Hadad, král Aramu, shromáždil ⟨את⟩ celé své vojsko a třicet dva králů ⟨את⟩ ⟨s ním⟩, ⟨a to⟩ koně a vozy; vytáhl a oblehl Šomeron a bojoval proti němu.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "a"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Ben-Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "shromáždil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celé své vojsko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "své vojsko"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "a třicet"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králů"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨s ním⟩"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "a koně"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "a vozy"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "vytáhl"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "oblehl"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Šomeron"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "a bojoval"
+    },
+    {
+      "surface": "בה",
+      "gloss": "proti němu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:50:06.732004708Z",
+  "model": "glm-5.3"
+}

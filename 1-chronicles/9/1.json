@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A všechen Izrael ⟨se⟩ zapsal podle rodopisů, a hle, ⟨jsou⟩ zapsáni v knize králů Izraele a Judska; ti byli odvedeni do vyhnanství do Babylonu pro svou nevěrnost.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a všechen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "zapsal podle rodopisů"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "a hle, ⟨jsou⟩"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "zapsáni"
+    },
+    {
+      "surface": "על",
+      "gloss": "v"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knize"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Judska"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "byli odvedeni do vyhnanství"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "do Babylonu"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "pro svou nevěrnost"
+    }
+  ],
+  "timestamp": "2026-09-17T10:18:28.891275914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A vyvede ⟨את⟩ celého býka ven za tábor, na čisté místo, na popeliště, a spálí ⟨את⟩ jej na dříví v ohni; na popelišti bude spálen.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "A vyvede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celého býka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celého"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "býka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ven"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "za"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čisté"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "popeliště"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "(popela)"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "a spálí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jej",
+      "marks": "celého býka"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "dříví"
+    },
+    {
+      "surface": "באש",
+      "gloss": "v ohni"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "popelišti"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "(popela)"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "bude spálen"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:30.556705222Z",
+  "model": "glm-5.3"
+}

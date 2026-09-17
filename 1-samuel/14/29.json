@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 14:29",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "I řekl Jonatán: „Znepokojil můj otec ⟨את⟩ zemi. Viděte nyní, jak se rozzářily mé oči, neboť jsem okusil trochu tohoto medu.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatán"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "znepokojil"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "můj otec"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "viděte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jak"
+    },
+    {
+      "surface": "ארו",
+      "gloss": "se rozzářily"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mé oči"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "טעמתי",
+      "gloss": "jsem okusil"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "trochu"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "medu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    }
+  ],
+  "timestamp": "2026-09-17T07:24:56.857347241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 56,
+  "translation": "Bdění moje tys počítal, ty jsi vylil mou slzu do svého měchýnce — což nejsou v tvé knize?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "bdění mé \/ toulky mé"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "tys počítal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "vlož \/ ulož"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "slza má \/ slzy mé"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "do tvého měchýnce"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "což ne"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "v tvé knize"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:51.773930219Z",
+  "model": "glm-5.3"
+}

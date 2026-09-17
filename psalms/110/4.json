@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 110,
+  "translation": "Přísahal Jahve a nebude litovat: „Ty jsi kněz na věky na způsob Malki-cedeka.“",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Přísahal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nebude"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "litovat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "způsob"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cedeka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:29.243419438Z",
+  "model": "glm-5.3"
+}

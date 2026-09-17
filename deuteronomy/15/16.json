@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A stane se, když ti řekne: Nevyjdu od tebe — protože tě miluje ⟨a⟩ ⟨את⟩ tvůj dům, protože se mu s tebou vede dobře —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "A stane se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "řekne"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "vyjdu"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "tě miluje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvůj dům"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tvůj dům"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "vede dobře"
+    },
+    {
+      "surface": "לו",
+      "gloss": "se mu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:24.478661465Z",
+  "model": "glm-5.3"
+}

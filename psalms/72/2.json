@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "Ať soudí tvůj lid ⟨v⟩ spravedlnosti a tvé chudé ⟨v⟩ soudu.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Ať soudí"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvůj lid"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "⟨v⟩ spravedlnosti"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "a tvé chudé"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "⟨v⟩ soudu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:43.379939276Z",
+  "model": "glm-5.3"
+}

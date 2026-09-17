@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "A udělal ⟨את⟩ efod: zlato, modř fialová, purpur a šarlat a lněnou přízi spletenou.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "modř fialová"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "purpur"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "a šarlat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "(červeň)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "a lněnou"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "přízi spletenou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:13.531724864Z",
+  "model": "glm-5.3"
+}

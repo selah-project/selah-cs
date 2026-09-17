@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "a řeknou: „Protože opustili ⟨את⟩ smlouvu Jahve, Elohim svých otců, kterou s nimi uzavřel, když je vyvedl ⟨אתם⟩ ze země Egypta —",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "a řeknou"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Protože"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "opustili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "smlouvu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "svých otců"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "uzavřel"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "s nimi"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "když vyvedl"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T07:02:27.826609546Z",
+  "model": "glm-5.3"
+}

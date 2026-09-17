@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Poté, co porazil ⟨את⟩ Síchona, krále Emorejců, který sídlil v Chešbónu, a ⟨את⟩ Óga, krále Bašánu, který sídlil v Aštaret v Edreji —",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Poté, co"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "porazil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Síchona, krále Emorejců"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Síchona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejců"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sídlil"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "v Chešbónu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Óga, krále Bašánu"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Óga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašánu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sídlil"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "v Aštaret"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "v Edreji"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:25.840972148Z",
+  "model": "glm-5.3"
+}

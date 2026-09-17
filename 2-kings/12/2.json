@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 12:2",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "V roce sedmém Jehúa se stal králem Jehóaš, a čtyřicet let kraloval v Jeruzalémě; a jméno jeho matky ⟨bylo⟩ Cibja z Be'er-Ševa.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "V roce"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedmém"
+    },
+    {
+      "surface": "ליהוא",
+      "gloss": "Jehúa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "stal se králem"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jehóaš"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "a čtyřicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraloval"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jméno"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jeho matky"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "Cibja"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "z Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Ševa"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:32.209953864Z",
+  "model": "glm-5.3"
+}

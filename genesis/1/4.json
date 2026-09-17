@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A viděl Elohim ⟨את⟩ světlo, že ⟨bylo⟩ dobré; a oddělil Elohim mezi světlem a mezi tmou.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "A viděl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "světlo"
+    },
+    {
+      "surface": "האור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "a oddělil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "האור",
+      "gloss": "světlem"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tmou"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:01.227741749Z",
+  "model": "glm-5.3"
+}

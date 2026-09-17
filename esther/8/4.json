@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A král vztáhl k Ester ⟨את⟩ zlaté žezlo; Ester se zvedla a postavila se před krále.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "A vztáhl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "k Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlaté žezlo"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "žezlo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlaté"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "se zvedla"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "a postavila se"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:22.708577208Z",
+  "model": "glm-5.3"
+}

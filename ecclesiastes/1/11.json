@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Není paměti po prvních, a ani těm posledním, kteří budou, nezůstane paměti s těmi, kteří budou potom.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "paměti"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "po prvních"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a ani"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "těm posledním"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "kteří budou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zůstane"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "paměť"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "těmi, kteří budou"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "potom"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:23.148940666Z",
+  "model": "glm-5.3"
+}

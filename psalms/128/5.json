@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 128,
+  "translation": "Nechť tě žehná Jahve z Cijónu, a viz ⟨v⟩ dobru Jeruzaléma po všechny dny svého života.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Nechť tě žehná"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "z Cijónu"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a viz"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "⟨v⟩ dobru"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "po všechny"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "svého života"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:05.596452432Z",
+  "model": "glm-5.3"
+}

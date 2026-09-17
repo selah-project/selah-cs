@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Jahve, váš Elohim, vás rozmnožil ⟨אתכם⟩ — a hle, dnes jste jako hvězdy nebes k množství.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "rozmnožil"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "a hle, jste"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "jako hvězdy"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "k množství"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:42.572806391Z",
+  "model": "glm-5.3"
+}

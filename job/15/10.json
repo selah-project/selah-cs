@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "I šedovlasý, i velmi stařec je mezi námi, větší ⟨ve dnech⟩ než tvůj otec.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "I"
+    },
+    {
+      "surface": "שב",
+      "gloss": "šedovlasý"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "velmi stařec"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mezi námi"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "větší"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "než tvůj otec"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ve dnech"
+    }
+  ],
+  "timestamp": "2026-09-17T09:47:28.687523178Z",
+  "model": "glm-5.3"
+}

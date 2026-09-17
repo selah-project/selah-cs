@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Na tebe jsem byl ⟨vržen⟩ od života matčina, z lůna mé matky — ty jsi můj El.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Na tebe"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "jsem byl ⟨vržen⟩"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "od života matčina"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "z lůna"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mé matky"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "můj El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty jsi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:14.068326939Z",
+  "model": "glm-5.3"
+}

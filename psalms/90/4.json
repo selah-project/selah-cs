@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Nebo tisíc let ⟨jsou⟩ v tvých očích jako den včerejší, když pominul, jako hlídka v noci.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "v tvých očích"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "jako den"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "včerejší"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "pominul"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "jako hlídka"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "v noci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:07.809015754Z",
+  "model": "glm-5.3"
+}

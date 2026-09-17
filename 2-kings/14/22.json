@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "On ⟨ten⟩ vystavěl ⟨את⟩ Ejlat a vrátil ji Judsku, poté, co král uléhl s ⟨svými⟩ otci.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "vystavěl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ejlat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ejlat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "a vrátil ji"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judsku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poté, co"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "uléhl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "⟨svými⟩ otci"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:38.882507524Z",
+  "model": "glm-5.3"
+}

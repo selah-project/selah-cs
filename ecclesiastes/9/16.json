@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A řekl jsem já: lepší ⟨je⟩ moudrost než síla; avšak moudrost chudého je pohrdáno a jeho slova nejsou vyslyšena.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "a řekl jsem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "lepší"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "než síla"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "avšak moudrost"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "chudého"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "je pohrdáno"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "a jeho slova"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nejsou"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "vyslyšena"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:37.316711377Z",
+  "model": "glm-5.3"
+}

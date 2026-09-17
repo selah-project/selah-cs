@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 64,
+  "translation": "A ⟨nepřátelé⟩ ho přivedli k pádu — proti nim ⟨je⟩ jejich vlastní jazyk; všichni, kdo je vidí, budou kroutit ⟨hlavou⟩.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "a přivedli ho k pádu"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "proti nim"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "jejich jazyk"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "budou kroutit ⟨hlavou⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kdo vidí"
+    },
+    {
+      "surface": "בם",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:44.773991982Z",
+  "model": "glm-5.3"
+}

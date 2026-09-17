@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "I řekli Mojžíš a Árón všem synům Izraele: Večer poznáte, že Jahve vyvedl ⟨את⟩ vás z埃及 země egyptské.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Árón"
+    },
+    {
+      "surface": "אל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "poznáte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "vyvedl"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vy"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptské"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:13.409466973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Vznešenost slávy tvé důstojnosti a slova tvých divů budu ⟨v sobě⟩ rozjímat.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "vznešenost"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slávy"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "tvé důstojnosti"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "a slova"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tvých divů"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "budu rozjímat"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:29.920760489Z",
+  "model": "glm-5.3"
+}

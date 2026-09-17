@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Slyšte mě, pronásledníci spravedlnosti, hledači Jahve: pohleďte na skálu, z níž jste vytesáni, a na jámu lomu, z níž jste vylámáni.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slyšte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mě"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "pronásledníci"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnosti"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "hledači"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "pohleďte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skálu"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "jste vytesáni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "jámu lomu"
+    },
+    {
+      "surface": "בור",
+      "gloss": "(jámy)"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "jste vylámáni"
+    }
+  ],
+  "timestamp": "2026-09-17T10:59:53.797725358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "Oni viděli — ⟨toto⟩ se ⟨ jim zdálo⟩ tak — užasli, zachvěli se strachem, spěchali ⟨pryč⟩.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "viděli"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "užasli"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "zachvěli se strachem"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "spěchali ⟨pryč⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:38.902536692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 3:43",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A bylo všech prvorozenců mužského pohlaví, podle počtu jmen, od měsíce věku a výš, mezi sečtenými, dvacet dva tisíc tři sta sedmdesát tři.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a bylo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "prvorozenců"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mužského pohlaví"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "podle počtu"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jmen"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "od měsíce"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "věku"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "a výš"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "mezi sečtenými"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "a dvacet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tři"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "a sedmdesát"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "a tři sta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:53.524785026Z",
+  "model": "glm-5.3"
+}

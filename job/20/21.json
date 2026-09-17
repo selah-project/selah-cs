@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Žádný pozůstatek ⟨nezůstane⟩ z jeho pokrmu; proto se jeho blaho nedočká ⟨trvání⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "žádný"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "pozůstatek"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "z jeho pokrmu"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(proto)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "nedočká se"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "jeho blaho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:49:10.884266092Z",
+  "model": "glm-5.3"
+}

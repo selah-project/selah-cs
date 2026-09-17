@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "I zavolal faraón Mojžíše a Árona a řekl: „Proste Jahve, ať odstraní žáby ode mě a od mého lidu, a já propustím ⟨את⟩ lid, aby obětoval Jahve.“",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "I zavolal"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraón"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "a Árona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "Proste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ať odstraní"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "žáby"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mě"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "a od mého lidu"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "a já propustím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "aby obětovali"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:02.721477684Z",
+  "model": "glm-5.3"
+}

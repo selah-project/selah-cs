@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "Jahve Cevaot ⟨je⟩ s námi, útočiště ⟨je⟩ nám El Jaakova. Séla.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "s námi"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "útočiště"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:33.026704565Z",
+  "model": "glm-5.3"
+}

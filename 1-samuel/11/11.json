@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 11:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A stalo se nazítří, že Šaul rozdělil ⟨את⟩ lid do tři oddílů, a vešli do středu tábora v ranní stráži, a zbili ⟨את⟩ Ammon až do horka dne; a stalo se, že ti, kdo zbyli, se rozptýlili, a nezůstali v nich dva spolu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nazítří"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "rozdělil"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tři"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "oddíly"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "a vešli"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "do středu"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábora"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "v ranní stráži"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "(rána)"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "a zbili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammon"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "חם",
+      "gloss": "horka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ti, kdo zbyli"
+    },
+    {
+      "surface": "ויפצו",
+      "gloss": "se rozptýlili"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "zůstali"
+    },
+    {
+      "surface": "בם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "spolu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:44.390571172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Stupají ⟨hory⟩, klesají údolí, k místu, které jsi ⟨ jim⟩ založil.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "stupají"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "⟨hory⟩"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "klesají"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "údolí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "které"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "jsi založil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨ jim⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:17.731665999Z",
+  "model": "glm-5.3"
+}

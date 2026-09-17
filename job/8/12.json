@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Zatímco je ⟨ještě⟩ v své zelenosti, není utrhnuto — a před veškerou trávou uschne.",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "zatímco je ⟨ještě⟩"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "v své zelenosti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "není"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "utrhnuto"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "a před"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "trávou"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "uschne"
+    }
+  ],
+  "timestamp": "2026-09-17T11:47:45.448341212Z",
+  "model": "glm-5.3"
+}

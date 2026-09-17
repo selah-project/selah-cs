@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Břímě Babylonu, jež viděl Jesajahu, syn Amocův.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Břímě"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylonu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amoc"
+    }
+  ],
+  "timestamp": "2026-09-17T08:05:08.650705356Z",
+  "model": "glm-5.3"
+}

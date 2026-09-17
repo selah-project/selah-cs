@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A ⟨את⟩ jeho syny přivedeš a oblečeš je košilemi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho syny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho syny"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "přivedeš"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "a oblečeš je"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "košilemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:24:44.867265847Z",
+  "model": "glm-5.3"
+}

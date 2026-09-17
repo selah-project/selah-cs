@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Spravedlivý ⟨je⟩ Jahve na všech svých cestách a milosrdný ve všech svých činech.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Spravedlivý"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na všech"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "svých cestách"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "a milosrdný"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všech"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "svých činech"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:41.684624300Z",
+  "model": "glm-5.3"
+}

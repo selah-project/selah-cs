@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A vykoná kněz ⟨את⟩ oběť za hřích a vykoná smíření za očišťovaného ohledně jeho nečistoty, a potom porazí ⟨את⟩ oběť zápalnou.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "a vykoná"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oběť za hřích"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "oběť za hřích"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a vykoná smíření"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "očišťovaného"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "ohledně jeho nečistoty"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a potom"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "porazí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oběť zápalnou"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "oběť zápalnou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:49.119640263Z",
+  "model": "glm-5.3"
+}

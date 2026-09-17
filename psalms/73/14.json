@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "A byl jsem raněn celý den a mé kárání ⟨přicházelo⟩ každou jitro.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "a byl jsem"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "raněn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "a mé kárání"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "každou jitro"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:19.363178943Z",
+  "model": "glm-5.3"
+}

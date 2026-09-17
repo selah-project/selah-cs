@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "S milosrdným se ukážeš milosrdný, s mužem bezúhonným se ukážeš bezúhonný.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "milosrdným"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "se ukážeš milosrdný"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mužem"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bezúhonným"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "se ukážeš bezúhonný"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:20.519601046Z",
+  "model": "glm-5.3"
+}

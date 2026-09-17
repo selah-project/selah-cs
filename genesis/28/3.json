@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A El Šaddaj ⟨tě⟩ požehná ⟨את⟩-tě a učiní tě plodným a rozmnoží tě, a staneš se shromážděním národů.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "a El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šaddaj"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "požehná"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-tě",
+      "marks": "tebe"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "učiní tě plodným"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "rozmnoží tě"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "staneš se"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "shromážděním"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národů"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:27.772552613Z",
+  "model": "glm-5.3"
+}

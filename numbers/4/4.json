@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Toto ⟨je⟩ služba synů Kehatových ve stanu setkávání, ⟨totiž⟩ svatyně svatých.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "služba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatových"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ve stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svatých"
+    }
+  ],
+  "timestamp": "2026-09-17T11:57:08.620918689Z",
+  "model": "glm-5.3"
+}

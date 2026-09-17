@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Jonovi se to stalo zlou ⟨velkou⟩ věcí — zlé velké — a rozhněval se ⟨na to⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "stalo se zlé"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jonovi"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonovi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlou věcí"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "velké"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "a rozhněval se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨na to⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:01:57.244823887Z",
+  "model": "glm-5.3"
+}

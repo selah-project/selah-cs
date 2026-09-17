@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "A tvá spravedlnost, Elohime, ⟨je⟩ až k výšinám, kterou jsi konal ⟨velké⟩ věci: Elohime, kdo je jako ty?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "A tvá spravedlnost"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "výšinám"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi konal"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "velké věci"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "je jako ty"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:25.249964402Z",
+  "model": "glm-5.3"
+}

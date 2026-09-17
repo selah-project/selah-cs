@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Paras, Kuš a Fut ⟨את⟩ ⟨s nimi⟩, všichni ⟨s⟩ štítem a přilbou:",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kuš"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "a Fut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨s nimi⟩",
+      "marks": "Paras, Kuš a Fut"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "štítem"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "a přilbou"
+    }
+  ],
+  "timestamp": "2026-09-17T08:50:47.321216391Z",
+  "model": "glm-5.3"
+}

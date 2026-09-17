@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A už nebude tvé jméno voláno ⟨את⟩ Avram, ale tvé jméno bude Avraham, neboť tě učinil ⟨jsem⟩ otcem houfu národů.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a už ne"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bude voláno"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé jméno"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אב",
+      "gloss": "otcem"
+    },
+    {
+      "surface": "המון",
+      "gloss": "houf"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "tě učinil ⟨jsem⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:03.204904416Z",
+  "model": "glm-5.3"
+}

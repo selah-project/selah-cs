@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A řekli: Copak jen s Mojžíšem mluvil Jahve? Což i s námi nemluvil? A Jahve to slyšel.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "A řekli"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "Copak jen"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "s Mojžíšem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Což ne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "s námi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "A slyšel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:44:46.970527346Z",
+  "model": "glm-5.3"
+}

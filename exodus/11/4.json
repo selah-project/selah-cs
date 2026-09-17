@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "I řekl Mojžíš: Tak praví Jahve: O půlnoci vyjdu ⟨já⟩ do prostřed Egypta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "O půlnoci"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "noci"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨já⟩"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "vyjdu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "do prostřed"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:07.672434425Z",
+  "model": "glm-5.3"
+}

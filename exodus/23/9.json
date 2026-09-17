@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A hosta nebudeš utlačovat; vy znáte ⟨את⟩ duši hosta, neboť hosty jste byli v zemi Micrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "A hosta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "budeš utlačovat"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "znáte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duši hosta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duši"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "hosta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "hosty"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "jste byli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:01.150410779Z",
+  "model": "glm-5.3"
+}

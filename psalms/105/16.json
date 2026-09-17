@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "A přivolal hlad na zemi, každou hůl chleba zlomil.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "A přivolal"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hlad"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každou"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "hůl"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "zlomil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:12.272296709Z",
+  "model": "glm-5.3"
+}

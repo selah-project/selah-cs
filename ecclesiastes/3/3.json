@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Čas zabíjet a čas léčit, čas bořit a čas stavět;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "zabíjet"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a čas"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "léčit"
+    },
+    {
+      "surface": "עת",
+      "gloss": "čas"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "bořit"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a čas"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "stavět"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:25.646760367Z",
+  "model": "glm-5.3"
+}

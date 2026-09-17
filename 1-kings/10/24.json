@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A celá země hledala ⟨את⟩ tvář Šalomouna, aby slyšela ⟨את⟩ jeho moudrost, kterou dal Elohim do jeho srdce.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "A celá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "hledala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvář Šalomouna"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomouna"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "aby slyšela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho moudrost"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "jeho moudrost"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "do jeho srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:50.878132045Z",
+  "model": "glm-5.3"
+}

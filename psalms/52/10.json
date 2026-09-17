@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Ale já ⟨jsem⟩ jako zelenající se oliva v domě Elohimova; důvěřuji v chesed Elohim na věky věků.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ale já"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "jako oliva"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "zelenající se"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "důvěřuji"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "v chesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "věků"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:37.307247442Z",
+  "model": "glm-5.3"
+}

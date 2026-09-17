@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Chval tě cizí ⟨člověk⟩, a ne tvá ústa; neznámý, a ne tvé rty.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "chval tě"
+    },
+    {
+      "surface": "זר",
+      "gloss": "cizí ⟨člověk⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tvá ústa"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "neznámý"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "tvé rty"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:46.391970229Z",
+  "model": "glm-5.3"
+}

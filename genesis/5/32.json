@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A bylo Noachovi pět set let, a zplodil Noach ⟨את⟩ Šéma, ⟨את⟩ Cháma i ⟨את⟩ Jáfeta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A bylo"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem ⟨ve věku⟩"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pět"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šéma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šéma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cháma"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cháma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Jáfeta"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jáfeta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:59.028805896Z",
+  "model": "glm-5.3"
+}

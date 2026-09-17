@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 137,
+  "translation": "Při řekách Babylónu tam jsme seděli, ano, plakali jsme, když jsme si připomínali ⟨את⟩ Sijón.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Při"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "řekách"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "jsme seděli"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ano"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "plakali jsme"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "když jsme si připomínali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sijón"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijón"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:29.977247037Z",
+  "model": "glm-5.3"
+}

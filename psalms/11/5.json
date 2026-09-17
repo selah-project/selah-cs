@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Jahve spravedlivého zkouší, ale bezbožného a milovníka násilí jeho duše nenávidí.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivého"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "zkouší"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ale bezbožného"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "a milovníka"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "násilí"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nenávidí"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jeho duše"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:55.621810586Z",
+  "model": "glm-5.3"
+}

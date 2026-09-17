@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Čas ⟨je⟩ jednat ⟨svému⟩ Jahvem; zrušili tvou tóru.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Čas"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "jednat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨svému⟩ Jahvem"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "zrušili"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvou tóru"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:15.444542142Z",
+  "model": "glm-5.3"
+}

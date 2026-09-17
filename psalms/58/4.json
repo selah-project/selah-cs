@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 58,
+  "translation": "Odcizili se bezbožní od lůna, od břicha bloudí, mluvíce lež.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "Odcizili se"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožní"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "od lůna"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "bloudí"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "od břicha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mluvíce"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lež"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:04.383497276Z",
+  "model": "glm-5.3"
+}

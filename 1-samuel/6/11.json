@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A vložili ⟨את⟩ archu Jahve na ďelu, a ⟨את⟩ truhlu, a ⟨את⟩ zlaté myši, a ⟨את⟩ obrazy jejich vředů.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "a vložili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu Jahve"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ďelu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "truhlu"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "truhlu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zlaté myši"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "myši"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlaté"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "obrazy jejich vředů"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "obrazy"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "jejich vředů"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:21.109985064Z",
+  "model": "glm-5.3"
+}

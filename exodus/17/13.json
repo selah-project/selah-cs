@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A Jozue ⟨את⟩ Amáleka a ⟨את⟩ jeho lid oslabil ostřím meče.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "oslabil"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amáleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amáleka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho lid"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeho lid"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostřím"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meče"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:15.254940467Z",
+  "model": "glm-5.3"
+}

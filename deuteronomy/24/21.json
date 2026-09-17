@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Když budeš sbírat svou vinici, nebudeš nic sbírat ⟨za⟩ sebou: pro hosta, pro sirotka a pro vdovu to bude.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "budeš sbírat"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "svou vinici"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "budeš sbírat (zbytky)"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za sebou"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "pro hosta"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "pro sirotka"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "a pro vdovu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "to bude"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:54.068141345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 85,
+  "translation": "Chesed a věrnost se setkaly, spravedlnost a pokój se políbily.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "a věrnost"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "se setkaly"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "a pokój"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "se políbily"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:37.340589385Z",
+  "model": "glm-5.3"
+}

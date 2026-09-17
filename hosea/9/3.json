@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Nebydlet budou v zemi Jahve; Efrajim se vrátí do Egypta a v Asýrii nečisté ⟨potravy⟩ budou jíst.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bydlet budou"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "a vrátí se"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "a v Asýrii"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečisté"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "budou jíst"
+    }
+  ],
+  "timestamp": "2026-09-17T08:57:47.372107604Z",
+  "model": "glm-5.3"
+}

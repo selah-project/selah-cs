@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Budou v ní ⟨bydlet⟩ a cherem už ⟨ne⟩⟩ bude, a Jeruzalém bude bydlet v bezpečí.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "budou bydlet"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "a cherem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "a bude bydlet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "v bezpečí"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:39.497306145Z",
+  "model": "glm-5.3"
+}

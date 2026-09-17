@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A stál a požehnal ⟨את⟩ celému shromáždění Izraele velkým hlasem, řka:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a stál"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a požehnal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celému shromáždění Izraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celému"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlasem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velkým"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    }
+  ],
+  "timestamp": "2026-09-17T07:45:27.091200035Z",
+  "model": "glm-5.3"
+}

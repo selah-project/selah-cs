@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 24:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "I řekl Abraham svému sluhovi, staršímu svého domu, který spravoval vše, co měl: Vlož, prosím, svou ruku pod mé stehno.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "svému sluhovi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "staršímu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svého domu"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "který spravoval"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "měl"
+    },
+    {
+      "surface": "שים",
+      "gloss": "vlož"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ירכי",
+      "gloss": "mé stehno"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:20.920325778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 10:25",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Vylej svou prchlivost na národy, které tě nepoznaly, a na čeledi, které ve tvém jménu nezvaly ⟨tě⟩; neboť sežrali ⟨את⟩ Jákoba, sežrali ho a zničili ho a ⟨את⟩ jeho příbytek zpustošili.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Vylej"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "svou prchlivost"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "poznaly tě"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "čeledi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ve tvém jménu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "zvaly ⟨tě⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sežrali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jákoba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "sežrali ho"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "a zničili ho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho příbytek"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "jeho příbytek"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "zpustošili"
+    }
+  ],
+  "timestamp": "2026-09-17T08:21:13.100320506Z",
+  "model": "glm-5.3"
+}

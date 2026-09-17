@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Vrácení vrátíš mu ⟨את⟩ zástavu při západu slunce, a on bude spát ve svém plášti a požehná tobě; a tobě ⟨bude⟩ spravedlnost před tvářemi Jahve, tvého Elohima.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "vrácení"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "vrátíš"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zástavu"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "zástavu"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "při vcházení"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "a bude spát"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "ve svém plášti"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "a požehná tobě"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "a tobě"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tvářemi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvého Elohima"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:21.660950354Z",
+  "model": "glm-5.3"
+}

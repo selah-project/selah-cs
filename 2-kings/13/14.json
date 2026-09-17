@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 13:14",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A Elíša onemocněl ⟨את⟩ svou nemocí, při níž měl zemřít. A sestoupil k němu Joaš, král Izraele, a rozplakal se nad jeho tváří a řekl: Otče můj, otče můj, vozy Izraele a jeho jezdci!",
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "A Elíša"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "onemocněl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou nemocí"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "svou nemocí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "při níž"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "měl zemřít"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a sestoupil"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaš"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "a rozplakal se"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "jeho tváří"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Otče můj"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otče můj"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vozy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "a jeho jezdci"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:31.030197963Z",
+  "model": "glm-5.3"
+}

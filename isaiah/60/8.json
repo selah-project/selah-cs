@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 60,
+  "translation": "Kdo tito ⟨jsou⟩, kdo letí jako mrak a jako holubice ke svým oknům?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tito"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "jako mrak"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "letí"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "a jako holubice"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "svým oknům"
+    }
+  ],
+  "timestamp": "2026-09-17T08:16:41.606897583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A bylo mi to velmi zlé, a vyhodil jsem ⟨את⟩ veškeré náčiní domu Tóbijova ven ze síně.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "a bylo zlé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "a vyhodil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškeré náčiní domu Tóbijova"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "náčiní"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Tóbijova"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ven"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "síně"
+    }
+  ],
+  "timestamp": "2026-09-17T10:14:35.270987007Z",
+  "model": "glm-5.3"
+}

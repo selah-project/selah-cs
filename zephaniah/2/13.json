@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A vzane svou ruku proti severu a zahubí ⟨את⟩ Asýrii a učiní ⟨את⟩ Ninive pustinou suchou jako poušť.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "a vzane"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "severu"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "a zahubí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asýrii"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asýrii"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a učiní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "pustinou"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "suchou"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "jako poušť"
+    }
+  ],
+  "timestamp": "2026-09-17T09:05:26.786571643Z",
+  "model": "glm-5.3"
+}

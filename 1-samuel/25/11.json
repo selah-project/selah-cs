@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A mám vzít ⟨את⟩ svůj chléb, a ⟨את⟩ svou vodu, a ⟨את⟩ své poražené dobytky, které jsem porazil svým střihačům, a dát to mužům, kterým nevím, odkud jsou?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "mám vzít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj chléb"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "svůj chléb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svou vodu"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "svou vodu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "své poražené dobytky"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "své poražené dobytky"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "jsem porazil"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "svým střihačům"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "a dát"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "mužům"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterým"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "vím"
+    },
+    {
+      "surface": "אי",
+      "gloss": "odkud"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "—"
+    },
+    {
+      "surface": "המה",
+      "gloss": "jsou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:55.410218021Z",
+  "model": "glm-5.3"
+}

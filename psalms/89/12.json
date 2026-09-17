@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Tvé ⟨jsou⟩ nebesa, i země ⟨je⟩ tvá; svět i jeho plnost — ty jsi je založil.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Tvé"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tvá"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "svět"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "i jeho plnost"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "jsi je založil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:54.062979475Z",
+  "model": "glm-5.3"
+}

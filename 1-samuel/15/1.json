@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A řekl Samuel Saulovi: ⟨את⟩ mne poslal Jahve, abych tě pomazal za krále nad jeho lidem, nad Izraelem. A nyní slyš hlas slov Jahve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Saulovi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "abych tě pomazal"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "za krále"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeho lidem"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyš"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slov"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:27.880875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 5:16",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Ale on řekl: Jako že žije Jahve, před nímž stojím, nevezmu ⟨nic⟩. A Náaman v něm důrazně naléhal, aby vzal, ale on odmítl.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ale řekl"
+    },
+    {
+      "surface": "חי",
+      "gloss": "žije"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "stojím"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "vezmu"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "naléhal"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "aby vzal"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "ale odmítl"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:13.299619353Z",
+  "model": "glm-5.3"
+}

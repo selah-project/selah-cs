@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A vydá ⟨jí⟩ Jahve, tvůj Elohim, do tvé ruky, a porazíš ⟨את⟩ každého muže v ní ostřím meče.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "vydá ⟨jí⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "do tvé ruky"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "a porazíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "každého muže"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "muže v ní"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostřím"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meče"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:26.310569497Z",
+  "model": "glm-5.3"
+}

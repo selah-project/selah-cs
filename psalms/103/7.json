@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Dal poznat své cesty Mošemu, synům Jisra'el své činy.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Dal poznat"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "své cesty"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mošemu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisra'el"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "své činy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:52.780701019Z",
+  "model": "glm-5.3"
+}

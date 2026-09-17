@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A řekl mu anděl Elohim: Vezmi ⟨את⟩ maso a ⟨את⟩ nekvašené chleby a polož ⟨je⟩ na tuto skálu a ⟨את⟩ vývar vylij. A učinil tak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "anděl"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Vezmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maso"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "nekvašené chleby"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "nekvašené chleby"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "a polož"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "skálu"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "vývar"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "vývar"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "vylij"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "A učinil"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-09-17T07:14:25.154679783Z",
+  "model": "glm-5.3"
+}

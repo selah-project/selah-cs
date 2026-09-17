@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 21:3",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A obrátil se a znovu vystavěl ⟨את⟩ výšiny, které zbořil Chizkijáš, jeho otec; a vztyčil oltáře Baalovi a udělal ašeru, jak udělal Achab, král Izraele; a klaněl se veškerému vojsku nebes a sloužil ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a obrátil se"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a vystavěl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "výšiny"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "výšiny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "zbořil"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijáš"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otec"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a vztyčil"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalovi"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "ašeru"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a klaněl se"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "veškerému"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojsku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "a sloužil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "jejich — oltáře\/ašeru\/vojsko nebes"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:23.819070551Z",
+  "model": "glm-5.3"
+}

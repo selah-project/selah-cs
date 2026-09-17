@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neboť Ezdráš připravil své srdce, aby hledal ⟨את⟩ Tóru Jahve, a ⟨aby⟩ ji konal, a ⟨aby⟩ učil v Izraeli řád a právo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezdráš"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "připravil"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "své srdce"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "aby hledal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tóru"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tóru"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "a ⟨aby⟩ konal"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "a ⟨aby⟩ učil"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Izraeli"
+    },
+    {
+      "surface": "חק",
+      "gloss": "řád"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "a právo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:09:02.464298998Z",
+  "model": "glm-5.3"
+}

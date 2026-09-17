@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Přechodní usedlík a nádeník z toho nejíst nebudou — totiž usedlík a nádeník nesmí z toho jíst.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "přechodní usedlík"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "a nádeník"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bude jíst"
+    },
+    {
+      "surface": "בו",
+      "gloss": "z něj"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:04.718785005Z",
+  "model": "glm-5.3"
+}

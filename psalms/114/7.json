@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 114,
+  "translation": "Před tváří Adona jeví se, země, před tváří Elohaj Jaakova ⟨se chvěj⟩!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "Před tváří"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adona"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "⟨se chvěj⟩ \/ jeví se"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohaj"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakova"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:28.581630203Z",
+  "model": "glm-5.3"
+}

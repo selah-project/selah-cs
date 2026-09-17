@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A Bíl'am vstal časně ráno, osedlal ⟨את⟩ svou oslici a šel s předáky Moábu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a vstal"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bíl'am"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "časně ráno"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "osedlal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou oslici"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "svou oslici"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "předáky"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:46:55.209108471Z",
+  "model": "glm-5.3"
+}

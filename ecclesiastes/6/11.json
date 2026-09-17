@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Neboť jsou věci mnohé, které rozmnožují hebel — co ⟨je⟩ nadbytečného člověku?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יש",
+      "gloss": "jsou"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "věci"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mnohé"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "které rozmnožují"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "nadbytečného"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "člověku"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:30.839065764Z",
+  "model": "glm-5.3"
+}

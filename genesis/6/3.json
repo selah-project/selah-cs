@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 6:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A řekl Jahve: Můj duch se nebude navždy přít s člověkem, vždyť ⟨i on⟩ je tělo; a jeho dny budou sto dvacet let.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידון",
+      "gloss": "se bude přít"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "můj duch"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "s člověkem"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "בשגם",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tělo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "a budou"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "jeho dny"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "a dvacet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:29.336860275Z",
+  "model": "glm-5.3"
+}

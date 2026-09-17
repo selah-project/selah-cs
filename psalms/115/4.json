@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Jejich modly ⟨jsou⟩ stříbro a zlato, dílo lidských rukou.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "jejich modly"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "a zlato"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidských"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:57.401900939Z",
+  "model": "glm-5.3"
+}

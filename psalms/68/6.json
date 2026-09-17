@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Otec sirotků a obhájce vdov — ⟨to je⟩ Elohim ve svém svatém příbytku.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Otec"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "sirotků"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "a obhájce"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "vdov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "ve svém příbytku"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svatém"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:52.968386005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A zapadne-li slunce a očistí se, potom smí jíst ze svatých věcí, neboť ⟨je to⟩ jeho pokrm.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "A zapadne-li"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "a očistí se"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "potom"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smí jíst"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svatých věcí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "jeho pokrm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je to⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:33.976593388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A to bude malé v očích Jahveho, a vydá ⟨את⟩ Móab do vaší ruky.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "a bude malé"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a vydá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Móab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "do vaší ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:26.980417565Z",
+  "model": "glm-5.3"
+}

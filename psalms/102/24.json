@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": " Ponížil mou sílu na cestě, zkrátil mé dny.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Ponížil"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "sílu"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "zkrátil"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mé dny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:43.389473300Z",
+  "model": "glm-5.3"
+}

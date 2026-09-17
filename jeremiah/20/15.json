@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Prokletý muž, který zvěstoval ⟨את⟩ mému otci: „Narodil se ti syn, mužské pohlaví,“ a způsobil mu radost velikou.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Prokletý"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "zvěstoval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mému otci"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mému otci"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkaje"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "Narodil se"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mužské pohlaví"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "způsobil radost"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "mu velikou"
+    }
+  ],
+  "timestamp": "2026-09-17T08:24:43.058496894Z",
+  "model": "glm-5.3"
+}

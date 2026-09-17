@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A řekli: Neutlačil jsi nás ani jsi nás neutiskal, ani jsi nevzal z ruky ⟨žádného⟩ muže nic.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "utlačil jsi nás"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani ne"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "utiskal jsi nás"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani ne"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "vzal jsi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nic"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:17.221868997Z",
+  "model": "glm-5.3"
+}

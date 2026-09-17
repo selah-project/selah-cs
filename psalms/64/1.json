@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 64,
+  "translation": "Pro předního zpěváka, píseň Davidova.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro předního zpěváka"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:16.004150540Z",
+  "model": "glm-5.3"
+}

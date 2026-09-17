@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 14:6",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A ⟨את⟩ syny ⟨těch, kteří⟩ ho zabili, nezabil, jak je psáno v knize tóry Mojžíše, jak přikázal Jahve ⟨tím, že⟩ řekl: Nebudou usmrceni otcové za syny a synové nebudou usmrceni za otce; nýbrž každý člověk zemře za svůj hřích.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "syny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "⟨těch, kteří⟩ ho zabili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "המית",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "jak je psáno"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "v knize"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tóry"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨tím, že⟩ řekl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "budou usmrceni"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "otcové"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "a synové"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "budou usmrceni"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "otce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nýbrž"
+    },
+    {
+      "surface": "אם",
+      "gloss": "každý"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "za svůj hřích"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T13:06:46.991164440Z",
+  "model": "glm-5.3"
+}

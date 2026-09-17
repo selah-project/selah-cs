@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Jahve dá ⟨את⟩ tvé nepřátele, kteří povstávají proti tobě, poražené před tvou tváří — jednou cestou vyjdou proti tobě a sedmi cestami před tebou utečou.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé nepřátele"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tvé nepřátele"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "kteří povstávají"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "proti tobě"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "poražené"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tvou tváří"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jednou cestou"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednou"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "vyjdou"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "proti tobě"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "a sedmi"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "cestami"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "utečou"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:46.100521338Z",
+  "model": "glm-5.3"
+}

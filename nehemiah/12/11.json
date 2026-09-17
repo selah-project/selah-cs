@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A Jojáda zplodil ⟨את⟩ Jónatána a Jónatán zplodil ⟨את⟩ Jadúu.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "A Jojáda"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jónatána"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jónatána"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "a Jónatán"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jadúu"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Jadúu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:14:04.725363224Z",
+  "model": "glm-5.3"
+}

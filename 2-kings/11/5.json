@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 11:5",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "I přikázal jim říkaje: Toto je slovo, které učiníte: třetina z vás, přicházející v šabatu, ⟨a⟩ strážci stráže domu krále.",
+  "tokens": [
+    {
+      "surface": "ויצום",
+      "gloss": "a přikázal jim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkaje"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "učiníte"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "třetina"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "z vás"
+    },
+    {
+      "surface": "באי",
+      "gloss": "přicházející"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "a strážci"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "stráže"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:38.393188106Z",
+  "model": "glm-5.3"
+}

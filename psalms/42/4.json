@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Stala se mi slza má chlebem dnem i nocí, když mi říkají celý den: Kde ⟨je⟩ tvůj Elohim?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Stala se"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "slza má"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dnem"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "i nocí"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "kdy říkají"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Kde"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:17.121623923Z",
+  "model": "glm-5.3"
+}

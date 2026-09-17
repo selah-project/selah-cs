@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 134,
+  "translation": "Zdvihněte své ruce k svatyni a velebte ⟨את⟩ Jahve!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Zdvihněte"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "své ruce"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "k svatyni"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "a velebte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:02.129591108Z",
+  "model": "glm-5.3"
+}

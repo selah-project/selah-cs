@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I řekl král moudrcům, znalcům ⟨těch⟩ časů — neboť tak ⟨byl⟩ slovův krále před všemi znalci zákona a práva —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "moudrcům"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "znalcům"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "časů"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovův"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všemi"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "znalci"
+    },
+    {
+      "surface": "דת",
+      "gloss": "zákona"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "a práva"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:10.373478798Z",
+  "model": "glm-5.3"
+}

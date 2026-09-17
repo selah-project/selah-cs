@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A přivedl Samuel ⟨את⟩ všechny kmeny Izraele blíž, a byl vylosován kmen Benjamín.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a přivedl blíž"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny kmeny Izraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kmeny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a byl vylosován"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kmen"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamín"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:30.555324615Z",
+  "model": "glm-5.3"
+}

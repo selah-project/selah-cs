@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Celý den mě haní moji nepřátelé; ti, kdo se proti mně šílí, ve mně se zaklínají.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "mě haní"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "moji nepřátelé"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "ti, kdo se šílí"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ve mně"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "se zaklínají"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:50.414081543Z",
+  "model": "glm-5.3"
+}

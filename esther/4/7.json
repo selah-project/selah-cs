@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A vyjevil mu Mordokaj ⟨את⟩ všechno, co jej potkalo, i ⟨את⟩ sumu stříbra, kterou řekl Haman odvážit do pokladnic krále kvůli Židům, aby je zahubil.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a vyjevil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "jej potkalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "sumu stříbra"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "sumu"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "odvážit"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "pokladnic"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "kvůli Židům"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "aby je zahubil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:52.615741795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Lepší je ⟨otevřená⟩ kárání nežli láska skrytá.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "lepší ⟨je⟩"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "kárání"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "otevřená"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "nežli láska"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "skrytá"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:59.388231205Z",
+  "model": "glm-5.3"
+}

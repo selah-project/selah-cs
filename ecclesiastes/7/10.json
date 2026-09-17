@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neříkej: „Co ⟨bylo⟩ ⟨to⟩, že dřívější dny byly lepší než tyto?“ Neboť ne z moudrosti se ptáš na toto.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "říkej"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨bylo⟩"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "že dny"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "dřívější"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byly"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "lepší"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "než tyto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "z moudrosti"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ptáš se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:19.328861840Z",
+  "model": "glm-5.3"
+}

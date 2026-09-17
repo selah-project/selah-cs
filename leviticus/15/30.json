@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A kněz zhotoví ⟨את⟩ jedno ⟨jako⟩ oběť za hřích a ⟨את⟩ druhé ⟨jako⟩ zápalnou oběť, a kněz vykoná za ni smíření před Jahvem kvůli výtoku její nečistoty.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "a zhotoví"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jedno"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "oběť za hřích"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "druhé"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "druhé"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "zápalná oběť"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a vykoná smíření"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "za ni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "výtokem"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "její nečistoty"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:27.017053299Z",
+  "model": "glm-5.3"
+}

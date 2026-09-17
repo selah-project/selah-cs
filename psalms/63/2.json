@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 63,
+  "translation": "Elohime, El můj, ty jsi — za úsvitu tě hledám, žízní po tobě má duše, po tobě prahne mé tělo v zemi suché a vyhaslé, bez vody.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El můj"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty jsi"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "za úsvitu tě hledám"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "žízní"
+    },
+    {
+      "surface": "לך",
+      "gloss": "po tobě"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "prahne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "po tobě"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mé tělo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "suché"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "a vyhaslé"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:25.189689623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 14:13",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A budou ho oplakovat všichni v Izraeli a pohřbí ⟨את⟩ ho, neboť tento jediný přijde z Jereboámových do hrobu, protože v něm bylo nalezeno cos dobrého vůči Jahvemu, Elohimovi Izraele, v domě Jereboámově.",
+  "tokens": [
+    {
+      "surface": "וספדו",
+      "gloss": "a budou oplakovat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "v Izraeli"
+    },
+    {
+      "surface": "וקברו",
+      "gloss": "a pohřbí"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (Jereboámovo dítě)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "jediný"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "přijde"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "z Jereboámových"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "hrobu"
+    },
+    {
+      "surface": "יען",
+      "gloss": "protože"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "bylo nalezeno"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "cos"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrého"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vůči"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimovi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jereboámově"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:08.640900644Z",
+  "model": "glm-5.3"
+}

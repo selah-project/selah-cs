@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A kněz odpověděl Davidovi ⟨את⟩ a řekl: Není obyčejného chleba v mé ruce, ale jen svatý chléb je ⟨tu⟩ — zda se mládenci ostříhali alespoň od ženy.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a odpověděl"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidovi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "חל",
+      "gloss": "obyčejného"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mou rukou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ale"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zda"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "se ostříhali"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "mládenci"
+    },
+    {
+      "surface": "אך",
+      "gloss": "alespoň"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "od ženy"
+    }
+  ],
+  "timestamp": "2026-09-17T07:29:21.143505217Z",
+  "model": "glm-5.3"
+}

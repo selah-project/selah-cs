@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Proč nás navěky zapomínáš, opouštíš nás na dlouhé dny?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "nás zapomínáš"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "nás opouštíš"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "na dlouhé"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:10.207347718Z",
+  "model": "glm-5.3"
+}

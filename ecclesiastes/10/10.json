@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Je-li železo tupé a ⟨on⟩ si nabrousil ⟨ostří⟩ — neostří — víc sil vynaloží; a výhodou je, že chrabrost umeje moudrost.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "je-li"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "tupé"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "železo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a ⟨on⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "⟨ostří⟩ (tvář\/čepel)"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "nabrousil — neostří"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "víc sil"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "vynaloží"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "a výhodou"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "umeje \/ způsobili"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:25.155872660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "dokud Jahve nevyhlédne a nespatří z nebes.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "nevyhlédne"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a nespatří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "z nebes"
+    }
+  ],
+  "timestamp": "2026-09-17T09:56:46.415237125Z",
+  "model": "glm-5.3"
+}

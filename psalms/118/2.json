@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Ať nyní řekne Izrael: že na věčnost ⟨trvá⟩ jeho chesed.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "Ať řekne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věčnost"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:30.168309212Z",
+  "model": "glm-5.3"
+}

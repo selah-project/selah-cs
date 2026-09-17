@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Nebudou zahanbeni v čas zla a v dnech hladu budou nasyceni.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nebudou"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "zahanbeni"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "v čas"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zla"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "a v dnech"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "hladu"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "budou nasyceni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:55.748699638Z",
+  "model": "glm-5.3"
+}

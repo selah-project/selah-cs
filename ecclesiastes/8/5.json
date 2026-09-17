@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Kdo střeží přikázání, nepozná ⟨žádnou⟩ zlou věc; a čas a právo zná srdce moudrého.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Kdo střeží"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "pozná"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlou"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a čas"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "a právo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrého"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:30.264302033Z",
+  "model": "glm-5.3"
+}

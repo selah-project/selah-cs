@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Cestu lži odvrť ode mě a se svou tórou mi smiluj ⟨se⟩!",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lži"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "odvrť"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mě"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "a se svou tórou"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mi smiluj ⟨se⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:48.049789637Z",
+  "model": "glm-5.3"
+}

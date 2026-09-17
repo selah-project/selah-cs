@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "V Jahve se chlubí má duše, uslyší ⟨to⟩ pokorní a budou se radovat.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "V Jahve"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "se chlubí"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "uslyší"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pokorní"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "a budou se radovat"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:51.137896609Z",
+  "model": "glm-5.3"
+}

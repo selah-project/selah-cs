@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 22:13",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A Abrahám pozvedl ⟨את⟩ své oči a viděl — a hle, beran vzadu, zachycen v houštíně svými rohy. Abrahám šel a vzal ⟨את⟩ berana a vyvedl jej jako zápalnou oběť místo svého syna.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "pozvedl"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své oči"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "své oči"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "איל",
+      "gloss": "beran"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "vzadu"
+    },
+    {
+      "surface": "נאחז",
+      "gloss": "zachycen"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "v houštíně"
+    },
+    {
+      "surface": "בקרניו",
+      "gloss": "svými rohy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahám"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berana"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berana"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "a vyvedl jej"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "jako zápalnou oběť"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svého syna"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:15.212152351Z",
+  "model": "glm-5.3"
+}

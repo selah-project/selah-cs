@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 121,
+  "translation": "Hle, nezdrhá a nespal ten, kdo střeží Izrael.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "zdrhá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "spal"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ten, kdo střeží"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:59.721602155Z",
+  "model": "glm-5.3"
+}

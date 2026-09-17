@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A řekl: Proč ty dnes jdeš k němu? Není novměsíc ani šabat. A ona řekla: Šalom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "dnes jdeš"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Není"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novměsíc"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "A ona řekla"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Šalom"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:42.437668917Z",
+  "model": "glm-5.3"
+}

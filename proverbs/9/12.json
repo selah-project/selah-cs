@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Jsi-li moudrý, moudrý jsi ⟨sám⟩ sobě; a vysmíváš-li se, sám neseš ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jsi-li"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "moudrý"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "moudrý jsi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sobě"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "a vysmíváš-li se"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sám"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "neseš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:37:10.672441686Z",
+  "model": "glm-5.3"
+}

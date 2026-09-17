@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 23:11",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Svou ruku vztáhl nad moře, roztřásl království: Jahve přikázal ⟨proti⟩ Kenaanu, aby zničil jeho pevnosti.",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "vztáhl"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "הרגיז",
+      "gloss": "roztřásl"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "království"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanu"
+    },
+    {
+      "surface": "לשמד",
+      "gloss": "zničit"
+    },
+    {
+      "surface": "מעזניה",
+      "gloss": "jeho pevnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T10:58:33.534551566Z",
+  "model": "glm-5.3"
+}

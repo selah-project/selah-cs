@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A toto je tóra ašamu: svaté svatých ⟨je to⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tóra"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ašamu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svaté"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svatých"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je to⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:59.831711779Z",
+  "model": "glm-5.3"
+}

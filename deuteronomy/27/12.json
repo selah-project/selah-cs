@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Tito budou stát, aby žehnali ⟨את⟩ lidu, na hoře Gerizim, když přejdete ⟨את⟩ Jordán: Šimeón a Lévi a Jehuda a Isachar a Josef a Binjamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Tito"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "budou stát"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "aby žehnali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lidu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hoře"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "když přejdete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Šimeón"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "a Lévi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Jehuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "a Isachar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "a Josef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "a Binjamin"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:18.619173888Z",
+  "model": "glm-5.3"
+}

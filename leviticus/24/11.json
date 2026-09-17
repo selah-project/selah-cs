@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A vyslovil syn ženy izraelské ⟨את⟩ Jméno a zlořečil; a přivedli ⟨את⟩ jej k Mojžíšovi. Jméno jeho matky ⟨bylo⟩ Šelomit, dcera Dibrího, z pokolení Danu.",
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "a vyslovil"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "izraelské"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jméno"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Jméno"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "a zlořečil"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "a přivedli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jméno"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jeho matky"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Šelomit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Dibrího"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "z pokolení"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Danu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:10.249318684Z",
+  "model": "glm-5.3"
+}

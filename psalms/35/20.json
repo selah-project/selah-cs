@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Neboť ne pokoj mluví, nýbrž proti pokojným země slova podvodu vymýšlejí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mluví"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "pokojným"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "podvodu"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "vymýšlejí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:04.911937009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Když Šaddaj rozehnal krále ⟨tam⟩, sněžilo ⟨na⟩ Cálmonu.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "rozehnal"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Šaddaj"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "krále"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨tam⟩"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "sněžilo"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "⟨na⟩ Cálmonu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:56.657265211Z",
+  "model": "glm-5.3"
+}

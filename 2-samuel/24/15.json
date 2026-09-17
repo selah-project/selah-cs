@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 24:15",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A Jahve dal mor do Izraele od rána až do času ⟨stanoveného⟩; a zemřelo z lidu od Danu až po Beer-šebu sedmdesát tisíc mužů.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mor"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "do Izraele"
+    },
+    {
+      "surface": "מהבקר",
+      "gloss": "od rána"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "עת",
+      "gloss": "času"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "⟨stanoveného⟩"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřelo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "od Danu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-šebu"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sedmdesát"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    }
+  ],
+  "timestamp": "2026-09-17T10:53:31.036405516Z",
+  "model": "glm-5.3"
+}

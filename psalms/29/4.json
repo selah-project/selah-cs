@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Hlas Jahveův ⟨je⟩ v moci, hlas Jahveův ⟨je⟩ ve vznešenosti.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Hlas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveův"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "v moci"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveův"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "ve vznešenosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:40.192704128Z",
+  "model": "glm-5.3"
+}

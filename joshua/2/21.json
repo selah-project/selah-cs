@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A řekla: „Podle vašich slov, tak ⟨to⟩ je.“ A poslala ⟨je⟩, a odešli; a uvázala ⟨את⟩ šarlatovou šňůru do okna.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "podle vašich slov"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je ⟨to⟩"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "poslala ⟨je⟩"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "odešli"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "a uvázala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šarlatovou šňůru"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "šarlatovou šňůru"
+    },
+    {
+      "surface": "השני",
+      "gloss": "šarlatovou"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "do okna"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:22.838365532Z",
+  "model": "glm-5.3"
+}

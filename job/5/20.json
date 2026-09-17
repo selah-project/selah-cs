@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "V hladu tě vykoupí ze smrti, a ve válce z ⟨rukou⟩ meče.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "V hladu"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "tě vykoupí"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ze smrti"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "a ve válce"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "z ⟨rukou⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meče"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:30.180611142Z",
+  "model": "glm-5.3"
+}

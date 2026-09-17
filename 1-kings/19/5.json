@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A lehl si a usnul pod jedním retemem; a hle, ⟨to⟩ ⟨byl⟩ anděl, dotkl se ho a řekl mu: Vstaň, jez.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a lehl si"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "a usnul"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "retemem"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedním"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "anděl"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "dotkl se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Vstaň"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "jez"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:19.545642056Z",
+  "model": "glm-5.3"
+}

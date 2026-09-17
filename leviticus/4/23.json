@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "nebo je-li mu dáno vědět ⟨o⟩ hříchu svého, který spáchal, přivede ⟨את⟩ svou oběť: kozlího kance, samce bez vady.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "je dáno vědět"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "hřích svůj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "spáchal"
+    },
+    {
+      "surface": "בה",
+      "gloss": "jím"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "přivede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou oběť"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "svou oběť"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kance"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kozího"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samce"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez vady"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:38.791833422Z",
+  "model": "glm-5.3"
+}

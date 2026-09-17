@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 130,
+  "translation": "Duše má ⟨čeká⟩ na Adonaje víc než strážci na jitro, strážci na jitro.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "duše má"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "na Adonaje"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "než strážci"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "na jitro"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "strážci"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "na jitro"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:26.504044067Z",
+  "model": "glm-5.3"
+}

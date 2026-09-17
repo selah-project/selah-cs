@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Esav si vzal ⟨את⟩ své ženy z dcer Kenaanu: ⟨את⟩ Ádu, dceru Elona Cheteje, a ⟨את⟩ Ahalibamu, dceru Anáa, dceru Civeóna Chiveje.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vzal si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své ženy"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "své ženy"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "z dcer"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ádu"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ádu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elona"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Cheteje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Ahalibamu"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Ahalibamu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anáa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Civeóna"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chiveje"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:22.149810536Z",
+  "model": "glm-5.3"
+}

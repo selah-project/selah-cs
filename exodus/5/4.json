@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A řekl jim král Egypta: Proč vy, Moše a Arone, odvádíte ⟨את⟩ lid od jeho prací? Jděte ke svým robotám!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "odvádíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "od jeho prací"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "jděte"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "ke svým robotám"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:19.208898435Z",
+  "model": "glm-5.3"
+}

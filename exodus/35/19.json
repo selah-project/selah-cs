@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "⟨את⟩ šaty služby ke sloužení ve svatyni, ⟨את⟩ svaté šaty pro Árona kněze a ⟨את⟩ šaty jeho synů ke kněžské službě.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šaty služby"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "šaty"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "služby"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ke sloužení"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ve svatyni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svaté šaty pro Árona"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "šaty"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svaté"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "pro Árona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "šaty jeho synů"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "šaty"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synů"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ke kněžské službě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:51.760337099Z",
+  "model": "glm-5.3"
+}

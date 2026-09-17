@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 52:15",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Z chudých lidu a ⟨את⟩ zbytek lidu, který zbyl ve městě, a ⟨את⟩ ty, kteří odpadli a padli ke králi Babylonu, a ⟨את⟩ zbytek davu odvlekl do zajetí Nebúzaradan, rabb katů.",
+  "tokens": [
+    {
+      "surface": "ומדלות",
+      "gloss": "z chudých"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zbytek lidu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "zbytek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "který zbyl"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ty, kteří odpadli"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ty, kteří odpadli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylonu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zbytek davu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "zbytek"
+    },
+    {
+      "surface": "האמון",
+      "gloss": "davu"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "odvlekl do zajetí"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebúzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rabb"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "katů"
+    }
+  ],
+  "timestamp": "2026-09-17T08:37:26.602316111Z",
+  "model": "glm-5.3"
+}

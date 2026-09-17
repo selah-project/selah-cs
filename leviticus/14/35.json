@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A ten, jehož je ⟨tento⟩ dům, přijde a ohlásí knězi slovy: ⟨Jako⟩ vřed se mi ukázal v domě.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "a přijde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jehož"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu (je)"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨tento⟩ dům"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "a ohlásí"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "knězi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "slovy:"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "⟨Jako⟩ vřed"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "se ukázal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:00.060290492Z",
+  "model": "glm-5.3"
+}

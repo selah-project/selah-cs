@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 84,
+  "translation": "Jak milá ⟨jsou⟩ tvá příbytky, Jahve Cevaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Jak"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "milá"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "tvá příbytky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:25.765035018Z",
+  "model": "glm-5.3"
+}

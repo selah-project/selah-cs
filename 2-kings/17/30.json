@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A muži babylónští udělali ⟨את⟩ Sukót-benot, a muži kútští udělali ⟨את⟩ Nergal, a muži chamátští udělali ⟨את⟩ Ašima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "a muži"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babylónští"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "udělali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukót-benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukót"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "a muži"
+    },
+    {
+      "surface": "כות",
+      "gloss": "kútští"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "udělali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "a muži"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "chamátští"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "udělali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ašima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ašima"
+    }
+  ],
+  "timestamp": "2026-09-17T07:58:34.670730827Z",
+  "model": "glm-5.3"
+}

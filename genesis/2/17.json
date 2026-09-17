@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A ze stromu poznání dobra a zla z něj nebudeš jíst, neboť v den, kdy z něj budeš jíst, smrtí zemřeš.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "a ze stromu"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "poznání"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobra"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "a zla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebudeš"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "budeš jíst"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "zemřeš"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:08.895296486Z",
+  "model": "glm-5.3"
+}

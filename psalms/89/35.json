@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Svou smlouvu neznesvěcím a to, co vyšlo z mých rtů, nezmění ⟨se⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "znesvěcím"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "svou smlouvu"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "a co vyšlo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "z mých rtů"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "změní ⟨se⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:07.784673533Z",
+  "model": "glm-5.3"
+}

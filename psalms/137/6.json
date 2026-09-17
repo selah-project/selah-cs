@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 137,
+  "translation": "Přilne můj jazyk k mé patře, nebudu-li si tě připomínat, nevyvýším-li Jeruzalém na vrchol své radosti ⟨את⟩ Jeruzalém na vrchol své radosti.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "Přilne"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "můj jazyk"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "k mé patře"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nebudu-li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "si tě připomínat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nevyvýším-li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "vyvýším"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalém"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "על",
+      "gloss": "na vrchol"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vrchol"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "své radosti"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:30.898474173Z",
+  "model": "glm-5.3"
+}

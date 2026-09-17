@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Vylažte, lodi Taršíše, neboť zpustošen je ⟨váš⟩ pevnost⟨ní⟩ přístav!",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Vylažte"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "lodi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Taršíše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "zpustošen je"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "váš pevnostní přístav"
+    }
+  ],
+  "timestamp": "2026-09-17T11:45:25.739690400Z",
+  "model": "glm-5.3"
+}

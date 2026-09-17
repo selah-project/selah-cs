@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 11:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Z národů, o kterých řekl Jahve synům Izraele: Nevejdete se k nim a oni se nevejdou k vám, neboť jistě odkloní ⟨את⟩ vaše srdce za jejich Elohim — k nim přilnul Šalomoun v lásce.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Z"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o kterých"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "vejdete se"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "k nim"
+    },
+    {
+      "surface": "והם",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vejdou"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "k vám"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "neboť jistě"
+    },
+    {
+      "surface": "יטו",
+      "gloss": "odkloní"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše srdce"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "vaše srdce"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "jejich Elohim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "k nim"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "přilnul"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "v lásce"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:27.490934783Z",
+  "model": "glm-5.3"
+}

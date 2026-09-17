@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Své svatosti jsem v tobě ⟨nechal⟩ opovrhovat, a ⟨את⟩ své šabaty jsi znesvěcila.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "svatosti"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "opovrhovat jsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "své šabaty"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "šabaty"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "znesvěcila jsi"
+    }
+  ],
+  "timestamp": "2026-09-17T08:44:21.121957642Z",
+  "model": "glm-5.3"
+}

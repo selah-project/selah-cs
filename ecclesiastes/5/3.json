@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Když slibuješ slib Elohim, neodkládej jej splnit, neboť v bláznech není ⟨žádné⟩ potěšení; ⟨את⟩ to, co slibuješ, splň.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "slibuješ"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "slib"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "odkládej"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "jej splnit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "potěšení"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "v bláznech"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co slibuješ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, co"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "slibuješ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "splň"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:23.331096441Z",
+  "model": "glm-5.3"
+}

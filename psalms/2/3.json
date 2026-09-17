@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "„ Roztrhejme ⟨את⟩ jejich pouta a odhoďme od nás jejich provazy.“",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Roztrhejme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich pouta"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "jejich pouta"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "a odhoďme"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od nás"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "jejich provazy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:52.705370405Z",
+  "model": "glm-5.3"
+}

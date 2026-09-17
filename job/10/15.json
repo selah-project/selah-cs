@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Jestliže jsem se dopustil bezpráví, běda mi; a jestliže jsem spravedlivý, nezdviím ⟨svou⟩ hlavu — syt hanby ⟨a⟩ hleď na svou bídu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "jsem se dopustil bezpráví"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "běda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "a jestliže jsem spravedlivý"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "zdviím"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "syt"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "hanby"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a hleď"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "na svou bídu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:46:48.784061399Z",
+  "model": "glm-5.3"
+}

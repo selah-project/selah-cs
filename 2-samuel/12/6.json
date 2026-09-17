@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A ⟨את⟩ ovci nahradí čtyřnásobně, proto že vykonal ⟨את⟩ ten čin, a proto že neměl slitování.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ovci"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "ovci"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "nahradí"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "čtyřnásobně"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "proto že"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "vykonal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ten čin"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ten čin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a proto že (na)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "měl slitování"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:50.979530007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "a z krajin je shromáždil, od východu i od západu, od severu a od moře.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "a z krajin"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "je shromáždil"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "od východu"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "i od západu"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "od severu"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "a od moře"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:49.816449591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Neboť ty jsi ten, který mě vyvedl z lůna, ⟨ten, který⟩ mi dal důvěru na prsech své matky.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "jsi ten, který vyvedl"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "z lůna"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "dal mi důvěru"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "prsech"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "své matky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:14.068191226Z",
+  "model": "glm-5.3"
+}

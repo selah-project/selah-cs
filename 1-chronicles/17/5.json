@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Neboť jsem nebydlel v ⟨domě⟩ od dne, kdy jsem vyvedl ⟨את⟩ Izrael, až do tohoto dne, a byl jsem od stanu ke stanu a od příbytku ⟨k příbytku⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "bydlel jsem"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v ⟨domě⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "vyvedl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tohoto dne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "a byl jsem"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "od stanu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "a od příbytku ⟨k příbytku⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:01.368283850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Neboť jako je vysoko nebe nad ⟨zemí⟩, tak převládl jeho chesed nad těmi, kdo se ho bojí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "jako je vysoko"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨zemí⟩ (zemí)"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "převládl"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "těmi, kdo se ho bojí"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:25.524249898Z",
+  "model": "glm-5.3"
+}

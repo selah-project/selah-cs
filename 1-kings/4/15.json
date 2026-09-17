@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Achimaas v Neftalí; i on si vzal ⟨את⟩ Basemat, dceru Šalomounovu, za ženu.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaas"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "v Neftalí"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "si vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basemat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basemat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomounovu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:09.916696653Z",
+  "model": "glm-5.3"
+}

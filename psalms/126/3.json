@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 126,
+  "translation": "Velké věci učinil Jahve s námi; byli jsme radostní.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "Velké věci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "s námi"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "byli jsme"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "radostní"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:45.880909613Z",
+  "model": "glm-5.3"
+}

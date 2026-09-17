@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 5:6",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "a přivede ⟨את⟩ svůj vinný obětinský dar Jahvovi za svůj hřích, kterého se dopustil: samici z bravu, ovci nebo kozu, za oběť za hřích; a kněz za něj vykoná smíření za jeho hřích.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "a přivede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj vinný obětinský dar"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "svůj vinný obětinský dar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "על",
+      "gloss": "za"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "svůj hřích"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterého"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "se dopustil"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "samic"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "bravu"
+    },
+    {
+      "surface": "כשבה",
+      "gloss": "ovci"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "שעירת",
+      "gloss": "kozu"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kozel"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za oběť za hřích"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a vykoná smíření"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "za něj"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "za jeho hřích"
+    }
+  ],
+  "timestamp": "2026-09-17T06:30:28.726740149Z",
+  "model": "glm-5.3"
+}

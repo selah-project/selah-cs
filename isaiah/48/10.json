@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "Hle, tavil jsem tě, ale ne stříbrem; vyvolil jsem si tě v peci bídy.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "tavil jsem tě"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "stříbrem"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "vyvolil jsem si tě"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "v peci"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bídy"
+    }
+  ],
+  "timestamp": "2026-09-17T08:13:06.601042063Z",
+  "model": "glm-5.3"
+}

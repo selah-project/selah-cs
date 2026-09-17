@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Peleg žil třicet let a zplodil ⟨את⟩ Reua.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a žil"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reua"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reua"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:20.886693285Z",
+  "model": "glm-5.3"
+}

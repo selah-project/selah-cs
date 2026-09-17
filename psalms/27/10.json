@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Neboť otec i matka mě opustili — a Jahve mě přijme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otec"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "i matka"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "mě opustili"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "mě přijme"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:27.161207564Z",
+  "model": "glm-5.3"
+}

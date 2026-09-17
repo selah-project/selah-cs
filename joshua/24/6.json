@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A vyvedl jsem ⟨את⟩ vaše otce z Egypta, a přišli jste k moři, a Egyptané pronásledovali vaše otce s vozy a jezdci — moře suce.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "a vyvedl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše otce"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "vaše otce"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "a přišli jste"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "k moři"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "a pronásledovali"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptané"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "vašimi otci"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "s vozy"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "a jezdci"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "suce"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:17.904708663Z",
+  "model": "glm-5.3"
+}

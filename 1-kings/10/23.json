@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A stal se větším král Šalomoun než všichni králové země — bohatstvím i moudrostí.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "A stal se větším"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "než všichni"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králové"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "bohatstvím"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "i moudrostí"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:50.877960571Z",
+  "model": "glm-5.3"
+}

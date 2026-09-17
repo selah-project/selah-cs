@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A kněz přikáže ⟨a⟩ zabít ⟨את⟩ jednoho ptáka do nádoby z hlíněné keramiky, nad vodou živou.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "přikáže"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "⟨a⟩ zabít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednoho ptáka"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ptáka"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nádoby"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "z hlíněné keramiky"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodou"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živou"
+    }
+  ],
+  "timestamp": "2026-09-17T11:48:12.477512398Z",
+  "model": "glm-5.3"
+}

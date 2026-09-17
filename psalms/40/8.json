@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Tehdy jsem řekl: Hle, přišel jsem — v svitku knihy ⟨je⟩ napsáno o mně.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tehdy"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jsem řekl"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "přišel jsem"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "v svitku"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knihy"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "napsáno"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "o mně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:46.774458939Z",
+  "model": "glm-5.3"
+}

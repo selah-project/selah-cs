@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "I řekl král: Smrtí ⟨zemřeš⟩, Achimeleku, ty i celý dům tvého otce.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "i řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "⟨zemřeš⟩"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimeleku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i celý"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvého otce"
+    }
+  ],
+  "timestamp": "2026-09-17T07:29:05.135317266Z",
+  "model": "glm-5.3"
+}

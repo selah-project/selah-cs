@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Pijavice má dvě dcery: „Dej, dej!“ Tři ⟨věci⟩ se nenasytí, čtyři neřekly: „Dost!“",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "pijavice"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dcery"
+    },
+    {
+      "surface": "הב",
+      "gloss": "Dej"
+    },
+    {
+      "surface": "הב",
+      "gloss": "dej"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "Tři"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨věci⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "se nenasytí"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "neřekly"
+    },
+    {
+      "surface": "הון",
+      "gloss": "„Dost!“"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:28.470003049Z",
+  "model": "glm-5.3"
+}

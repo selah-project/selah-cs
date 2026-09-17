@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Azarjah zplodil ⟨את⟩ Chelece, a Chelec zplodil ⟨את⟩ Elasau.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "A Azarjah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chelece"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Chelec"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "a Chelec"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasau"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasa"
+    }
+  ],
+  "timestamp": "2026-09-17T10:14:58.350066517Z",
+  "model": "glm-5.3"
+}

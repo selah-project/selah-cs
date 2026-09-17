@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A Enóš žil devadesát let a zplodil ⟨את⟩ Kénana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "žil"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enóš"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "devadesát"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kénana"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kénana"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:55.701783907Z",
+  "model": "glm-5.3"
+}

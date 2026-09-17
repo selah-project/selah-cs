@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A Šaúl poslechl hlasu Jonatánova, a Šaúl přísahal: „Jako že živ je Jahve, nebude usmrcen.“",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a poslechl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúl"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlasu"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatána"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "a přísahal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúl"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jako že"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bude usmrcen"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:40.676973974Z",
+  "model": "glm-5.3"
+}

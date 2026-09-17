@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Jahve, ve tvé síle ⟨se⟩ raduje král, a ve tvé spáse jak velmi jásá!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ve tvé síle"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje ⟨se⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "a ve tvé spáse"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "jásá"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:01.745767250Z",
+  "model": "glm-5.3"
+}

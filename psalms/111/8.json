@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 111,
+  "translation": "Podpírají se na věky, na věčnost, učiněná ⟨jsou⟩ v pravdě a přímosti.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "Podpírají se"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věčnost"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "učiněna"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "v pravdě"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "a přímosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:28.546476405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 14:15",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "zabiješ-li ⟨את⟩ tento lid jako jednoho muže, pak řeknou národy, které slyšely ⟨את⟩ tvou pověst, takto:",
+  "tokens": [
+    {
+      "surface": "והמתה",
+      "gloss": "zabiješ-li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "jako muže"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "pak řeknou"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "slyšely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou pověst"
+    },
+    {
+      "surface": "שמעך",
+      "gloss": "tvou pověst"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto"
+    }
+  ],
+  "timestamp": "2026-09-17T06:44:03.751555840Z",
+  "model": "glm-5.3"
+}

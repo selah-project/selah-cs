@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Kdo bedlivě čeká na vítr, nebude seít; a kdo hledí na mraky, nebude žnout.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Kdo bedlivě čeká"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "na vítr"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebude"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "seít"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a kdo hledí"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "na mraky"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebude"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "žnout"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:12.022680121Z",
+  "model": "glm-5.3"
+}

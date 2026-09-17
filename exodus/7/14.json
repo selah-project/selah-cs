@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A řekl Jahve Mojžíšovi: Těžké ⟨je⟩ srdce faraona, odmítá propustit lid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "těžké"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "odmítá"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "propustit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:51.288856786Z",
+  "model": "glm-5.3"
+}

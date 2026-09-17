@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A zabil ⟨את⟩ zápalnou oběť, a předložili synové Aharonovy k němu ⟨את⟩ krev, a stříkl ⟨ji⟩ na oltář kolem dokola.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "a zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zápalnou oběť"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalnou oběť"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "a předložili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonovy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krev"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "a stříkl ⟨ji⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:06.694046314Z",
+  "model": "glm-5.3"
+}

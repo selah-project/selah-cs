@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Král řekl: Odejdi ⟨stranou⟩, postav se zde. A on odešel ⟨stranou⟩ a stal ⟨se⟩ ⟨tam⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "סב",
+      "gloss": "Odejdi stranou"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "postav se"
+    },
+    {
+      "surface": "כה",
+      "gloss": "zde"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "odešel stranou"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "a stal se"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:08.293782Z",
+  "model": "glm-5.3"
+}

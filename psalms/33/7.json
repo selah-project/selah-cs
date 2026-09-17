@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Shromažďuje ⟨jako⟩ hromadu vody moře, ukládá do svých pokladnic hlubiny.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Shromažďuje"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "⟨jako⟩ hromadu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vody"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ukládá"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "do pokladnic"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "hlubiny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:32.897389388Z",
+  "model": "glm-5.3"
+}

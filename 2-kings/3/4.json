@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A Méša, král Moábu, byl chovatelem ovcí a odváděl králi Izraele sto tisíc beránků a sto tisíc beranů, vlnu.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "A Méša"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "chovatelem ovcí"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "a odváděl"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "beránků"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "a sto"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "beranů"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "vlnu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:13.971692582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 48:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "A oznámili ⟨to⟩ Jákobovi a řekli: Hle, tvůj syn Jósef přichází k tobě. A Izrael se posílil a posadil se na ⟨postel⟩.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "A oznámili"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Jákobovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvůj syn"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přichází"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "A posílil se"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a posadil se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "postel"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:21.480058465Z",
+  "model": "glm-5.3"
+}

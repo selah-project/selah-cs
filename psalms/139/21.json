@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Což nenávidím ty, kdož tě nenávidí, Jahve, a s tvými povstalci vedu spor?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Což ne"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "ty, kdož tě nenávidí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "nenávidím"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "s tvými povstalci"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "vedu spor"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:32.996322943Z",
+  "model": "glm-5.3"
+}

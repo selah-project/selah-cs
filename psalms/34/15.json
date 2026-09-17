@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Odvrať se od zlého a čiň dobré, hledej pokoj a pronásleduj ⟨ho⟩.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Odvrať se"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "od zlého"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a čiň"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "hledej"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "a pronásleduj ⟨ho⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:48.723290639Z",
+  "model": "glm-5.3"
+}

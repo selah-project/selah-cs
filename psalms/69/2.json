@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Zachraň mě, Elohime, neboť vody vstoupily až k ⟨mé⟩ duši.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Zachraň mě"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "באו",
+      "gloss": "vstoupily"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duši"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:34.033360324Z",
+  "model": "glm-5.3"
+}

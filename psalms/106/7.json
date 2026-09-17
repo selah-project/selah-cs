@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "Naši otcové v Egyptě neprohlédli tvá zázraky, nevzpomněli na ⟨את⟩ hojnost tvých slitování, ale vzbouřili se u moře, u moře Súf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "naši otcové"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Egyptě"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "neprohlédli"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "tvá zázraky"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "nevzpomněli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hojnost"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hojnost"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "tvých slitování"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "vzbouřili se"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "בים",
+      "gloss": "u moře"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Súf"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:00.504590266Z",
+  "model": "glm-5.3"
+}

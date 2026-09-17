@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Tehdy půjdeš bezpečně svou cestou a tvá noha se nezakopne.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tehdy"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "půjdeš"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bezpečně"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "svou cestou"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "a tvá noha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "sezakopne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:11.169337764Z",
+  "model": "glm-5.3"
+}

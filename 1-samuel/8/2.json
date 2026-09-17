@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A ⟨bylo⟩ jméno jeho prvorozeného syna Joel a jméno jeho druhého Abijáš, soudci v Be'er-ševě.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A ⟨bylo⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syna"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorozeného"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Joel"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jméno"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "jeho druhého"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abijáš"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "soudci"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "v Be'er-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-ševě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:51.869202742Z",
+  "model": "glm-5.3"
+}

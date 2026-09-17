@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A zbudoval ⟨את⟩ dům a dokončil jej; a obložil ⟨את⟩ dům trámy a řadami cedrovými.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "A zbudoval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "a dokončil jej"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "a obložil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "trámy"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "a řadami"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "cedrovými"
+    }
+  ],
+  "timestamp": "2026-09-17T07:42:58.579963785Z",
+  "model": "glm-5.3"
+}

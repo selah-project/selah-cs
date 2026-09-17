@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A muž Elkana vytáhl ⟨nahoru⟩ se všším svým domem, aby obětoval Jahve ⟨את⟩ oběť dní a ⟨את⟩ svůj slib.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "vytáhl ⟨nahoru⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "se všším"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svým domem"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "aby obětoval"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oběť dní"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svůj slib"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "svůj slib"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:02.733113889Z",
+  "model": "glm-5.3"
+}

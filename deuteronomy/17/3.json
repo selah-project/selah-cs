@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "a šel a sloužil jiným bohům a klaněl se jim, ⟨a to⟩ slunci nebo měsíci, nebo kterékoli ⟨z⟩ nebeských zástupů, jimž jsem nepřikázal ⟨to⟩",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "a sloužil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bohům"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "jiným"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a klaněl se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "⟨a to⟩ slunci"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "měsíci"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kterékoli ⟨z⟩"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "zástupů"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebeských"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jíchž"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jsem přikázal"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:09.158289954Z",
+  "model": "glm-5.3"
+}

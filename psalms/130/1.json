@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 130,
+  "translation": "Píseň stoupání. Z hlubin volám tě, Jahve!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stoupání"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Z hlubin"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "volám tě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:11.600441253Z",
+  "model": "glm-5.3"
+}

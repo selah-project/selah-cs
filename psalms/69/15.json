@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Vytáhni mě z bláta, ať nepotopím; buď zachráněn ⟨já⟩ od mých nenávistníků a z hlubin vod!",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Vytáhni mě"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "z bláta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ať ne"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "potopím"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "buď zachráněn ⟨já⟩"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "od mých nenávistníků"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "a z hlubin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vod"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:12.382787709Z",
+  "model": "glm-5.3"
+}

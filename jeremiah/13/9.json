@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Tak pravil Jahve: Tak zkažím ⟨את⟩ pýchu Judovu i ⟨את⟩ velkou pýchu Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pravil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "zkažím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pýchu Judovu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pýchu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "velkou pýchu Jeruzaléma"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pýchu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "velkou"
+    }
+  ],
+  "timestamp": "2026-09-17T08:23:47.888128428Z",
+  "model": "glm-5.3"
+}

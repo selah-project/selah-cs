@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 12:10",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A nyní se meč od tvého domu neodvrátí na věky, protože jsi mnou pohrdl a vzal ⟨את⟩ ženu Uriju Chetita, aby ti byla za ženu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "se odvrátí"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "od tvého domu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věky"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "protože"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "בזתני",
+      "gloss": "jsi mnou pohrdl"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "a vzal jsi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetita"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aby byla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:14.481461410Z",
+  "model": "glm-5.3"
+}

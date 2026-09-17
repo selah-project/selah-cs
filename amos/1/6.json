@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 1:6",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Tak řekl Jahve: „Pro tři vzpoury Gazy a pro čtyři neodvolám ⟨to⟩, protože odvlekli do vyhnanství celou deportaci, aby ⟨ji⟩ vydali Edómu.\"",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "pro"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tři"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "vzpoury"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gazy"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a pro"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "odvolám ⟨to⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "protože kvůli"
+    },
+    {
+      "surface": "הגלותם",
+      "gloss": "jejich odvlečení do vyhnanství"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "deportace"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "celou"
+    },
+    {
+      "surface": "להסגיר",
+      "gloss": "aby vydali"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "Edómu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:41:36.011045295Z",
+  "model": "glm-5.3"
+}

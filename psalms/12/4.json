@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Vytne Jahve všechny rty hladkosti, jazyk mluvící veliké ⟨věci⟩,",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Vytne"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "rty"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "hladkosti"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jazyk"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "mluvící"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "veliké ⟨věci⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:56.279705280Z",
+  "model": "glm-5.3"
+}

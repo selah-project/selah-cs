@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "Elohim ⟨je⟩ v jejím středu — nekolísá; Elohim jí pomůže za svitání jitra.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "v jejím středu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "nekolísá"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "jí pomůže"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "za svitání"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jitra"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:53.021774309Z",
+  "model": "glm-5.3"
+}

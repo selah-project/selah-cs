@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 37:10",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Neboť i kdybyste porazili celé vojsko kasdejské, které bojuje ⟨את⟩ ⟨proti⟩ vám, a zůstali by v nich jen probodnutí muži — každý ve svém stanu povstanou a spálí ⟨את⟩ toto město ohněm.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אם",
+      "gloss": "i kdyby"
+    },
+    {
+      "surface": "הכיתם",
+      "gloss": "porazili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vojsko"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kasdejské"
+    },
+    {
+      "surface": "הנלחמים",
+      "gloss": "které bojuje"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨proti⟩ vám"
+    },
+    {
+      "surface": "ונשארו",
+      "gloss": "a zůstali by"
+    },
+    {
+      "surface": "בם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "muži"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "probodnutí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "ve svém stanu"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "povstanou"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "a spálí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toto město"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    }
+  ],
+  "timestamp": "2026-09-17T08:31:13.092168715Z",
+  "model": "glm-5.3"
+}

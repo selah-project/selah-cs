@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A toto je požehnání, jímž požehnal Moše, muž ⟨toho⟩ Elohim, ⟨את⟩ synům Izraele před svou smrtí.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "požehnání"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jíž"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "požehnal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synům Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "svou smrtí"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:11.846523996Z",
+  "model": "glm-5.3"
+}

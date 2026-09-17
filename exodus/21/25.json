@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "popálení za popálení, rána za ránu, podlitina za podlitinu",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "popálení"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "popálení"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "rána"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ránu"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "podlitina"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "za"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "podlitinu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:55.402317735Z",
+  "model": "glm-5.3"
+}

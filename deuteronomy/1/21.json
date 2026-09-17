@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 1:21",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Hle, před tebe postavil Jahve, tvůj Elohim, ⟨את⟩ zemi; vyjdi vzhůru, obsaď ji, jak k tobě promluvil Jahve, Elohim tvých otců; neboj se a nestrachuj se.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "vyjdi vzhůru"
+    },
+    {
+      "surface": "רש",
+      "gloss": "obsaď"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "tvých otců"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "strachuj se"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:52.953043514Z",
+  "model": "glm-5.3"
+}

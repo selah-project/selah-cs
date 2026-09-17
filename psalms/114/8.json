@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 114,
+  "translation": "⟨Toho,⟩ kdo obracel skálu v jezírko vod, křemen v pramen vod!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "kdo obracel"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "skálu"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "v jezírko"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vod"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "křemen"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "v pramen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vod"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:28.581774297Z",
+  "model": "glm-5.3"
+}

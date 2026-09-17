@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A nazval Elohim oblohu nebesemi. A byl večer a bylo jitro — den druhý ⟨druhý⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "A nazval"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "oblohu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesemi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "A byl"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a bylo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jitro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "שני",
+      "gloss": "druhý"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:10.261070261Z",
+  "model": "glm-5.3"
+}

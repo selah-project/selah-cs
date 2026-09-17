@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Jak šťastný ⟨je⟩ muž, který učinil Jahve svou útočišťem ⟨důvěrou⟩, a neobrátil se k pyšným ani k těm, kdo uchylují ⟨se⟩ ke lži.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Jak šťastný"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "שם",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "svou útočišťem ⟨důvěrou⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "obrátil se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "pyšným"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "ani k těm, kdo uchylují"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ke lži"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:46.773826684Z",
+  "model": "glm-5.3"
+}

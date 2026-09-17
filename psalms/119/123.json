@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Moje oči slábnou ⟨čekáním⟩ na tvou spásu a na slovo tvé spravedlnosti.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Moje oči"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "slábnou (docházejí)"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "na tvou spásu"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "a na slovo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tvé spravedlnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:44.013030654Z",
+  "model": "glm-5.3"
+}

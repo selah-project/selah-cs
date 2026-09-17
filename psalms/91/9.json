@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 91,
+  "translation": "Neboť ty, Jahve, ⟨jsi⟩ mé útočiště; Elijon jako příbytek své ⟨jsi⟩ postavil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mé útočiště"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elijon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "⟨jsi⟩ postavil"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "jako příbytek svůj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:44.821038327Z",
+  "model": "glm-5.3"
+}

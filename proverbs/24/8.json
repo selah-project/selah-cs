@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Kdo vymýšlí ⟨zlo⟩, aby škodil — tomu řeknou pán zlých úmyslů.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "kdo vymýšlí"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "aby škodil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tomu"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "pán"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "zlých úmyslů"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "řeknou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:31.934154741Z",
+  "model": "glm-5.3"
+}

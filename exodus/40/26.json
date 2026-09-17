@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A postavil ⟨את⟩ zlatý oltář v stanu setkávání, před oponu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zlatý oltář"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlatý"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "v stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "oponu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:20.683184901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A tito jsou ⟨syny⟩ otce ⟨z⟩ Etamu: Jizreel, Jišma a Jidbaš; a jméno jejich sestry ⟨bylo⟩ Haclelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a tito"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otce"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etamu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "a Jišma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "a Jidbaš"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jméno"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "jejich sestry"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Haclelponi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:23:26.442595299Z",
+  "model": "glm-5.3"
+}

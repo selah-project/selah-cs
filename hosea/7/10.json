@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A pýcha Izraele ⟨svědčí⟩ mu do tváře; nevrátili se k Jahve, svému Elohim, a nehledali ho ve všem tomto.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "a ⟨svědčí⟩"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "pýcha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "do tváře"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "vrátili se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "svému Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "hledali ho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všem"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tomto"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:54.313580127Z",
+  "model": "glm-5.3"
+}

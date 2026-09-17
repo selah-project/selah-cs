@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A nyní — co je pod tvou rukou? Pět chlebů mi dej do ruky, nebo co se najde.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tvou rukou"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pět"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebů"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "dej"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "do ruky mi"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "co se najde"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:19.688554639Z",
+  "model": "glm-5.3"
+}

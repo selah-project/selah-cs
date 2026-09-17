@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Ať není, kdo by mu protahoval chesed, a ne ať není, kdo by se smilovával nad jeho sirotky.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "משך",
+      "gloss": "protahoval"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "bude"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "smilovával"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "nad jeho sirotky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:25.042403560Z",
+  "model": "glm-5.3"
+}

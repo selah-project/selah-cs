@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Tito ⟨jsou⟩ ze synů Gádových, velitelé ⟨ostrovu⟩ vojska: nejmenší ⟨stal se rovným⟩ jednomu ze sta a největší z tisíce.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Tito"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ze synů"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gáda"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "velitelé"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "ze sta"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nejmenší"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "a největší"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "z tisíce"
+    }
+  ],
+  "timestamp": "2026-09-17T10:19:29.841754057Z",
+  "model": "glm-5.3"
+}

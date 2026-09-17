@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Segub zplodil ⟨את⟩ Jaira, a mělo se mu ⟨to⟩ dvacet i tři měst v zemi Gileádské.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "A Segub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaira"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jaira"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se (měl)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvacet"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "i tři"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "měst"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileádské"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:31.366690530Z",
+  "model": "glm-5.3"
+}

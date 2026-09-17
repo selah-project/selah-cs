@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "I napsal Mordechai ⟨את⟩ tyto věci a poslal listy všem židům, kteří ve všech provinciích krále Achášveróše, blízkým i vzdáleným.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "I napsal"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyto věci"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "věci"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "listy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vším"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "židům"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všech"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "provinciích"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achášveróše"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "blízkým"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "i vzdáleným"
+    }
+  ],
+  "timestamp": "2026-09-17T10:02:40.655896031Z",
+  "model": "glm-5.3"
+}

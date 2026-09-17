@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A řekl: „Vyšli-li ⟨k⟩ míru, chyťte je živé; a vyšli-li ⟨k⟩ bitvě, živé je chyťte.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Vyšli-li"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "⟨k⟩ míru"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "vyšli"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "chyťte je"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živé"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a vyšli-li"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨k⟩ bitvě"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "vyšli"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živé"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "je chyťte"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:53.764625919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 10:14",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A řekl: „Chopte se ⟨je⟩ živé!“ A chytili ⟨je⟩ živé a pobili ⟨je⟩ u jámy u Bet-Ekedu, čtyřicet dva mužů, a nenechal z ⟨nich⟩ uniknout jediného muže.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "Chopte se ⟨je⟩"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živé"
+    },
+    {
+      "surface": "ויתפשום",
+      "gloss": "a chytili ⟨je⟩"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živé"
+    },
+    {
+      "surface": "וישחטום",
+      "gloss": "a pobili ⟨je⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "בור",
+      "gloss": "jámy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "Ekedu"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nenechal"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "uniknout"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jediného muže"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "z ⟨nich⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T13:09:10.129847569Z",
+  "model": "glm-5.3"
+}

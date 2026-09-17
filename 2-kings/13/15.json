@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A řekl mu Elíša: Vezmi luk a šípy. A vzal k němu ⟨ten⟩ luk a šípy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elíša"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Vezmi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "a šípy"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "A vzal"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "a šípy"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:31.030407090Z",
+  "model": "glm-5.3"
+}

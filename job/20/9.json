@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Oko, které ⟨ho⟩ spatřilo, ⟨ho⟩ už nespatří a jeho místo ho znovu neuzří.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "které ⟨ho⟩ spatřilo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "už ⟨nespatří⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "znovu"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "neuzří ⟨ho⟩"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "jeho místo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:49:05.838792347Z",
+  "model": "glm-5.3"
+}

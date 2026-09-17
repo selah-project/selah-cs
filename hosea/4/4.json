@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Jen ať se nikdo nehádá a nikdo jiného nepřehání, neboť tvůj lid ⟨je⟩ jako hádající se s knězem.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nikdo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "hádá se"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ať ne"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "přehání"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nikdo"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "neboť tvůj lid"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "jako hádající se"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "s knězem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:21.203582905Z",
+  "model": "glm-5.3"
+}

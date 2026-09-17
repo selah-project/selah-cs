@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Neboť na okamih ⟨je⟩ jeho hněv, život ⟨je⟩ v jeho líbenosti; večer přenocuje pláč, ale k ránu jásot.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "na okamih"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "jeho hněv"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "život"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "v jeho líbenosti"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "přenocuje"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "pláč"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ale k ránu"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "jásot"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:56.207945045Z",
+  "model": "glm-5.3"
+}

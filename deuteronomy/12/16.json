@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Jen krev jíst nebudete; na zem ji vyleješ jako vodu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "jen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jíst nebudete"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ji vyleješ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jako vodu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:04.808718417Z",
+  "model": "glm-5.3"
+}

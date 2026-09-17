@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 127,
+  "translation": "Marně vám ⟨je⟩ vstávat časně, usedat pozdě, jíst chléb bolestí — tak dává svému miláčkovi spánek.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Marně"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "vstávat časně"
+    },
+    {
+      "surface": "קום",
+      "gloss": "(vstávat)"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "pozdě"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "usedat"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "bolestí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "svému miláčkovi"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "spánek"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:23.727566515Z",
+  "model": "glm-5.3"
+}

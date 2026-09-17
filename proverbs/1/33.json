@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 1:33",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Kdo však poslouchá ⟨mne⟩, bude bydlet v bezpečí ⟨a⟩ bude klidný před <א>strachem<\/א> zlého.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "poslouchá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨mne⟩"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "bude bydlet"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "v bezpečí"
+    },
+    {
+      "surface": "ושאנן",
+      "gloss": "bude klidný"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "před strachem"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlého"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:55.540746954Z",
+  "model": "glm-5.3"
+}

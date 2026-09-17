@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Toto ⟨jsou⟩ rodopisy Šéma: Šém byl synem sta let a zplodil ⟨את⟩ Arpakšada o dvou letech po potopě.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "rodopisy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šéma"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Šém"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakšada"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakšada"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "o dvou letech"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "po"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potopě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:13.830052330Z",
+  "model": "glm-5.3"
+}

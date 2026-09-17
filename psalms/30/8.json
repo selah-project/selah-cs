@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Jahve, ve své líbenosti ⟨jsi⟩ postavil mé hoře sílu; skryl ⟨jsi⟩ svou tvář — byl jsem zděšen.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ve své líbenosti"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "⟨jsi⟩ postavil"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "mému hoře"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sílu"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "skryl ⟨jsi⟩"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "byl jsem"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "zděšen"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:56.208249997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Elohim můj, volám ve dne, ale neodpovídáš, a v noci, ale není ⟨mi⟩ klid.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim můj"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "volám"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ve dne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne-"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "odpovídáš"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "a v noci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale není"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "klid"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:02.313380383Z",
+  "model": "glm-5.3"
+}

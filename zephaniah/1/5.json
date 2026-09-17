@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "a ⟨את⟩ ty, kdo se klanějí na střechách Cevaotu nebes, a ⟨את⟩ ty, kdo se klanějí a přisahají Jahvemu a přisahají <b>svým králem<\/b> (Molkam);",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ty, kdo se klanějí"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "klanějí se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "střechách"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "Cevaotu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ty, kdo se klanějí"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "klanějí se"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "přisahají"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "a přisahají"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "svým králem (Molkam)"
+    }
+  ],
+  "timestamp": "2026-09-17T09:05:52.268413005Z",
+  "model": "glm-5.3"
+}

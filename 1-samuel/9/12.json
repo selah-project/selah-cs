@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "I odpověděly je ⟨את⟩ a řekly: Je; hle, před tebou! Pospěš si nyní, neboť dnes přišel do města, neboť ⟨je⟩ dnes oběť pro lid na výšině.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "I odpověděly"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "je (muže)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "a řekly"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Je"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Pospěš si"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "do města"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "pro lid"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "na výšině"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:34.207586703Z",
+  "model": "glm-5.3"
+}

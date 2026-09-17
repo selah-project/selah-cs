@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Ať nyní řeknou bojící se Jahveho: že na věčnost ⟨trvá⟩ jeho chesed.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Ať řeknou"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "bojící se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věčnost"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:30.168510791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 81,
+  "translation": "Ale lid můj neposlechl hlasu mého a Israel nechtěl mě.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ale ne-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "poslechl"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "lid můj"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "hlasu mého"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "a Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "chtěl"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:42.557868997Z",
+  "model": "glm-5.3"
+}

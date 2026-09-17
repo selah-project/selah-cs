@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 63,
+  "translation": "Neboť jsi mi byl pomocí, a ve stínu tvých křídel jásám.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "היית",
+      "gloss": "jsi byl"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "pomocí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "a ve stínu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "tvých křídel"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "jásám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:28.471727106Z",
+  "model": "glm-5.3"
+}

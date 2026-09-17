@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 112,
+  "translation": "Neboť navěky nezakolísá; ⟨bude⟩ ve věčné paměti ⟨být⟩ spravedlivý.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navěky"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "zakolísá"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "v paměti"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ve věčné"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨bude⟩"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:30.748498821Z",
+  "model": "glm-5.3"
+}

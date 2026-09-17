@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Ať vás nenechá Chizkijáhu ⟨את⟩ doufat v Jahveho, řkouce: Zachránit ⟨nás⟩ zachrání nás Jahve, a ⟨tato⟩ obec tato nebude dána ⟨את⟩ do ruky krále asyrského.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "a ať ne"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "nechá doufat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijáhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "v"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řkouce"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "zachránit"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "zachrání nás"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "bude dána"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obec"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "obec"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "do ruky"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "asyrského"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:04.310165729Z",
+  "model": "glm-5.3"
+}

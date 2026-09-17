@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 18:6",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A lid vyšel ⟨do⟩ pole proti Izraeli, a ⟨byla⟩ bitva v lese Efrajim.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "proti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a ⟨byla⟩"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "bitva"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "v lese"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    }
+  ],
+  "timestamp": "2026-09-17T07:37:08.959304960Z",
+  "model": "glm-5.3"
+}

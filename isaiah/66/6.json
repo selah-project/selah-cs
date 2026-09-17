@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Hlas rámusu z ⟨města⟩, hlas z ⟨chrámu⟩, hlas Jahve, odplácejícího mstu svým nepřátelům.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Hlas"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "rámusu"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "z města"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "z chrámu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "odplácejícího"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "mstu"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "svým nepřátelům"
+    }
+  ],
+  "timestamp": "2026-09-17T08:18:43.565199792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "a řekl David Gibeonským: Co vám mám učinit a čím mám odčinit, abyste požehnali ⟨את⟩ dědictví Jahveho?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Gibeonským (k)"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "Gibeonským"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "mám učinit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "a čím"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "mám odčinit"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "abyste požehnali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dědictví Jahveho"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "dědictví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:39:04.839042487Z",
+  "model": "glm-5.3"
+}

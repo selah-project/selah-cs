@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A muži vztáhli ⟨את⟩ svou ruku, přivedli ⟨את⟩ Lóta k sobě dovnitř, do domu, a ⟨את⟩ dveře zavřeli.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "vztáhli"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a muži"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ruku"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "přivedli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lóta"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lóta"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k sobě"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "dovnitř, do domu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dveře"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "dveře"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "zavřeli"
+    }
+  ],
+  "timestamp": "2026-09-17T11:44:18.715297024Z",
+  "model": "glm-5.3"
+}

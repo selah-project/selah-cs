@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A velebil jsem ⟨את⟩ mrtvé, kteří již zemřeli, více než živé, kteří dosud žijí.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "a velebil jsem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mrtvé"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mrtvé"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "již"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "zemřeli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "než (doslova: z\/více než)"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "živé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "žijí"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "dosud"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:06.669054801Z",
+  "model": "glm-5.3"
+}

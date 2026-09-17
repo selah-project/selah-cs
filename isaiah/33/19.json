@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "⟨את⟩ lid drzý neuvidíš, lid řeči tak hluboké, že ⟨ji⟩ nelze slyšet, jazyk koktavý, jemuž není porozumění.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid drzý"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "drzý"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uvidíš"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "tak hluboké"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "řeči"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "že nelze slyšet"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "koktavý"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jazyk"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "porozumění"
+    }
+  ],
+  "timestamp": "2026-09-17T08:09:19.576961391Z",
+  "model": "glm-5.3"
+}

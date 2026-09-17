@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A synové Jošijášovi: prvorozený Jóchanan, druhý Jehojakím, třetí Cidkijáš, čtvrtý Šalúm.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "A synové"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jošijášovi"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorozený"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jóchanan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhý"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakím"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "třetí"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijáš"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "čtvrtý"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Šalúm"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:49.825098269Z",
+  "model": "glm-5.3"
+}

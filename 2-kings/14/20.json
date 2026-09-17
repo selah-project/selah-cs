@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A nesli ⟨את⟩ jej na koních, a byl pohřben v Jeruzalémě se svými otci, v městě Davidově.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "a nesli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "koních"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a byl pohřben"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "עם",
+      "gloss": "se"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svými otci"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v městě"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidově"
+    }
+  ],
+  "timestamp": "2026-09-17T11:40:42.575725118Z",
+  "model": "glm-5.3"
+}

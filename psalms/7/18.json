@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Vyznám Jahveho podle jeho spravedlnosti a zazpívám jménu Jahveho, ⟨Nejvyššího⟩.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Vyznám"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "podle jeho spravedlnosti"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "a zazpívám"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nejvyššího"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:07.894199056Z",
+  "model": "glm-5.3"
+}

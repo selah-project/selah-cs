@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 112,
+  "translation": "Světlo vyšlo ve tmě ⟨pro⟩ přímé — milostivý a soucitný a spravedlivý.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "vyšlo"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ve tmě"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Světlo"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "⟨pro⟩ přímé"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "milostivý"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "a soucitný"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "a spravedlivý"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:12.607507407Z",
+  "model": "glm-5.3"
+}

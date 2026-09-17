@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A budeš-li mi dělat oltář z kamení, nepostavíš je z tesaného ⟨kamene⟩, ⟨את⟩; neboť když nad něm zamáchneš svým mečem, zneuctíš je.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A budeš-li"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "z kamení"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dělat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "postavíš"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "je (tesané kameny)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "z tesaného ⟨kamene⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "svým mečem"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "zamáchneš"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "nad nimi"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "zneuctíš je"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:24.558339943Z",
+  "model": "glm-5.3"
+}

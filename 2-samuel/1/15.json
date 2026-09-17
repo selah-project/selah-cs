@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A zavolal David jednoho z mládenců a řekl: Přiď, uder na něj ⟨jeho⟩. A zabil ⟨jej⟩ a zemřel.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a zavolal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "z mládenců"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "גש",
+      "gloss": "přiď"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "uder"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "a zabil ⟨jej⟩"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:16.346553463Z",
+  "model": "glm-5.3"
+}

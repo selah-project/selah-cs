@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neboť z lásky Jahve k ⟨את⟩ vám a z ⟨את⟩ zachování přísahy, kterou přisáhl vašim otcům, vyvedl vás Jahve ⟨את⟩ rukou silnou a vykoupil tě z domu otroctví, z ruky faraona, krále Egypta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "z lásky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "a z zachování"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "přísahy"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "přísahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "přisáhl"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "vašim otcům"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "vyvedl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "silnou"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "a vykoupil tě"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "otroctví"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:47.608894823Z",
+  "model": "glm-5.3"
+}

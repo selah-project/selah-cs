@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A řekneš v svém srdci: Síla má a moc mé ruki udělala ⟨את⟩ mi tento majetek.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "A řekneš"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "v svém srdci"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "Síla má"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "a moc"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mé ruki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento majetek"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "tento majetek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:08.134056525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "Tomu, který sám ⟨činí⟩ veliké divy, ⟨sám⟩ ⟨je⟩ ⟨jediný⟩, neboť na věky ⟨trvá⟩ jeho chesed.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Tomu, který činí"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "divy"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "⟨sám⟩ jediný"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:15.830513670Z",
+  "model": "glm-5.3"
+}

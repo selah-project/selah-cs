@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 4:13",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I vzal Boaz ⟨את⟩ Rut, a stala se mu ⟨za⟩ manželku; a vešel k ní, a dal jí Jahve početí, a porodila syna.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "I vzal"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rut"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a stala se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨za⟩ manželku"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a vešel"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k ní"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "הריון",
+      "gloss": "početí"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    }
+  ],
+  "timestamp": "2026-09-17T11:19:36.367375046Z",
+  "model": "glm-5.3"
+}

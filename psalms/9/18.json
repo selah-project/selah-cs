@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Navrátí se bezbožní do šeolu, všechny národy zapomínající Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "navrátí se"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožní"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "do šeolu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "zapomínající"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:07.937239409Z",
+  "model": "glm-5.3"
+}

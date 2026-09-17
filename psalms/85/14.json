@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 85,
+  "translation": "Spravedlnost půjde před ním a uloží své kroky ⟨za⟩ cestu.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Spravedlnost"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "půjde"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a uloží"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "⟨za⟩ cestu"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "své kroky"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:02.834440662Z",
+  "model": "glm-5.3"
+}

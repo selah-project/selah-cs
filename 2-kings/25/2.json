@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A město vstoupilo do obležení až do jedenáctého roku krále Sidkijáše.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "vstoupilo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "do obležení"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "jedena-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-náctého"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roku"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkijáše"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:45.760256174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Hlas ⟨říká⟩: Volej! A ⟨on⟩ řekl: Co mám volat? Všechno tělo je tráva a všecken jeho chesed ⟨je⟩ jako květ pole.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨říká⟩"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Volej!"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mám volat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "tělo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "tráva"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všecken"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "jako květ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:43.676676939Z",
+  "model": "glm-5.3"
+}

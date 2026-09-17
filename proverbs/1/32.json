@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Neboť odvrácenost naivních je zabije a klid hlupáků je zahubí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "odvrácenost"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "naivních"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "je zabije"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "a klid"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "hlupáků"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "je zahubí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:06.248660937Z",
+  "model": "glm-5.3"
+}

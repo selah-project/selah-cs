@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Pokolení bude pokoleni chválit tvá díla a tvé mocné činy vyhlásí.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Pokolení"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "pokoleni"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "bude chválit"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "tvá díla"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "a tvé mocné činy"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "vyhlásí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:41.186579947Z",
+  "model": "glm-5.3"
+}

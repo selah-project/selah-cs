@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A ⟨את⟩ tyto budete mít v ohavnosti z ptactva — nebudou se jíst, ohavnost jsou: ⟨את⟩ sup bělohlavý, ⟨את⟩ sup vousatý ⟨a⟩ ⟨את⟩ orlosupa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tyto"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "budete mít v ohavnosti"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ptactva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "budou se jíst"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ohavnost"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jsou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "supa bělohlavého"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "sup bělohlavý"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "supa vousatého"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "sup vousatý"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "orlosupa"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "orlosup"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:03.515776361Z",
+  "model": "glm-5.3"
+}

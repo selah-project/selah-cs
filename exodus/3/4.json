@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A viděl Jahve, že uhnul, aby se podíval; a zavolal na něj Elohim ze středu keře, a řekl: Mojžíši, Mojžíši! A on řekl: Hle, jsem tu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "A viděl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "סר",
+      "gloss": "uhnul"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby se podíval"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a zavolal"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ze středu"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "keře"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíši"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíši"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hle, jsem tu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:11.389705434Z",
+  "model": "glm-5.3"
+}

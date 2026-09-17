@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Nakloň mé srdce ke svým svědectvím a ⟨ne⟩ k lakotě.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Nakloň"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "svým svědectvím"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ⟨ne⟩ k"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "lakotě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:47.542591280Z",
+  "model": "glm-5.3"
+}

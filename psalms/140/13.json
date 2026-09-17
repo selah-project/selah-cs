@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 140,
+  "translation": "Vím, že Jahve vykoná soud ⟨o⟩ utlačeném, právo pro chudé.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Vím"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "vykoná"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דין",
+      "gloss": "soud"
+    },
+    {
+      "surface": "עני",
+      "gloss": "utlačeném"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "právo"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "chudé"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:02.690513490Z",
+  "model": "glm-5.3"
+}

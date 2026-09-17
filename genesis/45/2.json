@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "A vydal ⟨את⟩ svůj hlas v pláči; slyšelo ⟨to⟩ Egypt a uslyšel dům Parova.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "vydal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj hlas"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "v pláči"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "slyšelo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "uslyšel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:36.426734283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 64,
+  "translation": "A Elohim na ně vystřelí šíp — náhle: staly se jejich rány.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "vystřelí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "šíp"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "náhle"
+    },
+    {
+      "surface": "היו",
+      "gloss": "staly se"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "jejich rány"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:28.957044025Z",
+  "model": "glm-5.3"
+}

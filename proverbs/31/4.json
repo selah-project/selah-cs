@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Ne pro krále, Lemuele, ne pro krále pít víno, ani pro vladaře touhu po opojném nápoji.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "pro krále"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "pro krále"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "pít"
+    },
+    {
+      "surface": "יין",
+      "gloss": "víno"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "ani pro vladaře"
+    },
+    {
+      "surface": "או",
+      "gloss": "touhu"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "po opojném nápoji"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:45.833931269Z",
+  "model": "glm-5.3"
+}

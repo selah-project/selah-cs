@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekl Jahve: Júda vystoupí; viz, dal jsem ⟨את⟩ tu zemi do jeho ruky.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Júda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "vystoupí"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "viz"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dal jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tu zemi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "do jeho ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:32.043009978Z",
+  "model": "glm-5.3"
+}

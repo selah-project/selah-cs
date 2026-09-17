@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Pouze pramen a jáma, shromažďiště vody, ⟨zůstane⟩ čisté; ale co se dotkne jejich mršiny, bude nečisté.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "pouze"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "pramen"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "a jáma"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "shromaždiště vody"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čisté"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "ale co se dotkne"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "jejich mršiny"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bude nečisté"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:05.221129545Z",
+  "model": "glm-5.3"
+}

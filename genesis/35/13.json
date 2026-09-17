@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A vystoupil Elohim z ⟨jeho⟩ výšin na místě, kde mluvil ⟨את⟩ s ním.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "a vystoupil"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "z ⟨jeho⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na místě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním",
+      "marks": "s ním (s Jákobem)"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:55.083646086Z",
+  "model": "glm-5.3"
+}

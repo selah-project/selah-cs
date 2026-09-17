@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A vešla Batšeba ke králi do komnaty — a král byl velmi starý — a Abíšag Šunamitka obsluhovala ⟨את⟩ krále.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "A vešla"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "šeba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "do komnaty"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "a král"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "byl starý"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "a Abíšag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Šunamitka"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "obsluhovala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:45.114319047Z",
+  "model": "glm-5.3"
+}

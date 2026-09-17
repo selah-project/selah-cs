@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 41:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "A stalo se ráno, že jeho duch byl zjitřen, a poslal a svolal ⟨את⟩ všechny egyptské vykladače a ⟨את⟩ všechny jeho moudré; faraón jim vyprávěl ⟨את⟩ svůj sen, ale nebylo nikoho, kdo by ⟨את⟩ je vykládal faraónovi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "byl zjitřen"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "jeho duch"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "svolal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny egyptské vykladače"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "vykladače"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptské"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechny jeho moudré"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "חכמיה",
+      "gloss": "jeho moudré"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "vyprávěl"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraón"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj sen"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "svůj sen"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ale nebylo nikoho"
+    },
+    {
+      "surface": "פותר",
+      "gloss": "kdo by vykládal"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraónovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:17.347283799Z",
+  "model": "glm-5.3"
+}

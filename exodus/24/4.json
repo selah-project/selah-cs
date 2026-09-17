@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A napsal Moše ⟨את⟩ všechna slova Jahveho; vstal časně z rána a postavil oltář pod horou a dvanáct sloupů pro dvanáct kmenů Izraele.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "A napsal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechna slova Jahveho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "vstal časně z rána"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "z rána"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "horou"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "a dvanáct"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(dvanáct)"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "sloupů"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "pro dvanáct"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(dvanáct)"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "kmenů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:46.317178190Z",
+  "model": "glm-5.3"
+}

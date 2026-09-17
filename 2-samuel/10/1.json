@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Stalo se ⟨poté⟩, že zemřel král synů Amónových a stal se králem Chánún, jeho syn, na jeho místě.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "poté"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨poté⟩"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "zemřel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amónových"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "stal se králem"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Chánún"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jeho místě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:09.953612092Z",
+  "model": "glm-5.3"
+}

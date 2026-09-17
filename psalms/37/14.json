@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Meč rozvřeli ničemní a napjali svůj luk, aby sráželi chudáka a nuzáka, aby zabíjeli přímé ⟨v⟩ chůzi ⟨cesty⟩.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "meč"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "rozvřeli"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ničemní"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "a napjali"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "svůj luk"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "aby sráželi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "chudáka"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "a nuzáka"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "aby zabíjeli"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "přímé"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cesty"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:38.475368369Z",
+  "model": "glm-5.3"
+}

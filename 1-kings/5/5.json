@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A bydleli Juda a Izrael v bezpečí, každý pod svou vinnou révou a pod svým fíkovníkem, od Danu až do Be'er-ševy, po všechny dny Šalomounovy.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a bydleli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "a Izrael"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "v bezpečí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "svou vinnou révou"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "a pod"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "svým fíkovníkem"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "od Danu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až"
+    },
+    {
+      "surface": "באר",
+      "gloss": "do Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-ševy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "po všechny"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomounovy"
+    }
+  ],
+  "timestamp": "2026-09-17T07:42:42.047596161Z",
+  "model": "glm-5.3"
+}

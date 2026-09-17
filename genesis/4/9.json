@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I řekl Jahve Kainovi: Kde je Havel, tvůj bratr? A on řekl: Nevím. Zdaž jsem strážcem svého bratra?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Kainovi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "⟨Kainovi⟩"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Kde"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Havel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvůj bratr"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on řekl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "(v)ím"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "strážcem"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "svého bratra"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jsem… já"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:51.391783536Z",
+  "model": "glm-5.3"
+}

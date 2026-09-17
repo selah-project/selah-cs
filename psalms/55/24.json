@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 55:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "A ty, Elohim, sestradíš je do jámy záhuby; muži krve a podvodu nenaplní polovinu svých dnů — a já, v tebe se doufám.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תורדם",
+      "gloss": "sestradíš je"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "do jámy"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "záhuby"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muži"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "krve"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "a podvodu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "naplní polovinu"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "svých dnů"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "a já"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "douvám"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tebe"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:10.151318325Z",
+  "model": "glm-5.3"
+}

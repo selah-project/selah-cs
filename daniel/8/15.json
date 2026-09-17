@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 8:15",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A stalo se, když jsem já, Daniel, viděl ⟨את⟩ to vidění, že jsem hledal porozumění — a hle, stál přede mnou ⟨někdo⟩ jako podoba muže.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "když jsem viděl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to vidění"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "to vidění"
+    },
+    {
+      "surface": "ואבקשה",
+      "gloss": "že jsem hledal"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "porozumění"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stál"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "jako podoba"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "muže"
+    }
+  ],
+  "timestamp": "2026-09-17T10:05:33.633832258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Neboť synové Atalje, ⟨té⟩ ničemnice, vyrazili ⟨את⟩ dům ⟨׳Elohim׳⟩, i všecky posvátné věci domu Jahve použili pro baaly.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalje"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "ničemnice"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "synové"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "vyrazili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všecky"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "posvátné věci"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "použili"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "pro baaly"
+    }
+  ],
+  "timestamp": "2026-09-17T10:29:41.881988702Z",
+  "model": "glm-5.3"
+}

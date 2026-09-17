@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 27:6",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Věrné jsou rány přítele, a působivé jsou polibky nenávistníka.",
+  "tokens": [
+    {
+      "surface": "נאמנים",
+      "gloss": "věrné ⟨jsou⟩"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "rány"
+    },
+    {
+      "surface": "אוהב",
+      "gloss": "přítele"
+    },
+    {
+      "surface": "ונעתרות",
+      "gloss": "a působivé ⟨jsou⟩"
+    },
+    {
+      "surface": "נשיקות",
+      "gloss": "polibky"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nenávistníka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:59.388474413Z",
+  "model": "glm-5.3"
+}

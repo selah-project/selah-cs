@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A stalo se, když uslyšel celý Izrael, že se vrátil Jarobeam, že poslali a zavolali ⟨את⟩ něj k shromáždění a učinili ⟨את⟩ něj králem nad celým Izraelem; a nebylo ⟨nikoho⟩, kdo by šel za domem Davidovým, kromě kmene Judova samotného.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "když uslyšel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "שב",
+      "gloss": "se vrátil"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeam"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "poslali"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "zavolali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jej",
+      "marks": "jej (k shromáždění)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "učinili králem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jej",
+      "marks": "jej (nad celým Izraelem)"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celým"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "kdo by šel za"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovým"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "kromě"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kmene"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judova"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "samotného"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:15.224138604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I řekl Jahve satanovi: Odkud přicházíš? A satan odpověděl ⟨את⟩ Jahveho a řekl: Z obcházení země a z procházení se po ní.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "satanovi"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satanovi"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Odkud"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "přicházíš"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "odpověděl"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "Z obcházení"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "a z procházení se"
+    },
+    {
+      "surface": "בה",
+      "gloss": "po ní"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:33.266432458Z",
+  "model": "glm-5.3"
+}

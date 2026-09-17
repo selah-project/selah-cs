@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "Neboť hle, králové se shromáždili, prošli ⟨společně⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "králové"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "shromáždili se"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "prošli"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "⟨společně⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:38.902309480Z",
+  "model": "glm-5.3"
+}

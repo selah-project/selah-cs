@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 84,
+  "translation": "Půjdou od síly k síle, ukáže se před Elohim na Sionu.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Půjdou"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "od síly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "síle"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ukáže se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "před"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Sionu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:17.058733793Z",
+  "model": "glm-5.3"
+}

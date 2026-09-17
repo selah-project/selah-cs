@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A poslali ⟨את⟩ pestrou košili a přinesli ⟨ji⟩ k svému otci a řekli: „Tohle jsme našli; poznej prosím, zda ⟨je⟩ to košile tvého syna, či ne.“",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "a poslali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pestrou košili"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "košili"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "pestrou"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "a přinesli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "svému otci"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Tohle"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "jsme našli"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "poznej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "košile"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvého syna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "אם",
+      "gloss": "či"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    }
+  ],
+  "timestamp": "2026-09-17T06:11:30.761070529Z",
+  "model": "glm-5.3"
+}

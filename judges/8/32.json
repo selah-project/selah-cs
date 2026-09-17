@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 8:32",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A zemřel Gedeon, syn Joašův, v dobrém stáří, a byl pohřben v hrobě Joaše, svého otce, v Ofře Abíezerovců.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gedeon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaše"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "ve stáří"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobrém"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a byl pohřben"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "v hrobě"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaše"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "בעפרה",
+      "gloss": "v Ofře"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Abíezer"
+    },
+    {
+      "surface": "העזרי",
+      "gloss": "Abíezerovců"
+    }
+  ],
+  "timestamp": "2026-09-17T07:14:45.622625422Z",
+  "model": "glm-5.3"
+}

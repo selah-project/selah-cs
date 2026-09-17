@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "V šíři zdi dvora, cestou východní, před tvář odděleného ⟨prostoru⟩ a před tvář stavby — ložnice.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "v šíři"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "zdi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvora"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "východní"
+    },
+    {
+      "surface": "אל",
+      "gloss": "před"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "odděleného"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a před"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "stavby"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "ložnice"
+    }
+  ],
+  "timestamp": "2026-09-17T08:52:07.102218587Z",
+  "model": "glm-5.3"
+}

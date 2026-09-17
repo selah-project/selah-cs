@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I řekl mu Jahve: Co ⟨to⟩ je v tvé ruce? A on řekl: Hůl.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "co (to)"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "v tvé ruce"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "hůl"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:35.484627721Z",
+  "model": "glm-5.3"
+}

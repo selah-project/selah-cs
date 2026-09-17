@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A zamává ⟨את⟩ snopem před Jahvou, k vaší příznivosti ⟨od⟩ dne po šabatu kněz jej zamává.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "A zamává"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "snopem"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "snopem"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvou"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "k vaší příznivosti"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "od dne po"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabatu"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "zamává"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:39.064017958Z",
+  "model": "glm-5.3"
+}

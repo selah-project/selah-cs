@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 85,
+  "translation": "Byl jsi nakloněn své zemi, Jahve, obrátil jsi zajetí Jákoba.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Byl jsí nakloněn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "své zemi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "obrátil jsi"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "zajetí"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:34.996325259Z",
+  "model": "glm-5.3"
+}

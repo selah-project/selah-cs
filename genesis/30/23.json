@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "I počala a porodila syna a řekla: Elohim odstranil ⟨את⟩ mou potupu.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "počala"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "řekla"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "odstranil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou potupu"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mou potupu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:21.506537371Z",
+  "model": "glm-5.3"
+}

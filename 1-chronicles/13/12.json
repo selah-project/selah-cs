@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A David se bál ⟨את⟩ Elohim v ten den, řka: Jakže mám přivést k sobě ⟨את⟩ archu Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "a bál se"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Jakže"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "mám přivést"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k sobě"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T10:19:36.314712473Z",
+  "model": "glm-5.3"
+}

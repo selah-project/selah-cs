@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A řekla Lea: „Štěstí!“ A nazvala ⟨את⟩ jeho jméno Gád.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "řekla"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Štěstí"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "nazvala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gád"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:40.824367856Z",
+  "model": "glm-5.3"
+}

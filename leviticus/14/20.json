@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A přivede kněz k oběti ⟨את⟩ oběť zápalnou a ⟨את⟩ obětní dar na oltář, a vykoná za něj kněz smíření, a bude čistý.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "a přivede k oběti"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oběť zápalnou"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "oběť zápalnou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "obětní dar"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "obětní dar"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltář"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a vykoná smíření"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "za něj"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "a bude čistý"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:49.119774649Z",
+  "model": "glm-5.3"
+}

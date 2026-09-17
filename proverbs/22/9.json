@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Kdo má dobré ⟨oko⟩, bude požehnán, neboť dal ze svého chleba chudému.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bude požehnán"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "ze svého chleba"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "chudému"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:42.044458940Z",
+  "model": "glm-5.3"
+}

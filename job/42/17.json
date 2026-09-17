@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A Jób zemřel, stár ⟨a⟩ syt dnů.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jób"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "stár"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "a syt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:53:40.547638349Z",
+  "model": "glm-5.3"
+}

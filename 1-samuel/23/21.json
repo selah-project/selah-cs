@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A Ša'ul řekl: „Požehnáni ⟨jste⟩ od Jahve, že jste se nade mnou smilovali.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ul"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "požehnáni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨jste⟩ vy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "od Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "smilovali jste se"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mnou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:30.570273523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Povstaň, Jahve, ve svém hněvu, pozvedni se proti bouřím mých protivníků, a probuď se ke mně k soudu, který jsi přikázal.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Povstaň"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ve svém hněvu"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "pozvedni se"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "proti bouřím"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "mých protivníků"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "a probuď se"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "k soudu"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "který jsi přikázal"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:54.121744224Z",
+  "model": "glm-5.3"
+}

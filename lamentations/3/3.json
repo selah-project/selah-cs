@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Jen proti mně se obrací, obrací svou ruku celý den.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jen"
+    },
+    {
+      "surface": "בי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "se obrací"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "obrací"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T09:56:58.067328758Z",
+  "model": "glm-5.3"
+}

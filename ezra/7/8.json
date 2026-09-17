@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A přišel do Jeruzaléma v měsíci pátém; to ⟨ je ⟩ rok sedmý krále.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "A přišel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruzaléma"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v měsíci"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "pátém"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to ⟨je⟩"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "rok"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "sedmý"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krále"
+    }
+  ],
+  "timestamp": "2026-09-17T10:08:42.950736955Z",
+  "model": "glm-5.3"
+}

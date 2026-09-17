@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A lid řekl Jóšuovi: ⟨את⟩ Jahve, našeho Elohima, budeme sloužit a jeho hlasu budeme poslouchat.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jóšuovi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "⟨Jóšua⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, našeho Elohima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "našeho Elohima"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "budeme sloužit"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "a jeho hlasu"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "budeme poslouchat"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:03.626163579Z",
+  "model": "glm-5.3"
+}

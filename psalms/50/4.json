@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Zavolá nebe ⟨seshora⟩ a zemi, aby soudil svůj lid.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Zavolá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(k)"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨seshora⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a (k)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "aby soudil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svůj lid"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:08.290781662Z",
+  "model": "glm-5.3"
+}

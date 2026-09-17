@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "a ⟨את⟩ deset podstav ⟨את⟩ deset umyvadel nad podstavami",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deset podstav"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "podstavy"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "deset umyvadel"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "umyvadla"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "podstavami"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:09.852148806Z",
+  "model": "glm-5.3"
+}

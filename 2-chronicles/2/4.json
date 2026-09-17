@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A ⟨ten⟩ dům, který já stavím, ⟨je⟩ velký, neboť velký ⟨je⟩ náš Elohim nade všemi ⟨těmi⟩ bohy.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "a ⟨ten⟩ dům"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "stavím"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velký"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velký"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "nade všemi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨těmi⟩ bohy"
+    }
+  ],
+  "timestamp": "2026-09-17T10:25:17.807710365Z",
+  "model": "glm-5.3"
+}

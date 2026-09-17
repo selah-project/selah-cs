@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Vykup mě z útlaku ⟨od⟩ člověka ⟨a⟩ budu střežit tvá přikázání.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "vykup mě"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "z útlaku"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "a budu střežit"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tvá přikázání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:33.191495725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Za Jahve, vaším Elohim, půjdete, a ⟨את⟩ jeho se budete bát, a ⟨את⟩ jeho příkazy budete zachovávat, a jeho hlasu budete poslouchat, a ⟨את⟩ jemu budete sloužit, a v něm se budete držet.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vaším Elohim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "půjdete"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeho (se budete bát)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "se budete bát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho příkazy"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "jeho příkazy"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "budete zachovávat"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "a jeho hlasu"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "budete poslouchat"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "jemu (budete sloužit)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "budete sloužit"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "a v něm"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "se budete držet"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:51.582028324Z",
+  "model": "glm-5.3"
+}

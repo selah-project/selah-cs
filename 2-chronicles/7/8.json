@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 7:8",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A konal Šalomoun ⟨את⟩ svátek v onen čas sedm dní, a všechen Izrael s ním, shromáždění velmi veliké, od vstupu Chamat až po potok Egypta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a konal"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svátek"
+    },
+    {
+      "surface": "החג",
+      "gloss": "svátek"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "v"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "onen čas"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a všechen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "מלבוא",
+      "gloss": "od vstupu"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T10:26:47.455528577Z",
+  "model": "glm-5.3"
+}

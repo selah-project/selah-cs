@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Kdo vyvážil ⟨את⟩ ducha Jahve, a jaký muž jeho radu mu dal poznat?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "vyvážil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ducha Jahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a jaký muž"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "jeho radu"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "mu dal poznat"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:56.353602057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Chvějte se ⟨a⟩ nehřešte, mluvte ve svém srdci na svém loži a buďte ticho. Sela.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Chvějte se"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "hřešte"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "mluvte"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "svém loži"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "a buďte ticho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:24.470831627Z",
+  "model": "glm-5.3"
+}

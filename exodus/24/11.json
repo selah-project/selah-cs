@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A na přední z synů Izraele nevztáhl svou ruku; a hleděli ⟨את⟩ HaElohim, a jedli a pili.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "přední"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "vztáhl"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "a hleděli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "HaElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "HaElohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "a jedli"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "a pili"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:33.882668784Z",
+  "model": "glm-5.3"
+}

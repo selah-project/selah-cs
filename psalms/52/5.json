@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Miluješ zlo víc než ⟨dobro⟩, lež víc než mluvit spravedlnost. Sela.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Miluješ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "víc než dobro"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lež"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "než mluvit"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:51.283367745Z",
+  "model": "glm-5.3"
+}

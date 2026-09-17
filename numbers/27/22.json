@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 27:22",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A učinil Mojžíš, jak přikázal Jahve ⟨את⟩ něj; a vzal ⟨את⟩ Jehošuu a postavil ho před Elazara kněze a před všechnu ⟨obec⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A učinil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨něj⟩",
+      "marks": "Mojžíš (objekt přikázání)"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehošuu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehošuu"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "a postavil ho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "a před"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨obec⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:36.311533758Z",
+  "model": "glm-5.3"
+}

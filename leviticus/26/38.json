@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A zahynete mezi národy a země vašich nepřátel vás ⟨אתכם⟩ sežere.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "a zahynete"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mezi národy"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "a sežere"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vašich nepřátel"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:43.507432096Z",
+  "model": "glm-5.3"
+}

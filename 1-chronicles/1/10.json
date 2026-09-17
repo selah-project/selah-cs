@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A Kúš zplodil ⟨את⟩ Nimroda; onen začal být hrdinou ⟨na⟩ zemi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "A Kúš"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimroda"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimroda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "החל",
+      "gloss": "začal"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "být"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hrdinou"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨na⟩ zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:22:55.859386632Z",
+  "model": "glm-5.3"
+}

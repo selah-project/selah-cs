@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Zatímco ⟨byl⟩ král ve svém kruhu, můj nard vydal svou vůni.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "zatímco"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "ve svém kruhu"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "můj nard"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "vydal"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "svou vůni"
+    }
+  ],
+  "timestamp": "2026-09-17T11:19:02.527534877Z",
+  "model": "glm-5.3"
+}

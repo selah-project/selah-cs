@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Pro předního zpěváka, ⟨podle⟩ gitské ⟨melodie⟩; žalm Davidův.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro předního zpěváka"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨podle⟩"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gitské"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "žalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:18.304300644Z",
+  "model": "glm-5.3"
+}

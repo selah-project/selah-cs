@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 14:47",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A kdo spí v domě, vypere ⟨את⟩ svá roucha; a kdo jí v domě, vypere ⟨את⟩ svá roucha.",
+  "tokens": [
+    {
+      "surface": "והשכב",
+      "gloss": "a kdo spí"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "vypere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá roucha"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "svá roucha"
+    },
+    {
+      "surface": "והאכל",
+      "gloss": "a kdo jí"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "vypere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá roucha"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "svá roucha"
+    }
+  ],
+  "timestamp": "2026-09-17T13:02:02.683587082Z",
+  "model": "glm-5.3"
+}

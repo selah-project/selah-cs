@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A stali se ti, kdo vedou ⟨⟩ tento lid, svádějícími ⟨ho⟩, a jeho vedení ⟨jsou⟩ pohlcováni.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "A stali se"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "kteří vedou"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "svádějícími"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "a jeho vedení"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "pohlcováni"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:36.663587433Z",
+  "model": "glm-5.3"
+}

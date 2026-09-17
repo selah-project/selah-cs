@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Vítr plný z těch ⟨míst⟩ přijde ke mně; nyní i já promluvím rozsudky ⟨את⟩-je.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Vítr"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plný"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "z těch"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "přijde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "promluvím"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "rozsudky"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-je",
+      "marks": "rozsudky"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:46.380469611Z",
+  "model": "glm-5.3"
+}

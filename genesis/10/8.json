@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A Kuš zplodil ⟨את⟩ Nimroda; on začal být mocný na zemi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "A Kuš"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimroda"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimroda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "החל",
+      "gloss": "začal"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "být"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mocný"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:42.173427029Z",
+  "model": "glm-5.3"
+}

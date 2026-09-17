@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 93,
+  "translation": "Zdvihly řeky, Jahve, zdvihly řeky svůj hlas, zdvihnou řeky příboj svůj.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "zdvihly"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "řeky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "zdvihly"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "řeky"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "zdvihnou"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "řeky"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "příboj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:40.164532403Z",
+  "model": "glm-5.3"
+}

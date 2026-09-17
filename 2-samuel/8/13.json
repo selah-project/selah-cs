@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A David si učinil jméno, když se vrátil od poražení ⟨את⟩ Aramu v údolí soli — osmnáct tisíc.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "když se vrátil"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "od poražení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arama"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "v údolí"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "soli"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "osm"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "náct"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:56.179023873Z",
+  "model": "glm-5.3"
+}

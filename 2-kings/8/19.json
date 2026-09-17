@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 8:19",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A nechtěl Jahve zničit ⟨את⟩ Judu kvůli Davidovi, služebníku svému, jak řekl mu, že dá jemu lampu i synům jeho po všechny dny.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a nechtěl — ne"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nechtěl (byl ochoten)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "zničit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Judu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "služebníku svému"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "že dá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "lampu"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "synům jeho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "po všechny"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dny"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:46.167740856Z",
+  "model": "glm-5.3"
+}

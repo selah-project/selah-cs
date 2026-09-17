@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Neodpovíš proti svému bližnímu svědectvím lživým.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "odpovíš"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "proti svému bližnímu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "svědectvím"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lživým"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:19.047863670Z",
+  "model": "glm-5.3"
+}

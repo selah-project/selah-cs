@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Stalo se, když to uslyšel Baša, že přestal stavět ⟨את⟩ Ramu, a usadil se v Tirse.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "když uslyšel"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baša"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "přestal"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "stavět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramu"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "usadil se"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "v Tirse"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:29.224219666Z",
+  "model": "glm-5.3"
+}

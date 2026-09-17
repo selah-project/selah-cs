@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 148,
+  "translation": "Chvalte jej, všichni jeho andělé, chvalte jej, všechny jeho zástupy!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Chvalte jej"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "jeho andělé"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "chvalte jej"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "jeho zástupy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:39.785105605Z",
+  "model": "glm-5.3"
+}

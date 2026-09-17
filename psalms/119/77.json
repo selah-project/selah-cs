@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Nechť mě potkají tvá slitování, a budu žít, neboť tvá tóra ⟨je⟩ mým potěšením.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "nechť mě potkají"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "tvá slitování"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "a budu žít"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvá tóra"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "mým potěšením"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:47.239886701Z",
+  "model": "glm-5.3"
+}

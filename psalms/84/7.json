@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 84,
+  "translation": "Procházejí údolím Bacha, učiní z ⟨něj⟩ pramen, i požehnání ⟨jim⟩ přikryje časné deště.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Procházejí"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "údolím"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Bacha"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "pramen"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "z něj učiní"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "požehnání"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "přikryje"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "časné deště"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:17.058592563Z",
+  "model": "glm-5.3"
+}

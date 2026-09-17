@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Co znáš, co bychom my neznali? Co chápeš, co by ⟨nebylo⟩ s námi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znáš"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "co bychom my neznali?"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "neznali"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "chápeš"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "co by nebylo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "s námi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:47:28.687259505Z",
+  "model": "glm-5.3"
+}

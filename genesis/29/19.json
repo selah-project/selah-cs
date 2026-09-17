@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A Lában řekl: Dobré ⟨je⟩, dám ⟨את⟩ ni tobě, než dám ⟨את⟩ ni jinému muži; sídlit u mne!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lában"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "dám"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "než dát"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "jinému muži"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jinému"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "sídlit"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "u mne"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:12.378803151Z",
+  "model": "glm-5.3"
+}

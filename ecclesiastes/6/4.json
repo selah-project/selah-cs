@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "neboť v hevel přišlo a ve tmě odchází, a ve tmě jeho jméno bude přikryto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "v hevel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišlo"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "a ve tmě"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "odchází"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "a ve tmě"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "bude přikryto"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:14.824397095Z",
+  "model": "glm-5.3"
+}

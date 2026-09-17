@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Obklopily mě, ano obklopily mě; v jméně Jahve je jistě zničím.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Obklopily mě"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ano"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "obklopily mě"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "v jméně"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "je zničím"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:17.722559046Z",
+  "model": "glm-5.3"
+}

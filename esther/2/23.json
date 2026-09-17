@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 2:23",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A ⟨ta⟩ věc byla prošetřena a ⟨se⟩ potvrdila, a oba byli oběšeni na kůlu; a ⟨to⟩ bylo zapsáno do knihy dějin dnů před králem.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "A byla prošetřena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "a potvrdila"
+    },
+    {
+      "surface": "ויתלו",
+      "gloss": "a byli oběšeni"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "kůlu"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "a bylo zapsáno"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "do knihy"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "dějin"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:46.925983054Z",
+  "model": "glm-5.3"
+}

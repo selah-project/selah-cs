@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A věž Penuelu ⟨את⟩ strhl a zabil muže ⟨את⟩ ⟨té⟩ ⟨toho⟩ města.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "věž Penuelu"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "věž"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuelu"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "strhl"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "a zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muže města"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muže"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    }
+  ],
+  "timestamp": "2026-09-17T07:15:31.550421675Z",
+  "model": "glm-5.3"
+}

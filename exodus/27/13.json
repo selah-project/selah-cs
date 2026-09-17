@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A šířka dvora k přední straně, k východu ⟨bude⟩ padesát loket.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "a šířka"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvora"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "k straně"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "přední"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "k východu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "padesát"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "loket"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:25.896225313Z",
+  "model": "glm-5.3"
+}

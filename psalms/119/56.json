@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Tohoto se mi dostalo, protože jsem tvá přikázání střežil.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Tohoto"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "se dostalo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "tvá přikázání"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "jsem střežil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:48.541119728Z",
+  "model": "glm-5.3"
+}

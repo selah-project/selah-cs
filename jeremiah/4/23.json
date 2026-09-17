@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Viděl jsem ⟨את⟩ zemi — a hle, pustá a prázdná; a k nebesům — a jejich světlo není.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "viděl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "pustá"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "a prázdná"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesům"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "jejich světlo"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:48.057713255Z",
+  "model": "glm-5.3"
+}

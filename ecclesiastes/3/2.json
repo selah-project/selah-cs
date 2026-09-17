@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Hodina rodit a hodina umírat, hodina sázet a hodinu vytrhávat zasazené.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "hodina"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "rodit"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a hodina"
+    },
+    {
+      "surface": "למות",
+      "gloss": "umírat"
+    },
+    {
+      "surface": "עת",
+      "gloss": "hodina"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "sázet"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "a hodina"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "vytrhávat"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "zasazené"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:22.295468210Z",
+  "model": "glm-5.3"
+}

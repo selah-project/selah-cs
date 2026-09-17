@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Vyvolil si ⟨את⟩ kmen Judův, ⟨את⟩ horu Sijón, kterou miloval.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "vyvolil si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kmen Judův"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kmen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judův (Juda)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "horu Sijón"
+    },
+    {
+      "surface": "הר",
+      "gloss": "horu"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijón"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miloval"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:14.370600963Z",
+  "model": "glm-5.3"
+}

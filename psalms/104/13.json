@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Napájíš hory ze svých ⟨výšin⟩, z plodu svých děl se sytí ⟨země⟩.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "Napájíš"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hory"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "ze svých výšin"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "z plodu"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "svých děl"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "se sytí"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:26.547273959Z",
+  "model": "glm-5.3"
+}

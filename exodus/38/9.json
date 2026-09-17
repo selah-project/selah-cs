@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "A udělal ⟨את⟩ dvůr na stranu jihu, k jižní straně; závěsy dvora ⟨byly⟩ z lněného příze bílého lnu, sto loktů.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dvůr"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvůr"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "na stranu"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "jihu"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "k jižní straně"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "závěsy"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvora"
+    },
+    {
+      "surface": "שש",
+      "gloss": "z bílého lnu"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "příze"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "loktů"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:30.772723833Z",
+  "model": "glm-5.3"
+}

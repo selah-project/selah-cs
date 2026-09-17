@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 18:3",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "I řekl Achab, král Izraele, Jóšafatovi, králi Judska: Půjdeš se mnou na Rámot Gileád? A řekl mu: Jako jsem já, tak jsi ty, a jako je tvůj lid, tak je můj lid, a ⟨budu⟩ s tebou v boji.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jóšafatovi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jóšafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judska"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Půjdeš"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "na Rámot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileád"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "Jako jsem já"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "tak jsi ty"
+    },
+    {
+      "surface": "וכעמך",
+      "gloss": "a jako je tvůj lid"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "tak je můj lid"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "a s tebou"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "v boji"
+    }
+  ],
+  "timestamp": "2026-09-17T11:25:29.748453049Z",
+  "model": "glm-5.3"
+}

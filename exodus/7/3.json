@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A já zatvrdím ⟨את⟩ srdce faraónovo a rozmnožím ⟨את⟩ svá znamení a ⟨את⟩ svá zázraky v zemi egyptské.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A já"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "zatvrdím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "srdce faraónovo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónovo"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "a rozmnožím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá znamení"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "svá znamení"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svá zázraky"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "svá zázraky"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptské"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:12.752788033Z",
+  "model": "glm-5.3"
+}

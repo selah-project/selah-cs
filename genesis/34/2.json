@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A viděl ⟨את⟩ ni Šchem, syn Chamora Chivijce, kníže ⟨té⟩ země; a vzal ⟨את⟩ ni a ležel s ⟨את⟩ ní a ponížil ji.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ni (Dínu)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šchem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamora"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chivijce"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "kníže"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ni (Dínu)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "a ležel s"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ní (Dínou)"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "a ponížil"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:44.710261915Z",
+  "model": "glm-5.3"
+}

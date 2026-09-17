@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A tvé sezení i tvé vycházení a tvé vcházení znám, i ⟨את⟩ tvé rozbouření proti mně.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "A tvé sezení"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "i tvé vycházení"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "a tvé vcházení"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "znám"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tvé rozbouření"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "tvé rozbouření"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "proti mně"
+    }
+  ],
+  "timestamp": "2026-09-17T08:10:32.773455884Z",
+  "model": "glm-5.3"
+}

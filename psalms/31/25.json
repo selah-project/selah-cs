@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Buďte silní a ⟨nechť⟩ se posílí vaše srdce, všichni, kdo čekáte na Jahve!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Buďte silní"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "a ⟨nechť⟩ se posílí"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "vaše srdce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "kdo čekáte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:19.920872125Z",
+  "model": "glm-5.3"
+}

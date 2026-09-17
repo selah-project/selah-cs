@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Tak vyhladil Zimri ⟨את⟩ celý dům Bašův podle slova Jahveho, které mluvil proti Bašovi rukou Jehúa proroka.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "Tak vyhladil"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý dům Bašův"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bašův"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "podle slova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bašovi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehúa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroka"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:55.983537177Z",
+  "model": "glm-5.3"
+}

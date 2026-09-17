@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Přisáhl Adonaj Jahve ve své svatosti: hle, dny přicházejí na vás, a ⟨vás⟩ vyzvednou ⟨את⟩ háky a vaše posledky rybími háky.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Přisáhl"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ve své svatosti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨že⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "באים",
+      "gloss": "přicházejí"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "na vás"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "vyzvednou"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "háky"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "a vaše posledky"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "rybími háky"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "rybářskými"
+    }
+  ],
+  "timestamp": "2026-09-17T08:59:43.425557744Z",
+  "model": "glm-5.3"
+}

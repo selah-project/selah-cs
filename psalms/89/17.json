@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Ve tvém Jménu se těší ⟨celý⟩ den a ve tvé spravedlnosti jsou vyvyšováni.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "ve tvém Jménu"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "se těší"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "a ve tvé spravedlnosti"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "jsou vyvyšováni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:12.535599701Z",
+  "model": "glm-5.3"
+}

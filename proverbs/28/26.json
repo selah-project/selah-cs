@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 28:26",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Kdo důvěřuje ve svém srdci, ten ⟨je⟩ blázen; kdo však kráčí v moudrosti, ten bude zachráněn.",
+  "tokens": [
+    {
+      "surface": "בוטח",
+      "gloss": "důvěřuje"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "blázen"
+    },
+    {
+      "surface": "והולך",
+      "gloss": "kdo však kráčí"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "v moudrosti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "bude zachráněn"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:24.272206152Z",
+  "model": "glm-5.3"
+}

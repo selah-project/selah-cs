@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A potáhl ⟨את⟩-ně ryzím zlatem a udělal mu ⟨totiž→mu⟩ věnec ze zlata kolem dokola.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "a potáhl"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ně",
+      "marks": "ně (stůl)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatem"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ryzím"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "věnec"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ze zlata"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:27.962444268Z",
+  "model": "glm-5.3"
+}

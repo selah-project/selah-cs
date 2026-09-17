@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Není člověku vlády nad větrem, aby zadržel ⟨את⟩ vítr; a není vlády v den smrti; a není propuštění v ⟨té⟩ válce; a zlo nezachrání ⟨את⟩ své pány.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověku"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "vlády"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "nad větrem"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "aby zadržel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vítr"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "vítr"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "vlády"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "propuštění"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "v ⟨té⟩ válce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "zachrání"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své pány"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "své pány"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:51.262490091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Áda porodila ⟨את⟩ Jávala; on byl otcem těch, kdo bydlí ve stanech ⟨a mají⟩ dobytek.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Áda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jávala"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Jávala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otcem"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kdo bydlí"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ve stanech"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "a dobytek"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:34.233930564Z",
+  "model": "glm-5.3"
+}

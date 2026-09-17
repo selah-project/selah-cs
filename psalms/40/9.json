@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Činit tvou vůli, můj Elohime, jsem si přál, a tvá tóra ⟨je⟩ v útrobách mých.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "činit"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "tvou vůli"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "můj Elohime"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "jsem si přál"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "a tvá tóra"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "v útrobách"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mých"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:24.479082717Z",
+  "model": "glm-5.3"
+}

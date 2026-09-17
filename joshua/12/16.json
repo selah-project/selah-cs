@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "král Makedy, jeden; král Bet-Elu, jeden;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makedy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Elu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    }
+  ],
+  "timestamp": "2026-09-17T07:07:56.142689282Z",
+  "model": "glm-5.3"
+}

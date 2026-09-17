@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A řekl Mojžíš Jahvemu: Hle, ty říkáš mně: ‚Vyveď ⟨את⟩ tento lid‘, a nedal jsi mi poznat ⟨את⟩ to, koho pošleš se mnou; a přitom jsi řekl: ‚Znal jsem tě podle jména‘, a nalezl jsi také milost v mých očích.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "říkáš"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mně"
+    },
+    {
+      "surface": "העל",
+      "gloss": "Vyveď"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "tento lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "dal jsi mi poznat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, koho pošleš se mnou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koho"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "pošleš"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a přitom jsi"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "Znal jsem tě"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "podle jména"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a také"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "nalezl jsi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "milost"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v mých očích"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:54.651909239Z",
+  "model": "glm-5.3"
+}

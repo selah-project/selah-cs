@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A budete střežit ⟨את⟩ mou stráž, abyste nečinili žádné z ustanovení ohavností, které byly činěny před vámi, a nevinníte se jimi; já ⟨jsem⟩ Jahve, váš Elohim.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "A budete střežit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou stráž"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "mou stráž"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "abyste nečinili"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "činili"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "ustanovení"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "ohavností"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "byly činěny"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "před vámi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "se nevinníte"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jimi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:00.363922759Z",
+  "model": "glm-5.3"
+}

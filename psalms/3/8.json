@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Vstaň, Jahve! Zachraň mě, můj Eloime, neboť jsi zpřtil ⟨את⟩ všechny mé protivníky ⟨na⟩ tvář, zuby bezbožných jsi vylámal.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Vstaň"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "Zachraň mě"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "můj Eloime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "jsi zpřtil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny mé protivníky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mé protivníky"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "⟨na⟩ tvář"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zuby"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "jsi vylámal"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:13.118412402Z",
+  "model": "glm-5.3"
+}

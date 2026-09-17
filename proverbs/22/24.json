@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Nestykej se s ⟨את⟩ mužem hněvu a s ⟨את⟩ člověkem prchlivosti nechoď,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "stykej se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mužem hněvu"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mužem"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "s ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověkem"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "prchlivosti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "choď"
+    }
+  ],
+  "timestamp": "2026-09-17T11:16:35.361153118Z",
+  "model": "glm-5.3"
+}

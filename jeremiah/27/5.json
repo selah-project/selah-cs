@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 27:5",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "„Já jsem učinil ⟨את⟩ zemi, ⟨את⟩ člověka i ⟨את⟩ dobytek, který ⟨je⟩ na povrchu země, svou velkou mocí a svou nataženou paží, a dávám ji tomu, kdo ⟨je⟩ správný v mých očích.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Já"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem učinil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "člověka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dobytek"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "dobytek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "povrchu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "בכחי",
+      "gloss": "svou mocí"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "velkou"
+    },
+    {
+      "surface": "ובזרועי",
+      "gloss": "a svou paží"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "nataženou"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "a dávám ji"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "tomu, kdo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "správný ⟨je⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v mých očích"
+    }
+  ],
+  "timestamp": "2026-09-17T08:27:40.228270841Z",
+  "model": "glm-5.3"
+}

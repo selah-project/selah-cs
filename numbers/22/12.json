@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A řekl Elohim Balaamovi: Nepůjdeš s nimi a neprokleješ ⟨את⟩ ⟨ten⟩ lid, neboť ⟨je⟩ požehnaný.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Balaamovi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "půjdeš"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "s nimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "prokleješ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ten⟩ lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨ten⟩ lid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "požehnaný"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩ on"
+    }
+  ],
+  "timestamp": "2026-09-17T10:43:31.421894002Z",
+  "model": "glm-5.3"
+}

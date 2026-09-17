@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A vzal Mojžíš a Áron ⟨את⟩ tyto muže, kteří byli určeni podle jmen,",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "a Áron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyto muže"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "muže"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "byli určeni"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "podle jmen"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:15.456375651Z",
+  "model": "glm-5.3"
+}

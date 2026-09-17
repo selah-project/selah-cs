@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A přinesete tam své zápalné oběti a své oběti, ⟨את⟩ svá desátky a ⟨את⟩ příspěvek svých rukou, svá slibovaní i svá dobrovolná oběti a prvorozené svého skotu a svého bravu.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "a přinesete"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "své zápalné oběti"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "a své oběti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svá desátky"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "svá desátky"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "příspěvek svých rukou"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "příspěvek"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "svých rukou"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "svá slibovaní"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "svá dobrovolná oběti"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "a prvorozené"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "svého skotu"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "svého bravu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:16.228250678Z",
+  "model": "glm-5.3"
+}

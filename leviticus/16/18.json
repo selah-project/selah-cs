@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 16:18",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A vyjde k oltáři, který je před Jahve, a smíří ⟨se⟩ s ním; a vezme z krve býčka a z krve kozla a dá na rohy oltáře dookola.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a vyjde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "je před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a smíří"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "a vezme"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "z krve"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "býčka"
+    },
+    {
+      "surface": "ומדם",
+      "gloss": "a z krve"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kozla"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a dá"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "rohy"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dookola"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:49.139072891Z",
+  "model": "glm-5.3"
+}

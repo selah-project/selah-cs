@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "Ať se raduje hora Sijón, ať jásají dcery Judovy kvůli tvým výnosům.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ať se raduje"
+    },
+    {
+      "surface": "הר",
+      "gloss": "hora"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijón"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ať jásají"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dcery"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judovy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "tvým výnosům"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:31.805217459Z",
+  "model": "glm-5.3"
+}

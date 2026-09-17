@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Slyšte slovo Jahve, vůdcové sodomští; naslouchněte tóře Elohim našeho, lide gomorský!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slyšte"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "vůdcové"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "sodomští"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "naslouchněte"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tóře"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim našeho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lide"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "gomorský"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:54.671431700Z",
+  "model": "glm-5.3"
+}

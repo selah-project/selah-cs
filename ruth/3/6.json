@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A sestoupila na ⟨⟩ humno a udělala podle všeho, co přikázala její tchyně.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "A sestoupila"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "humno"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "a udělala"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "přikázala"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "její tchyně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:55:40.535509766Z",
+  "model": "glm-5.3"
+}

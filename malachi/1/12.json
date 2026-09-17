@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Vy však znesvěcujete ⟨את⟩ něj, když říkáte: Stůl Adonaje je poskvrněný, a plod jeho — opovržitelný je jeho pokrm.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "vy však"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "znesvěcujete"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "něj (jméno Jahve)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "když říkáte"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "stůl"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "poskvrněný"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "a plod jeho"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "opovržitelný"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "jeho pokrm"
+    }
+  ],
+  "timestamp": "2026-09-17T09:09:57.712320365Z",
+  "model": "glm-5.3"
+}

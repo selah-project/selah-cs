@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Hleď s rozkoší na Jahve, a ⟨on⟩ ti dá žádosti tvého srdce.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "hleď s rozkoší"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dá"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "žádosti"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tvého srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:21.582262316Z",
+  "model": "glm-5.3"
+}

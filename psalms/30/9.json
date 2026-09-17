@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "K tobě, Jahve, volám, a k Adonaj se modlím o slitování.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "volám"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "modlím se o slitování"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:28.422158099Z",
+  "model": "glm-5.3"
+}

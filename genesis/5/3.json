@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A žil Adam třicet a sto let, a zplodil ⟨syna⟩ ve své podobě, podle svého obrazu, a nazval ⟨את⟩ jeho jméno Šet.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "A žil"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třicet"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "a sto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "ve své podobě"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "podle svého obrazu"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Šet"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:35.054437209Z",
+  "model": "glm-5.3"
+}

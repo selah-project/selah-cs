@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 15:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A řekl mu: Já ⟨jsem⟩ Jahve, který tě vyvedl z Uru Kasdského, abych ti dal ⟨את⟩ tuto zemi do držení.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "tě vyvedl"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "z Uru"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdských"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "abych dal"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tuto zemi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "do držení"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:56.646232107Z",
+  "model": "glm-5.3"
+}

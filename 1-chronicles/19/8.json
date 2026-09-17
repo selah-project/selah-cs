@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A David uslyšel, a poslal ⟨את⟩ Joába a ⟨את⟩ celé vojsko statečných ⟨mužů⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "A uslyšel"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joába"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joába"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "celé vojsko statečných"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojsko"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "statečných"
+    }
+  ],
+  "timestamp": "2026-09-17T11:23:57.543980250Z",
+  "model": "glm-5.3"
+}

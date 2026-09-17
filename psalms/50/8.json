@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Ne kvůli tvým obětem tě budu usvědčovat, tvé ⟨spalné⟩ oběti jsou neustále přede mnou.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "על",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "tvým obětem"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "tě budu usvědčovat"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "a tvé ⟨spalné⟩ oběti"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "neustále"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:35.962874557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A Mojžíš řekl: Proč to ⟨toto⟩ činíte? Překračujete ⟨את⟩ ústa Jahve, a ⟨to⟩ se vám nepovede.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "překračujete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ústa Jahve"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ústa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a to"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "povede se"
+    }
+  ],
+  "timestamp": "2026-09-17T10:42:31.229832584Z",
+  "model": "glm-5.3"
+}

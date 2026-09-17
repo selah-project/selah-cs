@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 64,
+  "translation": "Slyš, Elohim, hlas můj v ⟨mé⟩ nářku; před hrůzou nepřítele ochraňuj život můj.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Slyš"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "hlas můj"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "v ⟨mé⟩ nářku"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "před hrůzou"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nepřítele"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ochraňuj"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "život můj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:16.004433910Z",
+  "model": "glm-5.3"
+}

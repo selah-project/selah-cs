@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 10:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Služebníci faraóna mu řekli: Jak dlouho bude tenhle ⟨člověk⟩ pro nás návnadou? Vydej ⟨את⟩ ty lidi, ať slouží ⟨את⟩ Jahvemu, svému Elohim! Ještě jsi nepoznal, že Egypt zahynul?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "řekli"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Služebníci"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraóna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Jak dlouho"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tenhle"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "pro nás"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "návnadou (pastí)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Vydej (posla pryč)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty lidi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ty lidi"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ať slouží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvemu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "svému Elohim"
+    },
+    {
+      "surface": "הטרם",
+      "gloss": "Ještě ne"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "jsi nepoznal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "zahynul"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypt"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:22.140667032Z",
+  "model": "glm-5.3"
+}

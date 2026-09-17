@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A řekneš mu: Jahve, Elohim Hebrejů, mě poslal k tobě, říkaje: Propusť ⟨את⟩ můj lid, ať mi slouží na poušti; a hle, až dosud jsi neposlechl.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "a řekneš"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrejů"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "mě poslal"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkaje"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "propusť"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "můj lid"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "můj lid"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ať mi slouží"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "jsi poslechl"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "כה",
+      "gloss": "dosud"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:51.289370650Z",
+  "model": "glm-5.3"
+}

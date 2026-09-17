@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "A vzývej mě v den úzkosti, já tě vysvobodím a ty mě oslavíš.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "A vzývej mě"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "úzkosti"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "já tě vysvobodím"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "a ty mě oslavíš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:03.799949158Z",
+  "model": "glm-5.3"
+}

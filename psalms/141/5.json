@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 141,
+  "translation": "Zatměť mě spravedlivý v milosti (chesed), ať mě kárá ⟨jako⟩ olej ⟨na⟩ hlavu — nechť moje hlava neodmítá, neboť stále ⟨je⟩ i má modlitba v jejich útrapách.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "zatměť mě"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "v milosti (chesed)"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ať mě kárá"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "⟨na⟩ hlavu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יני",
+      "gloss": "nechť neodmítá"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "moje hlava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "i má modlitba"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "v jejich útrapách"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:56.562469442Z",
+  "model": "glm-5.3"
+}

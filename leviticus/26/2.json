@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "⟨את⟩ mé šabaty budete střežit a mé svatyně se budete bát; já ⟨jsem⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mé šabaty"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mé šabaty"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "budete střežit"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "a mé svatyně"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "budete se bát"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:51.033801831Z",
+  "model": "glm-5.3"
+}

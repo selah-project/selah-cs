@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "a ⟨את⟩ Patrusim, a ⟨את⟩ Kasluchim, z nichž vyšli Pelíštejci, a ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "z nichž"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "vyšli"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelíštejci"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-17T11:38:47.903738403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Pamatuj ⟨את⟩ to, co ti učinil Amálek na cestě, když jste vycházeli z Egypta.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Pamatuj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co ti učinil Amálek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amálek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "když jste vycházeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:21.720249508Z",
+  "model": "glm-5.3"
+}

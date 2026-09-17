@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Který vyvádí mraky z konců země, blesky k dešti učinil, vytahuje vítr ze svých pokladnic.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "vyvádí vzhůru"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "mraky"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "z konců"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "blesky"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "k dešti"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "vytahuje"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vítr"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "ze svých pokladnic"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:50.435070151Z",
+  "model": "glm-5.3"
+}

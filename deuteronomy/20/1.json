@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 20:1",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Když vytáhneš do války proti svým nepřátelům a uvidíš koně a vozy, lid četnější nežli ty, neboj se jich, neboť Jahve, tvůj Elohim, ⟨je⟩ s tebou, který tě vyvedl z země mitsrajské.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "vytáhneš"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "do války"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "svým nepřátelům"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "a uvidíš"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "koně"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "a vozy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "רב",
+      "gloss": "četnější"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "nežli ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "boj"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "se jich"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "který tě vyvedl"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "mitsrajské"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:03.786578056Z",
+  "model": "glm-5.3"
+}

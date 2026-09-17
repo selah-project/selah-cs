@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Zlý ⟨se⟩ půjčuje a nevrací, spravedlivý ⟨je⟩ milostivý a dává.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "půjčuje ⟨se⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zlý"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "vrací (splácí)"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "a spravedlivý"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "milostivý"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "a dává"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:55.254070618Z",
+  "model": "glm-5.3"
+}

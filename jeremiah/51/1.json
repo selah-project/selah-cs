@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Tak řekl Jahve: Hle, já budu burcovat proti Babylónu a proti obyvatelům Lev-kamaj〈„srdce mých protivníků“ — atbaš pro כשדים〉 větru ničitelovi <ruinující> vítr.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hle, já"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "budu burcovat"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a proti"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "obyvatelům"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce-mých (Lev)"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "protivníků (kamaj)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vítr"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ničící"
+    }
+  ],
+  "timestamp": "2026-09-17T08:36:18.111347406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Proč se bouří ⟨národy⟩ a lidé meditují ⟨o⟩ marnosti?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "se bouří"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "⟨národy⟩"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "a lidé"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "meditují"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "marnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:52.704968995Z",
+  "model": "glm-5.3"
+}

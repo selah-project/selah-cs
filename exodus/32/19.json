@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 32:19",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A stalo se, když se přiblížil k táboru, že uviděl ⟨את⟩ tele a tance; a vzplál hněv Mojžíšův, a vyhodil ze své ruky ⟨את⟩ desky a roztříštil ⟨את⟩ je pod ⟨podstavou⟩ hory.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "se přiblížil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "táboru"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a uviděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tele"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "tele"
+    },
+    {
+      "surface": "ומחלת",
+      "gloss": "a tance"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "a vzplál (-plane)"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněv (nos)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšův"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "a vyhodil"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "ze své ruky"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "desky"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "desky"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "a roztříštil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "horou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:01.972835767Z",
+  "model": "glm-5.3"
+}

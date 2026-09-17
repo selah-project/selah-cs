@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 13:11",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Neboť jako se pás přilepuje k bedrům muže, tak jsem přilepil k sobě ⟨את⟩ celý dům Izraele i ⟨את⟩ celý dům Judy — je výrok Jahveho — aby mi byli lidem, jménem, chvalozpěvem i ozdobou; ale neposlechli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jako"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "se přilepuje"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "pás"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "bedrům"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "הדבקתי",
+      "gloss": "jsem přilepil"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "k sobě"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý dům Izraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "celý dům Judy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "je výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aby byli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lidem"
+    },
+    {
+      "surface": "ולשם",
+      "gloss": "jménem"
+    },
+    {
+      "surface": "ולתהלה",
+      "gloss": "chvalozpěvem"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "ozdobou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslechli"
+    }
+  ],
+  "timestamp": "2026-09-17T08:23:47.888747553Z",
+  "model": "glm-5.3"
+}

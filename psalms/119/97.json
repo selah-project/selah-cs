@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Jak miluji tvou tóru! Po celý den je ⟨mým⟩ přemítáním.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "miluji"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvou tóru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "moje přemítání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:30.514771608Z",
+  "model": "glm-5.3"
+}

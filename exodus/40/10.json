@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A pomažeš ⟨את⟩ oltář zápalné oběti i ⟨את⟩ všechny jeho nádoby a posvětíš ⟨את⟩ oltář, a bude oltář svatostí svatostí.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "a pomažeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltář"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalné oběti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "všechny nádoby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jeho nádoby"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "a posvětíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltář"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatostí"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svatostí"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:09.291350167Z",
+  "model": "glm-5.3"
+}

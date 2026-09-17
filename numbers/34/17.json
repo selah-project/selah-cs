@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 34:17",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Toto jsou jména mužů, kteří vám mají dát ⟨את⟩ zemi do dědictví: Elazar kněz a Jehošua bin Nun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jsou jména"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "mají dát do dědictví"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "a Jehošua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bin"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    }
+  ],
+  "timestamp": "2026-09-17T06:51:57.958735588Z",
+  "model": "glm-5.3"
+}

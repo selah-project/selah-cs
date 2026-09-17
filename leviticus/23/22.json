@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 23:22",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A když budete žít ⟨את⟩ žně své země, nedoskldníš okraje svého pole při žni, ani nesesbíráš klaso svých žní; chudému a hostu ⟨את⟩ je ponecháš. Já jsem Jahve, váš Elohim.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "a když budete žít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žně své země"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "žně"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "své země"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "doskldníš"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "okraje"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "svého pole"
+    },
+    {
+      "surface": "בקצרך",
+      "gloss": "při žni"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ani klaso"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "svých žní"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "sesbíráš"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "chudému"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "a hostu"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ponecháš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:36.560313444Z",
+  "model": "glm-5.3"
+}

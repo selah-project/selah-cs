@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Neboť všechny naše dny odplynuly ⟨v⟩ tvém hněvu; dožili jsme svá léta jako ⟨jednu⟩ vzdech.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "naše dny"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "odplynuly"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "v tvém hněvu"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "dožili jsme"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "svá léta"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jako"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "vzdech"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:47.953978101Z",
+  "model": "glm-5.3"
+}

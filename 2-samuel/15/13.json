@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A přišel ⟨ten⟩ posel k Davidovi a řekl: „Stalo se srdce muže Izraele za Avšalomem.“",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "posel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "היה",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalomem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:36:11.106352079Z",
+  "model": "glm-5.3"
+}

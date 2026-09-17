@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A vyvedl mě z jámy ⟨ה⟩ukřiku, z bláta nilového, a postavil nohy mé na skálu, upevnil kroky mé.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "a vyvedl mě"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "z jámy"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "⟨ה⟩ukřiku"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "z bláta"
+    },
+    {
+      "surface": "היון",
+      "gloss": "nilového"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "skálu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "nohy mé"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "upevnil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "kroky mé"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:46.491300604Z",
+  "model": "glm-5.3"
+}

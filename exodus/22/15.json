@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 22:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A jestliže muž svede pannu, která není zasnoubena, a bude spát s ní, věnem ji získá ⟨sobě⟩ za ženu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "svede"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "panna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "je zasnoubena"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "a bude spát"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "s ní"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "věnem"
+    },
+    {
+      "surface": "ימהרנה",
+      "gloss": "ji získá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sobě"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:20.665470136Z",
+  "model": "glm-5.3"
+}

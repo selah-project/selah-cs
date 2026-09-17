@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Toto jsou ⟨חחקים-read: nařízení⟩, která přikázal Jahve ⟨את⟩ Moše — mezi mužem a jeho ženou, mezi otcem a jeho dcerou v jejím mládí, v domě jejího otce.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "jsou nařízení"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužem"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "a jeho ženou"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "אב",
+      "gloss": "otcem"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "a jeho dcerou"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "v jejím mládí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "jejího otce"
+    }
+  ],
+  "timestamp": "2026-09-17T10:42:50.557066210Z",
+  "model": "glm-5.3"
+}

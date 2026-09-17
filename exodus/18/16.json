@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Když mají nějakou věc, přijde ke mně a já soudím mezi mužem a jeho bližním a dávám jim poznat ⟨את⟩ ustanovení Elohimova a ⟨את⟩ jeho tóry.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mají"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přijde"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "a já soudím"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužem"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "jeho bližním"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "a dávám jim poznat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ustanovení Elohimova"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ustanovení"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho tóry"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "jeho tóry"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:31.544438313Z",
+  "model": "glm-5.3"
+}

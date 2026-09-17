@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 21:13",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Břímě nad Arábií: v houští, večer ⟨v Arábii⟩, přenocujete, karavany Dedánců.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Břímě"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "nad Arábií"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "v houští"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "⟨večer \/ v Arábii⟩"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "přenocujete"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "karavany"
+    },
+    {
+      "surface": "דדנים",
+      "gloss": "Dedánců"
+    }
+  ],
+  "timestamp": "2026-09-17T08:05:54.500688581Z",
+  "model": "glm-5.3"
+}

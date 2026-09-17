@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Proto se říká v Knize válek Jahveových: ⟨את⟩ Vaheb v Sufě a ⟨את⟩ strže Arnonu —",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Proto (na tomto základě)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "proto"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "se říká"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "v Knize"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "válek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveových"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vaheb"
+    },
+    {
+      "surface": "והב",
+      "gloss": "Vaheb"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "v Sufě"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "strže Arnonu"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "strže"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnonu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:46:30.835214690Z",
+  "model": "glm-5.3"
+}

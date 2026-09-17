@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vystavěl ⟨את⟩ Bet-choron horní a ⟨את⟩ Bet-choron dolní, města opevněná, s hradbami, bránami a závorami.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "A vystavěl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-choron horní"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-choron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "horní"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Bet-choron dolní"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-choron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "dolní"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "opevněná"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "s hradbami"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "bránami"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "a závorami"
+    }
+  ],
+  "timestamp": "2026-09-17T10:26:46.263454418Z",
+  "model": "glm-5.3"
+}

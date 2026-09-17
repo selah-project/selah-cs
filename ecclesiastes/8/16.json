@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 8:16",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Když jsem vložil ⟨את⟩ své srdce, abych poznal moudrost a viděl ⟨את⟩ zaměstnání, které se děje na zemi — neboť i ve dne i v noci spánek v jeho očích on nevidí.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Když"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem vložil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své srdce"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "své srdce"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "abych poznal"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zaměstnání"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "zaměstnání"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "se děje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ve dne"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "i v noci"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "spánek"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v jeho očích"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidí"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:16.635333518Z",
+  "model": "glm-5.3"
+}

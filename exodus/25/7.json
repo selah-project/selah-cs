@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "kameny šóham a kamení vsazené ⟨do⟩ efodu a ⟨do⟩ náprsníku.",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "šóham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "a kamení"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "vsazené"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "⟨do⟩ efodu"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "a ⟨do⟩ náprsníku"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:25.534862040Z",
+  "model": "glm-5.3"
+}

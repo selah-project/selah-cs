@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Neboť její rány ⟨jsou⟩ smrtelné, neboť ⟨to⟩ přišlo až k Judovi, dotklo se až brány mého lidu — až k Jeruzalému.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "smrtelné"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "její rány"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "באה",
+      "gloss": "přišlo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "k Judovi"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "dotklo se"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "שער",
+      "gloss": "brány"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mého lidu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalému"
+    }
+  ],
+  "timestamp": "2026-09-17T09:02:33.933956838Z",
+  "model": "glm-5.3"
+}

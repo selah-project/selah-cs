@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Truchlí, vadne země, chřadne, vadne svět; chřadnou výšiny lidu země.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Truchlí"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "vadne"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "chřadne"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "vadne"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "svět"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "chřadnou"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "výšiny"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T08:08:12.291852070Z",
+  "model": "glm-5.3"
+}

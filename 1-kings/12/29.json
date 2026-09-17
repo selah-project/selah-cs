@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A ⟨את⟩ jednoho postavil v Bet-elu a ⟨את⟩ druhého dal do Danu.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednoho"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-elu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "druhého"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "druhého"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "do Danu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:07.003643763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A řekli muži ⟨té⟩ města Joašovi: Vyveď ⟨את⟩ svého syna, ať zemře, neboť strhl ⟨את⟩ oltář Baalův a protože porazil ašeru, která ⟨byla⟩ na něm.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "A řekli"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muži"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Joašovi"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joaš"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "Vyveď"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého syna"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ať zemře"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "strhl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltář"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalův"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "a protože"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "porazil"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ašeru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něm"
+    }
+  ],
+  "timestamp": "2026-09-17T07:14:27.344921406Z",
+  "model": "glm-5.3"
+}

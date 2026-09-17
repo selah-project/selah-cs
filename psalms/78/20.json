@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Hle, uderil skálu a tekla voda a potoky se rozlily — zdali i chléb může dát? Zda připraví maso svému lidu?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "hle"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "uderil"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skálu"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "a tekla"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "a potoky"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "se rozlily"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "zdali i"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "může"
+    },
+    {
+      "surface": "תת",
+      "gloss": "dát"
+    },
+    {
+      "surface": "אם",
+      "gloss": "zda"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "připraví"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "svému lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:00.801618247Z",
+  "model": "glm-5.3"
+}

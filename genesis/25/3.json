@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A Jokšan zplodil ⟨את⟩ Šebu a ⟨את⟩ Dedana; a synové Dedanovi ⟨byli⟩ Ašúrové, Letúšové a Leúmové.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "A Jokšan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šebu"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Šeba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Dedana"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "a synové"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedanovi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ašúrové"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letúšové"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Leúmové"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:13.428024642Z",
+  "model": "glm-5.3"
+}

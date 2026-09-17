@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Nechť věřitel nastraží past na vše, co ⟨má⟩, a cizí ⟨lidé⟩ vyrabují plod jeho práce.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "nastraží past"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "věřitel"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨má⟩"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "a vyrabují"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "cizí ⟨lidé⟩"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "plod jeho práce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:25.042229990Z",
+  "model": "glm-5.3"
+}

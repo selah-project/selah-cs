@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 20:13",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Tohle ⟨jsou⟩ vody Meríby, kde se synové Izraele přeli ⟨את⟩ s Jahvem a on byl v nich posvěcen.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Tohle"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vody"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meríby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "se přeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahvem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "a byl posvěcen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "v nich"
+    }
+  ],
+  "timestamp": "2026-09-17T06:47:02.245893462Z",
+  "model": "glm-5.3"
+}

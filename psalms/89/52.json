@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "jimiž tě potupili tví nepřátelé, Jahve, jimiž potupili stopy tvého Mashíaje.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "jimiž"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "potupili"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "tví nepřátelé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jimiž"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "potupili"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "stopy"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "tvého Mashíaje"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:55.596950017Z",
+  "model": "glm-5.3"
+}

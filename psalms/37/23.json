@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Od Jahve jsou kroky muže ⟨ustaveny⟩; i jeho cestu ⟨si přeje\/má v oblíbě⟩.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "od Jahve"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "kroky"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "muže"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "⟨ustaveny⟩"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "i jeho cestu"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "⟨si přeje\/má v oblíbě⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:55.254548721Z",
+  "model": "glm-5.3"
+}

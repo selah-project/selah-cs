@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A jejich bratři ve svých dvorech ⟨měli⟩ přicházet po sedm dní, od času do času, s těmito ⟨strážci⟩.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "a jejich bratři"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "ve svých dvorech"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "přicházet"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "po sedm"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "od času"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "עת",
+      "gloss": "času"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "těmito"
+    }
+  ],
+  "timestamp": "2026-09-17T11:38:55.081187307Z",
+  "model": "glm-5.3"
+}

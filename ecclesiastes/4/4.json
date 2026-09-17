@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A viděl jsem já ⟨את⟩ veškerou námahu a ⟨את⟩ veškerou zběhlost díla, že ⟨je to⟩ závist muže vůči jeho druhu; i to ⟨je⟩ marnost a honba za větrem.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "a viděl jsem"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "veškerou námahu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "námahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "veškerou zběhlost díla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "zběhlost"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "díla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to ⟨je⟩"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "závist"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "vůči jeho druhu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "marnost"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "a honba za"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "větrem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:06.669402570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A Moše jim přikázal ⟨את⟩ ⟨je⟩ takto: Na konci sedmi let, v určenou dobu roku propuštění, ve svátku sborek —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "jim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na konci"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedmi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "v určenou dobu"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "roku"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "propuštění"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ve svátku"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "sborek"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:35.353338316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A tvá otrokyně má dva syny, a pohádali se oba v poli — a nebylo zachránce mezi nimi — a udeřil jeden ⟨את⟩ jednoho, a usmrtil ⟨את⟩ ho.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "A tvá otrokyně"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "syny"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "a pohádali se"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "v poli"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nebylo"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "zachránce"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "mezi nimi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "a udeřil"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednoho"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a usmrtil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ho",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:47.209723451Z",
+  "model": "glm-5.3"
+}

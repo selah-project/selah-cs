@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Mé srdce buší, má síla mě opustila, a světlo mých očí — i to ⟨⟨není⟩⟩ se mnou ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Mé srdce"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "buší"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "mě opustila"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "má síla"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "a světlo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mých očí"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i to"
+    },
+    {
+      "surface": "הם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨⟨není⟩⟩"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ se mnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:05.305913468Z",
+  "model": "glm-5.3"
+}

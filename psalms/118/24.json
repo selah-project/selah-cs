@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Toto je den, který učinil Jahve; jásejme a radujme se v něm.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "jásejme"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "a radujme se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:09.758513012Z",
+  "model": "glm-5.3"
+}

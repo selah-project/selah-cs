@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A země byla tóhu a vóhu, a tma nad tváří tehomu, a ruach Elohim se vznášela nad tváří vod.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "A země"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "byla"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tóhu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "a vóhu"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "a tma"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehomu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "a ruach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "se vznášela"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vod"
+    }
+  ],
+  "timestamp": "2026-09-17T11:44:36.164602804Z",
+  "model": "glm-5.3"
+}

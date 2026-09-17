@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Svázána je nepravost Efrajima, uložena jeho vina.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Svázána"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "uložena"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "jeho vina"
+    }
+  ],
+  "timestamp": "2026-09-17T08:57:11.887305016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Chválu Jahve bude mluvit mých úst ⟨a⟩ všechno tělo ať žehná ⟨jeho⟩ svatému jménu na věky věků.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "chválu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "bude mluvit"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mých úst"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a ať žehná"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tělo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jménu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svatému ⟨jeho⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "věků"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:05.239807727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Kam odejdu od tvého ducha? A kam před tvou tváří uprchnu?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "odejdu"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "od tvého ducha"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "a kam"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "před tvou tváří"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "uprchnu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:35.894623565Z",
+  "model": "glm-5.3"
+}

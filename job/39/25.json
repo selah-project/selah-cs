@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 39:25",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "Když zazní troubení, říká: האח! A z dálky čichá ⟨k⟩ válce, hřmění velitelů a válečný pokřik.",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "když zazní"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "troubení rohu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "říká"
+    },
+    {
+      "surface": "האח",
+      "gloss": "האח!"
+    },
+    {
+      "surface": "ומרחוק",
+      "gloss": "a z dálky"
+    },
+    {
+      "surface": "יריח",
+      "gloss": "čichá"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "válce"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "hřmění"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "velitelů"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "a válečný pokřik"
+    }
+  ],
+  "timestamp": "2026-09-17T09:53:09.456689691Z",
+  "model": "glm-5.3"
+}

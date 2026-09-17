@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I báli se ti muži Jahve velikou bázní, ⟨את⟩ Jahve, a obětovali oběť Jahve a složili sliby.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "I báli se"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ti muži"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bázní"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "velikou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "a obětovali"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "a složili"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "sliby"
+    }
+  ],
+  "timestamp": "2026-09-17T11:08:29.681963700Z",
+  "model": "glm-5.3"
+}

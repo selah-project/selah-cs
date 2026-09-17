@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A rozdrtil mi zuby štěrkem, přišlápil mě v popele.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "A rozdrtil"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "štěrkem"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zuby"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "přišlápil mě"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "v popele"
+    }
+  ],
+  "timestamp": "2026-09-17T09:56:56.264150016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A herold volal ⟨silným⟩ hlasem: „Vám se říká, národe, kmeny a jazyky:",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "A herold"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "volal"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "silným hlasem"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "Vám"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "se říká"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "národe"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "kmeny"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "a jazyky"
+    }
+  ],
+  "timestamp": "2026-09-17T10:04:12.456126188Z",
+  "model": "glm-5.3"
+}

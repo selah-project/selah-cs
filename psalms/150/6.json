@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 150,
+  "translation": "Každé sebe-dech-vlastnící-bytost ne; spíše: Všechno, co má dech, ať chválí Jacha. Halelu-Jach!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "co má dech"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "ať chválí"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jach"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "chvalte"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jach"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:42.740291541Z",
+  "model": "glm-5.3"
+}

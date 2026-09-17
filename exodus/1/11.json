@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A ustanovili nad ⟨ně⟩ přední výkonu, aby je tížili jejich břemeny; a vystavěl ⟨se⟩ města zásobnice pro faraona: ⟨את⟩ Pitom i ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "a ustanovili"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad ⟨ně⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "přední"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "výkonu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "je tížili"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "jejich břemeny"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a vystavěl ⟨se⟩"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "zásobnice"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "pro faraona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:28.137297630Z",
+  "model": "glm-5.3"
+}

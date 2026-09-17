@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A hanba sežrala ⟨את⟩ úděl našich otců od naší mladosti: ⟨את⟩ jejich drobný dobytek i ⟨את⟩ jejich skot, ⟨את⟩ jejich syny i ⟨את⟩ jejich dcery.",
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "A hanba"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "sežrala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "úděl našich otců"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "úděl"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "našich otců"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "od naší mladosti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich drobný dobytek"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "jejich drobný dobytek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jejich skot"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "jejich skot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich syny"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "jejich syny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jejich dcery"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "jejich dcery"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:38.806394409Z",
+  "model": "glm-5.3"
+}

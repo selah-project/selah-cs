@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "I mluvil Paroh k Josefovi: Ve snu svém — hle, stojím na břehu ⟨od⟩ Nilu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefovi"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "ve snu svém"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hle, stojím"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "(stojím)"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "břehu"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Nilu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:18.843421036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "Ať rozkvete za jeho dnů spravedlivý a hojnost míru, dokud ⟨ne⟩bude měsíce.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "Ať rozkvete"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "za jeho dnů"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "a hojnost"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "míru"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "⟨ne⟩bude"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "měsíce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:01.866925106Z",
+  "model": "glm-5.3"
+}

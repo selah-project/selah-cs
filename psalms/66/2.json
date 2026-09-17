@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Žalmujte slávu jeho jména, vzdejte slávu jeho chvále!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Žalmujte"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slávu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jména"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "vzdejte"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slávu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "jeho chvále"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:01.174296187Z",
+  "model": "glm-5.3"
+}

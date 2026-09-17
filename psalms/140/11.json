@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 140,
+  "translation": "Nechť na ně sesypou uhlíky, do ohně je strhne, do propastí — nebudou vstávat.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "nechť sesypou \/ ať klopýtnou"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na ně"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "uhlíky"
+    },
+    {
+      "surface": "באש",
+      "gloss": "do ohně"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "je strhne"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "do propastí"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "vstanou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:15.076512173Z",
+  "model": "glm-5.3"
+}

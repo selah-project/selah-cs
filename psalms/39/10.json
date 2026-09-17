@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "Zmlkl ⟨jsem⟩, neotevřu svých úst, neboť ty jsi ⟨to⟩ učinil.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Zmlkl ⟨jsem⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "otevřu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "svých úst"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi ⟨to⟩ učinil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:16.912423391Z",
+  "model": "glm-5.3"
+}

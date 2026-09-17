@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "král Tircy ⟨jeden⟩; všech králů ⟨bylo⟩ třicet a jeden.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Tirca"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "králů"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třicet"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "a jeden"
+    }
+  ],
+  "timestamp": "2026-09-17T11:47:31.660361573Z",
+  "model": "glm-5.3"
+}

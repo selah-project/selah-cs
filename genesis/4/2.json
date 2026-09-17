@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A dál rodila ⟨את⟩ jeho bratra, ⟨את⟩ Hevela. A Hevel byl pastýřem ovcí a Kain byl pracovníkem půdy.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "A dál rodila"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "rodit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho bratra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jeho bratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevela"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevela"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "A byl"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "pastýřem"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ovec"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "a Kain"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "pracovníkem"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "půdy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:47.303027190Z",
+  "model": "glm-5.3"
+}

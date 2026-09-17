@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 129,
+  "translation": "Ať jsou jako tráva na střechách, jež uschne, dřív než je vytržena.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ať jsou"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "jako tráva"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "na střechách"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "jež dřív než"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "je vytržena"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "uschne"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:32.056835240Z",
+  "model": "glm-5.3"
+}

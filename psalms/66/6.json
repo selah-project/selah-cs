@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Obrátil moře v souš, řekou přecházeli nohama, tam jsme se v něm radovali.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Obrátil"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "v souš"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "řekou"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "přecházeli"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "nohama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "jsme se radovali"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:24.457650616Z",
+  "model": "glm-5.3"
+}

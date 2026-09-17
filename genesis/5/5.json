@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A byly všechny dny Adamovy, které žil, devět set třicet let, a zemřel.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "A byly"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamovy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "חי",
+      "gloss": "žil"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "devět"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "a třicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:40.643842027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "a ⟨את⟩ stůl ⟨the⟩ se vším ⟨את⟩ jeho náčiním, ⟨את⟩ svícen a ⟨את⟩ jeho náčiní, a ⟨את⟩ oltář kadidlový,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stůl"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stůl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vším jeho náčiním"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vším"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "jeho náčiním"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svícen"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "svícen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho náčiní"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "jeho náčiní"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oltář kadidlový"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadidlový"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:17.615325775Z",
+  "model": "glm-5.3"
+}

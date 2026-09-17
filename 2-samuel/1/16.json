@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekl mu David: Tvá krev na tvé hlavě, neboť tvá ústa dosvědčila proti tobě, řkouce: Já jsem usmrtil ⟨את⟩ Mashíaje Jahve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "tvá krev"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tvé hlavě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "tvá ústa"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "dosvědčila"
+    },
+    {
+      "surface": "בך",
+      "gloss": "proti tobě"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řkouce"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "jsem usmrtil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashíaje"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashíaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:16.346792830Z",
+  "model": "glm-5.3"
+}

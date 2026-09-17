@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Nyní jdi, zapiš ⟨אתם⟩ na tabuli a do knihy je vyryj, a ať to je pro poslední den, na věky, až navěky.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nyní"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "zapiš"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tabuli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "před nimi \/ s nimi — na tabuli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a do"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knihy"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "vyryj"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a ať je"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "pro"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "poslední den"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "navěky"
+    }
+  ],
+  "timestamp": "2026-09-17T08:09:46.771868633Z",
+  "model": "glm-5.3"
+}

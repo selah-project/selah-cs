@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 9:33",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A řekl: Shoďte ji! A shodili ji, a postříkala se její krev na zeď i na koně, a podeptal ji.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "שמטהו",
+      "gloss": "Shoďte ji"
+    },
+    {
+      "surface": "וישמטוה",
+      "gloss": "a shodili ji"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "a postříkala se"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "její krev"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "zeď"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "i na"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "koně"
+    },
+    {
+      "surface": "וירמסנה",
+      "gloss": "a podeptal ji"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:28.700380464Z",
+  "model": "glm-5.3"
+}

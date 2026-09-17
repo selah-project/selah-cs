@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Neboť Jákob si vyvolil Jah, Izrael jako svou zvláštní pokladnici.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "si vyvolil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "si"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "jako svou zvláštní pokladnici"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:48.311246338Z",
+  "model": "glm-5.3"
+}

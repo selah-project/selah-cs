@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Zastyď se, Cídóne, neboť moře řeklo, pevnosti moře, řkouce: Nepřetrpěla jsem, nerodila jsem, nevychovala jsem mladíky, nepovyšovala jsem panny.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Zastyď se"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Cídóne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řeklo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "pevnosti"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řkouce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "přetrpěla jsem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nerodila"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "jsem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nevychovala"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "jsem"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "mladíky"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "povyšovala jsem"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "panny"
+    }
+  ],
+  "timestamp": "2026-09-17T08:07:55.578408819Z",
+  "model": "glm-5.3"
+}

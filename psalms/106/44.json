@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "A viděl jejich tíseň, když slyšel ⟨את⟩ jejich nářek.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "tíseň"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jejich"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "když slyšel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich nářek"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "jejich nářek"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:36.518940153Z",
+  "model": "glm-5.3"
+}

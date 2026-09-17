@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Celá obec jako jeden ⟨celek⟩ ⟨čítala⟩ čtyři desetitisíce dva tisíce tři sta šedesát.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Celá"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "obec"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "jako jeden"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "desetitisíce"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisíce"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "šedesát"
+    }
+  ],
+  "timestamp": "2026-09-17T10:08:41.541690880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A řekl mu: Jaké je tvé jméno? A on řekl: Jákob.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Jaké"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "je tvé jméno"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A on řekl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:46.107004774Z",
+  "model": "glm-5.3"
+}

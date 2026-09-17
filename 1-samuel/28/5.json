@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A Ša'ul viděl ⟨את⟩ tábor Pelíštejců, a bál se, a jeho srdce se třáslo velmi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tábor Pelíštejců"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelíštejců"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bál se"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "a třáslo se"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "jeho srdce"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:45.702352028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A Jóšafat řekl králi izraelskému: „Dotazy se ⟨dnes⟩ ptej na ⟨את⟩ slovo Jahvovo.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jóšafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "králi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "izraelskému"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Dotazy se ptej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slovo Jahvovo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvovo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:51:42.649305300Z",
+  "model": "glm-5.3"
+}

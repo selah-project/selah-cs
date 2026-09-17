@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Pomoz, Jahve, neboť zanikl zbožný, neboť zmizeli věrní ze synů lidských.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Pomoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "zanikl"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "zbožný"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "zmizeli"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "věrní"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ze synů"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidských"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:56.279403122Z",
+  "model": "glm-5.3"
+}

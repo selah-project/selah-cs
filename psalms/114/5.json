@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 114,
+  "translation": "Co ⟨je ti⟩, moře, že prcháš, Jordáne, že se obracíš nazpět?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨je ti⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "prcháš"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordáne"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "obracíš se"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "nazpět"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:28.581203717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A uděláš oltář ku kadidlu ⟨k⟩ kuření, z dřeva šitím ho uděláš ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "a uděláš"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "ku kadidlu ⟨k⟩"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kuření"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z dřeva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitím"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uděláš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (oltář)"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:12.041354508Z",
+  "model": "glm-5.3"
+}

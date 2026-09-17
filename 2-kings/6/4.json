@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A šel ⟨את⟩ s nimi, a přišli k Jordánu, a káceli dřeva.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "A šel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ s nimi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "a přišli"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "k Jordánu"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "a káceli"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dřeva"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:13.803719667Z",
+  "model": "glm-5.3"
+}

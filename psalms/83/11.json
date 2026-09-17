@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 83,
+  "translation": "Byli zničeni v Ejn-Dor, stali se ⟨jako⟩ lejno pro zemi.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Byli zničeni"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "v"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Ejn-Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "stali se"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "lejno"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "pro zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:57.729042204Z",
+  "model": "glm-5.3"
+}

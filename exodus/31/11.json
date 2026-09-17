@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A ⟨את⟩ olej pomazání a ⟨את⟩ kadidlo vůní pro svatyni — podle všeho, co jsem ti přikázal, udělají ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olej pomazání"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazání"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kadidlo vůní"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadidlo"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "vůní"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "pro svatyni"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "jsem ti přikázal"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "udělají"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:30.591256278Z",
+  "model": "glm-5.3"
+}

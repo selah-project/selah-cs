@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Tito jsou ti, kteří překročili ⟨את⟩ Jordán v měsíci prvním, když se rozléval přes všechny své břehy, a zaháněli ⟨את⟩ všechny obyvatele údolí k východu i k západu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Tito"
+    },
+    {
+      "surface": "הם",
+      "gloss": "jsou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "překročili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v měsíci"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvním"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "když on"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "se rozléval"
+    },
+    {
+      "surface": "על",
+      "gloss": "přes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "své břehy"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "a zaháněli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny obyvatele údolí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "údolí"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "k východu"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "i k západu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:19:29.841947393Z",
+  "model": "glm-5.3"
+}

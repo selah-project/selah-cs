@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "a kůže beranů zbarvené červánkově, a kůže tachušské, a dřevo šitimské —",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "a kůže"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "beranů"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "zbarvené červánkově"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "a kůže"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tachušské"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "a dřevo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitimské"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:25.534365219Z",
+  "model": "glm-5.3"
+}

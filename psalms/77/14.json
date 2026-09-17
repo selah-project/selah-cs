@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Elohim, ve svatosti ⟨je⟩ tvá cesta; kdo ⟨je⟩ El veliký jako Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ve svatosti"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "tvá cesta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "jako Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:34.756577803Z",
+  "model": "glm-5.3"
+}

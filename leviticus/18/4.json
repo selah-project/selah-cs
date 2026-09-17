@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "⟨את⟩ má práva budete konat a ⟨את⟩ má ustanovení budete zachovávat, abyste chodili v nich; já ⟨jsem⟩ Jahve, váš Elohim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "má práva"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "má práva"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "budete konat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "má ustanovení"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "má ustanovení"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "budete zachovávat"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "abyste chodili"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:23.110500461Z",
+  "model": "glm-5.3"
+}

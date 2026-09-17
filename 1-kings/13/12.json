@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A jejich otec jim řekl: Kudy šel? A jeho synové viděli ⟨את⟩ cestu, kterou šel muž Elohim, který přišel z Judska.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "jejich otec"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Kudy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tato"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "cesta"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "A viděli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synové"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cestu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "z Judska"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:24.461603121Z",
+  "model": "glm-5.3"
+}

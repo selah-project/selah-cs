@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Kdo konal a učinil, svolávaje pokolení od počátku? Já, Jahve, první, a s ⟨את⟩ posledními — já, ⟨ten⟩ jsem.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "konal"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "svolávaje"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "od počátku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "první"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "posledními"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "posledními"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ten⟩ jsem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:34.773741096Z",
+  "model": "glm-5.3"
+}

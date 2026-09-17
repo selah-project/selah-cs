@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 60,
+  "translation": "Pro vedoucího ⟨sboru⟩, „Na lilii svědectví“ (Šušan Edut), mikhtam Davidův, k výuce.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro vedoucího ⟨sboru⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "„Lilie"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "svědectví“"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "k výuce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:04.898782589Z",
+  "model": "glm-5.3"
+}

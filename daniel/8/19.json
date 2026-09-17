@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 8:19",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A řekl: Hle, já ti dám poznat ⟨את⟩ to, co se stane v posledním ⟨období⟩ hněvu, neboť k určenému času ⟨je⟩ konec.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hle, já"
+    },
+    {
+      "surface": "מודיעך",
+      "gloss": "ti dám poznat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co se stane v posledním období hněvu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se stane"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "v posledním období"
+    },
+    {
+      "surface": "הזעם",
+      "gloss": "hněvu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "k určenému času"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "konec"
+    }
+  ],
+  "timestamp": "2026-09-17T10:05:30.755472609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "I řekl David Abišajovi: Nezhub ⟨jej⟩, nebo kdo vztáhl svou ruku na Mashíacha Jahve, a zůstal ⟨bez viny⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Abišajovi"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abišaj"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "zhub ⟨jej⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "vztáhl"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "na Mashíacha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "a zůstal ⟨bez viny⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:49.864588976Z",
+  "model": "glm-5.3"
+}

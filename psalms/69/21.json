@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Hanba zlomila mé srdce a ⟨jsem⟩ nemocen; čekal jsem ⟨na⟩ toho, kdo by mi přivření ⟨oči⟩ ⟨projevil⟩ soucit, ale nebyl ⟨žádný⟩, a na těšitele, ale nenašel ⟨jsem⟩ ⟨žádného⟩.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "Hanba"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "zlomila"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "a ⟨jsem⟩ nemocen"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "čekal jsem"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "⟨na⟩ toho, kdo by mi přivření ⟨oči⟩ ⟨projevil⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ale nebyl ⟨žádný⟩"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "a na těšitele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne-"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "našel ⟨jsem⟩ ⟨žádného⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:51.650542773Z",
+  "model": "glm-5.3"
+}

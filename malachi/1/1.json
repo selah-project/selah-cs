@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Břímě slova Jahveho k Izraeli ⟨skrze⟩ ruku Malachiášovu.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Břímě"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨skrze⟩ ruku"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malachiášovu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:09:57.382334670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "Proto se nebudeme bát, ⟨když⟩ se změní země a hory se zachvějí v srdci moří —",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "proto (na tomu)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "proto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "budeme bát"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "když se změní"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "a když se zachvějí"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hory"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "v srdci"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "moří"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:47.618889908Z",
+  "model": "glm-5.3"
+}

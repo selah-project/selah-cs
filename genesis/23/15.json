@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Adonaji, vyslechni mne: země — čtyři sta šekelů stříbra mezi mnou a mezi tebou — co ⟨to je⟩? A ⟨את⟩ svého mrtvého pohřbi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaji"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "vyslechni mne"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sta"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "šekelů"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbra"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "mezi mnou"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "a mezi tebou"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to je⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svého mrtvého"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "svého mrtvého"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "pohřbi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:49.550121213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Jak dlouho ještě uvidím korouhev, uslyším hlas šofaru?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "jak dlouho"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "uvidím"
+    },
+    {
+      "surface": "נס",
+      "gloss": "korouhev"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "uslyším"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "šofaru"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:48.057221532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Když se naplní mraky, déšť na zemi vylejí; a když strom padne na jih, nebo když na sever — na místě, kde strom padne, tam ⟨bude⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Když"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "se naplní"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "mraky"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "déšť"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "vylejí"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a když"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "padne"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "strom"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "na jih"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "nebo když"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "na sever"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "na místě"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "kde padne"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "strom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨bude⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:12.022534979Z",
+  "model": "glm-5.3"
+}

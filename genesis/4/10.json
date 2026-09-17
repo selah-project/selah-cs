@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I řekl: Co jsi učinil? Hlas krve tvého bratra volá ke mně z ⟨té⟩ země.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi učinil"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Hlas"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "krve"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvého bratra"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "volá"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:51.392408107Z",
+  "model": "glm-5.3"
+}

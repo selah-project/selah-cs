@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A David přehlédl ⟨את⟩ ⟨the⟩ lid, který ⟨byl⟩ ⟨את⟩ s ním, a ustanovil nad ně velitele tisíců a velitele set.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "a přehlédl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ lid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a ustanovil"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad ně"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "velitele"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisíců"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "a velitele"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    }
+  ],
+  "timestamp": "2026-09-17T07:37:38.342002423Z",
+  "model": "glm-5.3"
+}

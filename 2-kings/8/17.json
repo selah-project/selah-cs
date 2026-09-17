@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 8:17",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Synem třiceti dvou let byl, když se stal králem, a osm let kraloval v Jeruzalémě.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třiceti"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dvou"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "když se stal králem"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "a osm"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraloval"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:46.167258983Z",
+  "model": "glm-5.3"
+}

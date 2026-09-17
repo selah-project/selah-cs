@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "A radují se, že ztichly, a vede je ⟨k⟩ přístavu, jenž si přáli.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "A radují se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "ztichly"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "a vede je"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "přístavu"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "jenž si přáli"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:58.098185539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "abys nebyl zahanben ⟨tím, kdo⟩ slyší, a tvá hanba se neodvrátila navždy.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "abys ne"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "byl zahanben"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "kdo slyší"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "a tvá hanba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se odvrátila"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:30.260796056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 99,
+  "translation": "Vyvyšujte Jahve, našeho Elohima, a klaňejte se ⟨jeho⟩ svaté hoře, neboť svatý ⟨je⟩ Jahve, náš Elohim.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Vyvyšujte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "a klaňejte se"
+    },
+    {
+      "surface": "להר",
+      "gloss": "hoře"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "jeho svaté"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:39.358512780Z",
+  "model": "glm-5.3"
+}

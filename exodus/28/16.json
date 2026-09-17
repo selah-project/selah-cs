@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Čtverhranný ⟨bude⟩, složený ve dvojitě; dlaň ⟨bude⟩ jeho délka a dlaň jeho šířka.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Čtverhranný"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨bude⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "složený ve dvojitě"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "dlaň"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "jeho délka"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "a dlaň"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "jeho šířka"
+    }
+  ],
+  "timestamp": "2026-09-17T06:24:15.804374447Z",
+  "model": "glm-5.3"
+}

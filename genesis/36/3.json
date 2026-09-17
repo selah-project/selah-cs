@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "a ⟨את⟩ Bosmat, dceru Jišmaela, sestru Nebajota.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišmaela"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sestru"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebajota"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:22.150047807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A muž Mojžíš ⟨byl⟩ velmi pokorný, více než kterýkoli člověk na tváři ⟨celé⟩ země.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "A muž"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "pokorný"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "více než kterýkoli"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváři"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:44:46.970737376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A utvořil Jahve Elohim ⟨את⟩ člověka — prach z ⟨té⟩ půdy — a vdechl do jeho chřípí dech života, a stal se člověk bytostí živou.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "a utvořil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "člověka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "prach"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "půdy"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "a vdechl"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "do jeho chřípí"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "dech"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "života"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stal se"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "bytostí"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "živou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:57.757245219Z",
+  "model": "glm-5.3"
+}

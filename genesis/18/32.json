@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 18:32",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A řekl: Ať se Adonaj nerozhorlí, promluvím ⟨ještě⟩ jen tentokrát: Snad bude tam nalezeno deset. A ⟨on⟩ řekl: Nezničím ⟨to⟩ kvůli těm deseti.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "se rozhorlí"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "promluvím"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "tentokrát"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "snad"
+    },
+    {
+      "surface": "ימצאון",
+      "gloss": "bude nalezeno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "deset"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "zničím"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "העשרה",
+      "gloss": "těm deseti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:10.976998348Z",
+  "model": "glm-5.3"
+}

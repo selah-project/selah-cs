@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Neboť byl jsem ukraden z země Hebrejů, a ani zde jsem neudělal nic ⟨takového⟩, že ⟨mě⟩ vložili ⟨את⟩ mne do jámy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "byl ukraden"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "ukraden jsem"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z země"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrejů"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a ani"
+    },
+    {
+      "surface": "פה",
+      "gloss": "zde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem udělal"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nic"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "vložili"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mne",
+      "marks": "do jámy"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "do jámy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:13.453851861Z",
+  "model": "glm-5.3"
+}

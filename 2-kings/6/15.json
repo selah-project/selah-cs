@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A služebník muže Elohim vstal časně ráno, aby vyšel, a hle — vojsko, jež obkličuje ⟨את⟩ město, kůň i vůz. I řekl jeho mláděnec k němu: Ach, můj Adonai! Jak ⟨to⟩ učiníme?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "vstal časně ráno"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "služebník"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "aby vyšel"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vojsko"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "obkličuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "město"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "kůň"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "vůz"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "jeho mláděnec"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ach"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "učiníme"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:00.786687789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Pamatuj na svá slitování, Jahve, a na své chesedy, neboť ⟨jsou⟩ od věků.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Pamatuj"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "na svá slitování"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "a na své chesedy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "od věků"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨jsou⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:20.957602797Z",
+  "model": "glm-5.3"
+}

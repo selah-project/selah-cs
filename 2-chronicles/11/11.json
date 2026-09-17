@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A posílil ⟨את⟩ ⟨ty⟩ pevnosti a ustanovil v nich správce a zásobárny pokrmu, oleje a vína.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "a posílil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pevnosti"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "pevnosti"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a ustanovil"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "správce"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "a zásobárny"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "pokrmu"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "oleje"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "vína"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:55.977719869Z",
+  "model": "glm-5.3"
+}

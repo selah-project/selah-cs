@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A učinil ⟨את⟩ olej pomazání, svatý ⟨svěcený⟩, a ⟨את⟩ kadidlo vonných koření, čisté, dílo lékárníka ⟨vonných směsí⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olej pomazání"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazání"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "kadidlo vonných koření"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kadidlo"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "vonných koření"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čisté"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "lékárníka"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:09.982005085Z",
+  "model": "glm-5.3"
+}

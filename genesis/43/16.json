@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 43:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Když Jósef uviděl ⟨את⟩ je — ⟨את⟩ Binjamina s nimi — řekl tomu, kdo byl nad jeho domem: Uveď ⟨את⟩ ty muže do domu, zabi porážku a připrav, neboť ti muži budou jíst ⟨את⟩ se mnou v poledne.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Když uviděl"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamina"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamina"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "tomu, kdo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "jeho domem"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "Uveď"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty muže"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ty muže"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "zabi"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "porážku"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "a připrav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ se mnou"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "budou jíst"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ti muži"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "v poledne"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:32.937832497Z",
+  "model": "glm-5.3"
+}

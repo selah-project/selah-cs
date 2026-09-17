@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Neboť den pomsty ⟨je⟩ Jahveho, rok odplaty za spor Sijónu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pomsty"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "rok"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "odplaty"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "za spor"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sijónu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:02.300331688Z",
+  "model": "glm-5.3"
+}

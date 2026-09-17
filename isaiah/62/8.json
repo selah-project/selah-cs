@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 62:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "Přísahal Jahve svou pravicí a paží své síly: Jestliže ještě dámu ⟨את⟩ tvé obilí za pokrm tvým nepřátelům, a jestliže budou pít cizí synové tvůj mošt, na němž jsi se namáhala —",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Přísahal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "svou pravicí"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "a paží"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "své síly"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "dámu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé obilí"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "tvé obilí"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "za pokrm"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "tvým nepřátelům"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "budou pít"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "cizí"
+    },
+    {
+      "surface": "תירושך",
+      "gloss": "tvůj mošt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "namáhala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na němž"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:19.734069192Z",
+  "model": "glm-5.3"
+}

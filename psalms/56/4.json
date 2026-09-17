@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 56,
+  "translation": "V den, kdy se bojím, já v tebe doufám.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "V den"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "když se bojím"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "v tebe"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "doufám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:13.115630257Z",
+  "model": "glm-5.3"
+}

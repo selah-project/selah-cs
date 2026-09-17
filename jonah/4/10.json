@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A řekl Jahve: Ty ses smiloval nad kikajonem, o kterýž jsi se nenamáhal a kterýžs nevychoval — synem jedné noci byl a synem jedné noci zahynul.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "ses smiloval"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikajonem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o kterýž"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "jsi se namáhal"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨o něm⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "kterýžs nevychoval"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jedné noci"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "a synem"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "jedné noci"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "zahynul"
+    }
+  ],
+  "timestamp": "2026-09-17T09:02:04.662702468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Kdo to zakrývá radu bez poznání? Proto jsem mluvil a nechápal jsem; divné věci, které jsem neznal, ⟨jsou⟩ nade mnou.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "zakrývá"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "radu"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "poznání"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Proto"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "jsem mluvil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "chápal jsem"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "divné věci"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nade mnou (ode mne)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "znal jsem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:53:52.055679460Z",
+  "model": "glm-5.3"
+}

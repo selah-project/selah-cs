@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Požehnaný buď Jahve na věky věků. Amen a amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Požehnaný"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky věků"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "a amen"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:04.159265602Z",
+  "model": "glm-5.3"
+}

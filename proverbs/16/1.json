@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Člověku ⟨jsou⟩ přípravy srdce, ale od Jahve ⟨je⟩ odpověď jazyka.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "Člověku"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "přípravy"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ale od Jahve"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "odpověď"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "jazyka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:51.014130858Z",
+  "model": "glm-5.3"
+}

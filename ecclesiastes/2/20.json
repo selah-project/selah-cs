@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A odvrátil jsem se já, abych přivedl ⟨את⟩ své srdce k zoufalství nad veškerou námahou, při níž jsem se namáhal pod sluncem.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "odvrátil jsem se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "k zoufalství"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své srdce"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "své srdce"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "námahou"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "při níž jsem se namáhal"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sluncem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:56.905133743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vystavěl ⟨את⟩ Tadmor na poušti a ⟨את⟩ všechna města zásobáren, která vybudoval v Chamatu.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a vystavěl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechna města zásobáren"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "města"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "zásobáren"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "vybudoval"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "v Chamatu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:26:17.106534749Z",
+  "model": "glm-5.3"
+}

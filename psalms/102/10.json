@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Neboť popel jako chléb jsem jedl a svůj nápoj pláčem jsem míchal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "popel"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "jako chléb"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "jsem jedl"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "a svůj nápoj"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "pláčem"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "jsem míchal"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:50.414374901Z",
+  "model": "glm-5.3"
+}

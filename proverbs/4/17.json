@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Neboť jedí chléb nepravosti a víno násilí popíjejí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "jedí"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "nepravosti"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "a víno"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "násilí"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "popíjejí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:53.339453993Z",
+  "model": "glm-5.3"
+}

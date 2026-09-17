@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "A ⟨to⟩, co učinil, bylo zlé v očích Jahve, a usmrtil ⟨את⟩ i jeho.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "a bylo zlé"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a usmrtil"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jeho (Onana)"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:49.335328116Z",
+  "model": "glm-5.3"
+}

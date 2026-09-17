@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 15:11",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Jsou ti málo útěchy El, ⟨a⟩ slovo jemně ⟨promluvené⟩ s tebou?",
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "Jsou ti málo"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "תנחמות",
+      "gloss": "útěchy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "a slovo"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "jemně, laskavě"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:47:28.687657563Z",
+  "model": "glm-5.3"
+}

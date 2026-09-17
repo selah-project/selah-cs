@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 15:16",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A řekl Šimšon: 'Čelistí osla, oslím patrem, oslím matkám, čelistí osla jsem porazil tisíc mužů.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Šimšon"
+    },
+    {
+      "surface": "בלחי",
+      "gloss": "čelistí"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "osla"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "oslím patrem"
+    },
+    {
+      "surface": "חמרתים",
+      "gloss": "oslím matkám"
+    },
+    {
+      "surface": "בלחי",
+      "gloss": "čelistí"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "osla"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "jsem porazil"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    }
+  ],
+  "timestamp": "2026-09-17T07:17:14.601049532Z",
+  "model": "glm-5.3"
+}

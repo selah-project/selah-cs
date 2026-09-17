@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 87,
+  "translation": "Jahve zapíše při účtování národů: tento se tam narodil. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "zapíše při účtování"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "při zápisu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "se narodil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:58.515356874Z",
+  "model": "glm-5.3"
+}

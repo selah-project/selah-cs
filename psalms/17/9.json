@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Před tváří bezbožných, kteří mě zpustošili, moji nepřátelé v ⟨duši⟩ obkličují mě.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "zpustošili mě"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "moji nepřátelé"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "v ⟨duši⟩"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "obkličují"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:43.386004032Z",
+  "model": "glm-5.3"
+}

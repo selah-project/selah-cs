@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Zpívejte Jahvi píseň novou, jeho chválu od konce země, sestupující do moře a jeho plnosti, ostrovy a jejich obyvatelé!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Zpívejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novou"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "jeho chválu"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "od konce"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "sestupující"
+    },
+    {
+      "surface": "הים",
+      "gloss": "do moře"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "a jeho plnosti"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ostrovy"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "a jejich obyvatelé"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:51.317313333Z",
+  "model": "glm-5.3"
+}

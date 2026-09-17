@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Jako voda jsem vylit, a rozestoupily se všechny mé kosti; stalo se mé srdce jako vosk, roztéká se v mém nitru.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "Jako voda"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "jsem vylit"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "a rozestoupily se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mé kosti"
+    },
+    {
+      "surface": "היה",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "jako vosk"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "roztéká se"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "v"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mém nitru"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:37.480615086Z",
+  "model": "glm-5.3"
+}

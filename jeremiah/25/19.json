@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "⟨את⟩ faraóna, krále Egypta, a ⟨את⟩ jeho služebníky a ⟨את⟩ jeho úředníky a ⟨את⟩ všechen jeho lid.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faraóna"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraóna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho služebníky"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeho služebníky"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho úředníky"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "jeho úředníky"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechen jeho lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeho lid"
+    }
+  ],
+  "timestamp": "2026-09-17T08:27:17.253009530Z",
+  "model": "glm-5.3"
+}

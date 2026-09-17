@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Neboť mi jsou synové Israela sluhové — sluhové moji jsou ⟨oni⟩, ⟨ty⟩, které jsem vyvedl ⟨את⟩-⟨je⟩ z domu ne, z ​​​země Egypta: já jsem Jahve, Elohim váš.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sluhové"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "moji sluhové"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni jsou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "vyvedl jsem"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim váš"
+    }
+  ],
+  "timestamp": "2026-09-17T11:56:58.540235422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A spojil ⟨את⟩ pět závěsů zvlášť a ⟨את⟩ šest závěsů zvlášť.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "a spojil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pět závěsů"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pět"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "závěsů"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "zvlášť"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "šest závěsů"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "závěsů"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "zvlášť"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:07.757258784Z",
+  "model": "glm-5.3"
+}

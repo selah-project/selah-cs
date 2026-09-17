@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 13:28",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A šel a našel ⟨את⟩ jeho mrtvolu shozenou na cestě, ⟨a⟩ osla i lva stojící při mrtvole; lev nesnědl ⟨את⟩ mrtvolu a nezlomil ⟨את⟩ osla.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "a našel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho mrtvolu"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "jeho mrtvolu"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "shozenou"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestě"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "a osla"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "i lva"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "stojící"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "při"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "mrtvole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "snědl"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "lev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mrtvolu"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "mrtvolu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "zlomil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osla"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "osla"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:15.762272259Z",
+  "model": "glm-5.3"
+}

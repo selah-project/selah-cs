@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Drtí, sklání se ⟨k zemi⟩ — a ubožáci padají jeho silou.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "Drtí"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "sklání se"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "a padají"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "jeho silou"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "ubožáci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:48.521386378Z",
+  "model": "glm-5.3"
+}

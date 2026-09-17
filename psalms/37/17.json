@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Neboť ramena bezbožných budou zlomena, ale Jahve podpírá spravedlivé.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "ramena"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "budou zlomena"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "podpírá"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "spravedlivé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:55.748301091Z",
+  "model": "glm-5.3"
+}

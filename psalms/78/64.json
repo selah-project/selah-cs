@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Jeho kněží padli mečem a jeho vdovy neplakaly.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "jeho kněží"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mečem"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padli"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "a jeho vdovy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "plakaly"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:21.649937381Z",
+  "model": "glm-5.3"
+}

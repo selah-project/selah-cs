@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "I Jákob vstal a vyvýšil ⟨את⟩ své syny a ⟨את⟩ své ženy na velbloudy.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a vstal"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "a vyvýšil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své syny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "své syny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "své ženy"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "své ženy"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "velbloudy"
+    }
+  ],
+  "timestamp": "2026-09-17T10:35:46.675777068Z",
+  "model": "glm-5.3"
+}

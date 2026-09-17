@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 9:4",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Neboť Mordechaj ⟨byl⟩ veliký v domě krále a jeho sláva jde do všech provincií, neboť muž Mordechaj jde a roste veliký.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaj"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "a jeho sláva"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "jde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "do všech"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "provincií"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechaj"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "jde"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "a roste veliký"
+    }
+  ],
+  "timestamp": "2026-09-17T11:21:24.910812486Z",
+  "model": "glm-5.3"
+}

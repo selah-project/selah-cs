@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "A ti, kdo odplácejí zlo ⟨za⟩ dobré, obviňují mě, protože pronásleduji ⟨to, co je⟩ dobré.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "a ti, kdo odplácejí"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨za⟩"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "obviňují mě"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "protože"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "pronásleduji"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:06.204309140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "A ⟨to⟩ se zalíbí Jahve více než býk, než mladý býk s rohy a s kopyty.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "A ⟨to⟩ se zalíbí"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "משור",
+      "gloss": "více než býk"
+    },
+    {
+      "surface": "פר",
+      "gloss": "mladý býk"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "s rohy"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "s kopyty"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:29.110803084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 28:8",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Proroci, kteří byli přede mnou a před tebou od věků, prorokovali ⟨proti⟩ mnohým zemím a velkým královstvím ⟨o⟩ válce, ⟨o⟩ zlu a ⟨o⟩ moru.",
+  "tokens": [
+    {
+      "surface": "הנביאים",
+      "gloss": "proroci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "ולפניך",
+      "gloss": "a před tebou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "věků"
+    },
+    {
+      "surface": "וינבאו",
+      "gloss": "a prorokovali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨proti⟩"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "zemím"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "mnohým"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "královstvím"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "velkým"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "o válce"
+    },
+    {
+      "surface": "ולרעה",
+      "gloss": "a o zlu"
+    },
+    {
+      "surface": "ולדבר",
+      "gloss": "a o moru"
+    }
+  ],
+  "timestamp": "2026-09-17T11:02:07.489167668Z",
+  "model": "glm-5.3"
+}

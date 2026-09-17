@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A Cedekjáš, syn Kenaanany, udělal si železné rohy a řekl: Tak řekl Jahve: Těmito navoráš ⟨את⟩ Aramejce, až je zničíš.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "si"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Cedekjáš"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenaanany"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "rohy"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "železné"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "Těmito"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "navoráš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramejce"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramejce"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "je zničíš"
+    }
+  ],
+  "timestamp": "2026-09-17T07:51:13.738587949Z",
+  "model": "glm-5.3"
+}

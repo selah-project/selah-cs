@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Také tvá svědectví ⟨jsou⟩ má rozkoš, muži mé rady.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tvá svědectví"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "má rozkoš"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muži"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "mé rady"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:59.671577954Z",
+  "model": "glm-5.3"
+}

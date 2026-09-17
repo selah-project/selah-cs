@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Neviděl člověk ⟨את⟩ svého bratra a nikdo nepovstal ze svého místa tři dny; ale všichni synové Izraele měli světlo ve svých příbytcích.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého bratra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svého bratra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nikdo ne"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "povstal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nikdo"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "ze svého místa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tři"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ale všichni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "היה",
+      "gloss": "měli"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "ve svých příbytcích"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:33.427634235Z",
+  "model": "glm-5.3"
+}

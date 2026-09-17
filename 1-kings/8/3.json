@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A přišli všichni starší Izraele, a kněží pozvedli ⟨את⟩ archu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "A přišli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "a pozvedli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "archu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:19.155837597Z",
+  "model": "glm-5.3"
+}

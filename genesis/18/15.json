@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A Sára to popřela ⟨a řekla⟩: Nesmála jsem se, neboť se bála. A ⟨on⟩ řekl: Ne, ale smála jsi se.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "A popřela"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sára"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a řekla⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "smála jsem se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "se bála"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ale"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "smála jsi se"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:36.693214778Z",
+  "model": "glm-5.3"
+}

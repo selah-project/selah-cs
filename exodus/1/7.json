@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A synové Izraele plodili se a rojili se a rozmnožili se a zesílili velmi, velmi; a naplnila se země jimi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "a synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "plodili se"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "a rojili se"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "a rozmnožili se"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "a zesílili"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "velmi,"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "a naplnila se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "jimi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:08.017178240Z",
+  "model": "glm-5.3"
+}

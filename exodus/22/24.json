@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Budeš-li půjčovat stříbro mému lidu ⟨את⟩, chudému ⟨את⟩ s tebou, nebudeš mu být jako věřitel; nevložíte na něj úrok.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "budeš-li"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "půjčovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mému lidu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mému lidu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chudému"
+    },
+    {
+      "surface": "העני",
+      "gloss": "chudému"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "budeš být"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "jako věřitel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "vložíte"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něj"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "úrok"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:05.000878155Z",
+  "model": "glm-5.3"
+}

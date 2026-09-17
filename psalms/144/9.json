@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "Elohim, píseň novou zpívám tobě, na nevel deseti strun hraji tobě.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novou"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "zpívám"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "na nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "deseti strun"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "hraji"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:27.622671760Z",
+  "model": "glm-5.3"
+}

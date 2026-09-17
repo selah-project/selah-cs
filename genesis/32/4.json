@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A Jákob poslal před sebou posly k Ésavovi, svému bratru, do země Seír, pole Edómu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posly"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před sebou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésavovi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svému bratru"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do země"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seír"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edómu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:39.390648094Z",
+  "model": "glm-5.3"
+}

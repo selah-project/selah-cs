@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 110,
+  "translation": "Žezlo tvé moci pošle Jahve ze Siónu: „Kraleuj uprostřed svých nepřátel.“",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "žezlo"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "tvé moci"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "pošle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "ze Siónu"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "kraleuj"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "svých nepřátel"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:29.242951113Z",
+  "model": "glm-5.3"
+}

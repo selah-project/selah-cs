@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Modly národů ⟨jsou⟩ stříbro a zlato, dílo rukou lidských.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "modly"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "a zlato"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidských"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:30.864606458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Ne tak! Jděte nyní vy, muži, a služte Jahveovi ⟨את⟩, neboť to vy hledáte ⟨את⟩. A vyhnal je ⟨את⟩ z ⟨את⟩ tváři Paroovy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "jděte"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "vy, muži"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "a služte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveovi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveovi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ to",
+      "marks": "vy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "hledáte"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "a vyhnal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "z tváře Paroovy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "z ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváři"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:21.127544295Z",
+  "model": "glm-5.3"
+}

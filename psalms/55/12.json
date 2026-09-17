@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Zhoubné věci ⟨jsou⟩ v jejím středu a z jejího náměstí neustupuje útlak a lest.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Zhoubné věci"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "v jejím středu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "neustupuje"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "z jejího náměstí"
+    },
+    {
+      "surface": "תך",
+      "gloss": "útlak"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "a lest"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:36.414724740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A Jéhú si lehl ke svým otcům; pochovali ⟨את⟩ něj v Šomronu a Jehoachaz, jeho syn, kraloval místo něj.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "si lehl"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jéhú"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "svými otci"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "pochovali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "něj (Jéhú)"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "v Šomronu"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kraloval"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoachaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syn"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    }
+  ],
+  "timestamp": "2026-09-17T13:41:50.001045226Z",
+  "model": "glm-5.3"
+}

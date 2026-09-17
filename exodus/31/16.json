@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A budou střežit synové Izraele ⟨את⟩ šabat, aby konali ⟨את⟩ šabat pro svá pokolení, smlouvu věčnou.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "A budou střežit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aby konali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "pro svá pokolení"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouva"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věčná"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:16.740703619Z",
+  "model": "glm-5.3"
+}

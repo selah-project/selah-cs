@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Jenže stříbro dané do jejich rukou se s nimi ⟨אתם⟩ nemusí ⟨od⟩účtovat, neboť jednají věrně.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "jenže"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "se ⟨od⟩účtuje"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "s nimi"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "dané"
+    },
+    {
+      "surface": "על",
+      "gloss": "do"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "jejich rukou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "věrně"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "jednají"
+    }
+  ],
+  "timestamp": "2026-09-17T13:39:03.445714273Z",
+  "model": "glm-5.3"
+}

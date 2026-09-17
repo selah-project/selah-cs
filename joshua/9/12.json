@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Toto ⟨je⟩ náš chléb — horký ⟨jej⟩ jsme vzali ⟨את⟩ z našich domů v den našeho vyjití, abychom šli k vám; a nyní hle, vyschl ⟨a⟩ stal se drobtovitý.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "náš chléb"
+    },
+    {
+      "surface": "חם",
+      "gloss": "horký"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "jsme vzali (jako zásobu)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej (náš chléb)"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "z našich domů"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "našeho vyjití"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "abychom šli"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "k vám"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "vyschl"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a ⟨se⟩ stal"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "drobtovitý"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:34.994790568Z",
+  "model": "glm-5.3"
+}

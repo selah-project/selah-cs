@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Do lůna je vršen ⟨את⟩ los, ale od Jahveho je každý jeho výrok.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "Do lůna"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "je vršen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "los"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "los"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ale od Jahveho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "jeho výrok"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:10.976959499Z",
+  "model": "glm-5.3"
+}

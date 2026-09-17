@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 26:22",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A poslal král Jehojakím muže do Egypta, ⟨את⟩ Elnátana, syna Akbora, a muže ⟨את⟩ něj, do Egypta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "A poslal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakím"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "muže"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elnátana"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnátana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akbora"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "a muže"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním",
+      "marks": "muže s ním"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T08:26:09.531951643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Když volám, odpověz mi, Elohimi mé spravedlnosti; v tísni jsi mi ⟨místo⟩ ⟨poskytl⟩ úlevu, buď mi milostiv a vyslyš mou modlitbu.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "když volám"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odpověz mi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "mé spravedlnosti"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "v tísní"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "rozšířil jsi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "buď mi milostiv"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "a slyš"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mou modlitbu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:24.809763861Z",
+  "model": "glm-5.3"
+}

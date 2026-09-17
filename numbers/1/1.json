@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I mluvil Jahve k Mojžíšovi na poušti Sinaj, v stanu setkávání, prvního dne druhého měsíce, druhého roku ⟨od⟩ jejich vyjití zEgypta, řka:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ve stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "prvního ⟨dne⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "druhého měsíce"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhého"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "druhého roku"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "druhého"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "jejich vyjití"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "zEgypta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:34.358638909Z",
+  "model": "glm-5.3"
+}

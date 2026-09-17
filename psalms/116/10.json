@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "Uvěřil jsem, neboť jsem mluvil — já, jsem byl velmi zlíčen.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "uvěřil jsem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "jsem mluvil"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "byl jsem zlíčen"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:14.172326944Z",
+  "model": "glm-5.3"
+}

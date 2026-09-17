@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Neboť muže není v jeho domě, odešel na cestu do daleka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "v jeho domě"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "odešel"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestu"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "do daleka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:37:50.588382235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 146,
+  "translation": "Nedůvěřujte předním ⟨knížatům⟩, synovi člověka, v němž ⟨není⟩ záchrany.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "důvěřujte"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "předním"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "synovi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "v němž není"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "záchrany"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:26.147854899Z",
+  "model": "glm-5.3"
+}

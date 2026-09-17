@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A zeptal se král ⟨na⟩ tu ženu a vyprávěla mu; i dal jí král jednoho eunucha se slovy: Vrať ⟨את⟩ všechno, co je jejího, a ⟨את⟩ veškerý výtěžek pole ode dne, kdy opustila ⟨את⟩ zemi, až podnes.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "A zeptal se"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ta žena"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "a vyprávěla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "i dal"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "eunucha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "se slovy"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "Vrať"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jejího"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "veškerý výtěžek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerý"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "výtěžek"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ode dne"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "opustila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "podnes"
+    }
+  ],
+  "timestamp": "2026-09-17T07:55:39.450660869Z",
+  "model": "glm-5.3"
+}

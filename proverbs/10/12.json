@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Nenávist budí sváry, ale láska přikrývá všechna ⟨⟩ přestoupení.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "nenávist"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "budí"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "sváry"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ale nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "přestoupení"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "přikrývá"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "láska"
+    }
+  ],
+  "timestamp": "2026-09-17T11:16:00.580350949Z",
+  "model": "glm-5.3"
+}

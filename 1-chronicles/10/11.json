@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A zaslechlo celé Jábeš Gileád ⟨את⟩ všechno, co Pelištejci udělali Saulovi.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "a zaslechlo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Jábeš"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileád"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "udělali"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejci"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Saulovi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:18:39.698645307Z",
+  "model": "glm-5.3"
+}

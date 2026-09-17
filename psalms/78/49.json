@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Poslal na ně hněvivost svého vzteku, prudkou zuřivost a pohoršení a soužení, vyslání poslů zlých.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Poslal"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na ně"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "hněvivost"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "svého vzteku"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "prudkou zuřivost"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "a pohoršení"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "a soužení"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "vyslání"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "poslů"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "zlých"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:19.460301386Z",
+  "model": "glm-5.3"
+}

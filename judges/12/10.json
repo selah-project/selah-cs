@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "I Ebzan zemřel a byl pohřben v Betlému.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ebzan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a byl pohřben"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Betlému"
+    }
+  ],
+  "timestamp": "2026-09-17T07:16:35.282717730Z",
+  "model": "glm-5.3"
+}

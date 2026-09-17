@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Promluv nyní do uší lidu: ať si každý muž vyžádá od ⟨את⟩ svého druha a každá žena od ⟨את⟩ své družinky nádoby ze stříbra a nádoby ze zlata.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Promluv"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "do uší"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ať si vyžádají"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý muž"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "sveho druha"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svého druha"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "a každá žena"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "sve druzinky"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "své družinky"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nádoby"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ze stříbra"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "a nádoby"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ze zlata"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:07.676100138Z",
+  "model": "glm-5.3"
+}

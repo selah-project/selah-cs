@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A Kenaan zplodil ⟨את⟩ Sidóna, svého prvorozeného, a ⟨את⟩ Cheta.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "A Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sidóna"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Sidóna"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "svého prvorozeného"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Cheta"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Cheta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:09.322731024Z",
+  "model": "glm-5.3"
+}

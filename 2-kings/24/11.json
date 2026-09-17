@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A přišel Nebukadnesar, král Babylónu, na město, zatímco jeho sluhové je obléhali.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "A přišel"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "a jeho sluhové"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "obléhali"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "jej"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:32.139357263Z",
+  "model": "glm-5.3"
+}

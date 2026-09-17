@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A postavil ⟨את⟩ všechen lid, každý muž se svou zbraní ve své ruce, od pravého ramene domu až k levému ramenu domu, k oltáři a k domu, kolem krále dokola.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "a postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechen lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "každý muž"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "svou zbraní"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ve své ruce"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "od ramene"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "pravého"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "rameni"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "levého"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "k oltáři"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "a k domu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kolem"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "dokola"
+    }
+  ],
+  "timestamp": "2026-09-17T10:29:25.296743509Z",
+  "model": "glm-5.3"
+}

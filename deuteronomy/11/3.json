@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "a ⟨את⟩ jeho znamení a ⟨את⟩ jeho skutky, které učinil uvnitř Egypta faraonovi, králi Egypta, a celé jeho zemi —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho znamení"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "jeho znamení"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho skutky"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "jeho skutky"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uvnitř"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "faraonovi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "a celé"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "jeho zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:19.542516012Z",
+  "model": "glm-5.3"
+}

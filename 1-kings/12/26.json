@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "I řekl Jeroboam ve svém srdci: Nyní se království vrátí k domu Davidovu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jeroboam"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "není"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se vrátí"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "království"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "k domu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:46:16.717448485Z",
+  "model": "glm-5.3"
+}

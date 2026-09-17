@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Neboť vyliji vody na žíznivého a proudy na vyschlou zemi; vyliji svého ducha na tvé semeno a své požehnání na tvé potomstvo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "vyliji"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "žíznivého"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "a proudy"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "vyschlou zemi"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "vyliji"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "svého ducha"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tvé semeno"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "a své požehnání"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "na tvé potomstvo"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:55.004521107Z",
+  "model": "glm-5.3"
+}

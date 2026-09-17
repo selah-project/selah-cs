@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A každý otrok, koupě za stříbro — když ho obřežeš ⟨את⟩, tehdy smí jíst z něj.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "A každý"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "otrok"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "koupě"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "za stříbro"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "když obřežeš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tehdy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smí jíst"
+    },
+    {
+      "surface": "בו",
+      "gloss": "z něj"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:06.170633336Z",
+  "model": "glm-5.3"
+}

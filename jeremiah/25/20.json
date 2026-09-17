@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A ⟨את⟩ všechen smíšený lid a ⟨את⟩ všechny krále země Úcu a ⟨את⟩ všechny krále země Pelištejců — a ⟨את⟩ Aškelon a ⟨את⟩ Azzu a ⟨את⟩ Ekron a ⟨את⟩ zbytek Ašdodu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechen smíšený lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "smíšený lid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechny krále země Úcu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "Úcu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechny krále země Pelištejců"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejců"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Aškelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aškelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Azzu"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zbytek Ašdodu"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "zbytek"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ašdodu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:27:17.253296042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 6:23",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A Áron si vzal ⟨את⟩ Elišebu, dceru Amínadabovu, sestru Nachšónovu, za manželku; a porodila mu ⟨את⟩ Nádaba a ⟨את⟩ Abíhúa, ⟨את⟩ Elázara a ⟨את⟩ Itamara.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "si vzal"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elišebu"
+    },
+    {
+      "surface": "אלישבע",
+      "gloss": "Elišebu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amínadabovu"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sestru"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachšónovu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "si"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za manželku"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nádaba"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nádaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abíhúa"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abíhúa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elázara"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elázara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Itamara"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamara"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:37.559745830Z",
+  "model": "glm-5.3"
+}

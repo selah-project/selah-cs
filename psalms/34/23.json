@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Jahve vykupuje duši svých služebníků a nepotrestáni zůstanou všichni, kdo se k němu utíkají.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "vykupuje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duši"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svých služebníků"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "potrestáni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "kdo se utíkají"
+    },
+    {
+      "surface": "בו",
+      "gloss": "k němu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:30.650639004Z",
+  "model": "glm-5.3"
+}

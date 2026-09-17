@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Neboň ty jsi Elohim, má pevnost — proč jsi mě zavrhl? Proč chodím ztemnělý ⟨v⟩ útlaku nepřítele?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboň"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "má pevnost"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "jsi mě zavrhl"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ztemnělý"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "chodím"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "⟨v⟩ útlaku"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nepřítele"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:46.259079828Z",
+  "model": "glm-5.3"
+}

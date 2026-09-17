@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Kousek po kousku ⟨je⟩ ženu z tvé tváře, dokud nezrodníš a nezdědíš ⟨את⟩ zemi.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "kousek"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "po kousku"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "ženu ⟨je⟩"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "z tvé tváře"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "nezrodníš"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "a nezdědíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:49.956622203Z",
+  "model": "glm-5.3"
+}

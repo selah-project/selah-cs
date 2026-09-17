@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Neboť jejich nohy ke zlu běží a spěchají пролévat krev.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "jejich nohy"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ke zlu"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "běží"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "a spěchají"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "prolévat"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krev"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:57.173334208Z",
+  "model": "glm-5.3"
+}

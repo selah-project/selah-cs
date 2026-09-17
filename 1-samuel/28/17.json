@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A učinil Jahve tobě, jak promluvil skrze mou ruku; a roztrhl Jahve ⟨את⟩ království z tvé ruky a dal ⟨je⟩ tvému bližnímu, Davidovi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "skrze mou ruku"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "a roztrhl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "království"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "království"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "z tvé ruky"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "tvému bližnímu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:53.456258367Z",
+  "model": "glm-5.3"
+}

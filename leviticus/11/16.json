@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "⟨a⟩ ⟨את⟩ pštrosí samici, ⟨a⟩ ⟨את⟩ výra, ⟨a⟩ ⟨את⟩ racka, ⟨a⟩ ⟨את⟩ jestřába podle jeho druhu —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pštrosí samici"
+    },
+    {
+      "surface": "בת",
+      "gloss": "samice (doslova dcera)"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "pštrosí"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "výra"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "výr (noční dravec)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "racka"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "racek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jestřába"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "jestřáb"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "podle jeho druhu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:03.516453877Z",
+  "model": "glm-5.3"
+}

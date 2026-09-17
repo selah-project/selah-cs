@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 54,
+  "translation": "Neboť napravo i nalevo se prorveš a tvé símě národy zdědí a zpustlá města znovu osídlí.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "napravo"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "i nalevo"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "se prorveš"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "a tvé símě"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "zdědí"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "a zpustlá města"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "(opuštěná)"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "znovu osídlí"
+    }
+  ],
+  "timestamp": "2026-09-17T08:15:39.494804112Z",
+  "model": "glm-5.3"
+}

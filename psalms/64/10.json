@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 64,
+  "translation": "A všichni lidé se budou bát a vyhlásí skutky Elohim, jeho dílo moudře prohlédnou.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "a budou se bát"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidé"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "a vyhlásí"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "skutky"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "jeho dílo"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "moudře prohlédnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:44.774299239Z",
+  "model": "glm-5.3"
+}

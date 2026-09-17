@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "neboť v okně svého domu, skrze mřížoví jsem se vykláněl",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "v okně"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "svého domu"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "skrze"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "mřížoví"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "jsem se vykláněl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:37:32.546789808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A ty se vrátíš a poslechneš hlas Jahve, a budeš plnit ⟨את⟩ všechny jeho příkazy, které ti já přikazuji dnes.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se vrátíš"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "a poslechneš"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "a budeš plnit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny jeho příkazy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "jeho příkazy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ti přikazuji"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:08.962454764Z",
+  "model": "glm-5.3"
+}

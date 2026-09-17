@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 36:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "I přikázal Mojžíš, a rozhlastili hlas táborem ⟨a řekli⟩: Muž i žena ať už nedělají žádnou práci pro dar svatyně. A lid byl zadržen od přinášení.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ויעבירו",
+      "gloss": "a rozhlastili"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "táborem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a řekli⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "i žena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "dělat"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "práci"
+    },
+    {
+      "surface": "לתרומת",
+      "gloss": "pro dar"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "a byl zadržen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "מהביא",
+      "gloss": "od přinášení"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:19.353116479Z",
+  "model": "glm-5.3"
+}

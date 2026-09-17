@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 63,
+  "translation": "Ale oni se vzpírali a zarmoutil ⟨את⟩ ducha jeho svatosti; obrátil se jim za nepřítele — on sám bojoval proti nim.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ale oni"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "se vzpírali"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "a zarmoutil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ducha jeho svatosti"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ducha"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "jeho svatosti"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "obrátil se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "za nepřítele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on sám"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "bojoval"
+    },
+    {
+      "surface": "בם",
+      "gloss": "proti nim"
+    }
+  ],
+  "timestamp": "2026-09-17T08:16:42.204118678Z",
+  "model": "glm-5.3"
+}

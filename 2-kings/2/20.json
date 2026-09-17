@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Řekl: Vezměte mi novou nádobu a dejte tam sůl. Vzali ⟨ji⟩ k němu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Řekl"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Vezměte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "nádobu"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "novou"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "a dejte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "sůl"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "Vzali"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:46.198594231Z",
+  "model": "glm-5.3"
+}

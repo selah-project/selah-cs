@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A shromáždilo se celý Izrael k Davidovi do Chebronu, aby řekli: Hle, tvá kost a tvé tělo ⟨jsme⟩ my.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "A shromáždilo se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "do Chebronu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aby řekli"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "tvá kost"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "a tvé tělo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "my"
+    }
+  ],
+  "timestamp": "2026-09-17T10:18:33.951067911Z",
+  "model": "glm-5.3"
+}

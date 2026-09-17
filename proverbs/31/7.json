@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Ať pije a zapomene svou chudobu a svou útrapu si už nepřipomene.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "Ať pije"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "a zapomene"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "svou chudobu"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "a svou útrapu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "připomene"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:41.197768980Z",
+  "model": "glm-5.3"
+}

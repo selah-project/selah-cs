@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "proto vzplál hněv Jahve proti té zemi, aby přivedl na ni ⟨את⟩ všechnu kletbu napsanou v této knize.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "vzplál"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněv"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "proti zemi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "té"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "aby přivedl"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na ni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechnu kletbu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "kletbu"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "napsanou"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "v knize"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "této"
+    }
+  ],
+  "timestamp": "2026-09-17T07:02:28.568411287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Zkřiveného nelze napravit ⟨a⟩ chybějícího nelze spočítat.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "zkřiveného"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nelze"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "lze"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "napravit"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "a chybějícího"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nelze"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "lze"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "spočítat"
+    }
+  ],
+  "timestamp": "2026-09-17T11:19:50.569969691Z",
+  "model": "glm-5.3"
+}

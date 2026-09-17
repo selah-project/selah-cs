@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Jahve mi odplatil podle mé spravedlnosti, podle čistoty mých rukou mi vrátil ⟨odplatu⟩.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "mi odplatil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "podle mé spravedlnosti"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "podle čistoty"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mých rukou"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "vrátil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:51.163302160Z",
+  "model": "glm-5.3"
+}

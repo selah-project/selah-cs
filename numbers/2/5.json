@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A ti, kdo se táboří při něm ⟨jsou⟩ kmen Isachar, a kníže synů Isachara Netanel, syn Cuára.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "a ti, kdo se táboří"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "při něm"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kmen"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Isachar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "a kníže"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Isachara"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Cuára"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:32.927339495Z",
+  "model": "glm-5.3"
+}

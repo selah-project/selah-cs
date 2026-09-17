@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A klopýtneš dnes ⟨v⟩ den a klopýtne také prorok s tebou v noci, a zahubím tvou matku.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "a klopýtneš"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes ⟨v⟩ den"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "a klopýtne"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "a zahubím"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "tvou matku"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:03.156275436Z",
+  "model": "glm-5.3"
+}

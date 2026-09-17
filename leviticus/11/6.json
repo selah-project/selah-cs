@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A ⟨את⟩ zajici — poněvadž přežvykuje ⟨ona⟩ žvanec, ale kopyto nerozdělila — nečistá je vám.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zajice"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "zajice"
+    },
+    {
+      "surface": "כי",
+      "gloss": "poněvadž"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "přežvykuje"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "žvanec"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ona⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ale kopyto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "rozdělila"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "nečistá"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:26.221247251Z",
+  "model": "glm-5.3"
+}

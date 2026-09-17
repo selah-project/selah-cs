@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A Šaul vystavěl oltář Jahvemu; ⟨את⟩ on ⟨z⟩ toho započal stavět oltář Jahvemu.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a vystavěl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "on z toho — započal (tímto)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "započal"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "stavět"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:55.480255912Z",
+  "model": "glm-5.3"
+}

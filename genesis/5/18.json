@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A žil Jared šedesát dva let a sto let, a zplodil ⟨את⟩ Enocha.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "A žil"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jared"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "a šedesát"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "a sto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enocha"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Enocha"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:47.303020206Z",
+  "model": "glm-5.3"
+}

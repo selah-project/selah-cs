@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A bylo jich sečtených podle jejich rodin, podle domu jejich otců, dva tisíce šest set třicet.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "A bylo"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "jich sečtených"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle jejich rodin"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "podle domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jejich otců"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dva tisíce"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "a šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "a třicet"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:05.273496644Z",
+  "model": "glm-5.3"
+}

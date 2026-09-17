@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 10:19",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Jako bych nebyl, tak bych ⟨byl⟩; z lůna do hrobu bych byl odnesen.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Jako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bych byl"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "tak bych ⟨byl⟩"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "z lůna"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "do hrobu"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "bych byl odnesen"
+    }
+  ],
+  "timestamp": "2026-09-17T09:46:38.226489293Z",
+  "model": "glm-5.3"
+}

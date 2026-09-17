@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 124,
+  "translation": "kdyby nebyl Jahve, jenž byl ⟨s⟩ námi, když povstal proti nám člověk ⟨⟩",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "kdyby nebyl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "jenž byl"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨s⟩ námi"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "když povstal"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "proti nám"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:32.717872304Z",
+  "model": "glm-5.3"
+}

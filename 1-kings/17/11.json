@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Šla ⟨to⟩ vzít, a on ji zavolal a řekl: Vezmi mi, prosím, kousek chleba ve své ruce.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Šla"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "vzít"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "zavolal"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "Vezmi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "פת",
+      "gloss": "kousek"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chleba"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ve své ruce"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:27.629699623Z",
+  "model": "glm-5.3"
+}

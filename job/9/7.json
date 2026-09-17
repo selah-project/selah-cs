@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Který říká slunci, a nevzejde, a hvězdy zapečeťuje —",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "říká"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "slunci"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "vzejde"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "a"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "hvězdy"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "zapečeťuje"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:54.047469579Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Toto ⟨jsou⟩ povolaní ⟨od⟩ shromáždění, náčelníci kmenů svých otců; hlavami tisíců Izraele ⟨jsou⟩ oni.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "povolaní"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "náčelníci"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "kmenů"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "svých otců"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlavami"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "tisíců"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oni"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:44.251188617Z",
+  "model": "glm-5.3"
+}

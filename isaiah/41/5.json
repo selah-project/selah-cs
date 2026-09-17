@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Viděly ostrovy a ⟨ty⟩ se bály, končiny země se zachvěly, přiblížily se a přišly.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Viděly"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ostrovy"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "a se bály"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "končiny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "se zachvěly"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "přiblížily se"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "a přišly"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:01.739081769Z",
+  "model": "glm-5.3"
+}

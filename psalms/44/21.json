@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Nezapomněli jsme jméno našeho Elohima a neroztáhli jsme své dlaně k cizímu elu ⟨pokud jsme to udělali⟩ —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "zapomněli jsme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "našeho Elohima"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "a roztáhli jsme"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "své dlaně"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "k elu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "cizímu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:51.754943776Z",
+  "model": "glm-5.3"
+}

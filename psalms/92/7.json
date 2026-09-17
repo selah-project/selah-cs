@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 92,
+  "translation": "Muž zběsilý ⟨ne⟩ví a hlupák ⟨tomu⟩nerozumí ⟨את⟩ tomuto:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Muž"
+    },
+    {
+      "surface": "בער",
+      "gloss": "zběsilý"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩ví"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "neví"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "a hlupák"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩rozumí"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "nerozumí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tomuto"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tomuto"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:27.927635933Z",
+  "model": "glm-5.3"
+}

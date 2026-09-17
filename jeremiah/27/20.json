@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 27:20",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "které nevzal Nebukadnecar, král babylonský, když odvlekl do Babylónu ⟨את⟩ Jekonjáše, syna Jehojakíma, krále judského, z Jeruzaléma, i ⟨את⟩ všechny předáky Judy a Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לקחם",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnecar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babylonský"
+    },
+    {
+      "surface": "בגלותו",
+      "gloss": "když odvlekl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekonjáše"
+    },
+    {
+      "surface": "יכוניה",
+      "gloss": "Jekonjáše"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakíma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "judského"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "z Jeruzaléma"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "do Babylónu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "všechny předáky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "předáky"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "a Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T08:28:08.441733108Z",
+  "model": "glm-5.3"
+}

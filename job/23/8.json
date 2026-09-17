@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Hle, na východ jdu — a ⟨tam⟩ není; a na západ — a nepoznávám ho.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "na východ \/ vpřed"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "jdu"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "a není ⟨tam⟩"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "a na západ \/ vzad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "poznávám"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:49:33.891372692Z",
+  "model": "glm-5.3"
+}

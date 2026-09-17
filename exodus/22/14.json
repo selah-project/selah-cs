@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Jestliže jeho pán ⟨byl⟩ s ním, nenahradí; jestliže to ⟨byl⟩ nájemník, přišel ⟨jen⟩ se svou mzdou.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "jeho pán"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "nahradí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "nájemník"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to je"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "se svou mzdou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:20.665265834Z",
+  "model": "glm-5.3"
+}

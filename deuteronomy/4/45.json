@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Toto ⟨jsou⟩ ⟨ ta⟩ svědectví, ⟨ a⟩ ⟨náhradní slovo⟩ ustanovení a práva, která promluvil Mojžíš synům Izraele při jejich vyjití z Egypta.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "⟨ ta⟩ svědectví"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "⟨ a⟩ ustanovení"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "a práva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "synům"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "při jejich vyjití"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:45.240381793Z",
+  "model": "glm-5.3"
+}

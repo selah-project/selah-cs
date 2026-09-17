@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Kéž bych byl neztratil víru — věřil jsem, že uvidím dobrotu Jahve v zemi živých.",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "kdyby ne —"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "věřil jsem"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "že uvidím"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "dobrotu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živých"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:09.825989160Z",
+  "model": "glm-5.3"
+}

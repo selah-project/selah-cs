@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A kněží přinesli ⟨את⟩ archu smlouvy Jahve na své místo, do debíru domu, do svatyně svatých, pod křídla cherubů.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "a přinesli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "své místo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debíru"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "svatých"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pod"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨dolů⟩"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "křídla"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "cherubů"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:21.474314559Z",
+  "model": "glm-5.3"
+}

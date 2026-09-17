@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "„Vejdi, promluvi k faraónovi, králi Egypta, ať propustí ⟨את⟩ syny Izraele ze své země.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Vejdi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraónovi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ať propustí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ze své země"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:16.966002246Z",
+  "model": "glm-5.3"
+}

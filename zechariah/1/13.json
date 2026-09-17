@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A Jahve odpověděl ⟨את⟩ andělu, který mluvil ve mně, slova dobrá, slova utěšující.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a odpověděl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andělu"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "andělu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "který mluvil"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ve mně"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "slova"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dobrá"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "slova"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "utěšující"
+    }
+  ],
+  "timestamp": "2026-09-17T09:07:11.091274144Z",
+  "model": "glm-5.3"
+}

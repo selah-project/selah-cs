@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Není tak bezbožníci: jsou jako plevy, jež vítr rozvane.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Není"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "bezbožníci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "jako plevy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "rozvane"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vítr"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:09.777948919Z",
+  "model": "glm-5.3"
+}

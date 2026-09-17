@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "a déšť man seslal jim k jídlu, a obilí nebe dal jim —",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "a déšť seslal"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "k jídlu"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "a obilí"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "למו",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:58.398815789Z",
+  "model": "glm-5.3"
+}

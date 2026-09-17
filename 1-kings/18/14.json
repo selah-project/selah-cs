@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 18:14",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A nyní ty říkáš: Jdi, řekni svému pánu: Hle, Elijáš ⟨je zde⟩ — a ⟨on⟩ mě zabije!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "říkáš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řeři"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "svému pánu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáš"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "a zabije mě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:13.982548462Z",
+  "model": "glm-5.3"
+}

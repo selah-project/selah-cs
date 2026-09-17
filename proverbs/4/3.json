@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Neboť jsem byl synem svému otci, něžný a jediný před svou matkou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jsem byl"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "svému otci"
+    },
+    {
+      "surface": "רך",
+      "gloss": "něžný"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "a jediný"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "svou matkou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:58.684035291Z",
+  "model": "glm-5.3"
+}

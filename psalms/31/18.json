@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Jahve, ať nejsem zahanben, neboť jsem tě volal; ať jsou zahanbeni surovci, ať onemíjí do šeolu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "jsem zahanben"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "jsem tě volal"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ať jsou zahanbeni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "surovci"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ať onemíjí"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "do šeolu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:40.489306303Z",
+  "model": "glm-5.3"
+}

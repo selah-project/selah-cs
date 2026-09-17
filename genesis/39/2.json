@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "A stalo se ⟨tak, že⟩ Jahve byl s ⟨את⟩ Josefem, a byl muž prosperující; a byl v domě pána svého, toho Micrajimce.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "s ⟨את⟩",
+      "marks": "Josefem"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a byl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "prosperující"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a byl"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "pána svého"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "toho Micrajimce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:03.129844865Z",
+  "model": "glm-5.3"
+}

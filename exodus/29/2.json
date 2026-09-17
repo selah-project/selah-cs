@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A chléb nekvašený a nekvašené koláče smíchané s olejem a nekvašené oplatky potřené olejem — z pšeničné mouky jemné ⟨je⟩ učiníš ⟨את⟩ je.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "A chléb"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "nekvašený"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "a koláče"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "nekvašené"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "smíchané"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "s olejem"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "a oplatky"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "nekvašené"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "potřené olejem"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "olejem"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "mouky jemné"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "z pšeničné"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "učiníš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:32.839757541Z",
+  "model": "glm-5.3"
+}

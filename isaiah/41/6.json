@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "Každý muž ⟨את⟩ svého druha podpoří a svému bratru řekne: Buď silný!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Každý muž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého druha"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svého druha"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "podpoří"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "a svému bratru"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "řekne"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Buď silný"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:01.739399505Z",
+  "model": "glm-5.3"
+}

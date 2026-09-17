@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Ten, kdo má čisté ruce a čisté srdce, kdo nezvedl k marnosti svou duši a nepřísahal ke klamu.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "čisté"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ruce (dlaně)"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "a čisté"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "zvedl"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "k marnosti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svou duši"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "přísahal"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "ke klamu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:43.015890075Z",
+  "model": "glm-5.3"
+}

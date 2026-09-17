@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Nezažehnete oheň ve všech svých sídlech v den šabatu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "zažehnete"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všech"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "svých sídlech"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabatu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:57.151605598Z",
+  "model": "glm-5.3"
+}

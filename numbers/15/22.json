@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A když zabloudíte a neuděláte ⟨את⟩ všech těchto přikázání, která promluvil Jahve Mojžíšovi —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a když"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "zabloudíte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "uděláte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všech těchto přikázání"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi ⟨k⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:45:54.861998537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A vezmeš ⟨את⟩ olej pomazání a vyleješ na jeho hlavu a pomůžeš ⟨את⟩ jej.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "a vezmeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olej pomazání"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "pomazání"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "a vyleješ"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jeho hlavu"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "a pomůžeš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    }
+  ],
+  "timestamp": "2026-09-17T06:24:44.866984154Z",
+  "model": "glm-5.3"
+}

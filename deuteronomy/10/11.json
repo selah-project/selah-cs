@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A řekl Jahve mně: Vstaň, vydej se na cestu před lidem, ať vejdou a vezmou do držení ⟨את⟩ zemi, kterou jsem přísahal jejich otcům, dát jim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mně"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Vstaň"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vydej se"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "na cestu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ať vejdou"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "a vezmou do držení"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jsem přísahal"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "jejich otcům"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dát"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:10.489743045Z",
+  "model": "glm-5.3"
+}

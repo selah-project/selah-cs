@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Pokolení, jehož zuby ⟨jsou⟩ meče a jeho řezáky nože, aby pohltili chudé z ⟨země⟩ a potřebné z mezi lidí.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "meče"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "jehož zuby"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "a jeho řezáky"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "jeho třenové zuby"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "aby pohltili"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "chudé"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ⟨země⟩"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "a potřebné"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "z mezi lidí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:28.469787571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A krkavci mu přinášeli chléb a maso ráno i chléb a maso večer, a z potoka pil.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "A krkavci"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "přinášeli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "a maso"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "i chléb"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "a maso"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a z"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "potoka"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "pil"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:39.591796276Z",
+  "model": "glm-5.3"
+}

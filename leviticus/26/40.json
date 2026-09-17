@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A vyznají ⟨את⟩ svou nepravost a ⟨את⟩ nepravost svých otců ve své zradě, kterou se proti mně dopustili, i to, že šli se mnou v náprotiví.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "a vyznají"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou nepravost"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "svou nepravost"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nepravost"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "svých otců"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "ve své zradě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "dopustili se"
+    },
+    {
+      "surface": "בי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "i to, že"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "šli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "v náprotiví"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:43.507976763Z",
+  "model": "glm-5.3"
+}

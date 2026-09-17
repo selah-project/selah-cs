@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A začal Noach, muž půdy, a vysadil vinici.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "A začal"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "půdy"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "a vysadil"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vinici"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:08.312888974Z",
+  "model": "glm-5.3"
+}

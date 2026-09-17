@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Který zabil prvrozené Egypta, od člověka až po dobytek.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "který zabil"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "prvrozené"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "od člověka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dobytek"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:50.435203140Z",
+  "model": "glm-5.3"
+}

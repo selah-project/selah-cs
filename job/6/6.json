@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Dá se jíst mdlá věc bez soli? Je ⟨jakákoli⟩ chuť v merlíku?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "Dá se jíst"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "mdlá věc"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "soli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "chuť"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "v merlíku"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "merlíku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:23.025066648Z",
+  "model": "glm-5.3"
+}

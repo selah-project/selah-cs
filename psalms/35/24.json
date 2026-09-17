@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Rozsuď mě podle své spravedlnosti, Jahve, Elohim ⟨můj⟩, a ať se nederadují nade mnou.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Rozsuď mě"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "podle své spravedlnosti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨můj⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ať ne"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se nederadují"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nade mnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:42.922562259Z",
+  "model": "glm-5.3"
+}

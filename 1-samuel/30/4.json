@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A David a lid, který ⟨את⟩ byl s ním, pozvedli ⟨את⟩ svůj hlas a plakali, dokud v nich nebylo síly plakat.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "A pozvedli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "a lid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj hlas"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "a plakali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nebylo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "כח",
+      "gloss": "síly"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "plakat"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:51.174500330Z",
+  "model": "glm-5.3"
+}

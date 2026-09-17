@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 97,
+  "translation": "Jeho blesky osvětlily ⟨celý⟩ svět; země viděla a chvěla se.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "osvětlily"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Jeho blesky"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨celý⟩ svět"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "viděla"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "a chvěla se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:17.591231768Z",
+  "model": "glm-5.3"
+}

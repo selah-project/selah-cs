@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 53,
+  "translation": "Řekl nebetyka ve svém srdci: „Není ⟨žádného⟩ Elohima.“ Zkažení jsou, jednali ohavně nepravostně, není ⟨nikoho⟩, kdo činí dobré.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Řekl"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nebetyka"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Není ⟨žádného⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohima"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Zkažení jsou"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "jednali ohavně"
+    },
+    {
+      "surface": "עול",
+      "gloss": "nepravostně"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není ⟨nikoho⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kdo činí"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:55.544001158Z",
+  "model": "glm-5.3"
+}

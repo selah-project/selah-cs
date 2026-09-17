@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "Neboť Jahve, Nejvyšší, ⟨je⟩ hrozivý, král veliký nad celou ⟨zemí⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nejvyšší"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "hrozivý"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celou"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:50.174929692Z",
+  "model": "glm-5.3"
+}

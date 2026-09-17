@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Šest dní budeš pracovat a uděláš veškerou svou práci,",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "šest"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "budeš pracovat"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "a uděláš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerou"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "svou práci"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:07.920182781Z",
+  "model": "glm-5.3"
+}

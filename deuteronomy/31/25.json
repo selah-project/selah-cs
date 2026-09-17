@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "a přikázal Moše levitům, nesoucím ⟨את⟩ archu smlouvy Jahve, ⟨slovy⟩:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levity"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levitům"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nesoucím"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨slovy⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:08.167744692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 98,
+  "translation": "Rozpomenul se na své milosrdenství a svou věrnost domu Izraele; viděly všechny končiny země ⟨את⟩ spásu našeho Elohima.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Rozpomenul"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "na své milosrdenství"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "a svou věrnost"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "viděly"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všecky"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "končiny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "spásu našeho Elohima"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "spásu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "našeho Elohima"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:17.428436673Z",
+  "model": "glm-5.3"
+}

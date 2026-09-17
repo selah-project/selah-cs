@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A Noach ⟨byl⟩ syn šesti set let, když byl potopa vod na zemi.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "A Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šesti"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "když byl potopa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vod"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:00.615982724Z",
+  "model": "glm-5.3"
+}

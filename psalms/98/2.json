@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 98,
+  "translation": "Zjevil Jahve svou spásu, před očima národů odkryl svou spravedlnost.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "Zjevil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "svou spásu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "před očima"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "odkryl"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "svou spravedlnost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:17.428282031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "a spočítá ⟨את⟩ roky svého prodeje a vrátí ⟨את⟩ přebytek muži, kterému ⟨mu⟩ prodal, a navrátí se ke svému držení.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "a spočítá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roky"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roky"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "svého prodeje"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "a vrátí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "přebytek"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "přebytek"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterému"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "prodal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "a navrátí se"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "ke svému držení"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:40.721447479Z",
+  "model": "glm-5.3"
+}

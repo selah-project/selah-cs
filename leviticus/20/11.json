@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A muž, který by ležel s ⟨את⟩ ženou svého otce, nahotu svého otce odhalil — jistě budou usmrceni oba dva, jejich krev ⟨je⟩ na nich.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "a muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "by ležel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žena jeho otce"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženou"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nahotu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "odhalil"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "budou usmrceni"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "oba dva"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "jejich krev"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na nich"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:47.781568862Z",
+  "model": "glm-5.3"
+}

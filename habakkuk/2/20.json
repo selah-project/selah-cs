@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Jahve je ve svém svatém chrámě — ztiš se před ním, celá ⟨země⟩!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ve… chrámě"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "svatém svém"
+    },
+    {
+      "surface": "הס",
+      "gloss": "ztiš se!"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:04:30.051137754Z",
+  "model": "glm-5.3"
+}

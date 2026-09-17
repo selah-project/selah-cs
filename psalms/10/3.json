@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Neboť ⟨bezbožný⟩ se chlubí tužbou své duše a lakomec ⟨klení místo⟩ dobrořečení — pohrdá Jahvem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "se chlubí"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožný"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "tužbou"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "své duše"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "lakomec"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "klení místo dobrořečení"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "pohrdá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:30.172161858Z",
+  "model": "glm-5.3"
+}

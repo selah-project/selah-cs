@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A král řekl Cadókovi: Vrať ⟨את⟩ archu Elohim ⟨do⟩ města; jestliže najdu přízeň v očích Jahve, ⟨on⟩ mě vrátí a ukáže mi ⟨את⟩ ni ⟨a⟩ ⟨את⟩ jeho příbytek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "Cadókovi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "vrať"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨do⟩ města"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "najdu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "přízeň"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "a vrátí mě"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "a ukáže mi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ni",
+      "marks": "ni (archu)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "jeho příbytek"
+    }
+  ],
+  "timestamp": "2026-09-17T07:37:41.843657459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Všichni {{oni}} nás {[{totiž}]} straší, ⟨את⟩ nás, aby ⟨⟨řekli⟩⟩: „Ochabnou jejich ruce od práce a nebudou {.{hotova}.}“ A nyní ⟨ještě⟩ {posilni ⟨את⟩ mé ruce}.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "však"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všichni z nich"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "straší"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩ nás",
+      "marks": "nás"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aby řekli"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ochabnou"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "jejich ruce"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "práce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nebude"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dokonána"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "posilni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mé ruce"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mé ruce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:48:37.119339345Z",
+  "model": "glm-5.3"
+}

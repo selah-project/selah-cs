@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "I řekl had ženě: „Nikoli, nezemřete smrtí!“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "had"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ženě"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženě"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nikoli, ne"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "zemřete"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:23.838144666Z",
+  "model": "glm-5.3"
+}

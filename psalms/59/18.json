@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Sílo má, tobě budu žalmy hrát, neboť Elohim je věž má vysoká, Elohim chesedu mého.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Sílo má"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "budu žalmy hrát"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "věž má vysoká"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "chesedu mého"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:25.099274775Z",
+  "model": "glm-5.3"
+}

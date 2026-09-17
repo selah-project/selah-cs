@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 14:16",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A kněz ponoří ⟨את⟩ svůj pravý prst do oleje, který je na jeho levé dlani, a postříká z oleje svým prstem sedmkrát před tváří Jahve.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "a ponoří"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj pravý prst"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "svůj prst"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "pravý"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oleje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "jeho dlani"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "levé"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "a postříká"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oleje"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "svým prstem"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "krát"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:33:25.802513828Z",
+  "model": "glm-5.3"
+}

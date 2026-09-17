@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A přišli všichni moudří ⟨muži⟩, kteří konali ⟨את⟩ všechno dílo svatyně, každý ⟨muž⟩ od svého díla, které konali.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "a přišli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "moudří"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "kteří konali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno dílo svatyně"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatyně"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨muž⟩"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "od svého díla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "המה",
+      "gloss": "oni"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "konali"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:11.607249205Z",
+  "model": "glm-5.3"
+}

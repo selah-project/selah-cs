@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "protože se vzbouřili proti slovům El, a radu Elyjona zlopřečili —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "se vzbouřili"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "proti slovům"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "a radu"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyjona"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "zlopřečili"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:15.293778077Z",
+  "model": "glm-5.3"
+}

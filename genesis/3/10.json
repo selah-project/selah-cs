@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl: Tvůj hlas ⟨את⟩ jsem slyšel v zahradě a bál jsem se, protože jsem nahý, a skryl jsem se.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvůj hlas"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "tvůj hlas"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jsem slyšel"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "v zahradě"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "a bál jsem se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "nahý"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jsem (já)"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "a skryl jsem se"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:26.385320092Z",
+  "model": "glm-5.3"
+}

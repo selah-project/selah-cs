@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 46:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "Slyšte mě, dome Jákobův, a veškerý ostatek domu Izraele, ⟨vy⟩, kteří jste neseni od lůna, noseni od dělohy!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Slyšte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mě"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dome"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobův"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a veškerý"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ostatek"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "העמסים",
+      "gloss": "nesení"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "lůna"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "nosení"
+    },
+    {
+      "surface": "מני",
+      "gloss": "od"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "dělohy"
+    }
+  ],
+  "timestamp": "2026-09-17T08:13:11.502156541Z",
+  "model": "glm-5.3"
+}

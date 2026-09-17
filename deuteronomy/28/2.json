@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A přijdou na tebe všechny tyto požehnání a dohoní tě, protože budeš poslouchat hlas Jahve, Elohim tvého.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "A přijdou"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "požehnání"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "a dohoní tě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "budeš poslouchat"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvého"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:24.357546916Z",
+  "model": "glm-5.3"
+}

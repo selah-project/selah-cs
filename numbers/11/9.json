@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A když rosa sestupovala v noci na tábor, sestupoval na ni man.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "a když sestupovala"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "rosa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sestupoval"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na ni"
+    }
+  ],
+  "timestamp": "2026-09-17T06:44:11.584006133Z",
+  "model": "glm-5.3"
+}

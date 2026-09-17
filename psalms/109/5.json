@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "A nastavili na mě zlo ⟨za⟩ dobro a nenávist ⟨za⟩ mou lásku.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "a nastavili"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na mě"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨za⟩"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "a nenávist"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨za⟩"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "mou lásku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:16.529662670Z",
+  "model": "glm-5.3"
+}

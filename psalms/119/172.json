@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Ať můj jazyk ⟨zpívá⟩ tvé slovo, neboť všechny tvé příkazy ⟨jsou⟩ spravedlnost.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "ať ⟨zpívá⟩\/odpovídá"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "můj jazyk"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tvé slovo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "tvé příkazy"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨jsou⟩ spravedlnost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:39.565732031Z",
+  "model": "glm-5.3"
+}

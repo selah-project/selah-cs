@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A kněz, kterýž očišťuje, postaví ⟨את⟩ muže, kterýž se očišťuje, i ⟨את⟩ ty ⟨věci⟩ před tváří Jahve, u vchodu stanu setkávání.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "postaví"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "kterýž očišťuje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muže"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "kterýž se očišťuje"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "i ⟨את⟩",
+      "marks": "ty ⟨věci⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:54.213032449Z",
+  "model": "glm-5.3"
+}

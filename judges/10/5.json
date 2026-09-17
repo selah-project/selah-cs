@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A Jair zemřel a byl pohřben v Kamonu.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jair"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a byl pohřben"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "v Kamonu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:16:01.528247129Z",
+  "model": "glm-5.3"
+}

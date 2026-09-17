@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Nebudete chodit za jinými bohy, ⟨bohy⟩ z bohů národů, které ⟨jsou⟩ kolem vás.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "budete chodit"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bohy"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "jinými"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "z bohů"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "kolem vás"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:15.319447339Z",
+  "model": "glm-5.3"
+}

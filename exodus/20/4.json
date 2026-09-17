@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Neuděláš si ⟨sochu⟩-idol ani žádnou podobu ničeho, co je ⟨v⟩nebesích nahoře, ani co je na zemi dole, ani co je ve vodách pod zemí.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uděláš"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "idol"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ani žádnou"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "podobu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "v nebesích"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "nahoře"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ani co"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "dole"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ani co"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ve vodách"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zemí"
+    }
+  ],
+  "timestamp": "2026-09-17T13:00:01.849357580Z",
+  "model": "glm-5.3"
+}

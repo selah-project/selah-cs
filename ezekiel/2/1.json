@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I řekl mi: „Syne lidský, postav se na své nohy a já budu mluvit ⟨את⟩ s tebou.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syne"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lidský"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "postav se"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "své nohy"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "a já budu mluvit"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "s tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T08:37:51.431613660Z",
+  "model": "glm-5.3"
+}

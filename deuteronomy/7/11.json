@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A budeš zachovávat ⟨את⟩ přikázání, ⟨את⟩ ustanovení a ⟨את⟩ práva, která ti já přikazuji dnes, abys je činil.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "a budeš zachovávat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "přikázání"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ustanovení"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ustanovení"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "práva"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "práva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ti přikazuji"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "abys je činil"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:46.906018109Z",
+  "model": "glm-5.3"
+}

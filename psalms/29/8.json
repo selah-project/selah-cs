@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Hlas Jahve roztřásá poušť, roztřásá Jahve poušť Kádeš.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Hlas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "roztřásá"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "poušť"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "roztřásá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "poušť"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kádeš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:22.459225439Z",
+  "model": "glm-5.3"
+}

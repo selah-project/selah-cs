@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A když muž udeří ⟨את⟩ svého otroka nebo ⟨את⟩ svou otrokyni holí a ⟨ten⟩ zemře pod jeho rukou, pomstou bude pomstěno.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "A když"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "udeří"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého otroka"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "svého otroka"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou otrokyni"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "svou otrokyni"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "holí"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a zemře"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jeho rukou"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "pomstou"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "bude pomstěno"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:13.364532444Z",
+  "model": "glm-5.3"
+}

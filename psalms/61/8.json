@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 61,
+  "translation": "Ať sedí ⟨na věky⟩ před Elohimem — chesed a věrnost ⟨ho⟩ ať střeží!",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ať sedí"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimem"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "a věrnost"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨ať ustanoví⟩"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "ať střeží ⟨ho⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:27.879437524Z",
+  "model": "glm-5.3"
+}

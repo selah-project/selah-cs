@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A kněz, který přináší ⟨את⟩ celopal někoho, — kůže toho celopalu, který přinesl, ⟨bude⟩ knězi, jeho ⟨bude⟩.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "a kněz"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "který přináší"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celopal někoho"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "celopal"
+    },
+    {
+      "surface": "איש",
+      "gloss": "někoho"
+    },
+    {
+      "surface": "עור",
+      "gloss": "kůže"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "toho celopalu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "přinesl"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "knězi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨bude⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:31.373045250Z",
+  "model": "glm-5.3"
+}

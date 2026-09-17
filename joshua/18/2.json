@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A zbylo mezi syny Izraele, kdož si nerozdělili ⟨את⟩ své dědictví, sedm kmenů.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "a zbylo"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mezi syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdož"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "si rozdělili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své dědictví"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "své dědictví"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "kmenů"
+    }
+  ],
+  "timestamp": "2026-09-17T07:09:47.681953244Z",
+  "model": "glm-5.3"
+}

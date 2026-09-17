@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 101,
+  "translation": "Nebydli v prostředku mého domu ten, kdo koná lest; kdo mluví lež, nezůstane před mýma očima.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bydli"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "v prostředku"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mého domu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kdo koná"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "lest"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kdo mluví"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "lež"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "zůstane"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "před"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mýma očima"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:45.171540796Z",
+  "model": "glm-5.3"
+}

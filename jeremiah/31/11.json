@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Neboť Jahve vykoupil ⟨את⟩ Jákoba a vysvobodil ho z ruky silnějšího než je on.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "vykoupil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jákoba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákoba"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "a vysvobodil ho"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "silnějšího"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "než je on"
+    }
+  ],
+  "timestamp": "2026-09-17T08:27:43.435593370Z",
+  "model": "glm-5.3"
+}

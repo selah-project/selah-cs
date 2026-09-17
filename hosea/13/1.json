@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Když Efrajim mluvil, ⟨bylo⟩ chvění; on ⟨se⟩ pozvedl v Izraeli, ale provinil se s Baalem — a zemřel.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Když mluvil"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "chvění"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "pozvedl ⟨se⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "v Izraeli"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "provinil se"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "s Baalem"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    }
+  ],
+  "timestamp": "2026-09-17T08:58:10.359444137Z",
+  "model": "glm-5.3"
+}

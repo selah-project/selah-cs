@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Viděl jsem zrádce a hnul se hnusem, že tvého slova neostrovali.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Viděl jsem"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "zrádce"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "a hnul se hnusem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "tvého slova"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "neostrovali"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:49.040823149Z",
+  "model": "glm-5.3"
+}

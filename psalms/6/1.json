@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Pro předního zpěváka, na strunné nástroje, podle Šminit ⟨osmistroje⟩. Žalm Davidův.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "na strunné nástroje"
+    },
+    {
+      "surface": "על",
+      "gloss": "podle"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "Šminit ⟨osmistroje⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Žalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:44.961470059Z",
+  "model": "glm-5.3"
+}

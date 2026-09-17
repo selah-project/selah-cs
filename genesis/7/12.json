@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A déšť byl na zemi čtyřicet dní a čtyřicet nocí.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A byl"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "déšť"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dní"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "a čtyřicet"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nocí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:52.076165068Z",
+  "model": "glm-5.3"
+}

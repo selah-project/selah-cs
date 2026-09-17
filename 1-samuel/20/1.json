@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A David uprchl z Novu v Rámě, přišel a řekl před Jónatánem: Co jsem udělal? Jaká je moje vina a jaký můj hřích před tvým otcem, když usiluje o ⟨את⟩ mou duši?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "A uprchl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "z Novu"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "v Rámě"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jónatánem"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem udělal"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Jaká"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "je moje vina"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "a jaký"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "můj hřích"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvým otcem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "usiluje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou duši"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "o mou duši"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:32.254741307Z",
+  "model": "glm-5.3"
+}

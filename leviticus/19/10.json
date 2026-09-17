@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A svou vinici nebudeš obírat, ani spadlé hrozny své vinice nebudeš sbírat — chudému a přistěhovalci ⟨את⟩ je opustíš. Já ⟨jsem⟩ Jahve, váš Elohim.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "a svou vinici"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "budeš obírat"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "ani spadlé hrozny"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "své vinice"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "budeš sbírat"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "chudému"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "a přistěhovalci"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "opustíš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "spadlé hrozny"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:29.263583082Z",
+  "model": "glm-5.3"
+}

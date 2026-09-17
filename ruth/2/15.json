@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I vstala, aby sbírala <את> — a přikázal Boaz svým mládencům ⟨את⟩ takto: „I mezi snopy ať sbírá, a nezahanbujte ji.“",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "I vstala"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "aby sbírala"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svým mládencům"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "svým mládencům"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "snopy"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "ať sbírá"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "zahanbujte ji"
+    }
+  ],
+  "timestamp": "2026-09-17T09:55:51.582177752Z",
+  "model": "glm-5.3"
+}

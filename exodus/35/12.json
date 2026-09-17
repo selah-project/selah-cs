@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "⟨את⟩ archu a ⟨את⟩ její tyče, ⟨את⟩ slitoviště a ⟨את⟩ oponu závěsu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "archu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "její tyče"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "její tyče"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slitoviště"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "slitoviště"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "oponu závěsu"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "oponu"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "závěsu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:52.866491544Z",
+  "model": "glm-5.3"
+}

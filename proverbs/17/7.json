@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Nepatří se ničemovi rty ⟨vznešené⟩, tím méně vznešenému rty lživé.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "patří se"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ničemovi"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "rty"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "vznešené"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "méně"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "vznešenému"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "rty"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lživé"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:58.742631232Z",
+  "model": "glm-5.3"
+}

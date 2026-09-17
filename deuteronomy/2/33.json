@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Jahve, náš Elohim, ho vydal před nás, a my jsme ho porazili, ⟨את⟩ jeho i ⟨את⟩ jeho syny i ⟨את⟩ celý jeho lid.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "a vydal ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "před nás"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "a my jsme porazili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho syny"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jeho syny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "celý jeho lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "jeho lid"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:23.966347734Z",
+  "model": "glm-5.3"
+}

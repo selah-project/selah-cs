@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 2:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Dokonce i dřív, než se spálil ⟨את⟩ tuk, přišel chlapec kněze a řekl muži obětujícímu: ‚Dej maso k opékání knězi, neboť od tebe nevezme maso vařené, leč syrové.‘",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "dokonce"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dřív než"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "se spálil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuk"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tuk"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "נער",
+      "gloss": "chlapec"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "obětujícímu"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "dej"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "לצלות",
+      "gloss": "k opékání"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "knězi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "neboť ne"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vezme"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "vařené"
+    },
+    {
+      "surface": "כי",
+      "gloss": "leč"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(li)"
+    },
+    {
+      "surface": "חי",
+      "gloss": "syrové"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:11.348723909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Zveličil jsem svá díla, postavil jsem si domy, vysadil jsem si vinice.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "zveličil jsem"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "svá díla"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "postavil jsem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "si"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "domy"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "vysadil jsem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "si"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "vinice"
+    }
+  ],
+  "timestamp": "2026-09-17T11:19:59.529445295Z",
+  "model": "glm-5.3"
+}

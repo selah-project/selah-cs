@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Jako přítele, jako bratra sobě jsem chodil; jako truchlící nad matkou, smutný jsem se skláněl.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Jako přítele"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "jako bratra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sobě"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "jsem chodil"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "jako truchlící"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nad matkou"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "smutný"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "jsem se skláněl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:56.962685840Z",
+  "model": "glm-5.3"
+}

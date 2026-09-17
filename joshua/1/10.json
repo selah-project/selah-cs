@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A přikázal Jozue ⟨את⟩ písařům lidu ⟨slovy⟩:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "A přikázal"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "písařům lidu"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "písařům"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨slovy⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T07:04:47.973641654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "hlídej sebe, abys nezapomněl ⟨את⟩ Jahve, který tě vyvedl ze země Egypta, z domu otroků.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "hlídej"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abys ne-"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "zapomněl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "tě vyvedl"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "otroků"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:11.479760004Z",
+  "model": "glm-5.3"
+}

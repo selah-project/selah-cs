@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 30:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "I kdyby byl tvůj vyhnánec ⟨byl⟩ na konci nebes, odtamtud tě shromáždí Jahve, tvůj Elohim, a odtamtud tě vezme.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "i kdyby"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨byl⟩"
+    },
+    {
+      "surface": "נדחך",
+      "gloss": "tvůj vyhnánec"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "na konci"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtamtud"
+    },
+    {
+      "surface": "יקבצך",
+      "gloss": "tě shromáždí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "a odtamtud"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "tě vezme"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:47.728293672Z",
+  "model": "glm-5.3"
+}

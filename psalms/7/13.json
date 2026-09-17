@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Jestliže se ⟨ne⟩obrátí, svůj meč vystří, svůj luk shrál a připravil ⟨jej⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "obrátí"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "svůj meč"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "vystří"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "svůj luk"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "shrál"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "a připravil ⟨jej⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:30.373234914Z",
+  "model": "glm-5.3"
+}

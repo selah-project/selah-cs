@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Přimlouvejte se u Jahveho, neboť je už dost hromů Elohim a krup, a pošlu ⟨את⟩ vás, a nebudete už ⟨muset⟩ zůstat.",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "Přimlouvejte se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "neboť je už dost"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "z"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "hromů"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "a krup"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "a pošlu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "budete už"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "zůstat"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:46.542257793Z",
+  "model": "glm-5.3"
+}

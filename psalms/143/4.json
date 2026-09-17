@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 143,
+  "translation": "A můj duch nade mnou omdlévá, v mém nitru je zděšeno mé srdce.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "a omdlévá"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nade mnou"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "můj duch"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "v mém nitru"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "je zděšeno"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:01.623887171Z",
+  "model": "glm-5.3"
+}

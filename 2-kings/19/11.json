@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Hle, ty jsi slyšel ⟨את⟩ to, co činili králové asyrští všem zemím, aby je zasvětili zničení — a ty budeš vysvobozen?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle,"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "jsi slyšel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co činili králové asyrští"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "činili"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králové"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "asyrští"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "zemím"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "aby je zasvětili zničení"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "budeš vysvobozen"
+    }
+  ],
+  "timestamp": "2026-09-17T07:57:53.143922759Z",
+  "model": "glm-5.3"
+}

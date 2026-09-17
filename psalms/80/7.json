@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Učinils nás předmětem sváru našim sousedům, a naši nepřátelé se posmívají mezi sebou.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Učinils"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "předmět sváru"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "našim sousedům"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "a naši nepřátelé"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "se posmívají"
+    },
+    {
+      "surface": "למו",
+      "gloss": "mezi sebou"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:50.725680429Z",
+  "model": "glm-5.3"
+}

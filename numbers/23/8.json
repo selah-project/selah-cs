@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Jak bych proklínal, když El nepronikl kletbou? A jak bych zlořečil, když Jahve nezlořečil?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "bych proklínal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "nepronikl kletbou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "a jak"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "bych zlořečil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "nezlořečil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:48:25.564393544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Všichni bratři chudáka nenávidí jej; tím spíše jeho přátelé vzdálili se od něho. Stíhá ⟨je⟩ slovy — nejsou ⟨tu⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bratři"
+    },
+    {
+      "surface": "רש",
+      "gloss": "chudáka"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "nenávidí jej"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tím spíše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨∅⟩"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "jeho přátelé"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "vzdálili se"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "od něho"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "stíhá"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "slovy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nejsou"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨tu⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:35.874826917Z",
+  "model": "glm-5.3"
+}

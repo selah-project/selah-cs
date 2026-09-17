@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Neboť Jahve zajisté ⟨bude⟩ soudit svůj lid a nad svými služebníky se smiluje ⟨a lituje⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "soudit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svými služebníky"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "se smiluje ⟨a lituje⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:30.864457893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A ⟨ti⟩ mrtví v té ráně ⟨byli⟩ čtyři a dvacet tisíc.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "a ⟨ti⟩ ⟨byli⟩"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "mrtví"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "v té ráně"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "čtyři"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "a dvacet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    }
+  ],
+  "timestamp": "2026-09-17T10:42:50.755158638Z",
+  "model": "glm-5.3"
+}

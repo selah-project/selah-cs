@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 16:8",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A řekl: „Hagar, otrokyně Saraj, odkud přicházíš a kam jdeš?“ A ona řekla: „Před tváří Saraj, své paní, utíkám.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "otrokyně"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "אי",
+      "gloss": "(kde)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "odkud"
+    },
+    {
+      "surface": "באת",
+      "gloss": "přicházíš"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "kam"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "jdeš"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "A řekla"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "své paní"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "(já)"
+    },
+    {
+      "surface": "ברחת",
+      "gloss": "utíkám"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:40.600563201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A Izrael miloval ⟨את⟩ Josefa víc než všechny své syny, protože byl synem svého stáří, a udělal mu kabátec pestrý.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "A Izrael"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miloval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "víc než všechny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "své syny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "בן",
+      "gloss": "byl synem"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "svého stáří"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kabátec"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "pestrý"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:07.313706007Z",
+  "model": "glm-5.3"
+}

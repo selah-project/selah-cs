@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 95,
+  "translation": "protož jsem přisáhl ve svém hněvu: nevejdou do mého odpočinku.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "protož"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jsem přisáhl"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ve svém hněvu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨že⟩"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "nevejdou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "mého odpočinku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:43.059423299Z",
+  "model": "glm-5.3"
+}

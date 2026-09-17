@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 146,
+  "translation": "Činí právo utlačovaným, dává chléb hladovým; Jahve odvazuje spoutané.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Činí"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "právo"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "utlačovaným"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "hladovým"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "odvazuje"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "spoutané"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:49.380855735Z",
+  "model": "glm-5.3"
+}

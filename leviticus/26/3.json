@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Budete-li chodit v mých nařízeních a ⟨את⟩ má přikázání budete střežit a budete ⟨את⟩ je konat,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "budete-li"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "v mých nařízeních"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "chodit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "má přikázání"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "má přikázání"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "budete střežit"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "a budete konat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (přikázání)"
+    }
+  ],
+  "timestamp": "2026-09-17T10:40:48.528309570Z",
+  "model": "glm-5.3"
+}

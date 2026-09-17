@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Aby mi neroztrhal duši jako lev, drve ⟨ji⟩, a není, kdo by vytrhl.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "aby ne"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "neroztrhal"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "jako lev"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duši moji"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "drve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kdo by vytrhl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:49.571047677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Jestliže ⟨ho⟩ nástrojem ze železa udeřil a zemřel — vrah ⟨je⟩; smrtí bude vrah usmrcen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "nástrojem"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ze železa"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "udeřil ⟨ho⟩"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "vrah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bude usmrcen"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "vrah"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:18.817032250Z",
+  "model": "glm-5.3"
+}

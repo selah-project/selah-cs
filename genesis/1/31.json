@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A viděl Elohim ⟨את⟩ všechno, co učinil, a hle — ⟨to bylo⟩ velmi dobré. A nastal večer a nastalo jitro, den šestý.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "A viděl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobré"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "A nastal"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a nastalo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "jitro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "šestý"
+    }
+  ],
+  "timestamp": "2026-09-17T10:33:58.857991028Z",
+  "model": "glm-5.3"
+}

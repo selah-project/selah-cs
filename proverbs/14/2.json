@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Kdo kráčí ve své přímosti, ten se bojí Jahveho, ale kdo je křivý ve svých cestách, ⟨ten⟩ ⟨jej⟩ pohrdá.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "Kdo kráčí"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "ve své přímosti"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se bojí"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "ale kdo je křivý"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ve svých cestách"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "pohrdá"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:44.337754646Z",
+  "model": "glm-5.3"
+}

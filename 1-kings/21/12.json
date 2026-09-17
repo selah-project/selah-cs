@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Vyvolali půst a posadili ⟨את⟩ Nábota do čela lidu.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "vyvolali"
+    },
+    {
+      "surface": "צום",
+      "gloss": "post"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "a posadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nábota"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nábota"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "do čela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:32.417909106Z",
+  "model": "glm-5.3"
+}

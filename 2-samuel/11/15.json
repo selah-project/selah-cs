@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A napsal v listu takto: Postavte ⟨את⟩ Uriju proti tváři nejsilnějšího boje, a odtraťte se od něho, aby byl zasažen a zemřel.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "napsal"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "v listu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "takto"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Postavte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriju"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriju"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "מול",
+      "gloss": "tváři"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváři"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "boje"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "nejsilnějšího"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "odtraťte se"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "od něho"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "aby byl zasažen"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "a zemřel"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:56.106959322Z",
+  "model": "glm-5.3"
+}

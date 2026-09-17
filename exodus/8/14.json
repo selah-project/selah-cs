@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A učinili tak kouzelníci svými lstmi, aby vydali ⟨את⟩ vši, ale nemohli; a byly vši na člověku i na dobytku.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "A učinili"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "kouzelníci"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "svými lstmi"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "aby vydali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vši"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "vši"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mohli"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a byly"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "vši"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na člověku"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "i na dobytku"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:28.366565573Z",
+  "model": "glm-5.3"
+}

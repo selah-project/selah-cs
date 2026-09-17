@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A řekl: Ukaž mi, prosím, ⟨את⟩ svou slávu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ukaž mi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou slávu"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "svou slávu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:48.016000102Z",
+  "model": "glm-5.3"
+}

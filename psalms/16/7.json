@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Žehnám ⟨את⟩ Jahve, který mi dal radu; ano, v noci mě poučují mé ledviny.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Žehnám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "mi dal radu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ano"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "mě poučují"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "mé ledviny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:21.236550669Z",
+  "model": "glm-5.3"
+}

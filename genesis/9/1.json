@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A požehnal Elohim ⟨את⟩ Noacha a ⟨את⟩ jeho syny a řekl jim: Plodte a množte se a naplňte ⟨את⟩ zemi.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "A požehnal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noacha"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho syny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho syny"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Plodte"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "a množte se"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "a naplňte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:34:11.735465434Z",
+  "model": "glm-5.3"
+}

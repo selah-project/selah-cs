@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A Mojžíš dostal ⟨se⟩ do konce mluvení vší ⟨těchto⟩ slov ⟨את⟩ vší k celému Izraeli.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "dostal do konce"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mluvit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vší slov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vší"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "slov"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "těchto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celému"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:04.865233422Z",
+  "model": "glm-5.3"
+}

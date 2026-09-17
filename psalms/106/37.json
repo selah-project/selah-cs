@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "A obětovali ⟨את⟩ své syny a ⟨את⟩ své dcery šedům",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "A obětovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své syny"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "své syny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "své dcery"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "své dcery"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "šedům"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:16.614600026Z",
+  "model": "glm-5.3"
+}

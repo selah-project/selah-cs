@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "I volali k Jahvemu a řekli: Zhřešili jsme, neboť jsme opustili ⟨את⟩ Jahve a sloužili ⟨את⟩ baalům a ⟨את⟩ ašterotám; a nyní vytrhni nás z ruky našich nepřátel, a budeme sloužit tobě.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "volali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Zhřešili jsme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "opustili jsme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "sloužili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baalům"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "baalům"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ašterotám"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "ašterotám"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "vytrhni nás"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "našich nepřátel"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "budeme sloužit tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:45.992066602Z",
+  "model": "glm-5.3"
+}

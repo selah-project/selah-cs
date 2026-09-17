@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "V den, kdy se na něm ukáže živé maso, bude nečistý.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "když se ukáže"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na něm"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "maso"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živé"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bude nečistý"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:25.996411584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 2:10",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I bylo shromážděno i celé to pokolení k otcům svým, a povstalo pokolení jiné po nich, které neznalo ⟨את⟩ Jahve ani ⟨את⟩ to dílo, které učinil Izraeli.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "bylo shromážděno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "otcům svým"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a povstalo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jiné"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "po nich"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "znalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to dílo"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "to dílo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izraeli"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:08.140551271Z",
+  "model": "glm-5.3"
+}

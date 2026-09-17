@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A ⟨faraón⟩ řekl: Na zítřek. A ⟨Mojžíš⟩ řekl: Budiž podle tvého slova, abys poznal, že není nikdo jako Jahve, náš Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a ⟨faraón⟩ řekl"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "Na zítřek"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ⟨Mojžíš⟩ řekl"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "podle tvého slova"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abys"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "poznal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není nikdo"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "jako Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:40.821538404Z",
+  "model": "glm-5.3"
+}

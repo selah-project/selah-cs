@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A uviděli ⟨את⟩ ho z dálky, a dříve než přiblížil se k nim, spikli se ⟨את⟩ ho usmrtit.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "a uviděli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "z dálky"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "a dříve než"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "přiblížil se"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "k nim"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "spikli se"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (cíl: usmrtit)"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "usmrtit"
+    }
+  ],
+  "timestamp": "2026-09-17T06:11:06.345954762Z",
+  "model": "glm-5.3"
+}

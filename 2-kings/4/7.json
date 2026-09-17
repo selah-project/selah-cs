@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A přišla a oznámila ⟨to⟩ muži ⟨האלהים⟩ Elohim; a on řekl: Jdi, prodej ⟨את⟩ olej a zaplať ⟨את⟩ své dluhy; a ty i tvoji synové budete žít ⟨ze⟩ zbytku.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "a přišla"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "a oznámila"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨האלהים⟩ Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on řekl"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "prodej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olej"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olej"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "a zaplať"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své dluhy"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "své dluhy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ty"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "tvoji synové"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "budete žít"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "⟨ze⟩ zbytku"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:49.819390709Z",
+  "model": "glm-5.3"
+}

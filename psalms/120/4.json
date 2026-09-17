@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 120,
+  "translation": "Ostré šípy bohatýra, s uhlíky rtemu.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "šípy"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "bohatýra"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "Ostré"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "uhlíky"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "rtemu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:49.439329969Z",
+  "model": "glm-5.3"
+}

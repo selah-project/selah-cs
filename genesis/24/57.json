@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A řekli: Zavolejme dívku a zeptáme se ⟨את⟩ jejích úst.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "A řekli"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "zavolejme"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "dívku"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "a zeptáme se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejích úst"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "jejích úst"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:37.080646871Z",
+  "model": "glm-5.3"
+}

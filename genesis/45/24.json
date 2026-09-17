@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "I propustil ⟨את⟩ své bratry a odešli; a řekl jim: Nehněte se ⟨se⟩ cestou!",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "i propustil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své bratry"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "své bratry"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "a odešli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "hněte se"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cestou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:57.073554711Z",
+  "model": "glm-5.3"
+}

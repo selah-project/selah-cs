@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": "Ale ty, Jahve, ⟨sedíš⟩ na trůnu navždy, a tvá památka pokolení po pokolení.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ale ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "⟨sedíš⟩ na trůnu"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "a tvá památka"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pokolení"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "po pokolení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:05.850797421Z",
+  "model": "glm-5.3"
+}

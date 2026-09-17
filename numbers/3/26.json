@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 3:26",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "a závěsy dvora a ⟨את⟩ závěs brány dvora, který ⟨je⟩ u příbytku a u oltáře kolem dokola, a ⟨את⟩ jeho šňůry ke všemu jeho služebnímu úkonu.",
+  "tokens": [
+    {
+      "surface": "וקלעי",
+      "gloss": "a závěsy"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "závěs brány dvora"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "závěs"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "brány"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "u"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytku"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a u"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho šňůry"
+    },
+    {
+      "surface": "מיתריו",
+      "gloss": "jeho šňůry"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ke všemu"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "jeho služebnímu úkonu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:55.746478024Z",
+  "model": "glm-5.3"
+}

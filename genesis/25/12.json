@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A toto ⟨jsou⟩ rodopisy Jišmaela, syna Abrahama, kterého porodila Hagar, Egypťanka, služebnice Sáry, Abrahamovi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "rodopisy"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišmaela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterého"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Egypťanka"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "služebnice"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sáry"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:49.487294864Z",
+  "model": "glm-5.3"
+}

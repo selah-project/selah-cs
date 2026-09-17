@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Jestliže řekne takto: Dobře, pokoj tvému služebníku — ale jestliže se rozzlobí, věz, že zlo od něho je rozhodnuto.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "כה",
+      "gloss": "takto"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "řekne"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobře"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "tvému služebníku"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "rozzlobí se"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "(rozhoří)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "דע",
+      "gloss": "věz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "je rozhodnuto (dokonáno)"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "od něho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:33.748507188Z",
+  "model": "glm-5.3"
+}

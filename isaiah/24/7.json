@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Truchlí mladé víno, vadne réva, vzdychají všichni radostní srdcem.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "truchlí"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "mladé víno"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "vadne"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "réva"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "vzdychají"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "radostní"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdcem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:07:27.764447006Z",
+  "model": "glm-5.3"
+}

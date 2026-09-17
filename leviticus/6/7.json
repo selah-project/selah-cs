@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A toto je tóra oběti moučné: synové Árónovi ji přinesou ⟨את⟩ před Jahve, k přední straně oltáře.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "a toto"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "tórа"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "oběti moučné"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "přinesou"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ji (oběť moučnou)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árónovi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פני",
+      "gloss": "přední straně"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:30:18.742971879Z",
+  "model": "glm-5.3"
+}

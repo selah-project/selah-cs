@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Pro předního zpěváka, Davidovi; mizmor, píseň.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro předního zpěváka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:35.759800231Z",
+  "model": "glm-5.3"
+}

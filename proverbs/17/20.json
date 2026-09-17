@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Kdo má zkroucené srdce, nenajde dobro, a kdo má obrácený jazyk, padne do zla.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "zkroucené"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "najde"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "obrácený"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "jazyk"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "padne"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "do zla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:52.294343016Z",
+  "model": "glm-5.3"
+}

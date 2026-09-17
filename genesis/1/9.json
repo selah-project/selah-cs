@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekl Elohim: „Nechť se shromáždí vody pod ⟨nebesy⟩ k jednomu místě, a nechť se ukáže ⟨souš⟩.“ A stalo se tak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "nechť se shromáždí"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednomu"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "a nechť se ukáže"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "souš"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:35.779372136Z",
+  "model": "glm-5.3"
+}

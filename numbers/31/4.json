@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Tisíc pro kmen, tisíc pro kmen, pro všechny kmeny Izraele pošlete ⟨je⟩ k vojsku.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "Tisíc"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pro kmen"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pro kmen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "pro všechny"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "kmeny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "pošlete ⟨je⟩"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "k vojsku"
+    }
+  ],
+  "timestamp": "2026-09-17T06:51:09.147542027Z",
+  "model": "glm-5.3"
+}

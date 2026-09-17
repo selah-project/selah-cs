@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Střeží Jahve ⟨את⟩ všechny, kdo ho milují, a ⟨את⟩ všechny bezbožné zahubí.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Střeží"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny, kdo ho milují"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "kdo ho milují"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechny bezbožné"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "bezbožné"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "zahubí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:41.685148222Z",
+  "model": "glm-5.3"
+}

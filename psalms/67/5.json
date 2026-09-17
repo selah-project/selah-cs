@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 67,
+  "translation": "Ať jásají a zpívají národy, neboť soudíš lidy ⟨v⟩ rovnosti a národy na zemi ⟨je⟩ vedeš. Séla.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "ať jásají"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "a zpívají"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "soudíš"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "lidy"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "v rovnosti"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "a národy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "vedeš"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:18.724013466Z",
+  "model": "glm-5.3"
+}

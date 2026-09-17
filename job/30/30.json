@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Moje kůže zčernala ⟨na⟩ mně ⟨a⟩ mé kosti zhořely ⟨a⟩ vyschly ⟨od⟩ žáru.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "Moje kůže"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "zčernala"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "⟨na⟩ mně"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "a mé kosti"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "zhořely ⟨a⟩ vyschly"
+    },
+    {
+      "surface": "מני",
+      "gloss": "⟨od⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "žáru"
+    }
+  ],
+  "timestamp": "2026-09-17T11:18:12.385535435Z",
+  "model": "glm-5.3"
+}

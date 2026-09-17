@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Ano, nepáchají nepravost, po jeho cestách chodí.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "páchají"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "po jeho cestách"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "chodí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:51.081558254Z",
+  "model": "glm-5.3"
+}

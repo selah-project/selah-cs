@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Neboť kdo v oblacích se vyrovná Jahvemu, kdo je podoben Jahvemu mezi syny Božími?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "v oblacích"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "se vyrovná"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "je podoben"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "mezi syny"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Božími"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:57.067527201Z",
+  "model": "glm-5.3"
+}

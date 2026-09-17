@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A nyní pojď, Prosím, poradím ti radu, a zachraň ⟨את⟩ svůj život i ⟨את⟩ života svého syna Šalomouna.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "pojď"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "poradím ti"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "radu"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "a zachraň"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj život"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "svůj život"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "života svého syna Šalomouna"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "života"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomouna"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:34.694587540Z",
+  "model": "glm-5.3"
+}

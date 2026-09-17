@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Pokolení odchází a pokolení přichází, ale země trvá ⟨na věky⟩.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Pokolení"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "odchází"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "a pokolení"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přichází"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ale země"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨na věky⟩"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "trvá"
+    }
+  ],
+  "timestamp": "2026-09-17T11:19:56.973203633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Toto ⟨je⟩ tvůj los, podíl tvé míry ⟨את⟩ ode ⟨mne⟩, výrok Jahveho, že jsi zapomněla ⟨את⟩ mne a důvěřovala lži.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "tvůj los"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "podíl"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "tvé míry"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ode ⟨mne⟩",
+      "marks": "ode ⟨mne⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "jsi zapomněla"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mne"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "a důvěřovala"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "lži"
+    }
+  ],
+  "timestamp": "2026-09-17T08:23:12.936352599Z",
+  "model": "glm-5.3"
+}

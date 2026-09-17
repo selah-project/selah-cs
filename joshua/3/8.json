@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Ty pak přikažeš kněžím, nesoucím ⟨את⟩ archu smlouvy, řka: Jakmile dojdete až k okraji vod Jordánu, v Jordánu se zastavíte.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ty pak"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "přikažeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kněze"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněžím"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nesoucím"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "jakmile dojdete"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "okraji"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vod"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordánu"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "v Jordánu"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "se zastavíte"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:13.345271709Z",
+  "model": "glm-5.3"
+}

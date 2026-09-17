@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A vrátili se a přišli k Ejn-Mišpat — to ⟨je⟩ Kadeš — a porazili ⟨את⟩ celé pole Amalekovců i ⟨את⟩ Emorejce, který bydlel v Chaccon-Támaru.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "A vrátili se"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "a přišli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ejn"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "-Mišpat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to ⟨je⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeš"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "a porazili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celé pole Amalekovců"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "Amalekovců"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorejce"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejce"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "který bydlel"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "v Chaccon"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "-Támaru"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:55.873497530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Obrátil ⟨את⟩ jejich vody v krev, a zahubil ⟨את⟩ jejich ryby.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Obrátil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich vody"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "jejich vody"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "v krev"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zahubil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich ryby"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "jejich ryby"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:27.857057046Z",
+  "model": "glm-5.3"
+}

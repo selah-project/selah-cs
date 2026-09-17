@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "I řekl vykupitel Boazovi: Kup si ⟨to⟩. A zul ⟨svou⟩ obuv.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "vykupitel"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Boazovi"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Kup"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "A zul"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "obuv"
+    }
+  ],
+  "timestamp": "2026-09-17T09:55:40.403625334Z",
+  "model": "glm-5.3"
+}

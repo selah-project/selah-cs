@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A sestoupil jsem do domu hrnčíře, a hle, on dělal dílo na kotoučích.",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "A sestoupil jsem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "hrnčíře"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "a hle, on"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dělal"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kotoučích"
+    }
+  ],
+  "timestamp": "2026-09-17T08:25:38.367041460Z",
+  "model": "glm-5.3"
+}

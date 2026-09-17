@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Když potkáš vola svého nepřítele nebo jeho osla, jak bloudí, ⟨jistě⟩ jej navrátíš jemu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "potkáš"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "svého nepřítele"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "jeho osla"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "jak bloudí"
+    },
+    {
+      "surface": "השב",
+      "gloss": "⟨jistě⟩ navrať"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "jej navrátíš"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:23.728417239Z",
+  "model": "glm-5.3"
+}

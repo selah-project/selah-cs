@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 96,
+  "translation": "Vypravujte mezi národy jeho slávu, mezi všemi národy jeho divy.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Vypravujte"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mezi národy"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "jeho slávu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mezi všemi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "jeho divy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:02.369307865Z",
+  "model": "glm-5.3"
+}

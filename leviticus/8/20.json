@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A ⟨את⟩ berana rozčlenil na jeho části, a Mojžíš vykuřoval ⟨את⟩ hlavu a ⟨את⟩ části a ⟨את⟩ tuk.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "berana"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "berana"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "rozčlenil"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "na jeho části"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "a vykuřoval"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlavu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "části"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "části"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tuk"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "tuk"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:23.303856791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A král šel do Gibeonu, aby tam obětoval, neboť ona ⟨byla⟩ ta veliká výšina; tisíc zápalných obětí dal Šalomoun vystoupit na ⟨tom⟩ oltáři tamtom.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "do Gibeonu"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "obětovat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "ta výšina"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "veliká"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "zápalných obětí"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "dal vystoupit"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tamtom"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:58.918542128Z",
+  "model": "glm-5.3"
+}

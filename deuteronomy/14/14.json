@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "a ⟨את⟩ každého krkavce podle jeho druhu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "každého krkavce"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "krkavce"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "podle jeho druhu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:50.879176060Z",
+  "model": "glm-5.3"
+}

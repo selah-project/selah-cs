@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "A Jákob požehnal ⟨את⟩ Paroa a vyšel z před Paroa.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "požehnal"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "z před"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroa"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:05.160574388Z",
+  "model": "glm-5.3"
+}

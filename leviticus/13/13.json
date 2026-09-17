@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A kněz se podívá, a hle, tsaraat pokryla ⟨את⟩ všechno jeho tělo — prohlásí ⟨את⟩ ránu za čistou; všechno se obrátilo v bílo — čistý je.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "a podívá se"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "pokryla"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno jeho tělo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "jeho tělo"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "prohlásí za čistou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ránu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "rána"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "celá"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "obrátilo se"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "v bílo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čistý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:25.996172637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Bodláčí a plevel ⟨ti⟩ vypustí, a budeš jíst ⟨את⟩ byliny pole.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Bodláčí"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "a plevel"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "vypustí"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ti⟩"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "a budeš jíst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "byliny pole"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "byliny"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:22.435176936Z",
+  "model": "glm-5.3"
+}

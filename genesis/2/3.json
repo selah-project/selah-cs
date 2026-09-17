@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Elohim požehnal ⟨את⟩ den sedmý a posvětil ⟨את⟩ jej; neboť v něm přestal od veškeré své práce, kterou stvořil Elohim ⟨k učinění⟩.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "A požehnal"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den sedmý"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmý"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "a posvětil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ jej",
+      "marks": "jej (den sedmý)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "přestal"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "od veškeré"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "své práce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "stvořil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨k učinění⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:32.181397280Z",
+  "model": "glm-5.3"
+}

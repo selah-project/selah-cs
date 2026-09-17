@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A řekl: Neboť ⟨je⟩ ruka na trůnu Jah, válka Jahvovi s Amálekem z pokolení na pokolení.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruka"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כס",
+      "gloss": "trůnu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "válka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "s Amálekem"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "z pokolení"
+    },
+    {
+      "surface": "דר",
+      "gloss": "na pokolení"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:15.256168936Z",
+  "model": "glm-5.3"
+}

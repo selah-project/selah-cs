@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "a řekl: Při porodu hebrejských žen uvidíte ⟨את⟩ na porodních kamenech — je-li ⟨to⟩ syn, zabijete ⟨את⟩ jej; je-li to dcera, ať žije.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "při porodu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hebrejské ženy"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "hebrejské ženy"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "uvidíte"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "porodních kamenech"
+    },
+    {
+      "surface": "אם",
+      "gloss": "je-li"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "zabijete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a je-li"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "היא",
+      "gloss": "je"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ať žije"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:38.804509657Z",
+  "model": "glm-5.3"
+}

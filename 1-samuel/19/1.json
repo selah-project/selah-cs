@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A mluvil Ša'ul s Jonatanem, svým synem, a se všemi svými služebníky, aby zabili ⟨את⟩ Davida; Jonatan však, syn Ša'ulův, zálibu měl v Davidovi velmi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "A mluvil"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "s"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatanem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svým synem"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všemi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "svými služebníky"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "aby zabili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Jonatan však"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ulův"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "zálibu měl"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "v Davidovi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:27:03.527313884Z",
+  "model": "glm-5.3"
+}

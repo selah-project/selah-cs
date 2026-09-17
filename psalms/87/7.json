@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 87,
+  "translation": "Zpěváci i ti, kdo hrají ⟨na flétny⟩: všechny mé prameny ⟨jsou⟩ v tobě.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "zpěváci"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "i ti, kdo hrají ⟨na flétny⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mé prameny"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:49.110925330Z",
+  "model": "glm-5.3"
+}

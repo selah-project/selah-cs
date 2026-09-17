@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Neboť kdo je El mimo Jahveho? A kdo je skála kromě našeho Elohim?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "mimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "A kdo"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skála"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "kromě"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "našeho Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:04.824507691Z",
+  "model": "glm-5.3"
+}

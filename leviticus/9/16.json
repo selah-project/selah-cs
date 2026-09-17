@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A přiblížil ⟨את⟩ zápalnou oběť a vykonal ji podle řádu.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "přiblížil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zápalnou oběť"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalnou oběť"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "vykonal ji"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "podle řádu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:06.629522147Z",
+  "model": "glm-5.3"
+}

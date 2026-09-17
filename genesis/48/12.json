@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "A Jósef vyvedl je ⟨את⟩ z ⟨prostřed⟩ jeho kolen a sklátil se tváří k zemi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "a vyvedl"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "z (prostřed)"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "jeho kolen"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a sklátil se"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "k zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:21.399645092Z",
+  "model": "glm-5.3"
+}

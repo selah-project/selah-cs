@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Nebudete-li však poslouchat hlas Jahve a vzdorujete-li ⟨את⟩ ústům Jahve, pak bude ruka Jahve proti vám i proti vaším otcům.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Nebudete-li však"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "poslouchat"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "a vzdorujete-li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ústům Jahve"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ústům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "pak bude"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "proti vám"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "i proti vaším otcům"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:52.045059985Z",
+  "model": "glm-5.3"
+}

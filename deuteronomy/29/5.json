@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Chléb jste nejedli a víno ani opojný nápoj jste nepili — abyste věděli, že já jsem Jahve, váš Elohim.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Chléb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nejedli"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "jste nejedli"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "a víno"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ani opojný nápoj"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nepili"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "jste nepili"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abyste"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "věděli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:59.337944467Z",
+  "model": "glm-5.3"
+}

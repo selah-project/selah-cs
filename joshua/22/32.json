@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 22:32",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A vrátil se Pinchas, syn Elazarův, kněz, a knížata od ⟨את⟩ synů Rubenových a od ⟨את⟩ synů Gadových, ze země Gileádské do země kenaanské, k synům Izraele, a přinesli jim zpět ⟨את⟩ slovo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "A vrátil se"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarův"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "והנשיאים",
+      "gloss": "a knížata"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "od ⟨את⟩",
+      "marks": "synů Rubenových"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubenových"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "⟨את⟩",
+      "marks": "synů Gadových"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadových"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileádské"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanské"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "a přinesli zpět"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "slovo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:48:03.538638794Z",
+  "model": "glm-5.3"
+}

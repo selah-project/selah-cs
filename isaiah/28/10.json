@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Nebo přikázání k přikázání, přikázání k přikázání, měrná šňůra k měrné šňůře, měrná šňůra k měrné šňůře, trochu tam, trochu tam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "צו",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "k přikázání"
+    },
+    {
+      "surface": "צו",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "k přikázání"
+    },
+    {
+      "surface": "קו",
+      "gloss": "měrná šňůra"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "k měrné šňůře"
+    },
+    {
+      "surface": "קו",
+      "gloss": "měrná šňůra"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "k měrné šňůře"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "trochu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "trochu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    }
+  ],
+  "timestamp": "2026-09-17T10:58:25.697041832Z",
+  "model": "glm-5.3"
+}

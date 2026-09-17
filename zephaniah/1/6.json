@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "a ⟨את⟩ ty, kdo odstupují od následování Jahveho, a ty, kdo nehledali ⟨את⟩ Jahveho a nevyptávali se na něj.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ty, kdo odstupují"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "odstupují"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "od následování"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a ty, kdo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "hledali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "vyptávali se na něj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:05:52.268826429Z",
+  "model": "glm-5.3"
+}

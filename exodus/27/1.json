@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A uděláš ⟨את⟩ oltář z dřeva akácového: pět loket délka a pět loket šířka, čtverhranný ⟨bude⟩ oltář, a tři lokte jeho výška.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "A uděláš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltář"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z dřeva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akácového"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pět"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "loket"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "délka"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "a pět"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "loket"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "šířka"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "čtverhranný"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "a tři"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "loket"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "jeho výška"
+    }
+  ],
+  "timestamp": "2026-09-17T06:24:03.017048170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Člověk, zrozený z ženy, krátký dny ⟨má⟩ a nasycen neklidem.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Člověk"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "zrozený"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "z ženy"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "krátký"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "a nasycen"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "neklidem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:47:13.333294663Z",
+  "model": "glm-5.3"
+}

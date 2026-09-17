@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 5:10",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A poslal k němu Elíša posla ⟨s rozkazem⟩: Jdi a umyj se sedmkrát v Jordánu, a vrátí se tvé tělo k tobě ⟨a budeš čistý⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elíša"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "posla"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨s rozkazem⟩ (řka)"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "a umyj se"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "krát"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "v Jordánu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátí se"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "tvé tělo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "⟨a budeš čistý⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:16.933014538Z",
+  "model": "glm-5.3"
+}

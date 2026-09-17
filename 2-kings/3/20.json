@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A stalo se ráno při vystupování oběti, a hle — voda přicházela cestou Edómu a země se naplnila ⟨את⟩ tou vodou.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "při vystupování"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "oběti"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "מים",
+      "gloss": "voda"
+    },
+    {
+      "surface": "באים",
+      "gloss": "přicházela"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edómu"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "a naplnila se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tou vodou"
+    },
+    {
+      "surface": "המים",
+      "gloss": "tou vodou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:26.980746823Z",
+  "model": "glm-5.3"
+}

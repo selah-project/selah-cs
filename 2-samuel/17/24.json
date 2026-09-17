@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A David přišel do Machanaim; Absolon pak překročil ⟨את⟩ Jordán, on i veškeren muž Izraele s ním.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "A David"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "do Machanaim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "Absolon pak"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "překročil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i veškeren"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    }
+  ],
+  "timestamp": "2026-09-17T07:37:18.961232406Z",
+  "model": "glm-5.3"
+}

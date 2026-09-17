@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "I připravil jim hostinu, a jedli a pili.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "I připravil"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "hostinu"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "a jedli"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "a pili"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:28.513311421Z",
+  "model": "glm-5.3"
+}

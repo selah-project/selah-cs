@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Když někdo spase pole nebo vinici a vypustí ⟨את⟩ svůj dobytek a ten se pase na cizím poli, zaplatí z nejlepšího svého pole a z nejlepšího své vinice.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "spase"
+    },
+    {
+      "surface": "איש",
+      "gloss": "někdo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "vinici"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "a vypustí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj dobytek"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "svůj dobytek"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "a spase se"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "cizím"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "z nejlepšího"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "svého pole"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "a z nejlepšího"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "své vinice"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zaplatí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:59.803665298Z",
+  "model": "glm-5.3"
+}

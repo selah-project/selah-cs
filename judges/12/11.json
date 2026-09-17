@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A soudil po něm ⟨את⟩ Izrael Elon Zabulonan, a soudil ⟨את⟩ Izrael deset let.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "a soudil"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "po něm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "Zabulonan"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "a soudil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "deset"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    }
+  ],
+  "timestamp": "2026-09-17T07:16:35.282963032Z",
+  "model": "glm-5.3"
+}

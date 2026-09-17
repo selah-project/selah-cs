@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A kněží nemohli stát a sloužit kvůli oblaku, neboť sláva Jahve naplnila ⟨את⟩ dům Jahve.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "A ne"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "mohli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "stát"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "sloužit"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "oblaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "naplnila"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sláva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům Jahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:21.169960704Z",
+  "model": "glm-5.3"
+}

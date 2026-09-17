@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 76,
+  "translation": "Zářivý jsi ⟨ty⟩, vznešenější než hory kořisti.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Zářivý"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi ⟨ty⟩"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "vznešenější"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "než hory"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "kořisti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:36.623397617Z",
+  "model": "glm-5.3"
+}

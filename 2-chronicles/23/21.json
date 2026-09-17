@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A radoval se všechen lid země a ⟨město⟩ odpočívalo; ⟨a⟩ Atalju zabili mečem ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "A radoval se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "a ⟨město⟩"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "odpočívalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalju"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalju"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "zabili"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mečem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:28:25.178018103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Déšť sněží na bezbožné — uhlíky, oheň a síru; a větry žhavými — to je podíl jejich kalicha.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "déšť sněží"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožné"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "uhlíky"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "a síru"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "a větry"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "žhavými"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "podíl"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "jejich kalicha"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:55.622078659Z",
+  "model": "glm-5.3"
+}

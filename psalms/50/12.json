@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Kdybych vyhladověl, neřekl bych ⟨to⟩ tobě, neboť mně ⟨patří⟩ země ⟨a vše, co ji⟩ naplňuje.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Kdybych"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "vyhladověl"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl bych"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mně (je)"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "země (obývaný svět)"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "a co ji naplňuje"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:28.772406514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Zahrá-li divoký osel nad čerstvou trávou? Řve-li vůl nad svým krmivem?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "Zahrá-li"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "divoký osel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "čerstvou trávou"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "řve-li"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vůl"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "svým krmivem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:45:23.024762953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Se svými ovcemi a se svým dobytkem půjdou hledat ⟨את⟩ Jahveho, ale nenajdou ⟨ho⟩; odstoupil od nich.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "se svými ovcemi"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "a se svým dobytkem"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "půjdou"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hledat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "najdou"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "odstoupil"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "od nich"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:01.344155160Z",
+  "model": "glm-5.3"
+}

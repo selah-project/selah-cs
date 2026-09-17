@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 98,
+  "translation": "Jásejte Jahvovi, celá země, provinte se, jásejte a zpívejte!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Jásejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "provinte se"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "jásejte"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "a zpívejte"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:17.428576506Z",
+  "model": "glm-5.3"
+}

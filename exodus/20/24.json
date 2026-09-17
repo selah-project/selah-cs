@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Oltář z hliny mi uděláš a budeš na něm obětovat ⟨את⟩ své zápalné oběti a ⟨את⟩ své pokojné oběti, ⟨את⟩ svá ovce a ⟨את⟩ svůj skot. Na každém místě, kde připomenu ⟨את⟩ své Jméno, přijdu k tobě a požehnám ti.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "z hliny"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uděláš"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "a budeš obětovat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své zápalné oběti"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "své zápalné oběti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "své pokojné oběti"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "své pokojné oběti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá ovce"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "svá ovce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svůj skot"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "svůj skot"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na každém"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "místě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "připomenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své Jméno"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "své Jméno"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "přijdu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "a požehnám ti"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:49.328269342Z",
+  "model": "glm-5.3"
+}

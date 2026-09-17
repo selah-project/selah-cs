@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A požehnal lid všem mužům, kteří se dobrovolně nabídli k bydlení v Jeruzalému.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "A požehnal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "mužům"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "kteří se dobrovolně nabídli"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "k bydlení"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalému"
+    }
+  ],
+  "timestamp": "2026-09-17T10:14:31.074757612Z",
+  "model": "glm-5.3"
+}

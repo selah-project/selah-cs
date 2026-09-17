@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A Hámán se ovládl a vešel do svého domu; poslal a přivedl ⟨את⟩ své přátele a ⟨את⟩ Zereš, svou ženu.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "a se ovládl"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hámán"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "a vešel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svého domu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přivedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své přátele"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "své přátele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zereš"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zereš"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "svou ženu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:24.226956959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Opustil jsem ⟨את⟩ svůj dům, zanechal jsem ⟨את⟩ své dědictví, vydal jsem ⟨את⟩ milovanou své duše do dláně jejích nepřátel.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Opustil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj dům"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "svůj dům"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "zanechal jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své dědictví"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "své dědictví"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "vydal jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milovanou své duše"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "milovanou"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "své duše"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "do dláně"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "jejích nepřátel"
+    }
+  ],
+  "timestamp": "2026-09-17T08:24:07.370336978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I řekli pážata krále, ti, kdo mu sloužili: „Ať jsou pro krále vyhledány dívky, panny pěkného vzhledu,",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "I řekli"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "pážata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "kteří mu sloužili"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ať jsou vyhledány"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pro krále"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "dívky"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "panny"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "pěkného"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "vzhledu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:18.581758113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "A já — téměř se uklouzly mé nohy, téměř ⟨jako by nic⟩ se vylily mé kroky.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A já"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "téměř"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "se uklouzly (byly vyvráceny)"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mé nohy"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "téměř ⟨jako by nic⟩"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "se vylily"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mé kroky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:49.872648028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A zaujali ⟨את⟩ jeho zemi a ⟨את⟩ zemi Óga, krále Bašanu — dva krále Emorejců, kteří ⟨byli⟩ za Jordánem na východ slunce.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "A zaujali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho zemi"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "jeho zemi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ a⟩ ⟨את⟩",
+      "marks": "zemi Óga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Óga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bašanu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "krále"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejců"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "za"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordánem"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "na východ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "slunce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:45.240822038Z",
+  "model": "glm-5.3"
+}

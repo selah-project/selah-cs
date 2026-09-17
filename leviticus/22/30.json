@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "V ten den ⟨se⟩ sní; nenecháte z ⟨ní⟩ nic do rána: já ⟨jsem⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "V den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sní"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "nenecháte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z ⟨něj⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rána"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:07.963585088Z",
+  "model": "glm-5.3"
+}

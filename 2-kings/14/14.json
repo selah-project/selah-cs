@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A vzal ⟨את⟩ všechno zlato a stříbro a ⟨את⟩ všechno náčiní, jež bylo nalezeno v domě Jahve a v pokladnicích domu královského, a ⟨את⟩ syny rukojmích, a vrátil se do Šomronu.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno zlato a stříbro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "a stříbro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechno náčiní"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "náčiní"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "jež bylo nalezeno"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "a v pokladnicích"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "královského"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "syny rukojmích"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "rukojmích"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátil se"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "do Šomronu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:17.388853109Z",
+  "model": "glm-5.3"
+}

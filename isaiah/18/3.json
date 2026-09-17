@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Všichni obyvatelé ⟨světa⟩ a usedlí na zemi! Jakmile bude zdvižen prapor na horách, uvidíte ⟨to⟩; a jakmile bude zatroubeno na šofar, uslyšíte ⟨to⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Všichni"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "obyvatelé"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨světa⟩"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "a usedlí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na zemi"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "jakmile bude zdvižen"
+    },
+    {
+      "surface": "נס",
+      "gloss": "prapor"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "na horách"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "uvidíte"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "a jakmile bude zatroubeno"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "na šofar"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "uslyšíte"
+    }
+  ],
+  "timestamp": "2026-09-17T11:56:28.973247295Z",
+  "model": "glm-5.3"
+}

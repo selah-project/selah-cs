@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A slavili ⟨את⟩ svátek Succot, jak je psáno, a zápalnou oběť dnů po dni, v počtu podle řádu ⟨každého⟩ slova dne v jeho dni.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "slavili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svátek"
+    },
+    {
+      "surface": "חג",
+      "gloss": "svátek"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Succot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "jak je psáno"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "zápalnou oběť"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dnů"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "po dni"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "v počtu"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "podle řádu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slova"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "v jeho dni"
+    }
+  ],
+  "timestamp": "2026-09-17T10:08:57.194591300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Okrádá-li člověk Elohim? Vždyť vy okrádáte ⟨את⟩ mě! A vy říkáte: V čem jsme tě okrádali? V desátku a v obětině.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "Okrádá-li"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Vždyť"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "okrádáte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mě"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "a vy říkáte"
+    },
+    {
+      "surface": "במה",
+      "gloss": "V čem"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "jsme tě okrádali"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "V desátku"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "a v obětině"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:45.208170280Z",
+  "model": "glm-5.3"
+}

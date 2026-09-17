@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A zemřel Jozue, syn Núnův, služebník Jahve, ve věku sto deseti let.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "A zemřel"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Núnův"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "služebník"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ve věku (doslova 'syn')"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "deseti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "let"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:02.551926296Z",
+  "model": "glm-5.3"
+}

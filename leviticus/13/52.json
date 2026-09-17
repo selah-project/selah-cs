@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 13:52",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A spálí ⟨את⟩ šat, neb ⟨את⟩ osnovu, neb ⟨את⟩ útek, z vlny neb z lnu, neb ⟨את⟩ jakékoli náčiní z kůže, na němž bude rána, neboť malomocenství zhoubné ⟨to je⟩ — v ohni se spálí.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "a spálí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "šat"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "šat"
+    },
+    {
+      "surface": "או",
+      "gloss": "neb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osnovu"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "osnovu"
+    },
+    {
+      "surface": "או",
+      "gloss": "neb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "útek"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "útek"
+    },
+    {
+      "surface": "בצמר",
+      "gloss": "z vlny"
+    },
+    {
+      "surface": "או",
+      "gloss": "neb"
+    },
+    {
+      "surface": "בפשתים",
+      "gloss": "z lnu"
+    },
+    {
+      "surface": "או",
+      "gloss": "neb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jakékoli náčiní"
+    },
+    {
+      "surface": "כל",
+      "gloss": "jakékoli"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "náčiní"
+    },
+    {
+      "surface": "העור",
+      "gloss": "z kůže"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "na němž"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na něm"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "rána"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "malomocenství"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "zhoubné"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to je⟩"
+    },
+    {
+      "surface": "באש",
+      "gloss": "v ohni"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "se spálí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:33:04.538107962Z",
+  "model": "glm-5.3"
+}

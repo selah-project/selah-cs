@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 27:9",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A mluvil Mojžíš a kněží levité ke všemu Izraeli, řkouce: Umlkni a slyš, Izraeli, dnes jsi se stal lidem ⟨pro⟩ Jahve, Elohim tvého.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "A mluvil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "a kněží"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levité"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerému"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řkouce"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Umlkni"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "a slyš"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "jsi se stal"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lidem"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨pro⟩ Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim tvého"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:18.618502520Z",
+  "model": "glm-5.3"
+}

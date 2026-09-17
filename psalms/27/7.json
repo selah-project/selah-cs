@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Slyš, Jahve, hlas můj — volám — a smiluj se nade mnou a odpověz mi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Slyš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "hlas můj"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "volám"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "a smiluj se nade mnou"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "a odpověz mi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:12.541277350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Když vcházeli do stanu setkávání a když přistupovali k oltáři, umývali se, jak přikázal Jahve ⟨את⟩ Mojžíšovi.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "když vcházeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "a když přistupovali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "umývali se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:32.139536321Z",
+  "model": "glm-5.3"
+}

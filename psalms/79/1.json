@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 79,
+  "translation": "Žalm Asafovu. Elohime, pronikly národy do tvého dědictví, poskvrnily ⟨את⟩ chrám tvé svatosti, učinily ⟨את⟩ Jeruzalém hromadami sutin.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Žalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafovu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "באו",
+      "gloss": "pronikly"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "do tvého dědictví"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "poskvrnily"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chrám tvé svatosti"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "chrám"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tvé svatosti"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "učinily"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalém"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "hromadami sutin"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:07.501379334Z",
+  "model": "glm-5.3"
+}

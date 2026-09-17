@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 2:14",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I řekl ⟨on⟩: Kdo tě ustanovil za muže knížete a soudce nad námi? Zdaž mě chceš zabít, jak jsi zabil ⟨את⟩ Egyptana? I bál se Moše a řekl: Jistě se ta věc prozradila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tě ustanovil"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "za muže"
+    },
+    {
+      "surface": "שר",
+      "gloss": "knížete"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "a soudce"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad námi"
+    },
+    {
+      "surface": "הלהרגני",
+      "gloss": "Zdaž mě chceš zabít"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "říkáš"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "jsi zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Egyptana"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Egyptana"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "I bál se"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Jistě"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "se prozradila"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ta věc"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:00.016916132Z",
+  "model": "glm-5.3"
+}

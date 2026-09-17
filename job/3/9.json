@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Ať ztemní se hvězdy jeho soumraku, ať čeká ⟨na⟩ světlo, ale ⟨není⟩ ⟨ho⟩; ať nespatří víčka ranního svítání.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "ať ztemní se"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "hvězdy"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "jeho soumraku"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "ať čeká"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "na světlo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ale není ho"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ať ne-"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "spatří"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "víčka"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ranního svítání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:57.046220529Z",
+  "model": "glm-5.3"
+}

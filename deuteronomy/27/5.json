@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A postavíš tam oltář Jahvovi, svému Elohimu, oltář z kamení — nebudeš nad nimi mávat železem.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "A postavíš"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svému Elohimu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "z kamení"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "budeš mávat"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad nimi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "železem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:30.810991881Z",
+  "model": "glm-5.3"
+}

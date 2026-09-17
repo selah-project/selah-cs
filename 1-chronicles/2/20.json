@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Chúr zplodil ⟨את⟩ Úrího a Úrí zplodil ⟨את⟩ Becaleela.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "A Chúr"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Úrího"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Úrího"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "a Úrí"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Becaleela"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Becaleela"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:25.203739530Z",
+  "model": "glm-5.3"
+}

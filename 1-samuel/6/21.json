@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 6:21",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A poslali posly ⟨k⟩ obyvatelům Kirjat-jearimu ⟨s poselstvím⟩: „Pelišťané vrátili ⟨את⟩ archu Jahve; sestupte, vynestě ⟨את⟩ ji k sobě.“",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "a poslali"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "obyvatelům"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "-jearimu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨s poselstvím⟩"
+    },
+    {
+      "surface": "השבו",
+      "gloss": "vrátili"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelišťané"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "sestupte"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "vynestě"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ji",
+      "marks": "k sobě ji — vztahuje se k arše (u pořádu slov ukazuje na předmět 'ji')"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "k sobě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:21:32.754062746Z",
+  "model": "glm-5.3"
+}

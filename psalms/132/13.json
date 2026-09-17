@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 132,
+  "translation": "Neboť Jahve si vyvolil Sijón, požel si ⟨ho⟩ za příbytek ⟨sobě⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "si vyvolil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Sijón"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "požel si"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "za příbytek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨sobě⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:25.761529125Z",
+  "model": "glm-5.3"
+}

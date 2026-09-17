@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Hlas Jahve tesá plameny ohně.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Hlas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "tesá"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "plameny"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ohně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:22.459097060Z",
+  "model": "glm-5.3"
+}

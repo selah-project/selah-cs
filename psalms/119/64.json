@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Své chesed, Jahve, naplnila ⟨je⟩ země; svá ustanovení mě nauč.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "své chesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "naplnila ⟨je⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "svá ustanovení"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "mě nauč"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:19.382827908Z",
+  "model": "glm-5.3"
+}

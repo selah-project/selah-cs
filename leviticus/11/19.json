@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "a ⟨את⟩ čápa, volavku podle jejího druhu, a ⟨את⟩ udka a ⟨את⟩ netopýra",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "čápa"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "čáp"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "volavka"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "podle jejího druhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "udka"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "udek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "netopýra"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "netopýr"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:43.774217473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A vystavěl oltáře v domě Jahve, o němž řekl Jahve: „V Jeruzalémě postavím ⟨את⟩ své jméno.“",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "a vystavěl"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o němž"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "V Jeruzalémě"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "postavím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své jméno"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "své jméno"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:23.819407917Z",
+  "model": "glm-5.3"
+}

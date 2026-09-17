@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A kněz vejde a uvidí, a hle — rozšířila se rána v domě: ⟨je to⟩ vředivácera v domě, ⟨ten dům⟩ je nečistý.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "a vejde"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a uvidí"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "rozšířila se"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "rána"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "cera"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "vředivá"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je to⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečistý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ten dům⟩ je"
+    }
+  ],
+  "timestamp": "2026-09-17T11:57:03.239329275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Ani slunce neviděl a nepoznal ⟨jej⟩; více klidu má toto ⟨dítě⟩ než tamten ⟨člověk⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "poznal"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "klidu"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "má toto"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "než tamten"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:33.623237612Z",
+  "model": "glm-5.3"
+}

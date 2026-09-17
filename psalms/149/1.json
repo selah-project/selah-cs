@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 149,
+  "translation": "Halelu-Jah! Zpívejte Jahvemu novou píseň, ⟨jehož⟩ chválu ⟨zpívejte⟩ v shromážděníחסידů.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halelu-Jah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "zpívejte"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "novou"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "⟨jehož⟩ chválu"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "v shromáždění"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "חסidů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:12.688972899Z",
+  "model": "glm-5.3"
+}

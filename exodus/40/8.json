@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A roztáhneš ⟨את⟩ nádvoří kolem dokola a postavíš ⟨את⟩ závěs brány nádvoří.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "roztáhneš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nádvoří"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "nádvoří"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "postavíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "závěs brány"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "závěs"
+    },
+    {
+      "surface": "שער",
+      "gloss": "brány"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "nádvoří"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:26.369071359Z",
+  "model": "glm-5.3"
+}

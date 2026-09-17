@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 9:14",
+  "book": "nehemiah",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A ⟨את⟩ svůj svatý šabat jsi jim dal poznat, a přikázání a ustanovení a tórů jsi jim přikázal rukou Mojžíše, služebníka svého.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svatý šabat"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "šabat"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "svůj svatý"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "jsi dal poznat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ומצוות",
+      "gloss": "a přikázání"
+    },
+    {
+      "surface": "וחקים",
+      "gloss": "a ustanovení"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "a tóru"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "jsi přikázal"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "služebníka svého"
+    }
+  ],
+  "timestamp": "2026-09-17T10:13:14.796594961Z",
+  "model": "glm-5.3"
+}

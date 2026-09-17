@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Neboť jestliže posloucháš, ano posloucháš jeho hlas a učiníš všecko, co promluvím, pakbudu nejtřís tvým nepřátelům a tísnit budu ty, kdo tě tísní, ⟨את⟩ tvé nepřátele a ⟨את⟩ tvé utlačitele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "posloucháš"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ano posloucháš"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "jeho hlas"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "a učiníš"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všecko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "promluvím"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "budu nejtřís"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé nepřátele"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tvé nepřátele"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "a tísnit budu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé utlačitele"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "tvé utlačitele"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:18.203950564Z",
+  "model": "glm-5.3"
+}

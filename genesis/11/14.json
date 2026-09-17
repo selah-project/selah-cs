@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Shelach žil třicet let a zplodil ⟨את⟩ Evera.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "A Shelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "žil"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třicet"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "a zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Evera"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Evera"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:20.863522876Z",
+  "model": "glm-5.3"
+}

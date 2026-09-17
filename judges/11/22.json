@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A obsadili ⟨את⟩ celé území Emorejců, od Arnonu až po Jabbok, a od pouště až po Jordán.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "obsadili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celé území"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "území"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejců"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "od Arnonu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Jabbok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a od"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pouště"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    }
+  ],
+  "timestamp": "2026-09-17T07:17:09.152990541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 36:33",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A udělal ⟨את⟩ prostřední břevno, aby probíhalo vprostřed desek od ⟨jednoho⟩ konce ke ⟨druhému⟩ konci.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prostřední břevno"
+    },
+    {
+      "surface": "הבריח",
+      "gloss": "prostřední břevno"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "prostřední"
+    },
+    {
+      "surface": "לברח",
+      "gloss": "aby probíhalo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "vprostřed"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "desek"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "konce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "konci"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:38.353243185Z",
+  "model": "glm-5.3"
+}

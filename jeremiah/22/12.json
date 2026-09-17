@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "neboť na místě, kam ho odvlekli ⟨את⟩, tam zemře, a ⟨את⟩ tuto zemi už nespatří.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na místě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kam"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "ho odvlekli (do vyhnanství)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (Šalúma)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "tuto zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "nespatří"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    }
+  ],
+  "timestamp": "2026-09-17T08:25:31.893042721Z",
+  "model": "glm-5.3"
+}

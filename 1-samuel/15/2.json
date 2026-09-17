@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Tak řekl Jahve Cevaot: Navštívil jsem ⟨את⟩ to, co učinil Amálek Izraeli, když mu ⟨se⟩ postavil do cesty při jeho stoupání z Egypta.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Navštívil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co učinil Amálek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amálek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "שם",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "do cesty"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "při jeho stoupání"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:27.881157039Z",
+  "model": "glm-5.3"
+}

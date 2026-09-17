@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Pase se na popelu; srdce klamané — to jej svedlo, a ⟨on⟩ nevysvobodí ⟨את⟩ svou duši, ani neřekne: Což není lež v mé pravici?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Pase se"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "na popelu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "klamané"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "to jej svedlo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ⟨ne⟩"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "nevysvobodí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou duši"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "svou duši"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani ⟨ne⟩"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "neřekne"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Což není"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lež"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "v mé pravici"
+    }
+  ],
+  "timestamp": "2026-09-17T08:13:38.977147221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "a vykoupení jejich duše ⟨je⟩ drahé, a přestává na věky —",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "a ⟨je⟩ drahé"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "vykoupení"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jejich duše"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "a přestává"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:32.703804960Z",
+  "model": "glm-5.3"
+}

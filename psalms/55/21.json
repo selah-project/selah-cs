@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Vztáhl své ruce proti ⟨těm, kteří byli⟩ v pokoji s ním, znesvětil svou smlouvu.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "vztáhl"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "své ruce"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "proti ⟨těm, kteří byli⟩ v pokoji s ním"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "znesvětil"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "svou smlouvu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:10.150755009Z",
+  "model": "glm-5.3"
+}

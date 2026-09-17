@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 38:10",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "I přikázal král Ebed-melechovi, ⟨את⟩ Kušitovi, řka: Vezmi pod své ruky odtud třicet mužů a vytáhni ⟨את⟩ Jeremjáše proroka z jámy, dříve než zemře.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebed-melechovi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "-melech"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "Kušitovi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Vezmi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "pod své ruky"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "třicet"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "a vytáhni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeremjáše"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremjáše"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "proroka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "jámy"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dříve než"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T08:31:40.981433049Z",
+  "model": "glm-5.3"
+}

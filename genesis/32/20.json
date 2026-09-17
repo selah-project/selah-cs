@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "I přikázal také ⟨את⟩ druhému, také ⟨את⟩ třetímu, také ⟨את⟩ všem, kdož kráčeli za stády, řka: Podle tohoto slova promluvíte k Ésavovi, když ⟨את⟩ ho najdete.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "druhému"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhému"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "třetímu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "třetímu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "kdož kráčeli"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "stády"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "podle slova"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "promluvíte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésavovi"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "když najdete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:44.434134398Z",
+  "model": "glm-5.3"
+}

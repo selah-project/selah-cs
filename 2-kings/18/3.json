@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A činil to, co ⟨je⟩ správné v očích Jahve, podle všeho, co činil David, jeho otec.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A činil"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "co ⟨je⟩ správné"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "činil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otec"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:10.283354689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A Baša, král Izraele, vytáhl proti Judu a vystavěl ⟨את⟩ Rámu, aby nenechal vycházet ani vcházet <nikomu> Ásovi, králi Judska.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "vytoupl"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baša"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judu"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a vystavěl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rámu"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rámu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "aby nenechal"
+    },
+    {
+      "surface": "תת",
+      "gloss": "vydávat"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vycházet"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ani vcházet"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "Ásovi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judska"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:41.109304011Z",
+  "model": "glm-5.3"
+}

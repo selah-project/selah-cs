@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 108,
+  "translation": "Pevné ⟨je⟩ mé srdce, Elohime; zpívati budu, ano, hudbou tě oslavím, i má sláva.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Pevné"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "zpívati budu"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ano, hudbou tě oslavím"
+    },
+    {
+      "surface": "אף",
+      "gloss": "i"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "má sláva"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:08.553594466Z",
+  "model": "glm-5.3"
+}

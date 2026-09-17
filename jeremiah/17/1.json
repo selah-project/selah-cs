@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Hřích Judův je napsán perem železným, hrotem šamírovým, vyrytý na desku jejich srdce a na rohy vašich oltářů.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "Hřích"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judův"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "je napsán"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "perem"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "železným"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "hrotem"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "šamírovým"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "vyrytý"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "desku"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "jejich srdce"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "a na rohy"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "vašich oltářů"
+    }
+  ],
+  "timestamp": "2026-09-17T08:24:22.943653606Z",
+  "model": "glm-5.3"
+}

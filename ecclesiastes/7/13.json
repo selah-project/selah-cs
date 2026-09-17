@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Pohleď na ⟨את⟩ dílo Elohim, neboť kdo může napravit ⟨את⟩ to, co ⟨on⟩ pokřivil?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Pohleď"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dílo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "dílo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "může"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "napravit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co pokřivil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "pokřivil ⟨on⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:44.533914090Z",
+  "model": "glm-5.3"
+}

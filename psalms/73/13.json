@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 73,
+  "translation": "Jistě marně jsem čistil své srdce a myl své dlaně v nevinnosti.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "marně"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "čistil jsem"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "své srdce"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "a myl jsem"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "v nevinnosti"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "své dlaně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:19.362977295Z",
+  "model": "glm-5.3"
+}

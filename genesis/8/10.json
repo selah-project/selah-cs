@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vyčkal ještě dalších sedm dní a opět poslal ⟨את⟩ holubici z archy.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "a vyčkal"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "dalších"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "a opět (přidal)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "holubici"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "holubici"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "archy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:04.642024151Z",
+  "model": "glm-5.3"
+}

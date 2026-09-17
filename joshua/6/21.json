@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A zasvětili ⟨את⟩ vše, co ⟨bylo⟩ v městě, od muže až po ženu, od dítěte až po starce, až po vola, ovci i osla — ostrím meče.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "a zasvětili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v městě"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "od muže"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "od dítěte"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "starce"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "שור",
+      "gloss": "vola"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "i ovci"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "i osla"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostřím"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meče"
+    }
+  ],
+  "timestamp": "2026-09-17T07:06:52.173390220Z",
+  "model": "glm-5.3"
+}

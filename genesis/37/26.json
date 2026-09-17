@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "I řekl Juda bratřím svým: Jaký zisk, když zabijeme ⟨את⟩ bratra svého a zakryjeme ⟨את⟩ krev jeho?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bratřím svým"
+    },
+    {
+      "surface": "מה",
+      "gloss": "jaký"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "zisk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "zabijeme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bratra svého"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "bratra svého"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "a zakryjeme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krev jeho"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "krev jeho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:11:31.179587211Z",
+  "model": "glm-5.3"
+}

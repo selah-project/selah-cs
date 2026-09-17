@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Spravedlivý je vytržen z tísně a na jeho místo vejde ničema.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Spravedlivý"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "z tísně"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "je vytržen"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a vejde"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ničema"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jeho místo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:28.873381662Z",
+  "model": "glm-5.3"
+}

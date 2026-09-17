@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Támar, jeho snacha, porodila mu ⟨את⟩ Perece a ⟨את⟩ Zaracha; všech synů Judy ⟨bylo⟩ pět.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "A Támar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "jeho snacha"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perece"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perece"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Zaracha"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zaracha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pět"
+    }
+  ],
+  "timestamp": "2026-09-17T10:15:28.229340458Z",
+  "model": "glm-5.3"
+}

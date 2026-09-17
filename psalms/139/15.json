@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Nebyla ukryta má kostra před tebou, když jsem byl utvořen ve skrytu, vytkán v hlubinách země.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nebyla"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ukryta"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "má kostra"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem byl utvořen"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ve skrytu"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "vytkán"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "v hlubinách"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:33.937744753Z",
+  "model": "glm-5.3"
+}

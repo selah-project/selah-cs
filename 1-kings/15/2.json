@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Tři roky kraloval v Jeruzalémě; jméno jeho matky ⟨bylo⟩ Maacha, dcera Avišaloma.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roky"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraloval"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "a jméno"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jeho matky"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maacha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avišaloma"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:50.993412594Z",
+  "model": "glm-5.3"
+}

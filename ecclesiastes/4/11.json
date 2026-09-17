@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Také když leží dva, ⟨je⟩ jim teplo; ale jednomu jak se zahřeje?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Také"
+    },
+    {
+      "surface": "אם",
+      "gloss": "když"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "leží"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "⟨je⟩ teplo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ale jednomu"
+    },
+    {
+      "surface": "איך",
+      "gloss": "jak"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "se zahřeje"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:27.406803380Z",
+  "model": "glm-5.3"
+}

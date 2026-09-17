@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Přikaž ⟨את⟩ synům Izraele, ať vyženou z tábora každého malomocného a každého prýštícího a každého nečistého pro mrtvou duši.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Přikaž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "synům Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ať vyženou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "malomocného"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a každého"
+    },
+    {
+      "surface": "זב",
+      "gloss": "prýštícího"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a každého"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečistého"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "pro mrtvou duši"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:46.123599517Z",
+  "model": "glm-5.3"
+}

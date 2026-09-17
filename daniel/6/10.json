@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Kvůli tomu ⟨to⟩ král Dáreios podepsal ⟨donesenou⟩ listinu a zákaz.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Kvůli tomu"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "⟨tomu⟩"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "⟨to⟩"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "král"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Dáreios"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "podepsal"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "listinu"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "a zákaz"
+    }
+  ],
+  "timestamp": "2026-09-17T10:05:28.802961972Z",
+  "model": "glm-5.3"
+}

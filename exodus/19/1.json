@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Ve třetím měsíci ⟨od⟩ vyjití synů Izraele z ⟨země⟩ Egypta, v tento den přišli do pouště Sínaj.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Ve třetím měsíci"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "třetím"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "vyjití"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z ⟨země⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v tento den"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "do pouště"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sínaj"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:38.080201304Z",
+  "model": "glm-5.3"
+}

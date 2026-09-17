@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 30:1",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A nyní se mi posmívají ⟨ti⟩ mladší ode mne, mladí dny, jimž jsem pohrdal otci jejich — příliš nízcí, než aby ⟨stáli⟩ s psy stád mých.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "a nyní"
+    },
+    {
+      "surface": "שחקו",
+      "gloss": "posmívají se"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "צעירים",
+      "gloss": "mladší"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "v dnech (mladí dny)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jejichž"
+    },
+    {
+      "surface": "מאסתי",
+      "gloss": "jsem pohrdal"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "otci jejich"
+    },
+    {
+      "surface": "לשית",
+      "gloss": "abych postavil (příliš nízcí, než aby stali)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "psy"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "stád mých"
+    }
+  ],
+  "timestamp": "2026-09-17T09:51:30.492781065Z",
+  "model": "glm-5.3"
+}

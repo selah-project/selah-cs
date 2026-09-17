@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Vzali ho a hodili ⟨את⟩ ním do cisterny — a cisterna byla prázdná, nebylo v ní vody.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "vzali ho"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "a hodili"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ním (do cisterny)"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "do cisterny"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "a cisterna"
+    },
+    {
+      "surface": "רק",
+      "gloss": "prázdná"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nebylo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    }
+  ],
+  "timestamp": "2026-09-17T10:36:00.313012121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A stane se, že při západu večera se umyje vodou a při západu slunce vejde do středu tábora.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "A stane se"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "při západu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večera"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "se umyje"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vodou"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "a při západu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vejde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "středu"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábora"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:05.622536628Z",
+  "model": "glm-5.3"
+}

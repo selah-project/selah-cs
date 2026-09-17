@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "Jen on ⟨je⟩ má skála a má spása, má útočiště; nebudu ⟨velmi⟩ zachvěn — hodně.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "má skála"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "a má spása"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "mé útočiště"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "budu zachvěn"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "velmi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:30.216699515Z",
+  "model": "glm-5.3"
+}

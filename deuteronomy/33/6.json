@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Ať žije Rúben a nezemře, a jeho muži ať jsou v počtu.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "ať žije"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rúben"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a ať jsou"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "jeho muži"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "v počtu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:22.157023259Z",
+  "model": "glm-5.3"
+}

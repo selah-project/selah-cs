@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A Jahve zachránil ⟨את⟩ Chizkijáhu a ⟨את⟩ obyvatele Jeruzaléma z ruky Sancheriba, krále Asýrie, a z ruky všech, a vedl je ze všech stran.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "a zachránil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chizkijáhu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Chizkijáhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "obyvatele Jeruzaléma"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "obyvatele"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancheriba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asýrie"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "a z ruky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "a vedl je"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ze všech stran"
+    }
+  ],
+  "timestamp": "2026-09-17T10:32:06.808211787Z",
+  "model": "glm-5.3"
+}

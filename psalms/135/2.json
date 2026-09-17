@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "kteří stojíte v domě Jahveho, v nádvořích domu ⟨našeho⟩ Elohima!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "kteří stojíte"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "v nádvořích"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohima našeho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:48.311000197Z",
+  "model": "glm-5.3"
+}

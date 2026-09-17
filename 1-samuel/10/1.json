@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I vzal Samuel ⟨את⟩ nádobku oleje a vylil ji na jeho hlavu a políbil ho a řekl: Není-li to tak, že tě pomazal Jahve nad své dědictví za kníže?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nádobku oleje"
+    },
+    {
+      "surface": "פך",
+      "gloss": "nádobku"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "oleje"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "a vylil"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "jeho hlavu"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "a políbil ho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "zda ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "tě pomazal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "své dědictví"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "za kníže"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:57.028477967Z",
+  "model": "glm-5.3"
+}

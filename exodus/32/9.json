@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "I řekl Jahve Mojžíšovi: Viděl jsem ⟨את⟩ tento lid, a hle — ⟨je⟩ to lid tvrdé šíje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "viděl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tvrdé"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "šíje"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩ to"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:12.000772538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 11:42",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Vše, co chodí po břiše, a vše, co chodí po čtyřech, i vše, co má mnoho nohou — vše, co hemží se hemžící po zemi, nesmíte jíst, neboť ohavnost ⟨to⟩ je.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "co chodí"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "břiše"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a vše"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "co chodí"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "čtyřech"
+    },
+    {
+      "surface": "עד",
+      "gloss": "i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "co má mnoho"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "nohou"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vše, co"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "hemží se"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "hemžící"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תאכלום",
+      "gloss": "smíte jíst je (nesmíte jíst)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ohavnost"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨to⟩ je"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:43.431373277Z",
+  "model": "glm-5.3"
+}

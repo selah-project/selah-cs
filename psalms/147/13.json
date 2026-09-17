@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "Neboť zpevnil závory tvých bran, požehnal tvým synům ⟨v tvém⟩ nitru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "zpevnil"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "závory"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "tvých bran"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "požehnal"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "tvým synům"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "v tvém nitru"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:44.380233442Z",
+  "model": "glm-5.3"
+}

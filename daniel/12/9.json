@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A řekl: Jdi, Danieli, neboť slova jsou zazděna a zapečetěna až do času konce.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Jdi"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danieli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "zazděna"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "a zapečetěna"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "slova"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "עת",
+      "gloss": "času"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "konce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:22:17.553447925Z",
+  "model": "glm-5.3"
+}

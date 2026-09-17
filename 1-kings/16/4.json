@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Kdo zemře z Bašových ⟨lidí⟩ ve městě, sežerou psi; a kdo z jeho ⟨lidí⟩ zemře na poli, sežerou ptactvo nebes.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Kdo zemře"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "z Bašových"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sežerou"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "a kdo zemře"
+    },
+    {
+      "surface": "לו",
+      "gloss": "z jeho"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sežerou"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactvo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    }
+  ],
+  "timestamp": "2026-09-17T10:54:39.907961888Z",
+  "model": "glm-5.3"
+}

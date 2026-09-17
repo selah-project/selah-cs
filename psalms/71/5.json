@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "Neboť ty jsi má naděje, Adonaj Jahve, má důvěra od mé mladosti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "má naděje"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "má důvěra"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "od mé mladosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:50.521151966Z",
+  "model": "glm-5.3"
+}

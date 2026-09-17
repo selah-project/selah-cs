@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A řekl jeden: Buď ⟨tak⟩ laskav, prosím, a jdi ⟨את⟩ své sluhy. A řekl: Já půjdu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Buď laskav"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "a jdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své sluhy"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "své sluhy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "půjdu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:53:13.803579624Z",
+  "model": "glm-5.3"
+}

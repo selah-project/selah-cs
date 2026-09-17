@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 10:11",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A stalo se ve druhém roce, v druhém měsíci, dvacátého ⟨dne⟩ v měsíci: pozvedal se oblak z nad příbytku svědectví.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ve roce"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "druhém"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v měsíci"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhém"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "dvacátého"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "v měsíci"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "pozvedal se"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "oblak"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z nad"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "příbytku"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svědectví"
+    }
+  ],
+  "timestamp": "2026-09-17T06:42:30.378182276Z",
+  "model": "glm-5.3"
+}

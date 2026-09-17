@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Umyji v nevinnosti své dlaně a obcházet budu ⟨את⟩ tvůj oltář, Jahve.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "umyji"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "v nevinnosti"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "své dlaně"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "a obcházet budu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvůj oltář"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "tvůj oltář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:36.372582138Z",
+  "model": "glm-5.3"
+}

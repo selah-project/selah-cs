@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A já, v hojnosti tvého chesedu vejdu do tvého domu, pokloním se ⟨ směrem k ⟩ tvému svatému heichalu ve tvé bázni.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "A já"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "v hojnosti"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "tvého chesedu"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "vejdu"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "do tvého domu"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "pokloním se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "směrem k"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heichalu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "tvému svatému"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "ve tvé bázni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:25.319380192Z",
+  "model": "glm-5.3"
+}

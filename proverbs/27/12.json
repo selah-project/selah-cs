@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Opatrný vidí zlo a skryje se;_naivní jdou dál a jsou potrestáni.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Opatrný"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "vidí"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "skryje se"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "naivní"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "jdou dál"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "jsou potrestáni"
+    }
+  ],
+  "timestamp": "2026-09-17T11:16:23.251925206Z",
+  "model": "glm-5.3"
+}

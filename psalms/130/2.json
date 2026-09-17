@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 130,
+  "translation": "Adonaj, slyš můj hlas! Tvé uši ať ⟨jsou⟩ pozorné k hlasu mých proseb!",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "slyš"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "můj hlas"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ať ⟨jsou⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "Tvé uši"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "pozorné"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "k hlasu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mých proseb"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:11.600680898Z",
+  "model": "glm-5.3"
+}

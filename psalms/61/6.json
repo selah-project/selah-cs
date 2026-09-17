@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 61,
+  "translation": "Neboť ty, Elohime, jsi vyslyšel mé sliby; dal jsi dědictví těm, kdo se bojí tvého jména.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "jsi vyslyšel"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "mé sliby"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "dal jsi"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "dědictví"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "těm, kdo se bojí"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvého jména"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:27.879029407Z",
+  "model": "glm-5.3"
+}

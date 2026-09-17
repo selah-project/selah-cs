@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Neobracejte se k ⟨ těm⟩ nelhám, a bohy slitými si nedělejte; já jsem Jahve, váš Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "obracejte se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "nelhám"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "a bohy"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "slitými"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "si dělejte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "si"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:06.690424462Z",
+  "model": "glm-5.3"
+}

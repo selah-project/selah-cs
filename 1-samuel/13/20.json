@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "A sestupoval celý Izrael k Pelištejcům, aby si každý nabrousil ⟨את⟩ svůj pluh, ⟨את⟩ svou motyku, ⟨את⟩ svou sekéru a ⟨את⟩ svůj rádlo.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "A sestupovali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "k Pelištejcům"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "aby brousil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj pluh"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "svůj pluh (radlici)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svou motyku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "svou motyku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svou sekéru"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "svou sekéru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svůj rádlo"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "svůj rádlo (kopáč)"
+    }
+  ],
+  "timestamp": "2026-09-17T07:24:07.782705468Z",
+  "model": "glm-5.3"
+}

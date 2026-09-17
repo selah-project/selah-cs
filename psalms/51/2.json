@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Když k němu přišel Natan prorok, poté co vešel k Bat-šebove.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Když přišel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "prorok"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "poté co"
+    },
+    {
+      "surface": "בא",
+      "gloss": "vešel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "šebove"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:32.071278061Z",
+  "model": "glm-5.3"
+}

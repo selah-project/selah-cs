@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Králové vojsk prchnou, prchnou, a ⟨ta, která⟩ sídlí ⟨v⟩ domě dělí kořist.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Králové"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "vojsk"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "prchnou"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "prchnou"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "⟨a ta, která⟩ sídlí"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨v⟩ domě"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "dělí"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "kořist"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:56.656784734Z",
+  "model": "glm-5.3"
+}

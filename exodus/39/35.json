@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "⟨את⟩ archu svědectví a ⟨את⟩ její přepychy a ⟨את⟩ pokričku smíření,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu svědectví"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "archu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "její přepychy"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "její přepychy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "pokričku smíření"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "pokričku smíření"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:16.693649409Z",
+  "model": "glm-5.3"
+}

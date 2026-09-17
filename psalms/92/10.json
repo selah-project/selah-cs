@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 92,
+  "translation": "Neboť hle, tvoji nepřátelé, Jahve, neboť hle, tvoji nepřátelé zahynou, rozprchnou se všichni pachatelé ničemnosti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tvoji nepřátelé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "tvoji nepřátelé"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "zahynou"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "rozprchnou se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pachatelé"
+    },
+    {
+      "surface": "און",
+      "gloss": "ničemnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:06.121903397Z",
+  "model": "glm-5.3"
+}

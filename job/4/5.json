@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Nyní, když ⟨to⟩ přišlo na tebe, ty ⟨jsi⟩ zeslábl; dotklo se tě ⟨až k tobě⟩, a ty ⟨jsi⟩ zmaten.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "přišlo (na tebe)"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na tebe"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "a ty ⟨jsi⟩ zeslábl"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "dotklo se"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "⟨až k tobě⟩"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "a ty ⟨jsi⟩ zmaten"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:00.917202506Z",
+  "model": "glm-5.3"
+}

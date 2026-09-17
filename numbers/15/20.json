@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Prvotinu svého těsta, chléb ⟨z⟩ ⟨dve⟩ ⟨placky⟩, zdvihnete jako obětinu; jako obětinu z humna, tak ji zdvihnete ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Prvotinu"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "svého těsta"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "chléb ⟨z⟩ ⟨placky⟩"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "zdvihnete"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "jako obětinu"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "jako obětinu"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "z humna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "zdvihnete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ji",
+      "marks": "chléb\/placka (prvotina těsta)"
+    }
+  ],
+  "timestamp": "2026-09-17T06:45:27.755909722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Jsou-li jako dny ⟨smrtelníka⟩ tvé dny, tvá léta jako dny člověka?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "jsou-li jako"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "smrtelníka"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "tvé dny"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "tvá léta"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "jako dny"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "člověka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:46:21.634747839Z",
+  "model": "glm-5.3"
+}

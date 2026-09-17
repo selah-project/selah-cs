@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl Jozue ⟨k⟩ lidu: Posvěťte se, neboť zítra učiní Jahve uprostřed vás divy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "Posvěťte se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "zítra"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "učiní"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "uprostřed vás"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "divy"
+    }
+  ],
+  "timestamp": "2026-09-17T11:47:47.578681024Z",
+  "model": "glm-5.3"
+}

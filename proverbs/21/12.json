@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Pravý jedná moudře ohledně domu bezbožného: svrací bezbožné ke zkáze.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "jedná moudře"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Pravý"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ohledně domu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožného"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "svrací"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožné"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ke zkáze"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:41.652875440Z",
+  "model": "glm-5.3"
+}

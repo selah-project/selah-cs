@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Jako jablko mezi stromy lesa, tak je můj milý mezi syny. V jeho stínu jsem si přála ⟨bydlet⟩ a usedla jsem, a jeho ovoce je sladké mému patru.",
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "Jako jablko"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "mezi stromy"
+    },
+    {
+      "surface": "היער",
+      "gloss": "lesa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "můj milý"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "syny"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "V jeho stínu"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "jsem si přála"
+    },
+    {
+      "surface": "וישבתי",
+      "gloss": "a usedla jsem"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "a jeho ovoce"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "sladké"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "mému patru"
+    }
+  ],
+  "timestamp": "2026-09-17T11:19:07.511372776Z",
+  "model": "glm-5.3"
+}

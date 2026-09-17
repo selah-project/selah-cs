@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "On porazil ⟨את⟩ Pelištejce až do Azzy i ⟨את⟩ její území, od věže strážců až po opevněné město.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "porazil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelištejce"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejce"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "její území"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "její území"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "od věže"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "strážců"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "opevněné"
+    }
+  ],
+  "timestamp": "2026-09-17T07:57:51.365700855Z",
+  "model": "glm-5.3"
+}

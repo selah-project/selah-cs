@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "Přijdu v mocných činech Adonaje Jahve, připomenu tvou spravedlnost — jen tvou samotnou.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "přijdu"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "v mocných činech"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "připomenu"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "tvou spravedlnost"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "jen tvou samotnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:13.360872068Z",
+  "model": "glm-5.3"
+}

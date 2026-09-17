@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Přijde a porazí ⟨את⟩ zemi egyptskou: co je k smrti, k smrti, a co je do zajetí, do zajetí, a co je meči, meči.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "Přijde"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "a porazí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi egyptskou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptská"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "למות",
+      "gloss": "k smrti"
+    },
+    {
+      "surface": "למות",
+      "gloss": "k smrti"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a co"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "do zajetí"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "do zajetí"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "a co"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "meči"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "meči"
+    }
+  ],
+  "timestamp": "2026-09-17T08:33:33.347322179Z",
+  "model": "glm-5.3"
+}

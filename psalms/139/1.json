@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Proředitele. Davidův mizmor. Jahve, prozkoumal jsi mě ⟨a⟩ znáš ⟨mě⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Proředitele"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "prozkoumal jsi mě"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "a znáš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:23.378648985Z",
+  "model": "glm-5.3"
+}

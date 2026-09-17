@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "Naše sýpky ⟨jsou⟩ plné, vydávají úrodu od druhu k druhu; naše stáda se rozmnožují v tisících, v desetitisících na našich ulicích.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "naše sýpky"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "plné"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "vydávají"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "od druhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "זן",
+      "gloss": "druhu"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "naše stáda"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "rozmnožují se v tisících"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "v desettisících"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "na našich ulicích"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:27.342191043Z",
+  "model": "glm-5.3"
+}

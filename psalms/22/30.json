@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Žráli ⟨a⟩ klaněli se všichni tuční ⟨z⟩ země před ním; pokleknou všichni, kdo sestupují do prachu, a ⟨ten, jehož⟩ duše ⟨si⟩ život neudržela.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "žráli"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "klaněli se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "tuční"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "pokleknou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "kteří sestupují"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "do prachu"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "a jeho duše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "udržela život"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:51.134501256Z",
+  "model": "glm-5.3"
+}

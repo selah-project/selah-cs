@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "⟨Ne⟩, leda za svého pokrevního příbuzného, blízkého jemu: za svou matku a za svého otce a za svého syna a za svou dceru a za svého bratra",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨Ne⟩ (neboť-li)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "leda"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "za svého pokrevního příbuzného"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "blízkého"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "za svou matku"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "a za svého otce"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "a za svého syna"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "a za svou dceru"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "a za svého bratra"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:53.002075307Z",
+  "model": "glm-5.3"
+}

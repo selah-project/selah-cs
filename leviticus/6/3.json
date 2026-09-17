@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A kněz si oblékne svou lněnou košili a lněné kalhoty si oblékne na své tělo; a zvedne ⟨את⟩ popel, který oheň sežral ⟨את⟩ olavní oběť na oltáři, a složí jej vedle oltáře.",
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "a oblékne"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "svou košili"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lněnou"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "a kalhoty"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lněné"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "si oblékne"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "své tělo"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "a zvedne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "popel"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "popel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sežral"
+    },
+    {
+      "surface": "האש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olavní oběť"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olavní oběť"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "a složí"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "vedle"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:30:39.547770957Z",
+  "model": "glm-5.3"
+}

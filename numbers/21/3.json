@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A Jahve vyslyšel hlas Izraele a vydal ⟨את⟩ Kenaance, a vyobcoval ⟨את⟩ je i ⟨את⟩ jejich města, a nazval se jméno toho místa Chorma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a vyslyšel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a vydal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaance"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaance"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "a vyobcoval"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jejich města"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "jejich města"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a nazval se"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "toho místa"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Chorma"
+    }
+  ],
+  "timestamp": "2026-09-17T06:46:52.236169718Z",
+  "model": "glm-5.3"
+}

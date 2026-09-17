@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Nepře se s člověkem bez příčiny, když ti ⟨ne⟩oprostil zlo ⟨nedopustil se na tobě zla⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "pře se"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověkem"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "bez příčiny"
+    },
+    {
+      "surface": "אם",
+      "gloss": "když-li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "ti oprostil"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:59.691128817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "neboť tvůj lid a tvé dědictví ⟨jsou⟩ oni, které jsi vyvedl z Egypta, ze středu pece železné.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tvůj lid"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "a tvé dědictví"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨jsou⟩ oni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "jsi vyvedl"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ze středu"
+    },
+    {
+      "surface": "כור",
+      "gloss": "pece"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "železné"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:14.954448916Z",
+  "model": "glm-5.3"
+}

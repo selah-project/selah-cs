@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A řekl jí král: „Co ti je?“ I řekla: „Avšak žena vdova jsem já, a muž můj zemřel.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti je"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "I řekla"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "Avšak"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "vdova"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já jsem"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "můj muž"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:47.209445391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Což není celá ⟨země⟩ před tebou? Odděl se, prosím, ode mne; vezmeš-li ⟨se⟩ vlevo, já ⟨půj⟩ vpravo, a půjdeš-li vpravo, já ⟨půj⟩ vlevo.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "což není"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨země⟩"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "odděl se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "אם",
+      "gloss": "vezmeš-li"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "vlevo"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "já ⟨půj⟩ vpravo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a půjdeš-li"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "vpravo"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "já ⟨půj⟩ vlevo"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:36.729827999Z",
+  "model": "glm-5.3"
+}

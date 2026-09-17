@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "obadiah 1:15",
+  "book": "obadiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Neboť blízký je den Jahveho nad všemi národy: jak jsi učinil, bude učiněno tobě; tvá odplata se navrátí na tvou hlavu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "blízký"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všemi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi učinil"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bude učiněno"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "tvá odplata"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "se navrátí"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "na tvou hlavu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:00:36.394708210Z",
+  "model": "glm-5.3"
+}

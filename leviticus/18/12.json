@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Nahotu sestry tvého otce neodhalíš, neboť ⟨je⟩ tvým otcem ⟨tělem⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nahotu"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "sestry"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvého otce"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "odhalíš"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "tělem"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tvým otcem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:05.381755383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 16:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "I řekl Jahve Mojžíšovi: Hle, já dám pršet vám chléb z nebes; lid bude vycházet a sbírat denní dávku den po dni, abych jej vyzkoušel, zda bude chodit v mé tóře, či nikoli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "〈Mojžíšovi〉"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "já dám pršet"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "bude vycházet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ולקטו",
+      "gloss": "a sbírat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "dávku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "denní"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "den po dni"
+    },
+    {
+      "surface": "למען",
+      "gloss": "abych"
+    },
+    {
+      "surface": "אנסנו",
+      "gloss": "vyzkoušel jej"
+    },
+    {
+      "surface": "הילך",
+      "gloss": "zda bude chodit"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "v mé tóře"
+    },
+    {
+      "surface": "אם",
+      "gloss": "či"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nikoli"
+    }
+  ],
+  "timestamp": "2026-09-17T06:20:12.466204420Z",
+  "model": "glm-5.3"
+}

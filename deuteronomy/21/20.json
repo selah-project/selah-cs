@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "a řeknou starším svého města: „Syn náš tento ⟨je⟩ svárlivý a vzdorovitý, neposlouchá hlasu našeho, ⟨je⟩ piják a opilec.“",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "a řeknou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starším"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "svého města"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "Syn náš"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "svárlivý"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "a vzdorovitý"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "neposlouchá"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "⟨poslouchat⟩"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "hlasu našeho"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "piják"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "a opilec"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:16.178412531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "To jsou ⟨rodiny⟩ Šimeonitů: dvacet dva tisíc a dvě stě.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "To jsou"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "⟨rodiny⟩"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "Šimeonitů"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "a dvacet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "a dvě stě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:48:37.764480531Z",
+  "model": "glm-5.3"
+}

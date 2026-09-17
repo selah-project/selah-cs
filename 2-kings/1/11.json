@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 1:11",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I vrátil se ⟨král⟩ a poslal k němu jiného velitele padesáti s jeho padesáti muži; a odpověděl ⟨velitel⟩ a mluvil k němu: Muži Elohim, takto pravil král: Rychle sestup!",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "I vrátil se"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "velitele"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "padesáti"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jiného"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "s jeho padesáti"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "a odpověděl"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Muži"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Takto"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pravil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "Rychle"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "sestup!"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:02.603914837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Zpustošeno je pole, truchlí půda, neboť zpustošeno je obilí, uschlo mladé víno, uvadá olej.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "Zpustošeno"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "truchlí"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "půda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "zpustošeno"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "obilí"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "uschlo"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "mladé víno"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "uvadá"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "olej"
+    }
+  ],
+  "timestamp": "2026-09-17T08:58:33.530949954Z",
+  "model": "glm-5.3"
+}

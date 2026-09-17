@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Neboť nasycena je zlem ⟨moje⟩ duše (nefeši), a život můj se dostal do šeolu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "nasycena je"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "zlem"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše (nefeši)"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "a život můj"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "do šeolu"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "se dostal"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:58.889198659Z",
+  "model": "glm-5.3"
+}

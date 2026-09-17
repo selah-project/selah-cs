@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A řekl Jahve ha-sátanovi: Odkud přicházíš? A odpověděl ha-sátan ⟨את⟩ Jahve a řekl: Z obcházení po zemi a z procházení se po ní.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ha-sátanovi"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-sátan"
+    },
+    {
+      "surface": "אי",
+      "gloss": "odkud"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "(odkud)"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "přicházíš"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "a odpověděl"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ha-sátan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "משט",
+      "gloss": "z obcházení"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "po zemi"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "a z procházení se"
+    },
+    {
+      "surface": "בה",
+      "gloss": "po ní"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:44.845730067Z",
+  "model": "glm-5.3"
+}

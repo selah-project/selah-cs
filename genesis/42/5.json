@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A přišli synové Izraele kupovat obilí mezi ⟨těmi, kteří⟩ přicházeli, neboť byl hlad v zemi kenaanské.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "a přišli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kupovat obilí"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "přicházeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hlad"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanské"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:58.730426229Z",
+  "model": "glm-5.3"
+}

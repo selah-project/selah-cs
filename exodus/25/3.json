@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A toto je dar, který vezmete ⟨od nich⟩: zlato, stříbro a měď ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "A toto"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "dar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "vezmete"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩",
+      "marks": "od nich"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlato"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "a stříbro"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "a měď"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:52.651377498Z",
+  "model": "glm-5.3"
+}

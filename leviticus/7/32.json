@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A ⟨את⟩ pravou lýtku dáte jako terumu knězi ze svých obětí šelamim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "A ⟨את⟩",
+      "marks": "pravou lýtku"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lýtku"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "pravou"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "dáte"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "jako terumu"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "knězi"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "ze svých obětí"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "šelamim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:49.848301223Z",
+  "model": "glm-5.3"
+}

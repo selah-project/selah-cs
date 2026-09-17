@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "A Áron řekl: Ať nevzplane hněv mého Adonaje; ty znáš ⟨את⟩ ten lid, že je nakloněn zlu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ať ne"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "vzplane"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněv"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mého Adonaje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znáš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ten lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ten lid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "nakloněn zlu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T06:26:05.443329273Z",
+  "model": "glm-5.3"
+}

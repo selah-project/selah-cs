@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Otevřu v podobenství svá ústa, vyroním hádanky z dávnověku.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Otevřu"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "v podobenství"
+    },
+    {
+      "surface": "פי",
+      "gloss": "svá ústa"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "vyroním"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "hádanky"
+    },
+    {
+      "surface": "מני",
+      "gloss": "z"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "dávnověku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:10.922916339Z",
+  "model": "glm-5.3"
+}

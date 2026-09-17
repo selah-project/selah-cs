@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Slovem Jahve byly učiněny nebesa a duchem ⟨ús⟩ jeho úst veškeré jejich zástup.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Slovem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "byly učiněna"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "a duchem"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "jeho úst"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "jejich zástup"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:32.897240055Z",
+  "model": "glm-5.3"
+}

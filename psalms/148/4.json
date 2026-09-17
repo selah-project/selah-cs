@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 148,
+  "translation": "Chvalte jej, nebesa nebes, a vody ⟨ty⟩, ⟨které⟩ ⟨jsou⟩ nad nebesy!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Chvalte jej"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebes"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "a vody"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "nebesy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:39.785418589Z",
+  "model": "glm-5.3"
+}

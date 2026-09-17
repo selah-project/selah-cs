@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 114,
+  "translation": "Hory poskočily jako berani, pahorky jako mladé ovečky.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Hory"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "poskočily"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "jako berani"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "pahorky"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "jako mladé"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ovečky"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:35.995988296Z",
+  "model": "glm-5.3"
+}

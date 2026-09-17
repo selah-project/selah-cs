@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Kéť tě odpoví Jahve v den soužení, kéť tě vyvýší jméno Elohim Jákobových ⟨skutků⟩.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "Kéť tě odpoví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "soužení"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "kéť tě vyvýší"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobových"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:00.713203212Z",
+  "model": "glm-5.3"
+}

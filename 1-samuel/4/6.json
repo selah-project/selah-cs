@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Filistejci slyšeli ⟨את⟩ hlas tohoto plurku a řekli: Co znamená ⟨ten⟩ hlas tohoto velikého plurku v táboře Hebrejů? A poznali, že archa Jahve přišla do tábora.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "A slyšeli"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistejci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlas tohoto plurku"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "tohoto plurku"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "קול",
+      "gloss": "znamená hlas"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "tohoto plurku"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "velikého"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tohoto"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "v táboře"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebrejů"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "A poznali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábora"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:00.718326759Z",
+  "model": "glm-5.3"
+}

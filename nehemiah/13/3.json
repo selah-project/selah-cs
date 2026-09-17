@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Stalo ⟨se⟩, když slyšeli ⟨את⟩ Tóru, že oddělili všechnu směs ⟨od⟩ Jišra'el.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo ⟨se⟩"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "když slyšeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tóru"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tóru"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "že oddělili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "směs"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "⟨od⟩ Jišra'el"
+    }
+  ],
+  "timestamp": "2026-09-17T10:14:39.829498853Z",
+  "model": "glm-5.3"
+}

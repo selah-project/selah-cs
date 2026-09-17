@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A přivede ⟨את⟩ svou oběť za vinu k Jahve, ke vchodu stanu setkávání, berana jako oběť za vinu.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "a přivede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou oběť za vinu"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "svou oběť za vinu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "k Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "איל",
+      "gloss": "berana"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "za vinu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:28.558646253Z",
+  "model": "glm-5.3"
+}

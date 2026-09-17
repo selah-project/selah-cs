@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 132,
+  "translation": "Hle, slyšeli jsme ⟨ji⟩ v Efratě, nalezli jsme ⟨ji⟩ na polích lesa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "slyšeli jsme ⟨ji⟩"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "v Efratě"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "nalezli jsme ⟨ji⟩"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "na polích"
+    },
+    {
+      "surface": "יער",
+      "gloss": "lesa"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:42.561183274Z",
+  "model": "glm-5.3"
+}

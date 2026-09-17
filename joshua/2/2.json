@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A bylo oznámeno králi Jericha ⟨a bylo řečeno⟩: „Hle, muži přišli sem v noci, ze synů Izraele, aby prohledali ⟨את⟩ zemi.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bylo oznámeno"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jericha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a bylo řečeno⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "muži"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "sem"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ze synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "aby prohledali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:30.704031813Z",
+  "model": "glm-5.3"
+}

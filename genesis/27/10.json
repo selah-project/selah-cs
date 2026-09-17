@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "a přineseš ⟨to⟩ svému otci a ⟨on⟩ bude jíst, aby ⟨tě⟩ požehnal před svou smrtí.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "a přineseš"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "svému otci"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "a bude jíst"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "aby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨aby⟩"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "požehnal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "svou smrtí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:56.352362616Z",
+  "model": "glm-5.3"
+}

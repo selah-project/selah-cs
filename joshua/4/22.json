@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "„Potom dáte vědět ⟨את⟩ svým synům a řeknete: Po suchu přešel Izrael ⟨את⟩ tento Jordán,",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "Potom dáte vědět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svým synům"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "synům"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řeknete"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Po suchu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "přešel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tento Jordán"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jordán"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    }
+  ],
+  "timestamp": "2026-09-17T07:04:54.955718493Z",
+  "model": "glm-5.3"
+}

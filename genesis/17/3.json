@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A padl Abram na svou tvář, a mluvil ⟨את⟩ ním Elohim tímto říkáním:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "A padl"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a mluvil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ním",
+      "marks": "ním (Abramem)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tímto říkáním"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:05.114618163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Sílo má, k tobě budu hledět, neboť Elohim ⟨je⟩ má pevnost.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Sílo má"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "budu hledět"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "má pevnost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:42.518601059Z",
+  "model": "glm-5.3"
+}

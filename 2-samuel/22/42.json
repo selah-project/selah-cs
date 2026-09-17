@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Hleděli ⟨o pomoc⟩, ale nebyl zachránce; ⟨volali⟩ k Jahve, a neodpověděl jim.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "hleděli"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ale nebylo"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "zachránce"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "odpověděl jim"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:16.028028959Z",
+  "model": "glm-5.3"
+}

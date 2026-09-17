@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A Hadadezer poslal ⟨a⟩ vyvedl ⟨את⟩ Aram, který ⟨byl⟩ za Řekou, a přišli do Chelamu; a Šóbach, velitel vojska Hadadezera, byl před nimi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "vyvedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "za"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "Řekou"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "a přišli"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "do Chelamu"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "a Šóbach"
+    },
+    {
+      "surface": "שר",
+      "gloss": "velitel"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "před nimi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:03.961010193Z",
+  "model": "glm-5.3"
+}

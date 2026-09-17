@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 24:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A Jahve řekl Mojžíšovi: Vystup ke mně na horu a buď tam, a dám ti ⟨את⟩ desky kamene a tóru a micvu, které jsem napsal, abys je učil.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "vystup"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "na horu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a buď"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "a dám"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "desky kamene"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "desky"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "kamene"
+    },
+    {
+      "surface": "והתורה",
+      "gloss": "a tóru"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "a micvu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "jsem napsal"
+    },
+    {
+      "surface": "להורתם",
+      "gloss": "abys je učil"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:33.882908149Z",
+  "model": "glm-5.3"
+}

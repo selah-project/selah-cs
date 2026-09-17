@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Pro předního zpěváka, synům Korachovým, výměr ⟨se zpěvem⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachovým"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "výměr"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:56.048691308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 149,
+  "translation": "Neboť Jahve má zalíbení ve svém lidu, pokorné zdobí vítězstvím.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "má zalíbení"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ve svém lidu"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "zdobí"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "pokorné"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "vítězstvím"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:12.689622686Z",
+  "model": "glm-5.3"
+}

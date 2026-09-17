@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "a vy povstanete ze zálohy a obsadíte ⟨את⟩ ⟨to⟩ město; a vydá je Jahve, váš Elohim, do vaší ruky.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "a vy"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "povstanete"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "ze zálohy"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "a obsadíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨to⟩ město"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "a vydá je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "do vaší ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T07:06:54.485174241Z",
+  "model": "glm-5.3"
+}

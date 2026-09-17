@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Neboť mě obklopili psi, shromáždění zločinců mě sevřelo; jako lev ⟨jsou při⟩ mé ruce a mé nohy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "mě obklopili"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zločinců"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "mě sevřelo"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "jako lev"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mé ruce"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "a mé nohy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:34.710968231Z",
+  "model": "glm-5.3"
+}

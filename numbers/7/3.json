@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 7:3",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A přinesli ⟨את⟩ svou oběť před tvář Jahve: šest krytých vozů a dvanáct volů, vů pro dva knížata a vola pro každého jednoho; a představili ⟨את⟩ je před tvář ⟨té⟩ příbytku.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "a přinesli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou oběť"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "svou oběť"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tvář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "vozů"
+    },
+    {
+      "surface": "צב",
+      "gloss": "krytých"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "a dvanáct"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "dvanáct"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "volů"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "vů"
+    },
+    {
+      "surface": "על",
+      "gloss": "pro"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "knížata"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "a vola"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "pro každého jednoho"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "a představili"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (vozy a voly)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tvář"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytku"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:39.826216839Z",
+  "model": "glm-5.3"
+}

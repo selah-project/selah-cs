@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "a přebudu⟨⟩ uprostřed synů Izraele a neopustím ⟨את⟩ svůj lid Izrael.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "a přebudu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "opustím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj lid Izrael"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T07:43:41.658028748Z",
+  "model": "glm-5.3"
+}

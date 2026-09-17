@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A poslal Jóab posly k Davidovi a řekl: Bojoval jsem proti Rabbě, i dobyl jsem ⟨את⟩ město ⟨se⟩ vodami.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "A poslal"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóab"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "Bojoval jsem"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "proti Rabbě"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "dobyl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "město vod"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "המים",
+      "gloss": "s vodami"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:18.947331420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A pokud nevykoupí ⟨את⟩ pole, a pokud prodal ⟨את⟩ pole jinému muži, nebude už vykoupeno.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A pokud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "vykoupí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pole"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a pokud"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "prodal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pole"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jinému"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nebude"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "vykoupeno"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:27.299555221Z",
+  "model": "glm-5.3"
+}

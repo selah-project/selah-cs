@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 75,
+  "translation": "Když vezmu ⟨jmenovaný⟩ čas, já sám soudit budu rovností.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "vezmu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "jmenovaný čas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já sám"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "rovností"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "soudit budu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:25.559930855Z",
+  "model": "glm-5.3"
+}

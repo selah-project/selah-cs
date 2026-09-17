@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "a vydá je Jahve, tvůj Elohim, před tebe a ty je porazíš — ⟨את⟩ zničíš, na nichž je cherem; neuzavřeš s nimi smlouvu ⟨ברית⟩ a neprokážeš jim slitování.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "a vydá je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebe"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "a porazíš je"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "zničíš"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "na nichž je cherem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "uzavřeš"
+    },
+    {
+      "surface": "להם",
+      "gloss": "s nimi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvu ⟨ברית⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "prokážeš jim slitování"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:00.738953181Z",
+  "model": "glm-5.3"
+}

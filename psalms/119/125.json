@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Tvůj služebník jsem ⟨já⟩; dej mi rozumnět, a budu znát tvá svědectví.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "Tvůj služebník"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jsem ⟨já⟩"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "dej mi rozumnět"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "a budu znát"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "tvá svědectví"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:15.444305779Z",
+  "model": "glm-5.3"
+}

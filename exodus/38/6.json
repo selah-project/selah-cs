@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "A udělal ⟨את⟩ tyče z dřeva šitim a potáhl ⟨את⟩ je mědí.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tyče"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tyče"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "z dřeva"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "šitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "a potáhl"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mědí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:37.313790881Z",
+  "model": "glm-5.3"
+}

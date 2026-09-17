@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A řeka vycházela z Edenu, aby napájela ⟨את⟩ zahradu, a odtud se rozdělovala a stávala se čtyřmi rameny.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "a řeka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "vycházela"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "z Edenu"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "aby napájela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zahradu"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "zahradu"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "a odtud"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "se rozdělovala"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a stávala se"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "čtyřmi"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "rameny"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:50.955219022Z",
+  "model": "glm-5.3"
+}

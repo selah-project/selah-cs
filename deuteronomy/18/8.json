@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Podíl jako podíl budou jíst, kromě ⟨prodeje⟩ svého dědictví ⟨podle⟩ otcovských rodů.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "podíl"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "jako podíl"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "budou jíst"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kromě"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "svého prodeje\/dědictví"
+    },
+    {
+      "surface": "על",
+      "gloss": "podle"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "otcovských rodů"
+    }
+  ],
+  "timestamp": "2026-09-17T06:58:20.000595447Z",
+  "model": "glm-5.3"
+}

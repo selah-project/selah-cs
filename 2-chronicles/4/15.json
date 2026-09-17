@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "⟨את⟩ moře jedno a ⟨את⟩ dvanáct volů pod ním —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moře"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "voly"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "voly"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-náct"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pod ním"
+    }
+  ],
+  "timestamp": "2026-09-17T11:25:08.520728412Z",
+  "model": "glm-5.3"
+}

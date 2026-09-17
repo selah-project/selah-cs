@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Zpustly spojníky cest, přestal ten, kdo chodí stezkou; ⟨on⟩ porušil smlouvu, zavrhl města, nevážil člověka.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "Zpustly"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "vyzdbrojené cesty"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "přestal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ten, kdo chodí"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "stezkou"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "porušil"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvu"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "zavrhl"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "města"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "vážil"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "člověka"
+    }
+  ],
+  "timestamp": "2026-09-17T08:08:47.490513346Z",
+  "model": "glm-5.3"
+}

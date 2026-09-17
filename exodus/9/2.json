@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "neboť jestliže odmítáš propustit ⟨je⟩ a dosud je zadržuješ,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אם",
+      "gloss": "jestliže"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "odmítáš"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "propustit"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "a dosud ty"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "zadržuješ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "je"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:14.929487930Z",
+  "model": "glm-5.3"
+}

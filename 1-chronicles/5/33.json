@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Merajot zplodil ⟨את⟩ Amarjáhu, a Amarjá zplodil ⟨את⟩ Achítúba.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjáhu"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjáhu"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "a Amarjá"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achítúba"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achítúba"
+    }
+  ],
+  "timestamp": "2026-09-17T10:16:04.054027913Z",
+  "model": "glm-5.3"
+}

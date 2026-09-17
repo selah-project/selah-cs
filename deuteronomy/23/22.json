@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 23:22",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Když učiníš slib Jahveovi, svému Elohim, neotáleš jej splnit, neboť jistě jej vyžaduje Jahve, tvůj Elohim, od tebe, a bude v tobě vina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "učiníš slib"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "slib"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveovi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svému Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "otáleš"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "jej splnit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "ידרשנו",
+      "gloss": "jej vyžaduje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "od tebe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "a bude"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "vina"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:01.386262007Z",
+  "model": "glm-5.3"
+}

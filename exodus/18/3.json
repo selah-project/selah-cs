@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A ⟨את⟩ její dva syny, jejichž jméno ⟨bylo⟩ ⟨takové, že⟩ jednoho Geršom, neboť řekl: „Přistěhovalcem jsem byl v zemi cizí.“",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "její dva syny"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dva"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "její syny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jejichž"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Geršom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "גר",
+      "gloss": "přistěhovalcem"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "jsem byl"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "cizí"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:19.370649449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Neboť nejsou mé myšlenky vaše myšlenky a nejsou vaše cesty mé cesty, je výrok Jahveho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nejsou ⟨ne⟩"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "mé myšlenky"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "vaše myšlenky"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nejsou"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "vaše cesty"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mé cesty"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "je výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:31.600208569Z",
+  "model": "glm-5.3"
+}

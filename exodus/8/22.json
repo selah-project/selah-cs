@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 8:22",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A řekl Moše: Není ⟨to⟩ řádné, tak učinit, neboť ohavnost Egypta obětujeme Jahve, našemu Elohim. Hle, kdybychom obětovali ⟨את⟩ ohavnost Egypta před jejich očima — neukamenují-li nás?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "řádné"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "učinit"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ohavnost"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "נזבח",
+      "gloss": "obětujeme"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "našemu Elohim"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "נזבח",
+      "gloss": "obětovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ohavnost Egypta"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ohavnost"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "před jejich očima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יסקלנו",
+      "gloss": "ukamenují nás"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:05.300564288Z",
+  "model": "glm-5.3"
+}

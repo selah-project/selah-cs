@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A Jahve tě poslal na cestu a řekl: Jdi a zasvěť ⟨את⟩ hříšníky ⟨את⟩ Amaleka, bojuj s ním, dokud je nezničíš ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "a poslal tě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na cestu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "a zasvětíš (cherem)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hříšníky"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "hříšníky"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "a budeš bojovat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "nezničíš je"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:21.168666978Z",
+  "model": "glm-5.3"
+}

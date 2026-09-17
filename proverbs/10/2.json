@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Neprospějí poklady ⟨z⟩ ničemnosti, ale spravedlnost zachrání ⟨od⟩ smrti.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "prospějí"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "poklady"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ničemnosti"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ale spravedlnost"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "zachrání"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "od smrti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:08.985858679Z",
+  "model": "glm-5.3"
+}

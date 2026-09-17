@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A přivedl zpět ⟨את⟩ všechen majetek, a také ⟨את⟩ Lota, svého bratra, i jeho majetek vrátil zpět, a také ⟨את⟩ ženy a ⟨את⟩ lid.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a přivedl zpět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechen majetek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "majetek"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a také"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svého bratra"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "i jeho majetek"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "vrátil zpět"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a také"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženy"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:57.090187012Z",
+  "model": "glm-5.3"
+}

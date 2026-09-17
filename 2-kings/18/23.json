@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A nyní uzavři ⟨sázku⟩ prosím ⟨את⟩ mým pánem, ⟨את⟩ králem Asýrie, a já ti dám dva tisíce koní, pokud budeš moci dát ⟨si⟩ na ně jezdce.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "uzavři ⟨sázku⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mým pánem, králem Asýrie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mým pánem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "králem Asýrie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asýrie"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "a já dám"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dva tisíce"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "koní"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "budeš moci"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "dát"
+    },
+    {
+      "surface": "לך",
+      "gloss": "si"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "jezdce"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na ně"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:01.191010927Z",
+  "model": "glm-5.3"
+}

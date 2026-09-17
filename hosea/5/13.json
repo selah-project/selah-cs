@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 5:13",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A viděl Efrajim ⟨את⟩ svou nemoc a Juda ⟨את⟩ svou ránu; a šel Efrajim k Asýrii a poslal ke králi Jarebovi, ale on nemůže vás uzdravit ani vám sejmout ránu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "A viděl"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou nemoc"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "svou nemoc"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a J uda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ránu"
+    },
+    {
+      "surface": "מזרו",
+      "gloss": "svou ránu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asýrii"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jarebovi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ale on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "může"
+    },
+    {
+      "surface": "לרפא",
+      "gloss": "uzdravit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vás"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "יגהה",
+      "gloss": "sejmout"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "מזור",
+      "gloss": "ránu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:55:31.283133512Z",
+  "model": "glm-5.3"
+}

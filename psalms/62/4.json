@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "Jak dlouho budete útočit na jednoho člověka, budete ho zabíjet vy všichni, jako ⟨nakloněnou⟩ zeď, jako plot ⟨stržený⟩?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "jak (dlouho)"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "budete útočit"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "budete zabíjet"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "vy všichni"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "jako zeď"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "nakloněnou"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "plot"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "stržený"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:30.216868685Z",
+  "model": "glm-5.3"
+}

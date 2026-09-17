@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A uhodil David ⟨את⟩ Hadad'ezer, syna Rechoba, krále Coby, když šel, aby vrátil svou ruku ⟨u řeky Eufratu⟩.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "a uhodil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad'ezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadad'ezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechoba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Coby"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "když šel"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "aby vrátil"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "u řeky"
+    }
+  ],
+  "timestamp": "2026-09-17T10:52:11.929382722Z",
+  "model": "glm-5.3"
+}

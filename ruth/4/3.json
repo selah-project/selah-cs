@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 4:3",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Řekl vykupiteli: Kousek pole, který patří našemu bratru Elimelechovi, prodává Noemi, ta navrácená z pole Moábu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Řekl"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "vykupiteli"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "kousek"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לאחינו",
+      "gloss": "patří našemu bratru"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "Elimelechovi"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "prodává"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "ta navrácená"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "z pole"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:56:11.271762800Z",
+  "model": "glm-5.3"
+}

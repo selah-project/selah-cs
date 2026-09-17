@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Jak šťastný je člověk, který nalezl moudrost, a člověk, který ⟨získává⟩ rozumnost!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Jak šťastný"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "nalezl"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "a člověk"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "⟨získává⟩"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "rozumnost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:38.982715044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Jejich sečtení ⟨bylo⟩ pro kmen Šimonův: devět a padesát tisíců a tři sta.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "jejich sečtení"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pro kmen"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Šimonův"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "devět"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "a padesát"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíců"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "a tři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:05.004285214Z",
+  "model": "glm-5.3"
+}

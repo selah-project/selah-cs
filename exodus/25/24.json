@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A potáhneš ⟨את⟩ ⟨ho⟩ ryzím zlatem a uděláš mu věnec ze zlata kolem dokola.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "A potáhneš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨ho⟩",
+      "marks": "(stůl)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlatem"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ryzím"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "a uděláš"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "věnec"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ze zlata"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:36.027291719Z",
+  "model": "glm-5.3"
+}

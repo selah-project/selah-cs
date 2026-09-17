@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Tehdy král povýšil Šadracha, Méšacha a Abed-Nega v provincii Babylonské.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "tehdy"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "král"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "povýšil"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Šadracha"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Méšacha"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "a Abeda"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "-Nega"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "v provincii"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylonské"
+    }
+  ],
+  "timestamp": "2026-09-17T10:03:44.412052191Z",
+  "model": "glm-5.3"
+}

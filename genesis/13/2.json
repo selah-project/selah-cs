@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Abram byl ⟨velmi⟩ těžen bohatstvím — v dobytku, ve stříbře a ve zlatě.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "byl těžen bohatstvím"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "v dobytku"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ve stříbře"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "a ve zlatě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:49.803851208Z",
+  "model": "glm-5.3"
+}

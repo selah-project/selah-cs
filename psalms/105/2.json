@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Zpívejte mu, hudbou mu hrajte, rozjímejte o všech jeho divech!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "zpívejte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "hudbou-hrajte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "rozjímejte"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "o-všech"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "jeho-divy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:21.326616351Z",
+  "model": "glm-5.3"
+}

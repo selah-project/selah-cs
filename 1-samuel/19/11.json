@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 19:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A Šaul poslal posly k ⟨domu⟩ Davidovu, aby ho hlídali a zabili ho ráno; a Mikal, jeho žena, to vyřídila Davidovi ⟨slovy⟩: „Neutečeš-li ⟨את⟩ svou duši této noci, zítra budeš usmrcen.\"",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨domu⟩"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovu"
+    },
+    {
+      "surface": "לשמרו",
+      "gloss": "aby ho hlídali"
+    },
+    {
+      "surface": "ולהמיתו",
+      "gloss": "a zabili ho"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "a vyřídila"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jeho žena"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨slovy⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "neutečeš-li"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ממלט",
+      "gloss": "utečeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou duši"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "svou duši"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "této noci"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "zítra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מומת",
+      "gloss": "budeš usmrcen"
+    }
+  ],
+  "timestamp": "2026-09-17T13:39:43.400506368Z",
+  "model": "glm-5.3"
+}

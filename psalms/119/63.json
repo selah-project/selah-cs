@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Druh jsem ⟨k⟩ všem, kdo se tě bojí, a ⟨těm, kdo⟩ zachovávají tvá přikázání.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "druh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jsem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ke všem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "se tě bojí"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "a ⟨těm, kdo⟩ zachovávají"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "tvá přikázání"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:19.382596085Z",
+  "model": "glm-5.3"
+}

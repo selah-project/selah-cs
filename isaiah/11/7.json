@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Kráva a medvědice se spolu pásly, mláďata jejich spolu odpočinou a lev jako skot pojí slámu.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "kráva"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "a medvědice"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "se pásly"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "spolu"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "odpočinou"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "mláďata jejich"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "a lev"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "jako skot"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "pojí"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "slámu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:39.943864966Z",
+  "model": "glm-5.3"
+}

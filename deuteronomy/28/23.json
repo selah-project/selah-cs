@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Tvá nebe nad tvou hlavou ⟨budou⟩ měď a země pod tebou ⟨bude⟩ železo.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "a ⟨budou⟩"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "tvá nebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "tvou hlavou"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "měď"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "a země"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "pod tebou"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "železo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:22.486647315Z",
+  "model": "glm-5.3"
+}

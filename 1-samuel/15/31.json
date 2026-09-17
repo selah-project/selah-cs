@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "I vrátil se Samuel za Saulem a Saul se klaněl Jahveovi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "I vrátil se"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulem"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a klaněl se"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveovi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:25.957298525Z",
+  "model": "glm-5.3"
+}

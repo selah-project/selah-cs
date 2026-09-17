@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A král si zakryl ⟨את⟩ tvář svou, a král vykřikl hlasem velkým: Synu můj, Avšalome, Avšalome, synu můj, synu můj!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "A král"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "si zakryl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvář svou"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tvář svou"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "a vykřikl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hlasem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velkým"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Synu můj"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalome"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšalome"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu můj"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu můj"
+    }
+  ],
+  "timestamp": "2026-09-17T11:41:28.606540914Z",
+  "model": "glm-5.3"
+}

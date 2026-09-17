@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A Jákob viděl ⟨את⟩ tvář Labanovu, a hle — nebyla k němu jako včera a předevčírem.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a viděl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvář Labanovu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tvář"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labanovu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nebyla"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "jako včera"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "a předevčírem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:26.752898840Z",
+  "model": "glm-5.3"
+}

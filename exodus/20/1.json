@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A mluvil Elohim ⟨את⟩ všechna slova tato, říkaje:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "A mluvil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechna slova tato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "slova"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "říkaje"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:05.243590366Z",
+  "model": "glm-5.3"
+}

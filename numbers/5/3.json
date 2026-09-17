@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Od muže až po ženu pošlete ven, mimo tábor je pošlete, ať neskalí ⟨את⟩ své tábory, v jejichž středu já přebývám.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "Od muže"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "pošlete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ven, do"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "mimo"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "je pošlete"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ať ne-"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "skalí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své tábory"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "své tábory"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v jejichž"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "přebývám"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "v jejich středu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:46.123826869Z",
+  "model": "glm-5.3"
+}

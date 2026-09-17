@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "I křičeli k Jahve v tísní své, ze svých úzkostí ⟨je⟩ vysvobodil.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "I křičeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "v tísní"
+    },
+    {
+      "surface": "להם",
+      "gloss": "své"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "ze svých úzkostí"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "vysvobodil ⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:45.768287792Z",
+  "model": "glm-5.3"
+}

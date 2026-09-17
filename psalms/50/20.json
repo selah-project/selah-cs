@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Sedáš, o svém bratru mluvíš, synu své matky dáváš pomluvu.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "Sedáš"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "o svém bratru"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "mluvíš"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "své matky"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dáváš"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "pomluvu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:48.616549472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 18:14",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Neboť tyto národy, které ty vyženíš ⟨את⟩, poslouchají věštce z mraků a věštce z losů; ale tobě nedopřál tak Jahve, tvůj Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tyto národy"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "vyženíš"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "tyto národy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מעננים",
+      "gloss": "věštcům z mraků"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "věštcům z losů"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "poslouchají"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ale ty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nedopřál"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tobě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:58:58.796160598Z",
+  "model": "glm-5.3"
+}

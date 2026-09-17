@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Deset loket ⟨je⟩ délka ⟨toho⟩ prkna a jeden loket a půl lokte šířka jednoho prkna.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Deset"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "loket"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "délka"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "⟨toho⟩ prkna"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "a jeden loket"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "a půl"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "lokte"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "šířka"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "prkna"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednoho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:17.651806768Z",
+  "model": "glm-5.3"
+}

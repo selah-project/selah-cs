@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "Dává lichám jejich potravu, mládětem krkavců, které volají.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Dává"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "lichám"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "jejich potravu"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mládětem"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "krkavců"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "volají"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:22.256235280Z",
+  "model": "glm-5.3"
+}

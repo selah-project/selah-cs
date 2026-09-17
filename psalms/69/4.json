@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Vyčerpal jsem se svým voláním, mé hrdlo ⟨je⟩ vyschlé, moje oči ⟨slábnou⟩, čekajíce na svého Elohima.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Vyčerpal jsem se"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "svým voláním"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "vyschlé"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "mé hrdlo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "⟨slábnou⟩"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "moje oči"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "čekajíce"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "na svého Elohima"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:34.033702016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Čisté srdce mi vytvoř, Elohime, a pevného ducha ve mně obnov.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čisté"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "vytvoř"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "a ducha"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "pevného"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "obnov"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ve mně"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:29.607453002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Svou vodu jsme pili za stříbro, naše dřevo ⟨nám⟩ přichází za cenu.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "Svou vodu"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "za stříbro"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "jsme pili"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "naše dřevo"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "za cenu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "přichází"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:21.264733943Z",
+  "model": "glm-5.3"
+}

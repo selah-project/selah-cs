@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Počnete ⊃suchou travu⟨,⟩ porodíte slámu; váš dech — oheň, ⟨jenž⟩ vás pohltí.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "Počnete"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "suchou travu"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "porodíte"
+    },
+    {
+      "surface": "קש",
+      "gloss": "slámu"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "váš dech"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "vas pohltí"
+    }
+  ],
+  "timestamp": "2026-09-17T08:08:36.996794820Z",
+  "model": "glm-5.3"
+}

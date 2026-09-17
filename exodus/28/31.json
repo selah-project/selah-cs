@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A uděláš ⟨את⟩ plášť efodu, celý z modři.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uděláš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plášť efodu"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "plášť"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodu"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "z modři"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:10.780759439Z",
+  "model": "glm-5.3"
+}

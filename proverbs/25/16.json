@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Našel jsi med? Jez, ⟨kolik⟩ ti stačí, abys se jím nenasytil a nezvrátil ⟨ho⟩.",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "med"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "našel jsi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "jez"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "ti stačí"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abys ne"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "se jím nenasytil"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "a nezvrátil ho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:00.856061798Z",
+  "model": "glm-5.3"
+}

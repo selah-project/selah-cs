@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Neorat volkem a oslem spolu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "orat"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "volkem"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "a oslem"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "spolu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:18.269842512Z",
+  "model": "glm-5.3"
+}

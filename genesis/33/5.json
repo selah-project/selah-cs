@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A zdvihl ⟨את⟩ své oči a uviděl ⟨את⟩ ty ženy a ⟨את⟩ ty děti, a řekl: Kdo je tohle s tebou? A on řekl: Děti, jimž Elohim milostivě obdaroval ⟨את⟩ sluhu tvého.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "a zdvihl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své oči"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "své oči"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a uviděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty ženy"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ty ženy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ty děti"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ty děti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tohle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "s tebou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on řekl"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "děti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jimž"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "milostivě obdaroval"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sluhu tvého"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "sluhu tvého"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:11.307418813Z",
+  "model": "glm-5.3"
+}

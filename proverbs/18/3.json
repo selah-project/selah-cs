@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Když přijde ničema, přijde i opovržení, a s hanbou ⟨přichází⟩ potupa.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "když přijde"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ničema"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přijde"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "opovržení"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "a s"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "hanbou"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "potupa"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:17.699850079Z",
+  "model": "glm-5.3"
+}

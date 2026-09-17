@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Postavil si temnotu ⟨jako⟩ svůj úkryt, kolem ⟨sebe⟩ svůj přístřešek — temnost vod, mračna oblaků.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "temnotu"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "svůj úkryt"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "kolem ⟨sebe⟩"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "svůj přístřešek"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "temnost"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vod"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "mračna"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "oblaků"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:53.123935687Z",
+  "model": "glm-5.3"
+}

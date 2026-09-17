@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Nebuď moudrý ve vlastních očích; boj se ⟨את⟩ Jahve a odvrať se od zla.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "buď"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrý"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ve vlastních očích"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "boj se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "a odvrať se"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "od zla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:42.217630290Z",
+  "model": "glm-5.3"
+}

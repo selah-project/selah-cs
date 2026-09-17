@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Památku tvého hojného dobra vytrysknou ⟨slovem⟩ a tvou spravedlnost budou pělne zpívat.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "památku"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hojného"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "tvoje dobro"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "vytrysknou"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "a tvou spravedlnost"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "budou radostně zpívat"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:29.921072636Z",
+  "model": "glm-5.3"
+}

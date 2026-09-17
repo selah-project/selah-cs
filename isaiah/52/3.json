@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Neboť tak praví Jahve: Zadarmo jste byli prodáni, a ne za stříbro budete vykoupeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "Zadarmo"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "jste byli prodáni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "za stříbro"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "budete vykoupeni"
+    }
+  ],
+  "timestamp": "2026-09-17T08:15:49.351222314Z",
+  "model": "glm-5.3"
+}

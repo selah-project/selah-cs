@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Přistrojují stůl, rozhlížejí se strážní, jedí, pijí — vstaňte, knížata, potřete štít ⟨olejem⟩!",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "přistrojují"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stůl"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "rozhlížejí se"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "strážní"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "jedí"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "pijí"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "vstaňte"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "knížata"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "potřete ⟨olejem⟩"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "štít"
+    }
+  ],
+  "timestamp": "2026-09-17T08:06:23.453876077Z",
+  "model": "glm-5.3"
+}

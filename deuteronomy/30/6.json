@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A obřeže Jahve, tvůj Elohim, ⟨את⟩ tvé srdce a ⟨את⟩ srdce tvého semene, abys miloval ⟨את⟩ Jahve, tvého Elohim, celým svým srdcem a celou svou duší — kvůli svému životu.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "a obřeže"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé srdce"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "tvé srdce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "srdce tvého semene"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tvého semene"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "abys miloval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve, tvého Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvého Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "celým"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "svým srdcem"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "a celou"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "svou duší"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "svému životu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:23.032611816Z",
+  "model": "glm-5.3"
+}

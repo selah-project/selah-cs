@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A vystavěl ⟨את⟩ vnitřní nádvoří: tři řady opracovaného kamene a řada trámů z cedru.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a vystavěl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vnitřní nádvoří"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "nádvoří"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "vnitřní"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tři"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "řady"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "opracovaného kamene"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "a řada"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "trámů"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "z cedru"
+    }
+  ],
+  "timestamp": "2026-09-17T07:43:13.278031055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl člověk: Ta žena, kterou jsi mi dal ⟨být⟩ s ⟨sebou⟩ mnou — ona mi dala ze stromu, a já jsem jedl.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ta žena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "jsi dal"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "dala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "stromu"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "a já jsem jedl"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:26.387284398Z",
+  "model": "glm-5.3"
+}

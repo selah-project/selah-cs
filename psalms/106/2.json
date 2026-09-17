@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "Kdo ⟨dokáže⟩ vyprávět mocné činy Jahveho, dát slyšet všechnu jeho chválu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "vyprávět"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "mocné činy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "dat slyšet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "jeho chválu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:35.954536111Z",
+  "model": "glm-5.3"
+}

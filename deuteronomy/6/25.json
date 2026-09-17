@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A bude nám to ⟨za⟩ spravedlnost, když se budeme střežit ⟨to⟩ konat ⟨את⟩ celý tento příkaz před tváří Jahve, Elohima našeho, jak nám přikázal.",
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "a spravedlnost"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "budeme se střežit"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "konat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý tento příkaz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "příkaz"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tento"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim náš"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "nám přikázal"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:55.739035146Z",
+  "model": "glm-5.3"
+}

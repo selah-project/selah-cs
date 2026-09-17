@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A dokončil ⟨s⟩ mluvení ⟨את⟩ s ním, a Elohim vystoupil z <Abrahama> nad Abrahama.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "dokončil"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mluvit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním",
+      "marks": "mluvit s ním"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "vystoupil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z \/ nad"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:40.950315841Z",
+  "model": "glm-5.3"
+}

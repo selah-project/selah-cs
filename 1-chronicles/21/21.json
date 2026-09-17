@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 21:21",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A David přišel k Arnanovi; Arnan se rozhlédl a uviděl ⟨את⟩ Davida, vyšel z ⟨gumna⟩ a poklonil se Davidovi tváří k zemi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "k"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnanovi"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "rozhlédl se"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a uviděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "⟨gumna⟩"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a poklonil se"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "k zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:21:15.238524286Z",
+  "model": "glm-5.3"
+}

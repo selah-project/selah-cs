@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 108,
+  "translation": "Móab ⟨je⟩ hrnec mého mytí; na Edóm hodím svůj ㄟstřevíc; nad Pelištím budu hřmět.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Móab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "hrnec"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "mého mytí"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edóm"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "hodím"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "svůj střevíc"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelištím"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "budu hřmět"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:10.269920652Z",
+  "model": "glm-5.3"
+}

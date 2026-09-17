@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 2:5",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A řekl Boaz svému mládenci, jenž stál nad ženci: „Čí ⟨je⟩ ta dívka?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "svému mládenci"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "jenž stojí-nad"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הקוצרים",
+      "gloss": "ženci"
+    },
+    {
+      "surface": "למי",
+      "gloss": "čí"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "ta dívka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tato"
+    }
+  ],
+  "timestamp": "2026-09-17T09:56:07.767004222Z",
+  "model": "glm-5.3"
+}

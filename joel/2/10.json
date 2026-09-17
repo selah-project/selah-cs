@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 2:10",
+  "book": "joel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Před jeho tváří zachvěla se země, otřásly se nebesa, slunce a měsíc se zatmily a hvězdy stáhly svou záři.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "před jeho tváří"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "zachvěla se"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "otřásly se"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "a měsíc"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "se zatmily"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "a hvězdy"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "stáhly"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "svou záři"
+    }
+  ],
+  "timestamp": "2026-09-17T08:58:50.145996825Z",
+  "model": "glm-5.3"
+}

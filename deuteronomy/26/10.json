@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A nyní, hle, přinesl jsem ⟨את⟩ prvotiny plodu půdy, kterou jsi mi dal, Jahve; a položíš ⟨to⟩ před tvář Jahve, tvého Elohima, a pokloníš se před tváří Jahve, tvého Elohima.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "přinesl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prvotiny plodu půdy"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "prvotiny"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "plodu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "půdy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "jsi dal"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "a položíš ⟨to⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvého Elohima"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "a pokloníš se"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvého Elohima"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:31.025873685Z",
+  "model": "glm-5.3"
+}

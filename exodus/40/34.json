@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A oblak pokryl ⟨את⟩ stan setkávání a sláva Jahve naplnila ⟨את⟩ příbytek.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "a pokryl"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "oblak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stan setkávání"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "a sláva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "naplnila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "příbytek"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytek"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:34.469465902Z",
+  "model": "glm-5.3"
+}

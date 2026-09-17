@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "A udělal z ⟨toho⟩ ⟨את⟩ patky vchodu stanu setkání, a ⟨את⟩ oltář z bronzu, a ⟨את⟩ bronzovou mřížku, která ⟨byla⟩ pro něj, a ⟨את⟩ všechny nástroje oltáře.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a udělal"
+    },
+    {
+      "surface": "בה",
+      "gloss": "z ⟨toho⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "patky vchodu stanu setkání"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "patky"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkání"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "oltář z bronzu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "z bronzu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "bronzovou mřížku"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "mřížku"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "bronzovou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pro něj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechny nástroje oltáře"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nástroje"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáře"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:08.620709040Z",
+  "model": "glm-5.3"
+}

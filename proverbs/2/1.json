@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Synu můj, budeš-li přijímat má slova a má přikázání uchovávat ⟨v⟩ sobě ⟨אתך⟩,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Synu můj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "budeš-li"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "přijímat"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "má slova"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "a má přikázání"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "uchovávat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨אתך⟩",
+      "marks": "v sobě"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:45.615354290Z",
+  "model": "glm-5.3"
+}

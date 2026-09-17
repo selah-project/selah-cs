@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 97,
+  "translation": "Oheň před ním kráčí a zapaluje ⟨jeho⟩ protivníky kolem dokola.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Oheň"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "před ním"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "kráčí"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "a zapaluje"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "protivníky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:17.591064903Z",
+  "model": "glm-5.3"
+}

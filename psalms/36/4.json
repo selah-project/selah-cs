@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Slova jeho úst ⟨jsou⟩ nicomost a klam; přestal jednat moudře, činit dobře.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Slova"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "jeho úst"
+    },
+    {
+      "surface": "און",
+      "gloss": "nicomost"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "a klam"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "přestal"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "jednat moudře"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "činit dobře"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:39.414265619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "I ⟨את⟩ Chory na jejich hoře Seír, až k El-Paránu, který ⟨leží⟩ při poušti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "I ⟨את⟩",
+      "marks": "Chory"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Chory"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "na jejich hoře"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seír"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až k"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "-Paránu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "על",
+      "gloss": "při"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "poušti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:55.873272763Z",
+  "model": "glm-5.3"
+}

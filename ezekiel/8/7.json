@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A přivedl mě ⟨את⟩ k vchodu dvora, a vidím — a hle, jeden otvor ve zdi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "A přivedl"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvora"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "a vidím"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "חר",
+      "gloss": "otvor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ve zdi"
+    }
+  ],
+  "timestamp": "2026-09-17T08:38:36.116935119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "a nechť se toulají jeho synové a žebrají a hledají ze svých zpustlých ⟨míst⟩.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "a nechť bloudí"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "toulají se"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho synové"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "a žebrají"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "a hledají"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "ze svých zpustlých míst"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:25.041998797Z",
+  "model": "glm-5.3"
+}

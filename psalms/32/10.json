@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Mnohé jsou bolesti bezbožného, ale toho, kdo důvěřuje v Jahve, obklopí chesed.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Mnohé"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "bolesti"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "bezbožného"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "ale toho, kdo důvěřuje"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "obklopí ⟨ho⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:36.344751478Z",
+  "model": "glm-5.3"
+}

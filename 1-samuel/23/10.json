@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A řekl David: Jahve, Elohim Israelův, jistě tvůj služebník slyšel, že Šaúl usiluje přijít do Keíly, aby zničil ⟨to⟩ město kvůli mně.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelův"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "jistě (inf. abs.)"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyšel"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "tvůj služebník"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "usiluje"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaúl"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "přijít"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keíly"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "aby zničil"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "⟨to⟩ město"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "kvůli mně"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:09.057423532Z",
+  "model": "glm-5.3"
+}

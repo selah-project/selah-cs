@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Bude-li si přát vést ⟨si⟩ při s ním, neodpoví mu na jednu ⟨věc⟩ z tisíce.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "bude-li"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "si přát"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "vést při"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "odpoví mu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "na jednu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "z"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:46:00.540414705Z",
+  "model": "glm-5.3"
+}

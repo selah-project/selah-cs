@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "⟨a⟩ ⟨את⟩ dáu, ⟨a⟩ ⟨את⟩ sokola podle jeho druhu —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dáa"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "dáa (dravec)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sokola"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "sokol"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "podle jeho druhu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:03.516143058Z",
+  "model": "glm-5.3"
+}

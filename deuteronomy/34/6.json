@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A pochoval ⟨ho⟩ ⟨את⟩ v údolí v zemi moábské, naproti Bet-Peóru; a nezná žádný muž ⟨את⟩ jeho hrob až do tohoto dne.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "a pochoval"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (v údolí)"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "v údolí"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "moábské"
+    },
+    {
+      "surface": "מול",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peóru"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "איש",
+      "gloss": "žádný muž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho hrob"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "jeho hrob"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tohoto dne"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tohoto"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:49.940842350Z",
+  "model": "glm-5.3"
+}

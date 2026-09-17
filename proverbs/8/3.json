@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "U bran, při ústí města, u vchodu vratev volá ⟨nahlas⟩.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "u"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "bran"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "při ústí"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "města"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "u vchodu"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "vratev"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "volá"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:15.828751396Z",
+  "model": "glm-5.3"
+}

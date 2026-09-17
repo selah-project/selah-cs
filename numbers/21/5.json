@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 21:5",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A lid mluvil proti Elohim a proti Mojžíšovi: Proč jste nás vyvedli z Egypta, abychom zemřeli na poušti? Vždyť není chléba a není vody, a naše neféš se zhnusila tím řídkým chlebem.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "A mluvil"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "proti Elohim"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "a proti Mojžíšovi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "jste nás vyvedli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "למות",
+      "gloss": "abychom zemřeli"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Vždyť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "ונפשנו",
+      "gloss": "a naše neféš"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "se zhnusila"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "tím chlebem"
+    },
+    {
+      "surface": "הקלקל",
+      "gloss": "řídkým"
+    }
+  ],
+  "timestamp": "2026-09-17T06:47:20.231194577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A král mu řekl: Kde je? A Ciba řekl králi: Hle, je v domě Machíra, syna Ammielova, v Lo-Debaru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "Kde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Ciba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "králi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "בית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Machíra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammielova"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "v"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo-Debaru"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:11.167659380Z",
+  "model": "glm-5.3"
+}

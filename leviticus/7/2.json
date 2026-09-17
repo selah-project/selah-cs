@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Na místě, kde ⟨se⟩ porážejí ⟨את⟩ zápalnou oběť, tam ⟨se⟩ porážejí ⟨את⟩ ašam, a ⟨את⟩ jeho krev ⟨kdocholi⟩ pokropí na oltář kolem dokola.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "na místě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "porážejí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zápalnou oběť"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalnou oběť"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "porážejí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ašam"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ašam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho krev"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jeho krev"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "pokropí"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:59.831911681Z",
+  "model": "glm-5.3"
+}

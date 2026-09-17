@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A toto slovo se stalo ⟨hříchem⟩; a lid šel před ⟨to⟩ jednoho ⟨až⟩ do Danu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "toto slovo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "hříchem"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "a šli"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "toho jednoho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-09-17T11:39:07.729393849Z",
+  "model": "glm-5.3"
+}

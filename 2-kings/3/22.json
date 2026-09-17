@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A za úsvotu, když vyšlo slunce nad vody, uviděl Moáb zpředu ⟨את⟩ vody červené jako krev.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "za úsvotu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "a slunce"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "vyšlo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "uviděl"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moáb"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "zpředu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vody"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "červené"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "jako krev"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:33.943918710Z",
+  "model": "glm-5.3"
+}

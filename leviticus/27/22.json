@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A jestliže ⟨את⟩ pole své koupě, které ⟨není⟩ z polí jeho dědičné državy, zasvětí Jahveovi —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pole své koupě"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "své koupě"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "z polí"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "jeho državy"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "zasvětí"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahveovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:38:47.263222438Z",
+  "model": "glm-5.3"
+}

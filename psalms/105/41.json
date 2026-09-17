@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Otevřel skálu a vytekly vody, tekly jako řeka v ⟨suchých⟩ krajích.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "otevřel"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skálu"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "a vytekly"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "tekly"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "v ⟨suchých⟩ krajích"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "jako řeka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:01.953570359Z",
+  "model": "glm-5.3"
+}

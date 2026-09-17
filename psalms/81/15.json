@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 81,
+  "translation": "Jejich nepřátele bych téměř pokořil a proti jejich protivníkům obrátil svou ruku.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "téměř"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "jejich nepřátele"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "pokořil bych"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a proti"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "jejich protivníkům"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "obrátil"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "svou ruku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:48.319397065Z",
+  "model": "glm-5.3"
+}

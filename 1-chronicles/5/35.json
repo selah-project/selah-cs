@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A Achímaac zplodil ⟨את⟩ Azarjáhu, a Azarjá zplodil ⟨את⟩ Jóchánana.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "A Achímaac"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjáhu"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjáhu"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "a Azarjá"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jóchánana"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jóchánana"
+    }
+  ],
+  "timestamp": "2026-09-17T10:16:04.054426879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "V jehož ruce ⟨je⟩ duše všeho živého a duch veškerého těla člověka.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "v jehož"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ruce"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všeho"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živého"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "a duch"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerého"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "těla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověka"
+    }
+  ],
+  "timestamp": "2026-09-17T09:46:17.154460159Z",
+  "model": "glm-5.3"
+}

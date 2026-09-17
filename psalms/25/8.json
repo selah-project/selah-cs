@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Dobrý a přímý ⟨je⟩ Jahve; proto vyučuje hříšníky ⟨o⟩ cestě.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Dobrý"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "a přímý"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨proto⟩"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "vyučuje"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "hříšníky"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "⟨o⟩ cestě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:20.957867168Z",
+  "model": "glm-5.3"
+}

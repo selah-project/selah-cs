@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A spikli se sluhové Amonovi proti němu a zabili ⟨את⟩ krále v jeho domě.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "a spikli se"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "sluhové"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonovi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "proti němu"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "a zabili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "v jeho domě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:14.061587855Z",
+  "model": "glm-5.3"
+}

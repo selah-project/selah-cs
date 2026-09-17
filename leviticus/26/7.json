@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Budete pronásledovat ⟨את⟩ své nepřátele a padnou před vámi pod mečem.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "budete pronásledovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své nepřátele"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "své nepřátele"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "a padnou"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "před vámi"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "pod mečem"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:57.544040121Z",
+  "model": "glm-5.3"
+}

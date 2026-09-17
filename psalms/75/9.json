@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 75,
+  "translation": "Neboť kalich ⟨je⟩ v ruce Jahve, a víno ⟨je⟩ zkvašené, plné směsi; a stéká z něho ⟨kapka za kapkou⟩ — však jeho usazeniny vymačkají a vypijí všichni bezbožní země.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kalich"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "v ruce"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "a víno"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "zkvašené"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "plné"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "směsi"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "a stéká"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "z něho"
+    },
+    {
+      "surface": "אך",
+      "gloss": "však"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "jeho usazeniny"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "vymačkají"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "vypijí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "bezbožní"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:57.950742487Z",
+  "model": "glm-5.3"
+}

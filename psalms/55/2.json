@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Naslouchni, Elohime, mé modlitbě a neskrývej se přede mou prosbou.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Naslouchni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mé modlitbě"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "skývej se"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "před mou prosbou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:11.754047948Z",
+  "model": "glm-5.3"
+}

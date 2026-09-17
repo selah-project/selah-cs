@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Jako oni budou jejich tvůrci, všichni, kdo v ně doufají.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "Jako oni"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "budou"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "jejich tvůrci"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "doufají"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "v nich"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:46.433116209Z",
+  "model": "glm-5.3"
+}

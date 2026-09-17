@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Vyšel tedy král Jóram onoho dne ze Šomronu a provedl recens ⟨את⟩ celého Izraele.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jóram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onoho"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "ze Šomronu"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "a provedl recens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celého Izraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celého"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:52:17.250162117Z",
+  "model": "glm-5.3"
+}

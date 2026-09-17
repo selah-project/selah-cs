@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 85,
+  "translation": "Zdaž se ty nevrátíš, abys nás oživil, a tvůj lid se bude radovat v tobě?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Zdaž ne"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se nevrátíš"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "abys nás oživil"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "a tvůj lid"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se bude radovat"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:29.217915402Z",
+  "model": "glm-5.3"
+}

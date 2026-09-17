@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 26:22",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "David odpověděl a řekl: Hle, kopí ⟨to⟩ královo; a ať přejde jeden z mládenců a vezme je.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "odpověděl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "kopí"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "královo"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "a ať přejde"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "z mládenců"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "a vezme je"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:08.363312808Z",
+  "model": "glm-5.3"
+}

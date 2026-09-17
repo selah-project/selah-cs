@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A učinils ⟨ho⟩ o málo menším od Elohim, slávou a leskem ⟨ho⟩ korunuješ.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "učinils ⟨ho⟩ menším"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "o málo"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "od Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "slávou"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "leskem"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "korunuješ ⟨ho⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:35.770255014Z",
+  "model": "glm-5.3"
+}

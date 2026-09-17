@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Budete mi svatí, neboť svatý jsem já, Jahve; a oddělil jsem ⟨את⟩ vás od národů, abyste byli moji.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "budete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "svatí"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "אני",
+      "gloss": "jsem já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "a oddělil jsem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "od"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "abyste byli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "moji"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:28.602934420Z",
+  "model": "glm-5.3"
+}

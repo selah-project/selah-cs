@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A zemřel syn této ženy v noci, když na něm byla uléhala.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "A zemřel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "této"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "byla uléhala"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něm"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:50.424111924Z",
+  "model": "glm-5.3"
+}

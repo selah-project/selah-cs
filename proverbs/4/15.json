@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Vyhni se ⟨jí⟩, nepřejdi ⟨po ní⟩, uhní stranou od ní a přejdi ⟨dál⟩.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "Vyhni se ⟨jí⟩ — odvaž od sebe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne (přejdi)"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "nepřejdi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨po ní⟩"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "uhní stranou"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "od ní"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "a přejdi ⟨dál⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:36:46.949391107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "⟨את⟩ jednoho beránka připravíš ráno a ⟨את⟩ druhého beránka připravíš mezi večery.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednoho beránka"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "beránka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "připravíš"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "druhého beránka"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "beránka"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhého"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "připravíš"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "večery"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:58.809282617Z",
+  "model": "glm-5.3"
+}

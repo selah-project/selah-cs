@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Neboť jako jsou nebesa vysoko nad zemí, tak vysoko jsou mé cesty nad vašimi cestami a myšlenky moje nad vašimi myšlenkami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "vysoko jsou"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "nad zemí"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "vysoko jsou"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "mé cesty"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "nad vašimi cestami"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "a myšlenky moje"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "nad vašimi myšlenkami"
+    }
+  ],
+  "timestamp": "2026-09-17T08:15:20.860676463Z",
+  "model": "glm-5.3"
+}

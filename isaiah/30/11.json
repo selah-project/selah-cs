@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Odhlaste se z cesty, uhněte ze stezky, přestaňte nám ⟨připomínat⟩ ⟨את⟩ Svatého Izraele.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "odhlaste se"
+    },
+    {
+      "surface": "מני",
+      "gloss": "z"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cesty"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "uhněte"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ze"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "stezky"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "přestaňte"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "nám ⟨připomínat⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Svatého Izraele"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Svatého"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T10:58:52.854900028Z",
+  "model": "glm-5.3"
+}

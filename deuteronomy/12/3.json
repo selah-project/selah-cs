@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A rozbijete ⟨את⟩ jejich oltáře, a setřete ⟨את⟩ jejich stély, a jejich ašéry spálíte ohněm, a řezané modly jejich bohů porazíte, a zničíte ⟨את⟩ jejich jméno z toho místa.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "rozbijete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich oltáře"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "jejich oltáře"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "a setřete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich stély"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "jejich stély"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "a jejich ašéry"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "spálíte"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "a řezané modly"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "jejich bohů"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "porazíte"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "a zničíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich jméno"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "jejich jméno"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "toho místa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:35.318338583Z",
+  "model": "glm-5.3"
+}

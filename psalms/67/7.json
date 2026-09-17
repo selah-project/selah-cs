@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 67,
+  "translation": "Země dala svou úrodu, žehná nám Elohim, náš Elohim.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "dala"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "svou úrodu"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "žehná nám"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "náš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:18.724795264Z",
+  "model": "glm-5.3"
+}

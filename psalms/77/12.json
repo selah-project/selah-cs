@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 77,
+  "translation": "Připomenu si činy Jah, ano připomenu si od pradávna tvé divy.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Připomenu si"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "činy"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "připomenu si"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "od pradávna"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "tvé divy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:30.931149553Z",
+  "model": "glm-5.3"
+}

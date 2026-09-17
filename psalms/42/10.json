@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Říkám Elu, skálo má: Proč jsi mě zapomněl? Proč chodím ztemnělý útlakem nepřítele?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "říkám"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "skálo má"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "jsi mě zapomněl"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ztemnělý"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "chodím"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "útlakem"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nepřítele"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:30.939681226Z",
+  "model": "glm-5.3"
+}

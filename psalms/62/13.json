@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "A tobě, Adonaj, ⟨patří⟩ chesed, neboť ty odplácíš každému muži podle jeho činu.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "a tobě"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "chesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "odplácíš"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "každému muži"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "podle jeho činu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:26.809492258Z",
+  "model": "glm-5.3"
+}

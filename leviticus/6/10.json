@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Nebude pečena s kvašením; jako jejich podíl jsem ⟨to⟩ dal ⟨את⟩ z mých ohňových obětí; svaté ze svatých ⟨to⟩ je, jako oběť za hřích a jako oběť za vinu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nebude"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "pečena"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "s kvašením"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "jako jejich podíl"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "jsem dal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "z mých ohňových obětí"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "z mých ohňových obětí"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svaté"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ze svatých"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩ je"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "jako oběť za hřích"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "a jako oběť za vinu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:50.000012737Z",
+  "model": "glm-5.3"
+}

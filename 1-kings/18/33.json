@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A rovnal ⟨את⟩ dříví a rozčtvrtil ⟨את⟩ býka a položil ⟨jej⟩ na dříví.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "a rovnal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dříví"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dříví"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "a rozčtvrtil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "býka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "býka"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a položil"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dříví"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:26.771425890Z",
+  "model": "glm-5.3"
+}

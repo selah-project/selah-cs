@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "⟨Ten, který⟩ sedí ⟨v⟩ nebesích, se směje; Adonaj z nich posmívá ⟨se⟩.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "⟨Ten, který⟩ sedí"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "⟨v⟩ nebesích"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "se směje"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "posmívá"
+    },
+    {
+      "surface": "למו",
+      "gloss": "z nich"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:52.705503115Z",
+  "model": "glm-5.3"
+}

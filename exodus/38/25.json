@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "A stříbro sečtených ⟨od⟩ shromáždění ⟨bylo⟩ sto talentů a tisíc sedm set pět a sedmdesát šekelů, podle šekelu svatyně.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "A stříbro"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "sečtených"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "sto"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talentů"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "a tisíc"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "pět"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "a sedmdesát"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "šekelů"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "podle šekelu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "svatyně"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:00.185683288Z",
+  "model": "glm-5.3"
+}

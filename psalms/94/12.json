@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "Jak blaze ⟨tomu⟩ muži, jejž ty káráš, Jah, a z ⟨své⟩ tóry jej učíš!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Jak blaze"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨tomu⟩ muži"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jejž"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "ty káráš"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "a z ⟨své⟩ tóry"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "jej učíš"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:13.827488166Z",
+  "model": "glm-5.3"
+}

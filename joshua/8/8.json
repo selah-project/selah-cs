@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A stane se, když se zmocníte ⟨את⟩ ⟨toho⟩ města, zapálíte ⟨את⟩ ⟨to⟩ město ohněm; podle slova Jahve učiníte. Hle, přikázal jsem ⟨את⟩ vám.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "A stane se"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "když se zmocníte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨toho⟩ města"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "zapálíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨to⟩ město"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "podle slova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "učiníte"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "přikázal jsem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vám",
+      "marks": "vám"
+    }
+  ],
+  "timestamp": "2026-09-17T07:06:54.485339639Z",
+  "model": "glm-5.3"
+}

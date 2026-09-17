@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Saraj byla neplodná, neměla dítě.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "byla"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraj"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "neplodná"
+    },
+    {
+      "surface": "אין",
+      "gloss": "neměla"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨nic⟩ jí"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "dítě"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:40.741831993Z",
+  "model": "glm-5.3"
+}

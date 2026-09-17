@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Pokud nad ním vyšlo slunce, je vina krve — úplně zaplatí; pokud nemá ⟨nic⟩, bude prodán za svou krádež.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Pokud"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "vyšlo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "slunce"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "nad ním"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "vina krve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨za⟩ něj"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "úplně"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zaplatí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nemá"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨nic⟩"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "bude prodán"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "za svou krádež"
+    }
+  ],
+  "timestamp": "2026-09-17T06:22:59.801285471Z",
+  "model": "glm-5.3"
+}

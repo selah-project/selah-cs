@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Neboť zakolísala Jeruzalém a Judsko padlo, neboť jejich jazyk a jejich činy ⟨jsou⟩ proti Jahve, vzdorujíce očím jeho slávy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "zakolísala"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "a Judsko"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "padlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "jejich jazyk"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "a jejich činy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "proti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "vzdorujíce"
+    },
+    {
+      "surface": "עני",
+      "gloss": "očím"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "jeho slávy"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:38.752266951Z",
+  "model": "glm-5.3"
+}

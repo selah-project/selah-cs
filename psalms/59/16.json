@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Ti ⟨tam⟩ bloudí ⟨aby⟩ hledali ⟨potravu⟩; nebudou-li sytci, přečkou noc ⟨mručíce⟩.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "bloudí"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "aby hledali potravu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nebudou-li"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "sytci"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "přečkají noc"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:05.741425991Z",
+  "model": "glm-5.3"
+}

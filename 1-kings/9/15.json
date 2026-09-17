@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A toto ⟨je⟩ záležitost roboty, kterou vynesl král Šalomoun, aby postavil ⟨את⟩ dům Jahve, a ⟨את⟩ svůj dům, a ⟨את⟩ Milo, a ⟨את⟩ hradby Jeruzaléma, a ⟨את⟩ Chacor, a ⟨את⟩ Megido, a ⟨את⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "A toto"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "záležitost"
+    },
+    {
+      "surface": "המס",
+      "gloss": "roboty"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "vynesl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "aby postavil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svůj dům"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svůj dům"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Milo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "hradby Jeruzaléma"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "hradby"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Chacor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Chacor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Megido"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megido"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-17T07:45:25.425241854Z",
+  "model": "glm-5.3"
+}

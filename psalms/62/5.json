@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 62,
+  "translation": "Jen proto, aby jej svrhli z ⟨jeho⟩ vyvýšenosti, radí se; lži jim jsou libé; ústy žehnají, ale v nitru svém proklínají. Sela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "jeho vyvýšenosti"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "radí se"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "aby svrhli"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "jsou libé"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lži"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ústy"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "žehnají"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "v nitru svém"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "proklínají"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:03.186750044Z",
+  "model": "glm-5.3"
+}

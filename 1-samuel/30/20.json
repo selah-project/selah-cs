@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A David vzal ⟨את⟩ všechno stádo ⟨ovcí⟩ i skot; hnáli je před oním dobytkem, a říkali: „Tohle je Davidova kořist.“",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno stádo i skot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stádo ⟨ovcí⟩"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "i skot"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "hnáli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "dobytkem"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oním"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a říkali"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Tohle"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "kořist"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidova"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:35.203082010Z",
+  "model": "glm-5.3"
+}

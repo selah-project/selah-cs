@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Učiníš je jako pec ohnivou v čas ⟨tvé⟩ tváře, Jahve; ve svém hněvu je pohltí a oheň je sežere.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "učiníš je"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "jako pec"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ohně"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "v čas"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvé tváře"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ve svém hněvu"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "je pohltí"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "a (je) sežere"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:53.570048985Z",
+  "model": "glm-5.3"
+}

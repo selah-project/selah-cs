@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Jejich sečtení ⟨bylo⟩ pro kmen Gád: pět a čtyřicet tisíc a šest set a padesát.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "jejich sečtení"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pro kmen"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gád"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pět"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "a čtyřicet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "a šest"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "a padesát"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:08.671101729Z",
+  "model": "glm-5.3"
+}

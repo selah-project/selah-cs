@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A přišla ke své tchyni, ⟨ta⟩ řekla: Kdo jsi, dcero mojo? A vyprávěla jí ⟨את⟩ všechno, co ⟨s ní⟩ ten muž udělal.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "A přišla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "své tchyni"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "⟨ta⟩ řekla"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "את",
+      "gloss": "jsi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "dcero mojo"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "A vyprávěla"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨s ní⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ten muž"
+    }
+  ],
+  "timestamp": "2026-09-17T09:55:49.783975085Z",
+  "model": "glm-5.3"
+}

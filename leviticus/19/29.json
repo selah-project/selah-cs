@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Neposkvrnuj ⟨את⟩ svou dceru, abys ji vydal ⟨k⟩ smilstvu, aby ⟨ne⟩smilnila ⟨se⟩ země a země se nenaplnila nepravostí.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "poskvrnuj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou dceru"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "svou dceru"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "abys ji vydal smilstvu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "smilní"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "a naplní se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "nepravostí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:22.598405193Z",
+  "model": "glm-5.3"
+}

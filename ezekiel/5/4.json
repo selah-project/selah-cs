@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 5:4",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A z nich opět vezmeš a hodíš ⟨את⟩ je do středu ohně a spálíš ⟨את⟩ je ohněm; z něho vyjde oheň na celý dům Izraele.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "A z nich"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "opět"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "vezmeš"
+    },
+    {
+      "surface": "והשלכת",
+      "gloss": "a hodíš"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (do ohně)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "středu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ohně"
+    },
+    {
+      "surface": "ושרפת",
+      "gloss": "a spálíš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (ohněm)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něho"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "vyjde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T08:39:35.611880882Z",
+  "model": "glm-5.3"
+}

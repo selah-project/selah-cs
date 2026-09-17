@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A stalo se ve čtyřicátém roce, v jedenáctém měsíci, prvního ⟨dne⟩ měsíce, promluvil Mojžíš k synům Izraele podle všeho, co jim Jahve přikázal ⟨את⟩ jemu ⟨k nim⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "ve čtyřicátém"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roce"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "v jedenáctém"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "měsíci"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "prvního"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jemu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T13:05:34.595017204Z",
+  "model": "glm-5.3"
+}

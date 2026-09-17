@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Zabiješ, jistě zabiješ ⟨את⟩ obyvatele toho města ostřím meče; vydáš ⟨אתה⟩ zkáze ⟨ך Cherem⟩ ⟨את⟩ vše, co je v ní, i ⟨את⟩ její dobytek ostřím meče.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Zabiješ"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "jistě zabiješ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obyvatele toho města"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "obyvatele"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "toho"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostřím"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meče"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "vydáš zkáze"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨אתה⟩",
+      "marks": "ono město (ji)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vše, co je v ní"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "בה",
+      "gloss": "je v ní"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "její dobytek"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "její dobytek"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ostřím"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "meče"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:59.472334212Z",
+  "model": "glm-5.3"
+}

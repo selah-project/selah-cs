@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A má duše ⟨je⟩ roztřesená velice; a ty, Jahve — dokud ⟨budeš čekat⟩?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "A má duše"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "je roztřesená"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velice"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "⟨budeš čekat⟩? jak dlouho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:44.961980571Z",
+  "model": "glm-5.3"
+}

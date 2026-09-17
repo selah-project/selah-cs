@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Řekl jsem: Jistě se ⟨את⟩ mě budeš bát, vezmeš napomenutí, a nebude vyhlazeno její obydlí — všechno, co jsem na ni uložil; však oni časně vstávali, kazili všechny své činy.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Řekl jsem"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Jistě"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "se budeš bát"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mě",
+      "marks": "mne — objekt slovesa „bát se“ (תִּירְאִי)"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "vezmeš"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "napomenutí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nebude"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "vyhlazeno"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "její obydlí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "jsem uložil"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na ni"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "však"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "časně vstávali"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "kazili"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "své činy"
+    }
+  ],
+  "timestamp": "2026-09-17T13:40:41.574964108Z",
+  "model": "glm-5.3"
+}

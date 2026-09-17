@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 92,
+  "translation": "na desetistrunném ⟨nástroji⟩ a na nevelu, na higujon s kinorem.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "desetistrunném ⟨nástroji⟩"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "a na"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevelu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higujon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "s kinorem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:21.002760525Z",
+  "model": "glm-5.3"
+}

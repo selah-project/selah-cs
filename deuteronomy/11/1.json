@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Budeš milovat ⟨את⟩ Jahve, svého Elohima, a budeš střežit jeho stráž a jeho ustanovení a jeho práva a jeho přikázání po všechny dny.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "budeš milovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "a budeš střežit"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "jeho stráž"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "a jeho ustanovení"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "a jeho práva"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "a jeho přikázání"
+    },
+    {
+      "surface": "כל",
+      "gloss": "po všechny"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dny"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:19.541800082Z",
+  "model": "glm-5.3"
+}

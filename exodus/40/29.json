@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 40:29",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A ⟨את⟩ oltář zápalné oběti postavil u vchodu příbytku stanu setkávání; a přinášel na něm ⟨את⟩ zápalnou oběť a ⟨את⟩ obědinu, jak přikázal Jahve ⟨את⟩ Mojžíšovi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalné oběti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "u vchodu"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "příbytku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a přinášel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zápalnou oběť"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalnou oběť"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "obědinu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:32.139044878Z",
+  "model": "glm-5.3"
+}

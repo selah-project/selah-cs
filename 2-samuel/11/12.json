@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 11:12",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "David řekl Uriášovi: Zůstaň i tento den a zítra ⟨tě⟩ propustím. Uriáš zůstal v Jeruzalémě onen den i nazítří.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriášovi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "zůstaň"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "v tomto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tento den"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "a zítra"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "tě propustím"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "zůstal"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriáš"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onen"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "i nazítří"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:46.483112658Z",
+  "model": "glm-5.3"
+}

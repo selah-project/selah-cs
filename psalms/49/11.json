@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Neboť ⟨vidí⟩, že moudří umírají, spolu hlupák i nevzdělanec zahynou a zanechají svůj majetek jiným.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "⟨vidí⟩"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "moudří"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "umírají"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "spolu"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "hlupák"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "i nevzdělanec"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "zahynou"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "a zanechají"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "jiným"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "svůj majetek"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:32.704228302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Rozmlouvají o mně sedící ⟨v⟩ bráně, a o ⟨pěních⟩ pijáci silného nápoje.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "rozmlouvají"
+    },
+    {
+      "surface": "בי",
+      "gloss": "o mně"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "sedící"
+    },
+    {
+      "surface": "שער",
+      "gloss": "bráně"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "o ⟨pěních⟩"
+    },
+    {
+      "surface": "שותי",
+      "gloss": " pijáci"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "silného nápoje"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:12.382461314Z",
+  "model": "glm-5.3"
+}

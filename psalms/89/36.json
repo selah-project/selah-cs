@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Jednou jsem přisáhl svou svatostí: Davidovi nelžu ⟨nebudu⟩.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "jednou"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jsem přisáhl"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "svou svatostí"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ že ⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "nelžu ⟨nebudu⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:07.784903539Z",
+  "model": "glm-5.3"
+}

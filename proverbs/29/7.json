@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Spravedlivý zná právo chudých, ničemný nechápe poznání.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Spravedlivý"
+    },
+    {
+      "surface": "דין",
+      "gloss": "právo"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "chudých"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ničemný"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "chápe"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "poznání"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:03.030398341Z",
+  "model": "glm-5.3"
+}

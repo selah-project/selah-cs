@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A řekl král: Kdo je na dvoře? A Haman právě přišel na vnější dvůr královského domu, aby řekl králi obeslat ⟨את⟩ Mordokaje na dřevo, které připravil jemu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "je na dvoře"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "A Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "na dvůr"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "královského"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "vnější"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aby řekl"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "obeslat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordokaje"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokaje"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "dřevo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "připravil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:47.384491693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "I vzal knihu smlouvy a četl ⟨do⟩ uší lidu; a lid řekl: Vše, co mluvil Jahve, vykonáme a budeme poslouchat.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "knihu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a četl"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "do uší"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluvil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "vykonáme"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "a budeme poslouchat"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:23.958157882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Celý den je má hanba přede mnou a stud mé tváře přikryl mě.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "má hanba"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "přede mnou"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "a stud"
+    },
+    {
+      "surface": "פני",
+      "gloss": "mé tváře"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "přikryl mě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:10.331061343Z",
+  "model": "glm-5.3"
+}

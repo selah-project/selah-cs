@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Když jeho lampa svítila nad mou hlavou, při jeho světle jsem chodil ⟨skrze⟩ temnotu.",
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "Když svítila"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "jeho lampa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mou hlavou"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "při jeho světle"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "jsem chodil"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "temnotu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:50:40.419251195Z",
+  "model": "glm-5.3"
+}

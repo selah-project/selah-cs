@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Neboť jsem střežil cesty Jahveho a nekonal jsem svévolně proti svému Elohimu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "jsem střežil"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "cesty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "konal jsem svévolně"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "proti svému Elohimu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:51.163523365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Viz, dal jsem před tebou dnes ⟨את⟩ život a ⟨את⟩ dobro, a ⟨את⟩ smrt a ⟨את⟩ zlo.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "viz"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "dal jsem"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "život"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "život"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dobro"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "dobro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "smrt"
+    },
+    {
+      "surface": "המות",
+      "gloss": "smrt"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zlo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:02:25.759900898Z",
+  "model": "glm-5.3"
+}

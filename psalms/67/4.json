@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 67,
+  "translation": "Ať tě vzdávají díky národy, Elohime; ať tě vzdávají díky národy všechny.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ať tě vzdávají díky"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ať tě vzdávají díky"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všechny"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:17.836221757Z",
+  "model": "glm-5.3"
+}

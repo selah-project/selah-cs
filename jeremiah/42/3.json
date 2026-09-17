@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "a ⟨ať⟩ nám oznámí Jahve, tvůj Elohim, ⟨את⟩ cestu, kterou půjdeme, i ⟨את⟩ věc, kterou učiníme.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "a ⟨ať⟩ oznámí"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cestu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "půjdeme"
+    },
+    {
+      "surface": "בה",
+      "gloss": "po ní"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "věc"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "učiníme"
+    }
+  ],
+  "timestamp": "2026-09-17T08:32:41.233945613Z",
+  "model": "glm-5.3"
+}

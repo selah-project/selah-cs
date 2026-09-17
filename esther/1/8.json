@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A pití ⟨bylo⟩ podle zákona: žádné nucení, neboť tak přikázal král všem předním ⟨sluhům⟩ svého domu, aby konali podle vůle každého jednotlivého muže.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "a pití"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "podle zákona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "žádné"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "nucení"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "על",
+      "gloss": "všem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "רב",
+      "gloss": "předním"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svého domu"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "aby konali"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "podle vůle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každého jednotlivého"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "muže"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:01.229410558Z",
+  "model": "glm-5.3"
+}

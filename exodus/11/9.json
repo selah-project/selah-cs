@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A Jahve řekl Moše: Farao vás neposlechne, aby se rozmnožila ⟨moje⟩ znamení v zemi Micrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(ke) Mošemu — k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "poslechne"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vás"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "se rozmnožila"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "⟨moje⟩ znamení"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:30.788609625Z",
+  "model": "glm-5.3"
+}

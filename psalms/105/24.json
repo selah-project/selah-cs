@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "A rozmnožil ⟨את⟩ svůj lid velmi a učinil jej mocnějším než jeho protivníky.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "a rozmnožil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj lid"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "svůj lid"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "učinil jej mocnějším"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "než jeho protivníky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:03.839468274Z",
+  "model": "glm-5.3"
+}

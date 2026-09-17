@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Zdali celý den oráč orá, aby sel? Zdali ⟨se⟩ rozhrnuje a hrabuje svou půdu?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "orá"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "oráč"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "aby sel"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "rozhrnuje"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "a hrabuje"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "svou půdu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:45:25.222819746Z",
+  "model": "glm-5.3"
+}

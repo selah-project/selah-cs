@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Viděl jsem ⟨את⟩ všechny živé, kteří se procházejí pod sluncem, s tím mladíkem, druhým, který má stát na jeho místě.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "viděl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny živé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "živé"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "kteří se procházejí"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sluncem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mladíkem"
+    },
+    {
+      "surface": "השני",
+      "gloss": "druhým"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "má stát"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na jeho místě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:39.573530318Z",
+  "model": "glm-5.3"
+}

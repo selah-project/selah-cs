@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Zkrátil jsi dny jeho mládí, přikryl jsi ho hanbou. Sela.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "zkrátil jsi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dny"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "jeho mládí"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "přikryl jsi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "hanbou"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:18.077050288Z",
+  "model": "glm-5.3"
+}

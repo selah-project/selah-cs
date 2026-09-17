@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Činí větry svými posly, plamenný oheň svými služebníky.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Činí"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "svými posly"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "větry"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "svými služebníky"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "להט",
+      "gloss": "plamenný"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:40.063688416Z",
+  "model": "glm-5.3"
+}

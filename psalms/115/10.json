@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Dome Áronův, doufejte v Jahve; jejich pomocí a jejich štítem ⟨je⟩ on.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Dome"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áronův"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "doufejte"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "v Jahve"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "jejich pomocí"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "a jejich štítem"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:13.860054310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "Chvění ⟨se⟩ jich zmocnilo tam, bolest ⟨jako⟩ u rodičky.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "chvění"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "zmocnilo je"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bolest"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "⟨jako⟩ u rodičky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:38.902681555Z",
+  "model": "glm-5.3"
+}

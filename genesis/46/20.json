@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "A Josefovi se narodili v zemi Egypta, kteréž mu porodila Asnat, dcera Potí-fera, kněze z Ónu: ⟨את⟩ Manasesa a ⟨את⟩ Efrajima.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "A narodili se"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "Josefovi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteréž"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "porodila"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Asnat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcera"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Potí-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "fera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "אן",
+      "gloss": "z Ónu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Manasesa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Efrajima"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:02.386458880Z",
+  "model": "glm-5.3"
+}

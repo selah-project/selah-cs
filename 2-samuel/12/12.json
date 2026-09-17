@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Neboť ty jsi to udělal v skrytu, ale já udělám ⟨את⟩ tuto věc před celým Izraelem a před sluncem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi udělal"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "v skrytu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ale já"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "udělám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto věc"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "před"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celým"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "a před"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sluncem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:14.481831248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Nechť se ⟨proto⟩ skončí zlo bezbožných a ty upevni spravedlivého; ⟨a⟩ ten, kdo zkoumá srdce a ledviny, ⟨je⟩ spravedlivý Elohim.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "skončí se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím ⟨proto⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "a upevni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivého"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "a ten, kdo zkoumá"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "a ledviny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:50.728892259Z",
+  "model": "glm-5.3"
+}

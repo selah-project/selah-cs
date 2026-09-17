@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 138,
+  "translation": "Když budu chodit uprostřed tísně, zachováš mě při životě; proti hněvu mých nepřátel vztáhneš svou ruku a tvá pravice mě spasí.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Když"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "budu chodit"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tísně"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "zachováš mě při životě"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hněvu"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "mých nepřátel"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "vztáhneš"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "a spasí mě"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvá pravice"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:45.647926692Z",
+  "model": "glm-5.3"
+}

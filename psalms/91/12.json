@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 91,
+  "translation": "Na dlaních tě ponesou, abys si o kámen nepodal nohu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "dlaních"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "tě ponesou"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abys ne"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "narazil"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "o kámen"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "svou nohu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:44.822159302Z",
+  "model": "glm-5.3"
+}

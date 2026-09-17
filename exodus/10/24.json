@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I zavolal Paroh Moše a řekl: Jděte, služte ⟨את⟩ Jahve! Jen vaše ovce a váš skot ať ⟨zůstane⟩ ⟨na místě⟩, také vaše děti ať jdou s vámi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "zavolal"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "jděte"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "služte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "jen"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "vaše ovce"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "váš skot"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "ať zůstane"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "vaše děti"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ať jdou"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vámi"
+    }
+  ],
+  "timestamp": "2026-09-17T13:04:22.670423324Z",
+  "model": "glm-5.3"
+}

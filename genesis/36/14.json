@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A tito byli synové Oholíbamy, dcery Aná, dcery Cibeona, ženy Esauovy; a porodila Esauovi ⟨את⟩ Jeúše a ⟨את⟩ Jaalama a ⟨את⟩ Koracha.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "A tito"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholíbamy"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcery"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Aná"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dcery"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Cibeona"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esauovy"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "a porodila"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esauovi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeúše"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeúš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Jaalama"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Koracha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:26.406625382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 81,
+  "translation": "Zvedněte píseň, dejte zvuk tamburíně, kinor sladce ⟨znej⟩ s nevelem!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Zvedněte"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "dejte zvuk"
+    },
+    {
+      "surface": "תף",
+      "gloss": "tamburíně"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "sladce"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevelem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:48.274818811Z",
+  "model": "glm-5.3"
+}

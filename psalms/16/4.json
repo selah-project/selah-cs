@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Ať se rozmnoží jejich bolesti <kvůli> jinému <bohu>: spěchali za ním. Nalévat nebudu jejich libace z krve a nevezmu ⟨את⟩ jejich jména na své rty.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "ať se rozmnoží"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "jejich bolesti"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jiného"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "spěchali"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "nalévat budu"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "jejich libace"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "z krve"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "vezmu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich jména"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "jejich jména"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "své rty"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:15.928386206Z",
+  "model": "glm-5.3"
+}

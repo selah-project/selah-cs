@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 144,
+  "translation": "Vysvoboď mě a zachraň mě z ruky synů cizinců, jejichž ústa mluví klam a jejich pravice ⟨je⟩ pravice lži.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Vysvoboď mě"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "a zachraň mě"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "cizinců"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jejichž"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ústa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mluví"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "klam"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "a jejich pravice"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "pravice"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lži"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:27.623071914Z",
+  "model": "glm-5.3"
+}

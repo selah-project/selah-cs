@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 17:8",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "a byl jsem s tebou všude, kde jsi chodil, a vyhladil jsem ⟨את⟩ všechny tvé nepřátele před tebou, a učinil jsem ti jméno jako jméno velikánů, kteří ⟨jsou⟩ na zemi.",
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "a byl jsem"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "všude"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "jsi chodil"
+    },
+    {
+      "surface": "ואכרית",
+      "gloss": "a vyhladil jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny tvé nepřátele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "tvé nepřátele"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "a učinil jsem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "jako jméno"
+    },
+    {
+      "surface": "הגדולים",
+      "gloss": "velikánů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T11:24:18.514140694Z",
+  "model": "glm-5.3"
+}

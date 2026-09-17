@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A řekli: Pokud posíláte ⟨את⟩ archu Elohim Izraele, neposílejte ⟨את⟩ ji prázdnou, neboť jistě mu navrátíte vinu ⟨obět⟩; tehdy budete uzdraveni a bude vám dáno vědět, proč jeho ruka neodvrací se od vás.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "A řekli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Pokud"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "posíláte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "posílejte"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ji",
+      "marks": "prázdnou"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "prázdnou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "השב",
+      "gloss": "jistě navrátíte"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "navrátíte"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "vinu"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tehdy"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "budete uzdraveni"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "a bude dáno vědět"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "למה",
+      "gloss": "proč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "odvrací se"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jeho ruka"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "od vás"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:27.573436286Z",
+  "model": "glm-5.3"
+}

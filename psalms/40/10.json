@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "Zvěstoval jsem spravedlnost ve velkém shromáždění; hle, rty své nezadržím, Jahve, ty znáš.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "zvěstoval jsem"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ve shromáždění"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velkém"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "rty své"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "nezadržím"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znáš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:24.479406248Z",
+  "model": "glm-5.3"
+}

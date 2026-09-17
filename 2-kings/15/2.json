@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 15:2",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Šestnáct let byl, když se stal králem, a padesát dva let kraloval v Jeruzalémě; jméno jeho matky ⟨bylo⟩ Jekaljahu z Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "let"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šest"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-náct"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "byl"
+    },
+    {
+      "surface": "היה",
+      "gloss": "když"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "se stal králem"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "padesát"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "dva"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "let"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kraloval"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "jeho matky"
+    },
+    {
+      "surface": "יכליהו",
+      "gloss": "Jekaljahu"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "z Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T10:56:13.140911768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Úmysly snažného ⟨vedou⟩ pouze k přebytku, ale každý ukvapený ⟨jen⟩ k nedostatku.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "úmysly"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "snažného"
+    },
+    {
+      "surface": "אך",
+      "gloss": "pouze"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "k přebytku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ale každý"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "ukvapený"
+    },
+    {
+      "surface": "אך",
+      "gloss": "⟨jen⟩"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "k nedostatku"
+    }
+  ],
+  "timestamp": "2026-09-17T09:40:40.763073903Z",
+  "model": "glm-5.3"
+}

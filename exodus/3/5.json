@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl: Nepřibližuj se ⟨sem⟩; zuj sandály z nohou svých, neboť místo, na němž stojíš, země svatá ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "přibližuj se"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "sem"
+    },
+    {
+      "surface": "של",
+      "gloss": "zuj"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "sandály své"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "nohou svých"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "stojíš"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na němž"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "země"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatá"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:12.326723295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Ještě chvíli, a nenálezá se bezbožný; budeš-li se rozhlížet po jeho místě, není ho.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "chvíli"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nenálezá se"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bezbožný"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "budeš-li se rozhlížet"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "jeho místě"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "není ho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:05.017667991Z",
+  "model": "glm-5.3"
+}

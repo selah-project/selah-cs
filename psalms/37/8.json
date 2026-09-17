@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Ustupti od hněvu a opusť zuřivost; nerozhorluj se — ⟨to vede⟩ jen ke zlu.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Ustupti od"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "hněvu"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "a opusť"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "zuřivost"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "rozhorluj se"
+    },
+    {
+      "surface": "אך",
+      "gloss": "jen"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ke zlu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:18.824452408Z",
+  "model": "glm-5.3"
+}

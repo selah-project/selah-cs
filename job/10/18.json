@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 10:18",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A proč jsi mě vyvedl z lůna? ⟨Kéby⟩ bych vydechl ⟨naposledy⟩ ⟨a⟩ ⟨žádné⟩ oko mě nespatřilo.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "a proč"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "z lůna"
+    },
+    {
+      "surface": "הצאתני",
+      "gloss": "jsi mě vyvedl"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "⟨kéby⟩ jsem vydechl ⟨naposledy⟩"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "⟨a⟩ ⟨žádné⟩ oko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "mě nespatřilo"
+    }
+  ],
+  "timestamp": "2026-09-17T13:00:59.984360081Z",
+  "model": "glm-5.3"
+}

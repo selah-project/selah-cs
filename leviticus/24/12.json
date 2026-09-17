@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A nechali jej ve vazbě, aby jim to bylo vyloženo podle úst Jahve.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "a nechali jej"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "ve vazbě"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "aby bylo vyloženo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "על",
+      "gloss": "podle"
+    },
+    {
+      "surface": "פי",
+      "gloss": "úst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:10.249628316Z",
+  "model": "glm-5.3"
+}

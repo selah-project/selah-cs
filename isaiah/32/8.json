@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Avšak šlechetný vymýšlí šlechetné věci a on nad šlechetnými ⟨věcmi⟩ povstane.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "avšak šlechetný"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "šlechetné"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "vymýšlí"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "šlechetnými ⟨věcmi⟩"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "povstane"
+    }
+  ],
+  "timestamp": "2026-09-17T08:09:12.540541711Z",
+  "model": "glm-5.3"
+}

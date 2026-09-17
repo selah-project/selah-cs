@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 15:7",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Když bude mezi tebou chudý, jeden z tvých bratří, v jedněch z tvých bran, ve tvé zemi, kterou ti dává Jahve, tvůj Elohim, nezatvrdíš ⟨את⟩ své srdce a nezavřeš ⟨את⟩ svou ruku před svým bratrem, chudým.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "בך",
+      "gloss": "mezi tebou"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "chudý"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "jeden z"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvých bratří"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "v jedněch"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "z tvých bran"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ve tvé zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dává"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאמץ",
+      "gloss": "zatvrdíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své srdce"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "své srdce"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תקפץ",
+      "gloss": "zavřeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "před svým bratrem"
+    },
+    {
+      "surface": "האביון",
+      "gloss": "chudým"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:37.761949729Z",
+  "model": "glm-5.3"
+}

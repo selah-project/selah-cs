@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "nybrž široce otevřeš ⟨את⟩ svou ruku jemu a zajisté mu půjčíš, kolik mu schází, čeho mu bude nedostávat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nybrž"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "široce otevřít"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "otevřeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "zajisté půjčit"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "mu půjčíš"
+    },
+    {
+      "surface": "די",
+      "gloss": "kolik"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "mu schází"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "bude nedostávat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:57:37.763907537Z",
+  "model": "glm-5.3"
+}

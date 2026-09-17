@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Moudrý muž ⟨je⟩ v silném postavení, a muž poznání upevňuje sílu.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "muž"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moudrý"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "v silném postavení"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a muž"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "poznání"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "upevňuje"
+    },
+    {
+      "surface": "כח",
+      "gloss": "sílu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:31.933582554Z",
+  "model": "glm-5.3"
+}

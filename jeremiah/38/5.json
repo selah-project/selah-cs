@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "A řekl král Cidkijáhu: Hle, on ⟨je⟩ ve vašich rukou, neboť král není vám schopen ⟨odpírat⟩ ⟨את⟩ žádnou věc.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijáhu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ve vašich rukou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "schopen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vám"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "žádnou věc"
+    }
+  ],
+  "timestamp": "2026-09-17T08:31:47.031296698Z",
+  "model": "glm-5.3"
+}

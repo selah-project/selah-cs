@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "a z ruky krále Asýrie tě vytrhnu, i ⟨את⟩ toto město, a budu toto město chránit.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "a z ruky"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asýrie"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "tě vytrhnu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "toto město"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toto město"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "toto"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "a budu chránit"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "toto"
+    }
+  ],
+  "timestamp": "2026-09-17T08:10:46.028572315Z",
+  "model": "glm-5.3"
+}

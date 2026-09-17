@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Podle konání země egyptské, v níž jste bydleli, nebudete konat; a podle konání země kenaanské, do níž vás já zavádím ⟨את⟩ tam, nebudete konat; a v jejich ustanoveních nebudete chodit.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "Podle konání"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "egyptské"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v níž"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "jste bydleli"
+    },
+    {
+      "surface": "בה",
+      "gloss": "(v ní)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "budete konat"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "a podle konání"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "kenaanské"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "do níž"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "zavádím"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vy (synové Izraele)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "budete konat"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "a v jejich ustanoveních"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "budete chodit"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:23.110341628Z",
+  "model": "glm-5.3"
+}

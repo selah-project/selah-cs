@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Vytrhej se jako gazela z ruky ⟨lovce⟩, a jako pták z ruky ⟨lovce ptáků⟩.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "Vytrhej se"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "jako gazela"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky ⟨lovce⟩"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "a jako pták"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "⟨lovce ptáků⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:37:10.335655813Z",
+  "model": "glm-5.3"
+}

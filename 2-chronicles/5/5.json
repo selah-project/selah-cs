@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A vynesli ⟨את⟩ archu, ⟨את⟩ stan setkávání a ⟨את⟩ všechny posvátné nádoby, které byly ve stanu; vynesli ⟨את⟩ ty kněží-levité.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "a vynesli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "stan setkávání"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechny posvátné nádoby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nádoby"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "posvátné"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ve stanu"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "vynesli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ty (kněží-levity)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levité"
+    }
+  ],
+  "timestamp": "2026-09-17T10:25:05.336176576Z",
+  "model": "glm-5.3"
+}

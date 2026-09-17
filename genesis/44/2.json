@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "A ⟨את⟩ můj pohár, pohár stříbrný, vlož do úst vaku nejmladšího, i ⟨את⟩ jeho stříbro za obilí. A učinil podle slova Josefova, které řekl.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "můj pohár"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "můj pohár"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "pohár"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbrný"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "vlož"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "do úst"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "vaku"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "nejmladšího"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho stříbro"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "za obilí"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "podle slova"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "řekl"
+    }
+  ],
+  "timestamp": "2026-09-17T06:13:32.897270105Z",
+  "model": "glm-5.3"
+}

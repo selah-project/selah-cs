@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Kde ⟨je⟩ tvůj král ⟨teď⟩, aby tě zachránil ve všech tvých městech, a tví soudci, o nichž jsi řekl: Dej mi krále a knížata?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "Kde"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "tvůj král"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "⟨teď⟩"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "aby tě zachránil"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ve všech"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "tvých městech"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "a tví soudci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o nichž"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "jsi řekl"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Dej"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "a knížata"
+    }
+  ],
+  "timestamp": "2026-09-17T08:57:11.886970029Z",
+  "model": "glm-5.3"
+}

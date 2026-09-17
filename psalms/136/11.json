@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 136,
+  "translation": "a vyvedl Izraele z jejich středu, neboť na věky trvá jeho chesed.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "a vyvedl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "z jejich středu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:03.305940375Z",
+  "model": "glm-5.3"
+}

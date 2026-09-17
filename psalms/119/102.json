@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Od tvých výroků jsem neustoupil, protože ty jsi mě vyučil.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "od tvých výroků"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "jsem ustoupil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "jsi mě vyučil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:05.515422904Z",
+  "model": "glm-5.3"
+}

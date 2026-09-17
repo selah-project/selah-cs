@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 20:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A písaři promluví k lidu a řeknou: Kdo ⟨je⟩ muž, který postavil nový dům a dosud jej nezasvětil? Neť jde a vrátí se ke svému domu, aby nezemřel v bitvě a jiný muž jej nezasvětil.",
+  "tokens": [
+    {
+      "surface": "ודברו",
+      "gloss": "a promluví"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "písaři"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řeknou"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nový"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "חנכו",
+      "gloss": "jej zasvětil"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "neť jde"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a vrátí se"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ke svému domu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aby ne"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemřel"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "v bitvě"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a muž"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jiný"
+    },
+    {
+      "surface": "יחנכנו",
+      "gloss": "jej zasvětil"
+    }
+  ],
+  "timestamp": "2026-09-17T06:59:34.713577275Z",
+  "model": "glm-5.3"
+}

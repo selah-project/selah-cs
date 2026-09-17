@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 72,
+  "translation": "A bude žít, a dá se mu zlata ze Šeby, a bude se za něj modlit stále, každý den ⟨ho⟩ budou žehnat.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a bude žít"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dá se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "z zlata"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ze Šeby"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "a bude se modlit"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "za něj"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "היום",
+      "gloss": "den"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "budou žehnat ⟨ho⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:44.127505009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A Balak vzal ⟨את⟩ Bilama na vrchol Peoru, který se dívá tváří k poušti.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilama"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilama"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "vrchol"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peoru"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "který se dívá"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "poušti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:47:54.416410435Z",
+  "model": "glm-5.3"
+}

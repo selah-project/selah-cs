@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "A budu mít slovo ⟨v odpověď⟩ tomu, kdo mě haní, neboť doufám v tvé slovo.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "a budu mít ⟨v odpověď⟩"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "tomu, kdo mě haní"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "doufám"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "v tvé slovo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:44.711395658Z",
+  "model": "glm-5.3"
+}

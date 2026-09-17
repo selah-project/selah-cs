@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Ráno rozsej ⟨את⟩ své semeno, a k večeru nech svou ruku odpočívat — neboť nevíš, zda zdáří se to či ono, a obě spolu dobře.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "rozsej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "semeno"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "své semeno"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "a k večeru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "nech odpočívat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "nevíš"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "víš"
+    },
+    {
+      "surface": "אי",
+      "gloss": "zda"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kde"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "zdáří"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "או",
+      "gloss": "či"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ono"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "obě"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "spolu"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "dobře"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:27.631271073Z",
+  "model": "glm-5.3"
+}

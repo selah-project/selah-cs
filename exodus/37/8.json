@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Jeden cherub na konci z této strany a jeden cherub na konci z té strany; ze slitováčníku udělal ⟨את⟩ cheruby na jeho dvou koncích.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "Jeden cherub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "na konci"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "z této strany"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "a cherub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "na konci"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "z té strany"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "slitováčníku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cheruby"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "cheruby"
+    },
+    {
+      "surface": "משני",
+      "gloss": "na jeho dvou"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "koncích"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:20.884867219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "V tvých ustanoveních se budu kochat, nezapomenu tvé slovo.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "v tvých ustanoveních"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "se budu kochat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "zapomenu"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "tvé slovo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:41.256471139Z",
+  "model": "glm-5.3"
+}

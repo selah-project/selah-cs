@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A neptal se Jahve, a ⟨ten⟩ ho usmrtil a obrátil ⟨את⟩ království k Davidovi, synu Jišajovu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ptal se"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "usmrtil ho"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "a obrátil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "království"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "království"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "k Davidovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synovi"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaj"
+    }
+  ],
+  "timestamp": "2026-09-17T10:17:47.506816397Z",
+  "model": "glm-5.3"
+}

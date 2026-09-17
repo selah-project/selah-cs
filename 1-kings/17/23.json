@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 17:23",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A Elijáš vzal ⟨את⟩ dítě, sestoupil s ním z horní síně dolů do domu a dal jej jeho matce; a řekl Elijáš: „Vidíš, živ je tvůj syn.“",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dítě"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "dítě"
+    },
+    {
+      "surface": "וירדהו",
+      "gloss": "sestoupil s ním"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "horní síně"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "dolů do domu"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "a dal jej"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "jeho matce"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijáš"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "vidíš"
+    },
+    {
+      "surface": "חי",
+      "gloss": "živ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvůj syn"
+    }
+  ],
+  "timestamp": "2026-09-17T07:48:04.298772795Z",
+  "model": "glm-5.3"
+}

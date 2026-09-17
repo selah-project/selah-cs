@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Neboť si to uhladil ve vlastních očích, ⟨aby⟩ nenalezl svou vinu a nenáviděl ⟨ji⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "si to uhladil"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k sobě"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ve vlastních očích"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "aby nalezl"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "svou vinu"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "nenávidět"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:39.650340930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A Jahve řekl Mojžíšovi: Proč ke mně křičíš? Mluv ⟨k⟩ synům Izraele, a ať jdou vpřed.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "křičíš"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Mluv"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "a ať jdou vpřed"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:48.356795305Z",
+  "model": "glm-5.3"
+}

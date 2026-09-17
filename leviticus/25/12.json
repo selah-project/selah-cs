@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Neboť jovel to ⟨je⟩, svatý bude vám; z pole budete jíst ⟨את⟩ jeho úrodu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "jovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "to"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "svatý"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "budete jíst"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho úrodu"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "jeho úrodu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:27.834170087Z",
+  "model": "glm-5.3"
+}

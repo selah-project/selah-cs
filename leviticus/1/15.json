@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A kněz ji přivede k oltáři a štípne ⟨את⟩ její hlavu a zadýmí ji na oltáři; a její krev bude vylisována na stěnu oltáře.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "a přivede ji"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "a štípne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její hlavu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "její hlavu"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a zadýmí"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na oltáři"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "a bude vylisována"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "její krev"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "stěnu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:01.772867368Z",
+  "model": "glm-5.3"
+}

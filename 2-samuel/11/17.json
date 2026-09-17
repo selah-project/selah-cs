@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A muži ⟨města⟩ vytáhli a bojovali s ⟨את⟩ Joabem; a padli z lidu, z Davidových služebníků, a zemřel také Uríja Chetejský.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "vytáhli"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muži"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨města⟩"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "a bojovali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joabem"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabem"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "a padli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "z služebníků"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidových"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uríja"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Chetejský"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:22.572379462Z",
+  "model": "glm-5.3"
+}

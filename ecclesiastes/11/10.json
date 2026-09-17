@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Odstraň prchlivost ze svého srdce a odejmi zlo ze svého těla, neboť mladost i černá kadeř ⟨jsou⟩ hebel.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "a odstraň"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "prchlivost"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "ze svého srdce"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "a odejmi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "ze svého těla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "mladost"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "černá kadeř"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:52.341406355Z",
+  "model": "glm-5.3"
+}

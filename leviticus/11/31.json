@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 11:31",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Toto je pro vás nečisté ze všeho, co se hemží: každý, kdo se jich dotkne, když jsou mrtvé, bude nečistý až do večera.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "הטמאים",
+      "gloss": "nečisté"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pro vás"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ze všeho"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "co se hemží"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kdo se dotkne"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jich"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "když jsou mrtvé"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bude nečistý"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večera"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:00.732014112Z",
+  "model": "glm-5.3"
+}

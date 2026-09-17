@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 76,
+  "translation": "Pro předního zpěváka, s doprovodem strunných nástrojů. Žalm Asafovi, píseň.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Pro předního zpěváka"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "s doprovodem strunných nástrojů"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "žalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafovi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:23.129522892Z",
+  "model": "glm-5.3"
+}

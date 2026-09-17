@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Neboť svou duši nedáš ⟨oddat⟩ šeolu, nedopustíš, aby tvůj zbožný viděl jámu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "opustíš"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "svou duši"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "šeolu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nedáš"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "tvůj zbožný"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "aby viděl"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "jámu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:54.311644687Z",
+  "model": "glm-5.3"
+}

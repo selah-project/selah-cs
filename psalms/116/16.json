@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 116,
+  "translation": "Ach, Jahve, vždyť já jsem tvůj služebník, já jsem tvůj služebník, syn tvé otrokyně — pouta má jsi rozvázal.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jsem tvůj služebník"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jsem tvůj služebník"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "tvé otrokyně"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "jsi rozvázal"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "pouta má"
+    }
+  ],
+  "timestamp": "2026-09-17T09:31:27.154263654Z",
+  "model": "glm-5.3"
+}

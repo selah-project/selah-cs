@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A převyšovala moudrost Šalomouna moudrost všech synů východu ⟨i⟩ všechnu moudrost Egypta.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "A převyšovala"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomouna"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "než moudrost"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "východu"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "a než všechnu"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T07:42:36.539742466Z",
+  "model": "glm-5.3"
+}

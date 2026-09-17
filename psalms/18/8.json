@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A zachvěla se a otřásla země a základy hor se roztřásly, a pohnuly se, neboť mu vzplál hněv.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "a zachvěla se"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "a otřásla se"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "a základy"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hor"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "se roztřásly"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "a pohnuly se"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "vzplál hněv"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:21.644247966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Šétovi, i jemu se narodil syn, a nazval ⟨את⟩ jeho jméno Enóš. Tehdy se začalo vzývat jméno Jahve.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "A Šétovi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "se narodil"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nazval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho jméno"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jméno"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enóš"
+    },
+    {
+      "surface": "אז",
+      "gloss": "Tehdy"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "se začalo"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "vzývat"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "jménem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:23.203280097Z",
+  "model": "glm-5.3"
+}

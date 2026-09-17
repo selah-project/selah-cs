@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A ⟨lid⟩ uvěřil, a uslyšeli, že Jahve navštívil ⟨את⟩ syny Israela a že viděl ⟨את⟩ jejich úzkost, a sklonili se a klaněli se.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "a uvěřil"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "a uslyšeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "navštívil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Israela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "a že"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich úzkost"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "jejich úzkost"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "a sklonili se"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "a klaněli se"
+    }
+  ],
+  "timestamp": "2026-09-17T13:00:15.687624171Z",
+  "model": "glm-5.3"
+}

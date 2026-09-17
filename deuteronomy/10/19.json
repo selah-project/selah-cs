@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Milujte ⟨את⟩ hosta, neboť jste byli hosty v zemi Micrajim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "milujte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hosta"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "hosta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "hosty"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "jste byli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:10.540311607Z",
+  "model": "glm-5.3"
+}

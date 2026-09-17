@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A uslyšel syn Ša'ulův, že Abner zemřel v Chevronu, a ochably jeho ruce a celý Izrael se rozlekl.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a uslyšel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ulův"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "מת",
+      "gloss": "zemřel"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "v Chevronu"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "a ochably"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "jeho ruce"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "se rozlekl"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:35.222867364Z",
+  "model": "glm-5.3"
+}

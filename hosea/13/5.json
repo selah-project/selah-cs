@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Já jsem tě poznával ⟨v⟩ poušti, v zemi ⟨velké⟩ suše.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "jsem tě poznával"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "⟨v⟩ poušti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "⟨velké⟩ suše"
+    }
+  ],
+  "timestamp": "2026-09-17T11:07:43.275302083Z",
+  "model": "glm-5.3"
+}

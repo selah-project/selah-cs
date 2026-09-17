@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 143,
+  "translation": "Kvůli svému jménu, Jahve, oživ mě; svou spravedlností vyveď ⟨z⟩ úzkosti mou duši.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "svému jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "oživ mě"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "svou spravedlností"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "vyveď"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "⟨z⟩ úzkosti"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mou duši"
+    }
+  ],
+  "timestamp": "2026-09-17T11:50:24.845571062Z",
+  "model": "glm-5.3"
+}

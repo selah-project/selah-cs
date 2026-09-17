@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "I řekl Jahve Mojžíšovi: „Řekni Áronovi: Vztyč ⟨את⟩ svou ruku svou holí nad řeky, nad kanály a nad tůněmi, a vyveď ⟨את⟩ žáby na zem Egypta.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Řekni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áronovi"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Vztyč"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou ruku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "svou holí"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "řeky"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "kanály"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a nad"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "tůněmi"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "a vyveď"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žáby"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "žáby"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:02.720653560Z",
+  "model": "glm-5.3"
+}

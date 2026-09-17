@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "Pro vedoucího ⟨zpěvu⟩, synům Korachovým, na alamot ⟨zpíván⟩, píseň.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro vedoucího ⟨zpěvu⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachovým"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:36.683649607Z",
+  "model": "glm-5.3"
+}

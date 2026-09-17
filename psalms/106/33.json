@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "Neboť zhořkčili ⟨את⟩ jeho ducha, takže mluvil ukvapeně svými rty.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "zhořkčili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho ducha"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "jeho ducha"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "mluvil ukvapeně"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "svými rty"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:30.024179058Z",
+  "model": "glm-5.3"
+}

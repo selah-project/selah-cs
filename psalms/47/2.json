@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "Všechny národy, tleskejte rukama, jásejte Elohim hlasem jásotu!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Všechny"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "tleskejte"
+    },
+    {
+      "surface": "כף",
+      "gloss": "rukama"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "jásejte"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlasem"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "jásotu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:50.174778753Z",
+  "model": "glm-5.3"
+}

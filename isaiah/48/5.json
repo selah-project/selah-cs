@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "A já jsem ti to oznámil už dávno, dříve než ⟨to⟩ přišlo, dal jsem ti to slyšet, abys neřekl: „Můj bůžek ⟨to⟩ učinil, můj vytesaný obraz a má ulitá socha ⟨to⟩ přikázaly.“",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "a oznámil jsem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "už dávno"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "dříve než"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "přišlo"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "dal jsem ti slyšet"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abys ne"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "můj bůžek"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "a můj vytesaný obraz"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "a má ulitá socha"
+    },
+    {
+      "surface": "צום",
+      "gloss": "přikázaly"
+    }
+  ],
+  "timestamp": "2026-09-17T08:13:41.387332881Z",
+  "model": "glm-5.3"
+}

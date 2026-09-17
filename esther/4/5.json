@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A zavolala Ester Hatacha z eunuchů krále, kteréhož ⟨král⟩ postavil před ni, a přikázala mu k Mordokajovi ⟨jít⟩, aby věděla, co to ⟨je⟩ a kvůli čemu to ⟨je⟩.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "a zavolala"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hatacha"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "z eunuchů"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteréhož"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "postavil"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "před ni"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "a přikázala mu"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokajovi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "aby věděla"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a kvůli čemu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "זה",
+      "gloss": "to"
+    }
+  ],
+  "timestamp": "2026-09-17T10:01:52.615250212Z",
+  "model": "glm-5.3"
+}

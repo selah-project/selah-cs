@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 91,
+  "translation": "Neboť on tě vysvobodí z léčky lovce, od ničivého moru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "tě vysvobodí"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "z léčky"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "lovce"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "od moru"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ničivého"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:32.115412232Z",
+  "model": "glm-5.3"
+}

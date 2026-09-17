@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A dívka byla velmi krásná, a stala se králi pečovatelkou a sloužila mu, ale král ji nepoznal.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "A dívka"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "krásná"
+    },
+    {
+      "surface": "עד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "(nadmíru)"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a stala se"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "pečovatelkou"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "a sloužila mu"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ale král"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "poznal ji"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:51.601969061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "I Jákob řekl Labanovi: Dej mi ⟨את⟩ mou ženu, neboť se naplnily mé dny, a vejdu k ní.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labanovi"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "dej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou ženu"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mou ženu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "se naplnily"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mé dny"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "a vejdu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k ní"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:46.648269764Z",
+  "model": "glm-5.3"
+}

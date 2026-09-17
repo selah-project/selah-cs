@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "Počítá počet hvězd, všem jim jména volá.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Počítá"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "počet"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "hvězd"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "všem jim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jména"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "volá"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:37.856870702Z",
+  "model": "glm-5.3"
+}

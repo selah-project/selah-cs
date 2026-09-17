@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 12:17",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Jestliže však neposlechnou, vytrhnu ⟨את⟩ ten národ, vytrhnu jej a zničím, je výrok Jahveho.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Jestliže však"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "poslechnou"
+    },
+    {
+      "surface": "ונתשתי",
+      "gloss": "vytrhnu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ten národ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ten národ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tamten"
+    },
+    {
+      "surface": "נתוש",
+      "gloss": "vytrhnu"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "a zničím"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "je výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T08:23:00.319544580Z",
+  "model": "glm-5.3"
+}

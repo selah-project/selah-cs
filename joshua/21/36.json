@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A od kmene Rubenova: ⟨את⟩ Bezer a ⟨את⟩ jeho dvory, ⟨את⟩ Jachcu a ⟨את⟩ její dvory.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "A od kmene"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rubenova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bezer"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Bezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho dvory"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "jeho dvory"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "Jachcu"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Jachcu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "její dvory"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "její dvory"
+    }
+  ],
+  "timestamp": "2026-09-17T07:10:27.521453520Z",
+  "model": "glm-5.3"
+}

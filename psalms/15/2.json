@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Ten, kdo chodí ⟨v⟩ bezúhonnosti, a koná spravedlnost, a mluví pravdu ve svém srdci.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "chodí"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "⟨v⟩ bezúhonnosti"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "a koná"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "spravedlnost"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "a mluví"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "pravdu"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "ve svém srdci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:30.730581166Z",
+  "model": "glm-5.3"
+}

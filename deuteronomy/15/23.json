@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Jenže jeho krev — ⟨את⟩ — nesmíš jíst; na zem ji vyleješ jako vodu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "jenže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho krev"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "jeho krev"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nesmíš"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jíst"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ji vyleješ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jako vodu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:47.210377595Z",
+  "model": "glm-5.3"
+}

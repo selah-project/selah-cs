@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A viděla, že ⟨je⟩ pevně rozhodna jít ⟨את⟩ s ní, a přestala k ní mluvit.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "a viděla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "pevně rozhodna"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "jít"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ s ní",
+      "marks": "s ní"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "a přestala"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mluvit"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k ní"
+    }
+  ],
+  "timestamp": "2026-09-17T09:56:24.981710401Z",
+  "model": "glm-5.3"
+}

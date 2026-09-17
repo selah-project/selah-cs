@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 95,
+  "translation": "když mě zkoušeli vaši otcové, zkoumali mě, ano viděli mé dílo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "zkoušeli mě"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "vaši otcové"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "zkoumali mě"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ano"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "viděli"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mé dílo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:43.058876537Z",
+  "model": "glm-5.3"
+}

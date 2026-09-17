@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 65,
+  "translation": "Oděly se berani ⟨i⟩ stáda ⟨ovcí⟩, údolí se odívají obilím; jásají, ano i zpívají.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "oděly se"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "berani"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stáda ⟨ovcí⟩"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "údolí"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "se odívají"
+    },
+    {
+      "surface": "בר",
+      "gloss": "obilím"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "jásají"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ano i"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "zpívají"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:42.228867878Z",
+  "model": "glm-5.3"
+}

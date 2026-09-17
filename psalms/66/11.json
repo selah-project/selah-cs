@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Uvedl jsi nás do pasti, položil jsi tíseň na naše bedra.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "Uvedl jsi nás"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "do pasti"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "položil jsi"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "tíseň"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "na naše bedra"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:46.323338732Z",
+  "model": "glm-5.3"
+}

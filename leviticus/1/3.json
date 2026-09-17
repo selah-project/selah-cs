@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Jestliže ⟨je⟩ jeho obětina celopal z skotu, samce bez vady přivede; k vchodu stanu setkání jej přivede ⟨את⟩, ke své přízni, před tvář Jahve.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Jestliže"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "celopal"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "jeho obětina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "skotu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "samce"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bez vady"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "přivede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkání"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "přivede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "ke své přízni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tvář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:05.649590264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Sedící ve tmě a stínu smrti, vězni bídy a železa,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "sedící"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ve tmě"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "a stínu smrti"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "vězni"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bídy"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "a železa"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:15.293654169Z",
+  "model": "glm-5.3"
+}

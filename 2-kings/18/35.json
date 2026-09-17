@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Kdo ze všech Elohim zemí zachránil ⟨את⟩ svou zemi z mé ruky, že by Jahve zachránil ⟨את⟩ Jeruzalém z mé ruky?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "zemí"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "zachránil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou zemi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "svou zemi"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "z mé ruky"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že by"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "zachránil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalém"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "z mé ruky"
+    }
+  ],
+  "timestamp": "2026-09-17T07:58:16.457599046Z",
+  "model": "glm-5.3"
+}

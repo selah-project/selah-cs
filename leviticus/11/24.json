@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A od těchto se stanete nečistými: každý, kdo se dotkne jejich mrtvoly, bude nečistý až do večera.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "A od těchto"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "stanete nečistými"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každý"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kdo se dotkne"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "jejich mrtvoly"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "bude nečistý"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "večera"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:07.686812618Z",
+  "model": "glm-5.3"
+}

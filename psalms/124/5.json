@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 124,
+  "translation": "tehdy by byly přešly přes naši duši vody pyšné, ⟨ty⟩ bujné ⟨vody⟩.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "tehdy"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "by byly přešly"
+    },
+    {
+      "surface": "על",
+      "gloss": "přes"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "naši duši"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "pyšné ⟨vody⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:50.701156582Z",
+  "model": "glm-5.3"
+}

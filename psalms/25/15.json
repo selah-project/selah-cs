@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Moje oči jsou stále ⟨upřeny⟩ k Jahvemu, neboť on vyvede mé nohy ze sítě.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "moje oči"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "vyvede"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "ze sítě"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "mé nohy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:23.194743549Z",
+  "model": "glm-5.3"
+}

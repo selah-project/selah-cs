@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "I řekl král Izraele: Běda, že Jahve svolal tyto tři krále, aby ⟨את⟩ je vydal do ruky Moábu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "svolal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "tyto tři"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "krále"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "aby vydal"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (do ruky Moábu)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "do ruky"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moábu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:51:52.269444685Z",
+  "model": "glm-5.3"
+}

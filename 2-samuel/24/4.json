@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Ale slovo krále zvítězilo nad Joabem a nad veliteli vojska; a Joab a velitelé vojska vyšli před krále, aby spočítali ⟨את⟩ lid, ⟨את⟩ Izrael.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "zvítězilo (doslova „zesílilo“)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad (Joabem)"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a nad"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "veliteli"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "a velitelé"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králem"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "aby spočítali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:46.808639393Z",
+  "model": "glm-5.3"
+}

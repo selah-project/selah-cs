@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A zavěsil ⟨את⟩ závěs vchodu ⟨k⟩ příbytku.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "a zavěsil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "závěs"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "závěs"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "vchodu"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "příbytku"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:20.683580305Z",
+  "model": "glm-5.3"
+}

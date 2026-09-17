@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 86,
+  "translation": "Nakloň ucho, Jahve, k mé modlitbě a pozoruj hlas mých proseb!",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "nakloň ucho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "k mé modlitbě"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "a pozoruj"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "mých proseb"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:56.748150786Z",
+  "model": "glm-5.3"
+}

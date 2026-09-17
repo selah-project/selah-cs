@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "Ve dne přikáže Jahve svůj chesed, a v noci ⟨bude⟩ s ním jeho píseň, modlitba Elu ⟨mého⟩ života.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ve dne"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "přikáže"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "svůj chesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "a v noci"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "modlitba"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "mého života"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:30.939396948Z",
+  "model": "glm-5.3"
+}

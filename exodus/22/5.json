@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Když vyjde oheň a najde trní a bude spolknut stoh, nebo stojící obilí, nebo pole — plně zaplatí ten, kdo rozdělal ⟨את⟩ požár.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "vyjde"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "a najde"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "trní"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "a bude spolknut"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "stoh"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "stojící obilí"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "pole"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "plně"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "zaplatí"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "ten, kdo rozdělal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "požár"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "požár"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:55.344722467Z",
+  "model": "glm-5.3"
+}

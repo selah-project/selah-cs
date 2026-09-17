@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 10:25",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A řekl jim Jozue: Nebojte se a nestrachujte se; buďte silni a stateční, neboť tak učiní Jahve všem vašim nepřátelům, s nimiž ⟨את⟩ bojujete.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bojte se"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "strachujte se"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "buďte silni"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "a stateční"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "učiní"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "vašim nepřátelům"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "s nimiž"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "bojujete"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "je (nepřátele)"
+    }
+  ],
+  "timestamp": "2026-09-17T07:07:52.026014303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 6:16",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A stalo se posedmé, když kněží troubili na šofary, že Jozue řekl lidu: Vyvolejte hlasitě, neboť Jahve dal vám ⟨את⟩ město!",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "posedmé"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "sedmé (krát)"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "troubili"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "na šofary"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "že řekl"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Vyvolejte hlasitě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "dal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "město"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "město"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:44.137239936Z",
+  "model": "glm-5.3"
+}

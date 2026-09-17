@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "Způsobuje, že války ustávají až do konce ⟨země⟩; lámá luk, usekává kopí, vozy spaluje ohněm.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "způsobuje, že ustávají"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "války"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "konce"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luk"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "lámá"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "a usekává"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "kopí"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "vozy"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "spaluje"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    }
+  ],
+  "timestamp": "2026-09-17T13:08:36.717603365Z",
+  "model": "glm-5.3"
+}

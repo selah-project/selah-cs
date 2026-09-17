@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "V den dobrý buď v dobrém, a v den zlý pohlež ⟨i na to⟩; také ⟨את⟩ toto naproti tomu učinil Elohim, aby ⟨člověk⟩ nenašel po ⟨tom⟩ nic.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "V den"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "dobrý"
+    },
+    {
+      "surface": "היה",
+      "gloss": "buď"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "v dobrém"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "a v den"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlý"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "pohlež ⟨i na to⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "také"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "naproti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "tomu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "aby"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "⟨za tím účelem⟩"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "nenašel"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "po ⟨tom⟩"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "nic"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:44.534220579Z",
+  "model": "glm-5.3"
+}

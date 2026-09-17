@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Já ⟨jsem⟩ Jahve, tvůj Elohim, který tě vyvedl ze země Micraim, z domu otroctví.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "tě vyvedl"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ze země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "otroctví"
+    }
+  ],
+  "timestamp": "2026-09-17T13:08:14.744024552Z",
+  "model": "glm-5.3"
+}

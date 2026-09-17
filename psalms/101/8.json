@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 101,
+  "translation": "Ráno za ránem vymýtím všechny ničemy země, abych vyhladil z města Jahve všechny pachatele nepravosti.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "ráno za ránem"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "vymýtím"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "ničemy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "abych vyhladil"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "z města"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pachatele"
+    },
+    {
+      "surface": "און",
+      "gloss": "nepravosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:45.171678604Z",
+  "model": "glm-5.3"
+}

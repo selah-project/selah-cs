@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A žena řekla: Koho ⟨את⟩ ti mám vyvolat? A on řekl: Samuelua ⟨את⟩ vyvolej mi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a řekla"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koho"
+    },
+    {
+      "surface": "מי",
+      "gloss": "koho"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mám vyvolat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Samuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuela"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "vyvolej"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    }
+  ],
+  "timestamp": "2026-09-17T10:51:35.052213354Z",
+  "model": "glm-5.3"
+}

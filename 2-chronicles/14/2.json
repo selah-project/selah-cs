@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A odstranil ⟨את⟩ oltáře cizí ⟨i⟩ výšiny, rozbil ⟨את⟩ pamětní sloupy a porazil ⟨את⟩ ašery.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "a odstranil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltáře cizí"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "oltáře"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "cizí"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "a výšiny"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "rozbil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pamětní sloupy"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "pamětní sloupy"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "porazil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ašery"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ašery"
+    }
+  ],
+  "timestamp": "2026-09-17T10:27:37.220177311Z",
+  "model": "glm-5.3"
+}

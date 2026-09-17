@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A Pelištejci shromáždili ⟨את⟩ svá vojska k bitvě a shromáždili se u Sokó, jež ⟨patří⟩ Judovu ⟨kmeni⟩, a utábořili se mezi Sokó a Azekou, v Efes-Damim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "a shromáždili"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejci"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá vojska"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "svá vojska"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "k bitvě"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "a shromáždili se"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokó"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Judovu ⟨kmeni⟩"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "a utábořili se"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokó"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekou"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "v Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damim"
+    }
+  ],
+  "timestamp": "2026-09-17T11:55:32.097066477Z",
+  "model": "glm-5.3"
+}

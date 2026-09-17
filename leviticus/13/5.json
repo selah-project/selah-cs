@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 13:5",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Kněz se naň podívá sedmého dne, a hle, raně ⟨se⟩ v jeho očích zastavila, rana se nerozšířila v kůži; kněz ho zavře ⟨do⟩ uzavření na sedm dní podruhé.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "podívá se naň"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sedmý"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "rana"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "zastavila ⟨se⟩"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "v jeho očích"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "rozšířila"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "rana"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "v kůži"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "zavře ho"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "podruhé"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:54.636229337Z",
+  "model": "glm-5.3"
+}

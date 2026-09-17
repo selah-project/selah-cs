@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "A zavrhl stan Josefa a kmenu Efrajimu si nevyvolil.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "a zavrh"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "a kmen"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "(si) vyvolil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:14.370444017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Žádný cizinec nesmí jíst posvátnou věc; host kněze ani nájemný dělník nesmí jíst posvátnou věc.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "a každý"
+    },
+    {
+      "surface": "זר",
+      "gloss": "cizinec"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smí jíst"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "posvátnou věc"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "host"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "a nájemný dělník"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "smí jíst"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "posvátnou věc"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:50.902177951Z",
+  "model": "glm-5.3"
+}

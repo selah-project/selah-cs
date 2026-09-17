@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A jestliže až ⟨k⟩ ⟨těmto⟩ neuposlechnete mě, přidám ⟨k⟩ trestání vás ⟨את⟩ sedmkrát ⟨kvůli⟩ vašim hříchům.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨těmto⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "uposlechnete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mě"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "přidám"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "⟨k⟩ trestání"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedmkrát"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kvůli⟩"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "vašim hříchům"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:52.840343906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 138,
+  "translation": "V den, kdy jsem volal, odpověděl jsi mi, dodal jsi mi odvahy ⟨a síly⟩ v mé duši silou.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "V den"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "když jsem volal"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "odpověděl jsi mi"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "dodal jsi mi odvahy"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "v mé duši"
+    },
+    {
+      "surface": "עז",
+      "gloss": "silou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:23.491198595Z",
+  "model": "glm-5.3"
+}

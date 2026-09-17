@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Ale z plodu stromu, který je uprostřed zahrady, pravil Elohim: Nejezte z něj a nedotýkejte se ho, abyste nezemřeli.“",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "Ale z plodu"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "stromu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "zahrady"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pravil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nejezte"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "Nejezte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "z něj"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nedotýkejte se"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "nedotýkejte se"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abyste ne"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "zemřeli"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:23.837798854Z",
+  "model": "glm-5.3"
+}

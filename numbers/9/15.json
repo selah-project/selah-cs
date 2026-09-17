@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A v den, kdy byl vztyčen ⟨את⟩ příbytek, přikryl oblak ⟨את⟩ příbytek — stan svědectví — a večer bylo nad příbytkem jako zjevení ohně až do rána.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "A v den"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "byl vztyčen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "příbytek"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytek"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "přikryl"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "oblak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "příbytek"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytek"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "stan"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "svědectví"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "a večer"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytkem"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "jako zjevení"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ohně"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "rána"
+    }
+  ],
+  "timestamp": "2026-09-17T06:43:05.868990683Z",
+  "model": "glm-5.3"
+}

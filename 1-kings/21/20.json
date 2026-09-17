@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 21:20",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Achab řekl Elijášovi: „Našel jsi mě, nepříteli můj?“ A on řekl: „Našel jsem ⟨tě⟩, protože jsi se prodal, abys konal zlo v očích Jahve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elijášovi (k)"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijášovi"
+    },
+    {
+      "surface": "המצאתני",
+      "gloss": "Našel jsi mě"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "nepříteli můj"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a on řekl"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "Našel jsem"
+    },
+    {
+      "surface": "יען",
+      "gloss": "protože"
+    },
+    {
+      "surface": "התמכרך",
+      "gloss": "jsi se prodal"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "abys konal"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T13:06:57.001900976Z",
+  "model": "glm-5.3"
+}

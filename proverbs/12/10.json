@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Spravedlivý zná duši svého dobytčete, ale slitování bezbožných je kruté.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "zná"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Spravedlivý"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duši"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "svého dobytčete"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "ale slitování"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "je kruté"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:38.684505996Z",
+  "model": "glm-5.3"
+}

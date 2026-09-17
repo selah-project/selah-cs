@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "I řekl Jahve Samuelovi: Vyslyš hlas ⟨toho⟩ lidu ve všem, co ti řeknou; neboť ne tebe ⟨את⟩ zavrhli, nýbrž mne ⟨את⟩ zavrhli, abych nad nimi nekraloval.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Samuelovi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "⟨Samuelovi⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Vyslyš"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨toho⟩ lidu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ve všem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ti řeknou"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tebe"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "zavrhli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nýbrž"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mne"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "zavrhli"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "abych nekraloval"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "nad nimi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:07.958377250Z",
+  "model": "glm-5.3"
+}

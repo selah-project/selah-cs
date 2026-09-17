@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Přišli pastýři a zaháněli je; Mojžíš však vstal a zachránil je a napojil ⟨את⟩ jejich stádo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Přišli"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "pastýři"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "a zaháněli je"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "vstal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "a zachránil je"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "a napojil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jejich stádo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "jejich stádo"
+    }
+  ],
+  "timestamp": "2026-09-17T06:15:47.823494291Z",
+  "model": "glm-5.3"
+}

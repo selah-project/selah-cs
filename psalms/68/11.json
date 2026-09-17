@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Tvá čeleď v ní sídlí; ve své dobrotě ji připravíš chudému, Elohime.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "tvá čeleď"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sídlí"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "připravíš"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "ve své dobrotě"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "chudému"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:47.164156042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Žehnej, duše má, ⟨את⟩ Jahve; Jahve, Elohim můj, velice jsi se zvětšil, oděl jsi se světlem nádhery a lesku.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Žehnej"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "duše má"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim můj"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "velice jsi se zvětšil"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velice"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "nádhery"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "a lesku"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "oděl jsi se"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:40.063067616Z",
+  "model": "glm-5.3"
+}

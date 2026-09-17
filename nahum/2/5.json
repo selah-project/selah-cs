@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 2:5",
+  "book": "nahum",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Po ulicích šílí ⟨vozy⟩, po náměstích se hrnou sem a tam; jejich zjev je jako pochodně, jako blesky pádí.",
+  "tokens": [
+    {
+      "surface": "בחוצות",
+      "gloss": "po ulicích"
+    },
+    {
+      "surface": "יתהוללו",
+      "gloss": "šílí"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "⟨vozy⟩"
+    },
+    {
+      "surface": "ישתקשקון",
+      "gloss": "hrnou se sem a tam"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "po náměstích"
+    },
+    {
+      "surface": "מראיהן",
+      "gloss": "jejich zjev"
+    },
+    {
+      "surface": "כלפידם",
+      "gloss": "jako pochodně"
+    },
+    {
+      "surface": "כברקים",
+      "gloss": "jako blesky"
+    },
+    {
+      "surface": "ירוצצו",
+      "gloss": "pádí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:03:45.360994604Z",
+  "model": "glm-5.3"
+}

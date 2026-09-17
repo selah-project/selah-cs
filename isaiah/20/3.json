@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A řekl Jahve: Jako chodil můj služebník Ješajáhua nahý a bosý, tři roky — znamení a zázrak nad Egyptem a nad Kušem —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "Jako"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "chodil"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "můj služebník"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ješajáhua"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "nahý"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "a bosý"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tři"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roky"
+    },
+    {
+      "surface": "אות",
+      "gloss": "znamení"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "a zázrak"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egyptem"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a nad"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kušem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:06:45.397869110Z",
+  "model": "glm-5.3"
+}

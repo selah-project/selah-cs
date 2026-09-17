@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-samuel 14:48",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A prokázal ⟨hrdinství⟩ a porazil ⟨את⟩ Amáleka a vysvobodil ⟨את⟩ Izraele z ruky jeho plenitelů.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "A prokázal"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⟨hrdinství⟩"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a porazil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amáleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amáleka"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "a vysvobodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "שסהו",
+      "gloss": "jeho plenitelů"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:12.573133543Z",
+  "model": "glm-5.3"
+}

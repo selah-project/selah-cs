@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A neuchýlili se od přikázání krále ohledně kněží a levitů v žádné věci ani ohledně pokladnic.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "uchýlili se"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "od přikázání"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "על",
+      "gloss": "ohledně"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "a levitů"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "v žádné (vše)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "věci"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "ani ohledně pokladnic"
+    }
+  ],
+  "timestamp": "2026-09-17T10:25:53.422790427Z",
+  "model": "glm-5.3"
+}

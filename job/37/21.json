@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 37:21",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A nyní nevidí ⟨světlo⟩ jasné, ⟨je⟩ v oblacích; a vítr přejde a vyčistí je.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "vidí"
+    },
+    {
+      "surface": "אור",
+      "gloss": "světlo"
+    },
+    {
+      "surface": "בהיר",
+      "gloss": "jasné"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "v oblacích"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "a vítr"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "přejde"
+    },
+    {
+      "surface": "ותטהרם",
+      "gloss": "a vyčistí je"
+    }
+  ],
+  "timestamp": "2026-09-17T11:18:46.115947867Z",
+  "model": "glm-5.3"
+}

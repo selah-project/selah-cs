@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A synové Izraele, kteří se tam ⟨našli⟩, konali ⟨את⟩ pesach v onen čas a ⟨את⟩ svátek nekvašených chlebů sedm dní.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "konali"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "kteří se ⟨našli⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesach"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "pesach"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "v"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "onen čas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svátek nekvašených chlebů"
+    },
+    {
+      "surface": "חג",
+      "gloss": "svátek"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "nekvašených chlebů"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    }
+  ],
+  "timestamp": "2026-09-17T10:33:07.597936318Z",
+  "model": "glm-5.3"
+}

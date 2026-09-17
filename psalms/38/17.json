@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "Neboť jsem řekl: ⟨Ať⟩ se nade mnou neradují; když klopýtá má noha, proti mně se vzmáhají.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jsem řekl"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨Ať⟩ ne-"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "se radují"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nade mnou"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "když klopýtá"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "má noha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "proti mně"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "se vzmáhají"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:12.080217912Z",
+  "model": "glm-5.3"
+}

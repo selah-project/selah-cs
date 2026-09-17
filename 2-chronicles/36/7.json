@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 36:7",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A z ⟨náčiní⟩ domu Jahve přenesl Nebukadnecar ⟨to⟩ do Babylonu a uložil je ve svém paláci v Babylóně.",
+  "tokens": [
+    {
+      "surface": "ומכלי",
+      "gloss": "A z náčiní"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "přenesl"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnecar"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "do Babylonu"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "a uložil je"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "ve svém paláci"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "v Babylóně"
+    }
+  ],
+  "timestamp": "2026-09-17T11:26:51.731915111Z",
+  "model": "glm-5.3"
+}

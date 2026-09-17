@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A ⟨את⟩ hradby Jeruzaléma kolem dokola strhlo veškeré vojsko Chaldejců, které ⟨bylo⟩ s rabsákem, velitelem katů.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "hradby"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "hradby"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem dokola"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "strhlo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "vojsko"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Chaldejců"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velitelem"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "katů"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:46.557252504Z",
+  "model": "glm-5.3"
+}

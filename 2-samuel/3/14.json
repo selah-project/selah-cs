@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A poslal David posly k Jiš-bošetovi, synu Ša'ulovu, aby řekli: Vydej ⟨את⟩ mou ženu, ⟨את⟩ Mikal, kterou jsem si zasnoubil za sto předkožek Pelištejců.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Jiš-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-bošetovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ulovu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aby řekli"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Vydej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mou ženu"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mou ženu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "jsem zasnoubil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "si"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "za sto"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "předkožek"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejců"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:52.322024823Z",
+  "model": "glm-5.3"
+}

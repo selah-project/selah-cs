@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Když se rozmnoží spravedliví, raduje se lid; když vládne ničemný, vzdychá lid.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "když se rozmnoží"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "spravedliví"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "když vládne"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ničemný"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "vzdychá"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:02.841884671Z",
+  "model": "glm-5.3"
+}

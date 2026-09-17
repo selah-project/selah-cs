@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Přisáhl Jahve Cevaot ⟨řeknouc⟩: Zajisté, jak jsem si představil, tak se stalo, a jak jsem to umínil, tak to povstane.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Přisáhl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨řeknouc⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Zajisté"
+    },
+    {
+      "surface": "לא",
+      "gloss": "zajisté"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "jsem si představil"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "se stalo"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "a jak"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "jsem umínil"
+    },
+    {
+      "surface": "היא",
+      "gloss": "to"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "povstane"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:21.746697197Z",
+  "model": "glm-5.3"
+}

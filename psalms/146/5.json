@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 146,
+  "translation": "Blahoslavený ⟨je ten, kdo⟩ má Jakobova Elohima za pomoc, jejíž naděje je v Jahvem, svém Elohimovi ⟨–⟩ Šťastný ⟨ten⟩, kdo se opírá o pomoc Jakobova Boha, jehož čekání je na Jahve, svého Elohima.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Šťastný"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "má"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakobova"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "za pomoc"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "jehož čekání"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "svém Elohimovi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:49.380433719Z",
+  "model": "glm-5.3"
+}

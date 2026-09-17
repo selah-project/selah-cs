@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A řekl jim: Kéž je Jahve s vámi ⟨tak⟩, jako já vás pustím, vás ⟨את⟩ i vaše dítky ⟨את⟩! Hleďte, neboť zlo ⟨stojí⟩ před vaší tváří.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kéž je"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "s vámi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jako"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "pustím"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vy (Moše a Áron)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "vaše dítky"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "vaše dítky"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hleďte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "před"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "vaší tváří"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:21.127318760Z",
+  "model": "glm-5.3"
+}

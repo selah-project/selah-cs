@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Od Davida. Rozsuď mě, Jahve, neboť v mé nevinnosti jsem chodil a v Jahve jsem doufal, nezakolísám.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Od Davida"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Rozsuď mě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "v mé nevinnosti"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "jsem chodil"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "a v Jahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "jsem doufal"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "zakolísám"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:59.959505461Z",
+  "model": "glm-5.3"
+}

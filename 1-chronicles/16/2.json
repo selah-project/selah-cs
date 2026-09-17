@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A David dokončil přinášení zápalu a pokojných obětí a požehnal ⟨את⟩ lidu ve Jménu Jahve.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "a dokončil"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "přinášení"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalu"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "a pokojných obětí"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a požehnal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lidu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ve Jménu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T10:19:51.923945708Z",
+  "model": "glm-5.3"
+}

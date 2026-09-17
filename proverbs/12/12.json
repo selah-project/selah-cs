@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Bezbožný touží po síti zlých, ale kořen spravedlivých vydává ⟨plod⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "touží po"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Bezbožný"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "síti"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "zlých"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "ale kořen"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "spravedlivých"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "vydává ⟨plod⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:38.684779098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,150 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 40:5",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A když ⟨ještě⟩ neodpověděl ⟨a nevrátil se⟩, ⟨řekl⟩: Vrať se ke Gedaljášovi, synu Achikáma, syna Šáfána, kterého ustanovil král Babylónu nad městy Judska, a bydli ⟨את⟩ s ním uprostřed lidu — nebo kamkoli je to správné v tvých očích jít, jdi. A velitel katů dal mu příděl jídla a dar a propustil ho.",
+  "tokens": [
+    {
+      "surface": "ועודנו",
+      "gloss": "a když ⟨ještě⟩ on"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "odpoví\/nejde zpět"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "vrať se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ke"
+    },
+    {
+      "surface": "גדליה",
+      "gloss": "Gedaljášovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Achikáma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Šáfána"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterého"
+    },
+    {
+      "surface": "הפקיד",
+      "gloss": "ustanovil"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylónu"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "nad městy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judska"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "a bydli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ s ním",
+      "marks": "s ním (Gedaljášem); zde předložkové את, ne předmětné"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kamkoli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše, co"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "správné"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "v tvých očích"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "jít"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velitel"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "katů"
+    },
+    {
+      "surface": "ארחה",
+      "gloss": "příděl jídla"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "a dar"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "a propustil ho"
+    }
+  ],
+  "timestamp": "2026-09-17T13:40:12.162564355Z",
+  "model": "glm-5.3"
+}

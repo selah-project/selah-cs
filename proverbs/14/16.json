@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Moudrý se bojí a odvrací se od zla, blázen však vzplane a je sebejistý.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Moudrý"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "se bojí"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "a odvrací se"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "od zla"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "blázen však"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "vzplane"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "a je sebejistý"
+    }
+  ],
+  "timestamp": "2026-09-17T11:15:53.478106819Z",
+  "model": "glm-5.3"
+}

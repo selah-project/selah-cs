@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A poslali ⟨את⟩ Rebeku, svou sestru, a ⟨את⟩ její chůvu, a ⟨את⟩ sluhu Abrahamova a ⟨את⟩ jeho muže.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "A poslali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rebeku"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rebeku"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "svou sestru"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "její chůvu"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "její chůvu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "sluhu Abrahamova"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sluhu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamova"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho muže"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "jeho muže"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:37.081173028Z",
+  "model": "glm-5.3"
+}

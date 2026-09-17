@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Nebydlil jsem ⟨totiž⟩ v domě od dne, kdy jsem vyvedl ⟨את⟩ syny Izraele z Egypta, až podnes, a pohyboval jsem se ve stanu a v příbytku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨totiž⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "bydlil jsem"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "od dne"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "jsem vyvedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až"
+    },
+    {
+      "surface": "היום",
+      "gloss": "podnes (den)"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "a byl jsem"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "pohybující se"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ve stanu"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "a v příbytku"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:21.532579441Z",
+  "model": "glm-5.3"
+}

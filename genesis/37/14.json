@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "A on mu řekl: „Jdi nyní, prosím, podívej se ⟨את⟩ na pokoj tvých bratří a ⟨את⟩ na pokoj stád, a přines mi zprávu.“ A poslal ho z údolí Chebrónu, a přišel do Sichemu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jdi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "podívej se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pokoj tvých bratří"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "tvých bratří"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "pokoj stád"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "stád"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "a přines mi zpět"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zprávu"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "a poslal ho"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "z údolí"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebrónu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "do Sichemu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:56.449238819Z",
+  "model": "glm-5.3"
+}

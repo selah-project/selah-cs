@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A jejich obilná oběť ⟨bude⟩ z jemné mouky smíchané v oleji, tři desetiny pro býka a dvě desetiny pro berana.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "A jejich obilná oběť"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "z jemné mouky"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "smíchané"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "v oleji"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tři"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "desetiny"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "pro býka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "dvě"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "desetiny"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "pro berana"
+    }
+  ],
+  "timestamp": "2026-09-17T10:43:05.722500223Z",
+  "model": "glm-5.3"
+}

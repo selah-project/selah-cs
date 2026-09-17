@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A ze svého símě nedáš ⟨žádného⟩ vodit ⟨skrz oheň⟩ pro Molocha, ani nebudeš znesvěcovat ⟨את⟩ jméno svého Elohim — já ⟨jsem⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "a ze svého símě"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "dáš"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "vodit ⟨skrz oheň⟩"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "pro Molocha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani ne"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "budeš znesvěcovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jméno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "svého Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:08.868098947Z",
+  "model": "glm-5.3"
+}

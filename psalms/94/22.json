@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "A Jahve se mi stal ⟨za⟩ pevnost vysokou a můj Elohim ⟨za⟩ skálu útočiště mého.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A se stal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "pevnost vysokou"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "a můj Elohim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "skálu"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "útočiště mého"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:47.319547331Z",
+  "model": "glm-5.3"
+}

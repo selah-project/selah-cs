@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A řekl Elohim: Buď obloha uprostřed vod, a ať odděluje mezi vodami a vodami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Buď"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "obloha"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "uprostřed"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vod"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a ať je"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "odděluje"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodami"
+    },
+    {
+      "surface": "למים",
+      "gloss": "a vodami"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:10.260353910Z",
+  "model": "glm-5.3"
+}

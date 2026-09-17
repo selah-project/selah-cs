@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 79,
+  "translation": "Vylili jejich krev jako vodu kolem Jeruzaléma, a nebyl ⟨kdo⟩ by je pochoval.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Vyliili"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "jejich krev"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "jako vodu"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "kolem"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nebyl"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "(kdo) by pochoval"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:07.501830266Z",
+  "model": "glm-5.3"
+}

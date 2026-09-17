@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": " Blaze tvým mužům, blaze těmto tvým služebníkům, kteří stojí před tebou ustavičně a slyší ⟨את⟩ tvou moudrost!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blaze"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "tvým mužům"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "blaze"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "těmto tvým služebníkům"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "těmto"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "kteří stojí"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ustavičně"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "a slyší"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou moudrost"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "tvou moudrost"
+    }
+  ],
+  "timestamp": "2026-09-17T07:44:44.196148596Z",
+  "model": "glm-5.3"
+}

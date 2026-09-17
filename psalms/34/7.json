@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Tento ubohý volal a Jahve slyšel ⟨ho⟩ a ze všech jeho úzkostí ho vysvobodil.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Tento"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubohý"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "volal"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "a Jahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyšel"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "a ze všech"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "jeho úzkostí"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "ho vysvobodil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:30.562926177Z",
+  "model": "glm-5.3"
+}

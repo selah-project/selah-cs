@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A kněz přikáže, a ⟨oni⟩ vyloupi ⟨את⟩ kameny, v nichž ⟨je⟩ nákaza, a hodí je ⟨את⟩ ven mimo město, na místo nečisté.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "a přikáže"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "vyloupi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kameny"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v nichž"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "v nich"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nákaza"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "a hodí"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ je",
+      "marks": "ven mimo město"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ven\/mimo"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "místo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečisté"
+    }
+  ],
+  "timestamp": "2026-09-17T13:08:54.559832752Z",
+  "model": "glm-5.3"
+}

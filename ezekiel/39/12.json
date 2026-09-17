@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "A pohřbí je dům Izraele, aby očistil ⟨את⟩ zemi, sedm měsíců.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "pohřbí je"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "למען",
+      "gloss": "aby"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "očistil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "měsíců"
+    }
+  ],
+  "timestamp": "2026-09-17T08:50:46.263501483Z",
+  "model": "glm-5.3"
+}

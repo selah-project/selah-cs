@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A řekl Elohim Noachovi: Přišel konec všeho masa přede mne, neboť země se naplnila násilím kvůli nim, a hle, já je zahubím ⟨את⟩ zemi ⟨spolu⟩ s nimi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "Noachovi"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "konec"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerého"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "masa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "přede mne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "se naplnila"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "násilím"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "kvůli nim"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "a hle, já"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "je zahubím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:38.292390206Z",
+  "model": "glm-5.3"
+}

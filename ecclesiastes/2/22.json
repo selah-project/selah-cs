@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Neboť co má člověk ze všeho svého úsilí a z pnutí svého srdce, jímž se namáhal pod sluncem?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "má"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "člověk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ze všeho"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "svého úsilí"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "a z pnutí"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "svého srdce"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "jímž"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "se namáhal"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "sluncem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:59.628227784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Jahve střeží nohy svých zbožných, ale bezbožníci v tmě zmlknou, neboť ne silou zvítězí člověk.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "nohy"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "svých zbožných"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "střeží"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ale bezbožníci"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "v tmě"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "zmlknou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "silou"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "zvítězí"
+    },
+    {
+      "surface": "איש",
+      "gloss": "člověk"
+    }
+  ],
+  "timestamp": "2026-09-17T07:20:11.076210352Z",
+  "model": "glm-5.3"
+}

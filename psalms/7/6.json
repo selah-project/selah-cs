@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "⟨Nechť⟩ pronásleduje nepřítel mou duši a dostihne ⟨ji⟩, a ⟨nechť⟩ zašlape do země můj život, a mé dostojenství v prachu ať ⟨si⟩ usadí. Sela.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "pronásleduje"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nepřítel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mou duši"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "a dostihne"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "a zašlape"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "do země"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "můj život"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "a mé dostojenství"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "v prachu"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ať usadí"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:54.121602714Z",
+  "model": "glm-5.3"
+}

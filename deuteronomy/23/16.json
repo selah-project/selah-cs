@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Nebudeš vydat otroka ⟨k⟩ jeho pánu, kterýť se zachrání ⟨a⟩ uprchne k tobě od svého pána.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "budeš vydávat"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "otroka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "jeho pánovi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "se zachrání"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "od"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "svého pána"
+    }
+  ],
+  "timestamp": "2026-09-17T13:05:24.506681902Z",
+  "model": "glm-5.3"
+}

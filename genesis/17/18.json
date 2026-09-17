@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 17:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "A řekl Abraham ⟨k⟩ Elohim: Kéž by Jišmael žil před tebou!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Kéž by"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jišmael"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "žil"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:06.009925590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "Nechť mne nepřemůže noha pýchy a ruka bezbožných mne ať nevyžene.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Nechť ne"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "nepřemůže mne"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "noha"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "pýchy"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "a ruka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bezbožných"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nechť ne"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "mne nevyžene"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:28.564263450Z",
+  "model": "glm-5.3"
+}

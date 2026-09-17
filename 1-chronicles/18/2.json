@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A porazil ⟨את⟩ Móáb, a stali se Móábové Davidovi sluhové nosící dar ⟨tribut⟩.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "a porazil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Móáb"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móáb"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "a stali se"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Móábové"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "sluhové"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "nosící"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "dar ⟨tribut⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T10:20:20.552269262Z",
+  "model": "glm-5.3"
+}

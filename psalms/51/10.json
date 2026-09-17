@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Dej mi slyšet radost a veselí; ať jásají kosti, které jsi ⟨ty⟩ zdrtil.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "dej mi slyšet"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "radost"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "a veselí"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ať jásají"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "kosti"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "které jsi zdrtil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:29.607183393Z",
+  "model": "glm-5.3"
+}

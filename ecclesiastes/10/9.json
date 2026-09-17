@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Kdo přemisťuje kameny, bude jimi zraněn; kdo štípe dříví, bude jimi ohrožen.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "přemisťuje"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "bude zraněn"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jimi"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "štípe"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "dříví"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "bude ohrožen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "jimi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:25.155619325Z",
+  "model": "glm-5.3"
+}

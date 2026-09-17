@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 103,
+  "translation": "Soucitný a milostivý ⟨je⟩ Jahve, dlouho nosící ⟨hněv⟩ v nosích ⟨a⟩ hojný v chesedu.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Soucitný"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "a milostivý"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "dlouho nosící"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "v nosích ⟨hněv⟩"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "a hojný"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "v chesedu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:52.780888418Z",
+  "model": "glm-5.3"
+}

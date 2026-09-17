@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A lid bude lid tísněn, muž ⟨proti⟩ muži a muž ⟨proti⟩ svému bližnímu; povýší se mladík nad starcem a pohrdaný nad váženým.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "a bude tísněn"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "⟨proti⟩ muži"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "a muž"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "⟨proti⟩ svému bližnímu"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "povýší se"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mladík"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "nad starcem"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "a pohrdaný"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "nad váženým"
+    }
+  ],
+  "timestamp": "2026-09-17T08:01:38.751636923Z",
+  "model": "glm-5.3"
+}

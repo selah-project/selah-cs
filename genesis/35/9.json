@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "A Elohim se ukázal Jákobovi znovu, když se vracel z Paddan-Aramu, a požehnal ⟨את⟩ němu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ukázal se"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákobovi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "znovu"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "když se vracel"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "z Paddan-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a požehnal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "němu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:40.407378327Z",
+  "model": "glm-5.3"
+}

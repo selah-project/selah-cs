@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Jahve, Elohim Cevaot, kdo ⟨je⟩ jako ty? Mocný Jah, a tvá věrnost ⟨je⟩ kolem tebe!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jako ty"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "Mocný"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "a tvá věrnost"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "kolem tebe"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:54.062423283Z",
+  "model": "glm-5.3"
+}

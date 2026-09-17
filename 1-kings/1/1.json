@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A král David zestárnul, ⟨byl⟩ pokročilý ve dnech, a přikrývali ho šaty, ale nezahřálo se mu.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "A král"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "zestárnul"
+    },
+    {
+      "surface": "בא",
+      "gloss": "pokročilý"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ve dnech"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "přikrývali ho"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "šatami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "zahřálo se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:51.601071949Z",
+  "model": "glm-5.3"
+}

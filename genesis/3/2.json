@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Žena odpověděla hadu: „Z plodu stromů zahrady jíme.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "odpověděla"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Žena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hadu"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "hadu"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Z plodu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "stromů"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "zahrady"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "jíme"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:23.837302452Z",
+  "model": "glm-5.3"
+}

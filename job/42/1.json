@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 42,
+  "translation": "A Ijob odpověděl Jahvemu ⟨את⟩ Jahve a řekl:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "A odpověděl"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:53:52.055300610Z",
+  "model": "glm-5.3"
+}

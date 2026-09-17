@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 23:23",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "nýbrž v osmnáctém roce krále Jóšijáhu byl tento pesach konán ⟨pro⟩ Jahve v Jeruzalémě.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "nýbrž"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nikdy (s כי אם: nikde jinde než)"
+    },
+    {
+      "surface": "בשמנה",
+      "gloss": "v osm"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "náct"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "roce"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Jóšijáhu"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "byl konán"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "tento pesach"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "⟨pro⟩ Jahve"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    }
+  ],
+  "timestamp": "2026-09-17T10:57:17.613382966Z",
+  "model": "glm-5.3"
+}

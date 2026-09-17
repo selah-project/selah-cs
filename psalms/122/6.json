@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 122,
+  "translation": "Proste ⟨o⟩ pokoj Jeruzaléma! Ať jsou v pokoji ti, kdo tě milují.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "proste"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "ať jsou v pokoji"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "ti, kdo tě milují"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:47.449312959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 84,
+  "translation": "I ptáček si našel dům a vlaštovka hnízdo sobě, kam ukládá svá mláďata — ⟨את⟩ tvé oltáře, Jahve Cevaot, Králi můj a Elohim můj!",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "I"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ptáček"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "si našel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "a vlaštovka"
+    },
+    {
+      "surface": "קן",
+      "gloss": "hnízdo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "sobe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kam"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ukládá"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "svá mláďata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé oltáře"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "tvé oltáře"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Králi můj"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "a Elohim můj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:25.765403880Z",
+  "model": "glm-5.3"
+}

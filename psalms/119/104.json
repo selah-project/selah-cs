@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Z tvých nařízení získávám rozumnění, proto nenávidím každou cestu lži.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "z tvých nařízení"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "získávám rozumnění"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨proto⟩"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nenávidím"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každou"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "cestu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lži"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:05.515736238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 7:17",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A byl potopa čtyřicet dní na zemi, a rostly vody a nesly ⟨את⟩ archu, a vznášela se nad zemí.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A byl"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "potopa"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "čtyřicet"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dní"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "a rostly"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "a nesly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "archu"
+    },
+    {
+      "surface": "ותרם",
+      "gloss": "a vznášela se"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:21.101975462Z",
+  "model": "glm-5.3"
+}

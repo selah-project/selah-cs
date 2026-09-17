@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Marně jsem bil ⟨את⟩ vaše syny — kázeň nepřijali; vašeho meče požrali vaši proroci ⟨jako⟩ ničivý lev.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "Marně"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "jsem bil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše syny"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "vaše syny"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kázeň"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "přijali"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "požrali"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "vašeho meče"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "vaši proroci"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "⟨jako⟩ lev"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ničivý"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:52.928543676Z",
+  "model": "glm-5.3"
+}

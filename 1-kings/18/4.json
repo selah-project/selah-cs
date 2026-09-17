@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 18:4",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A stalo se, když hubila Ízabela ⟨את⟩ proroky Jahveovy, že vzal Obadjah sto proroků a skryl je, padesát mužů v jeskyni, a živil je chlebem a vodou.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "בהכרית",
+      "gloss": "když hubila"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Ízabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "proroky Jahveovy"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "proroky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveovy"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadjah"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "sto"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "proroků"
+    },
+    {
+      "surface": "ויחביאם",
+      "gloss": "a skryl je"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "padesát"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "v jeskyni"
+    },
+    {
+      "surface": "וכלכלם",
+      "gloss": "a živil je"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chlebem"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "a vodou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:00.970836201Z",
+  "model": "glm-5.3"
+}

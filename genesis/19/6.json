@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A vyšel k nim Lot ke vchodu a dveře zavřel za sebou.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "k nim"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ke vchodu"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "a dveře"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "zavřel"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "za sebou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:04:48.880634428Z",
+  "model": "glm-5.3"
+}

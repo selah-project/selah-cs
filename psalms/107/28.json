@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "I křičí k Jahve v tísní své, a ze svých úzkostí je vyvádí.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "I křičí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "v tísní"
+    },
+    {
+      "surface": "להם",
+      "gloss": "své"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "ze svých úzkostí"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "je vyvádí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:52.600926119Z",
+  "model": "glm-5.3"
+}

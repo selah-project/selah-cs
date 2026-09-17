@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Vzal starší ⟨את⟩-tého města a trny pousti ⟨את⟩ a bodláčí ⟨את⟩ a naučil jimi ⟨את⟩-muže Sukotu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "starší města"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "města"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "trny pousti"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "trny"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "pousti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bodláčí"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "bodláčí"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "a naučil"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "jimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muže Sukotu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "muže"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukotu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:48:25.803296244Z",
+  "model": "glm-5.3"
+}

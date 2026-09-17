@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 111,
+  "translation": "Památku učinil ze svých divů, milostivý a slitovný ⟨je⟩ Jahve.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Památku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "ze svých divů"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "milostivý"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "a slitovný"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:50.011686215Z",
+  "model": "glm-5.3"
+}

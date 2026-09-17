@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 12:28",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A nyní shromáždi ⟨את⟩ zbytek lidu a utáboř se proti ⟨tomu⟩ městu a dobyj ho, abych snad nedobyl ⟨את⟩ já ⟨to⟩ město a nebylo po mém jménu pojmenováno.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "shromáždi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zbytek lidu"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "zbytek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "וחנה",
+      "gloss": "a utáboř se"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨tomu⟩ městu"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "a dobyj ho"
+    },
+    {
+      "surface": "פן",
+      "gloss": "abych snad ne"
+    },
+    {
+      "surface": "אלכד",
+      "gloss": "nedobyl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to město"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨to⟩ město"
+    },
+    {
+      "surface": "ונקרא",
+      "gloss": "a nebylo pojmenováno"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "po mém jménu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na něm"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:18.947482219Z",
+  "model": "glm-5.3"
+}

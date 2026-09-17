@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Však jsi nás zavrhl a zahanbil ⟨nás⟩, a s našimi vojsky nevycházíš.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Však"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "jsi zavrhl"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "a zahanbil ⟨nás⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "vycházíš"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "s našimi vojsky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:12.161795586Z",
+  "model": "glm-5.3"
+}

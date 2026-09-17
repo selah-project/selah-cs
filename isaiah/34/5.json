@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Neboť se můj meč v nebesích napil; hle, na Edóm sestoupí a na lid mého cheremu k soudu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "napil se"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "v nebesích"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "můj meč"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edóm"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "sestoupí"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "mého cheremu"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "k soudu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:11:02.299727439Z",
+  "model": "glm-5.3"
+}

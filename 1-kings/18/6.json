@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A rozdělili si ⟨את⟩ zemi, aby ji prošli: Achab šel jednou cestou sám a Obadjáhu šel jednou cestou sám.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "A rozdělili"
+    },
+    {
+      "surface": "להם",
+      "gloss": "si"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "aby prošli"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ji"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jednou cestou"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednou"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sám"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "a Obadjáhu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "jednou cestou"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednou"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sám"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:01.693666722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A řekl Abímelek: Hle, má země ⟨je⟩ před tebou; tam, kde je dobré v tvých očích, bydli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abímelek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "má země"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "kde je dobré"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "v tvých očích"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bydli"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:57.312945683Z",
+  "model": "glm-5.3"
+}

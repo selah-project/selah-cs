@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 142,
+  "translation": "Výuka Davidova, když byl v jeskyni; modlitba.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Výuka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "když byl"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "v jeskyni"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "modlitba"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:27.043539492Z",
+  "model": "glm-5.3"
+}

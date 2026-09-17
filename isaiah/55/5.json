@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Hle, národ, jejž neznáš, zavoláš, a národ, který tě nezná, poběží k tobě — kvůli Jahve, tvému Elohim, a Kvůli Svatému Izraele, neboť tě oslávibil.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "národ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "znáš"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "zavoláš"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "a národ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "tě zná"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "poběží"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvému Elohim"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "a Svatému"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "tě oslávibil"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:15.074525936Z",
+  "model": "glm-5.3"
+}

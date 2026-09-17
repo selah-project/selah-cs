@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Adonaj Jahve, ty jsi začal ukazovat ⟨את⟩ svému služebníku ⟨את⟩ svou velikost a ⟨את⟩ svou silnou ruku — neboť kdo ⟨je⟩ El v nebesích a na zemi, kdo by činil podle tvých skutků a podle tvých mocných činů?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "jsi začal"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ukazovat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svému služebníku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svému služebníku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou velikost"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "svou velikost"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svou silnou ruku"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou ruku"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "silnou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "v nebesích"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "a na zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "by činil"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "podle tvých skutků"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "a podle tvých mocných činů"
+    }
+  ],
+  "timestamp": "2026-09-17T06:53:11.925244256Z",
+  "model": "glm-5.3"
+}

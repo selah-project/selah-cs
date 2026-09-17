@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "Jako žár v suché zemi ⟨snižuje⟩ rám cizinců, ⟨ty⟩ pokoříš ⟨jej⟩; žár ve stínu oblaku — zpěv krutých bude ztišen.",
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "jako žár"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "v suché zemi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "rám"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "cizinců"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "pokoříš"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "žár"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ve stínu"
+    },
+    {
+      "surface": "עב",
+      "gloss": "oblaku"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "zpěv"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "krutých"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "bude ztišen"
+    }
+  ],
+  "timestamp": "2026-09-17T08:08:08.396696805Z",
+  "model": "glm-5.3"
+}

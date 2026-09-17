@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 110,
+  "translation": "Bude soudit mezi národy, naplní ⟨místa⟩ mrtvými těly, rozdrtí hlavu nad zemí velikou.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Bude soudit"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mezi národy"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "naplní"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "mrtvými těly"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "rozdrtí"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemí"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "velikou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:22.924652417Z",
+  "model": "glm-5.3"
+}

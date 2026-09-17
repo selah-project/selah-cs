@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A dá napít ⟨את⟩ ženu ⟨את⟩ vodami hořkými, kletými; a vstoupí do ní vody kleté ⟨k⟩ hořkosti.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "dá napít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vodami"
+    },
+    {
+      "surface": "מי",
+      "gloss": "vodami"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "hořkými"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "kletými"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "vstoupí"
+    },
+    {
+      "surface": "בה",
+      "gloss": "do ní"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "kleté"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "⟨k⟩ hořkosti"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:15.930515017Z",
+  "model": "glm-5.3"
+}

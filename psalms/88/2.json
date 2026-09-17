@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "Jahve, Elohim mé spásy, ve dne křičím, v noci před tebou ⟨jsem volal⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mé spásy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ve dne"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "křičím"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "v noci"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "před tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:09.661288767Z",
+  "model": "glm-5.3"
+}

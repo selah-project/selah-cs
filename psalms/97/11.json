@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 97,
+  "translation": "Světlo je rozseto spravedlivému a radost ⟨těm⟩ upřímného srdce.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Světlo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "je rozseto"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "spravedlivému"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "a ⟨těm⟩ upřímného"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "radost"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:49.342267805Z",
+  "model": "glm-5.3"
+}

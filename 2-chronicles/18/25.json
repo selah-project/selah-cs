@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A řekl král Izraele: Vezměte ⟨את⟩ Míkajáhu a vraťte ho k Amonovi, veliteli ⟨města⟩, a k Jóašovi, synu ⟨krále⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Vezměte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Míkajáhu"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Míkajáhu"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "a vraťte ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonovi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "veliteli"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨města⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a k"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Jóašovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨krále⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:40:10.263421846Z",
+  "model": "glm-5.3"
+}

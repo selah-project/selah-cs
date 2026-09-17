@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 113,
+  "translation": "Chvalte Jaha, chvalte, služebníci Jahveho, chvalte ⟨את⟩ jméno Jahveho!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Chvalte"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jaha"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "chvalte"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "služebníci"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "chvalte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jméno Jahveho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "jméno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:02.441146275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 94,
+  "translation": "Kdo povstane za mě proti zloduchům? Kdo se postaví za mě proti pachatelům nepravosti?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "povstane"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za mě"
+    },
+    {
+      "surface": "עם",
+      "gloss": "proti ⟨nim⟩"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "zloduchům"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "se postaví"
+    },
+    {
+      "surface": "לי",
+      "gloss": "za mě"
+    },
+    {
+      "surface": "עם",
+      "gloss": "proti ⟨nim⟩"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "pachatelům"
+    },
+    {
+      "surface": "און",
+      "gloss": "nepravosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:28.280457620Z",
+  "model": "glm-5.3"
+}

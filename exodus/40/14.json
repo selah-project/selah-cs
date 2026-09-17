@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "A ⟨את⟩ jeho syny přivedeš a oblečeš ⟨את⟩ je plášti.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jeho syny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "jeho syny"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "přivedeš"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "a oblečeš"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "plášti"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:31.880889415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "A zapomněli na jeho činy a na jeho zázraky, které jim ukázal.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "A zapomněli"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "na jeho činy"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "a na jeho zázraky"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "jim ukázal"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:55.825578640Z",
+  "model": "glm-5.3"
+}

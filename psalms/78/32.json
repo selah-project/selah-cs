@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 78,
+  "translation": "Přes všechno to hřešili dál a neuvěřili v jeho divy.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "přes všechno"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "to"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "hřešili"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "dál"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "uvěřili"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "v jeho divy"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:29.480736781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 127,
+  "translation": "Píseň stoupaček, pro Šalomouna. Pokud Jahve nevystaví dům, marně se namáhali jeho stavitelé v něm; pokud Jahve nebude střežit město, marně bděl hlídač.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Píseň"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "stoupaček"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "pro Šalomouna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Pokud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "vystaví"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "marně"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "namáhali se"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "jeho stavitelé"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "אם",
+      "gloss": "pokud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bude střežit"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "marně"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "bděl"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "hlídač"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:23.727283705Z",
+  "model": "glm-5.3"
+}

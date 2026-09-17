@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A pozveš Jesaje k oběti a já ti dám vědět ⟨את⟩ to, co učiníš, a pomazeš mi ⟨את⟩ toho, o kom ti řeknu.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "a pozveš"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Jesaje"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "k oběti"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "a já"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "dám ti vědět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, co učiníš"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "učiníš"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "a pomazeš"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toho, o kom ti řeknu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o kom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řeknu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:55.340586236Z",
+  "model": "glm-5.3"
+}

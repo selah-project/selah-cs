@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A král poslal a shromáždil ⟨את⟩ všechny starší Judy a Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "shromáždil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechny starší"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judy"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "a Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T10:33:30.765784795Z",
+  "model": "glm-5.3"
+}

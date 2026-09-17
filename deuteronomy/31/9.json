@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A Moše napsal tuto tóru a dal ⟨את⟩ ji kněžím, synům Léviho, kteří nesou ⟨את⟩ archu smlouvy Jahve, a všem starším Izraele.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "a napsal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto tóru"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tóru"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "a dal ji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kněžím"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Léviho"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "kteří nesou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a všem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starším"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:35.352956253Z",
+  "model": "glm-5.3"
+}

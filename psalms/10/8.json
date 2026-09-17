@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Sedává v léčkách u dvorů, ve skrýších zabíjí nevinného; jeho oči tajně číhají na bezbranného.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "sedává"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "v léčkách"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "u dvorů"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ve skrýších"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "zabíjí"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinného"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "jeho oči"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "na bezbranného"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "tajně číhají"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:26.280238571Z",
+  "model": "glm-5.3"
+}

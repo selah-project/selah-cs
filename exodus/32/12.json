@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 32:12",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Proč by Egypťané mluvili a říkali: Ve zlém je vyvedl, aby je zabil ⟨את⟩ v horách a vyhladil je z tváře země? Odvrať se od žáru svého hněvu a ⟨odpusť⟩ to zlo proti svému lidu!",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Proč"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "by mluvili"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypťané"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a říkali"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "Ve zlém"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "je vyvedl"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "aby zabil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "v horách"
+    },
+    {
+      "surface": "ולכלתם",
+      "gloss": "a vyhladil je"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "z"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváře"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "země"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Odvrať se"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "od žáru"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "svého hněvu"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "a ⟨odpusť⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "tomu zlu"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "svému lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:45.265590534Z",
+  "model": "glm-5.3"
+}

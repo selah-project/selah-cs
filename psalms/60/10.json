@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 60,
+  "translation": "Moab ⟨je⟩ můj hrnec na mytí, na Edom házím svou obuv, kvůli mně, Peletišti, provolávej jásot!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "hrnec"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "na mytí"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "házím"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "svou obuv"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kvůli mně"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peletišti"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "provolávej jásot"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:14.344985958Z",
+  "model": "glm-5.3"
+}

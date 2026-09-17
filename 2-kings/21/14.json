@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 21:14",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "a opustím ⟨את⟩ pozůstatek svého dědictví a vydám ⟨je⟩ do ruky jejich nepřátel, a budou za kořist a za lupu všem svým nepřátelům —",
+  "tokens": [
+    {
+      "surface": "ונטשתי",
+      "gloss": "a opustím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pozůstatek svého dědictví"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "pozůstatek"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "svého dědictví"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "a vydám je"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "do ruky"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "jejich nepřátel"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "a budou"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "za kořist"
+    },
+    {
+      "surface": "ולמשסה",
+      "gloss": "a za lupu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všem"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "svým nepřátelům"
+    }
+  ],
+  "timestamp": "2026-09-17T07:59:57.120810776Z",
+  "model": "glm-5.3"
+}

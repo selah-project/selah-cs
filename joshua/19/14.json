@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 19:14",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A hranice se otáčí ⟨את⟩ ⟨tu⟩ ze severu k Chanatonu, a její východiště ⟨jsou⟩ údolí Jiftach-el.",
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "a otáčí se"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tu (hranice)"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "hranice"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ze severu"
+    },
+    {
+      "surface": "חנתן",
+      "gloss": "k Chanatonu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "a jsou"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "její východiště"
+    },
+    {
+      "surface": "גי",
+      "gloss": "údolí"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-el"
+    }
+  ],
+  "timestamp": "2026-09-17T07:09:59.018668859Z",
+  "model": "glm-5.3"
+}

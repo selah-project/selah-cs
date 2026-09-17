@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Viděli ⟨את⟩ ni přední Muži Paróa a chválili ⟨את⟩ ni před Paróem, a byla ta žena vzata do domu Paróa.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Viděli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "přední Muži"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paróa"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "a chválili"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "před"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paróem"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "a byla vzata"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ta žena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "do domu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paróa"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:26.605844417Z",
+  "model": "glm-5.3"
+}

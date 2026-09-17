@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "Nahotu svého otce a nahotu své matky neodhalíš — ⟨tvou⟩ matkou ⟨totiž⟩ ona ⟨je⟩; její nahotu neodhalíš.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "nahotu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "a nahotu"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "své matky"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "odhalíš"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "matkou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "odhalíš"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "nahotu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:49.821499728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 112,
+  "translation": "Majetek a bohatství ⟨je⟩ v jeho domě, a jeho spravedlnost stojí navěky.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Majetek"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "a bohatství"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "v jeho domě"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "a jeho spravedlnost"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "stojí"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "navěky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:12.607386362Z",
+  "model": "glm-5.3"
+}

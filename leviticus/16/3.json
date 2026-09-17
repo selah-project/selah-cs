@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 16:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "S tímto vstoupí Áron do ⟨svatyně⟩: s býkem, synem dobytčete, za hříchu, a s beranem za celopalu.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "s tímto"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "vstoupí"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "⟨svatyně⟩"
+    },
+    {
+      "surface": "בפר",
+      "gloss": "s býkem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synem"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dobytčete"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "za hříchu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "a s beranem"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "za celopalu"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:51.900596615Z",
+  "model": "glm-5.3"
+}

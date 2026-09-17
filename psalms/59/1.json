@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Pro vedoucího ⟨choru⟩, „Nenič“ ⟨je⟩ ⟨nápis⟩ Davidův, když Saul poslal ⟨a⟩ hlídali ⟨את⟩ dům, aby ho zabili.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro vedoucího ⟨choru⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "„Nenič“"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "„Nenič“"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "⟨nápis⟩"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "když poslal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "a hlídali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "aby ho zabili"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:05.999323716Z",
+  "model": "glm-5.3"
+}

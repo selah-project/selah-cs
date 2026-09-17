@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Jako přikázal Jahve ⟨את⟩ Mojžíšovi, tak je spočítal na poušti Sínaj.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "jako"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "tak je spočítal"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sínaj"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:15.456890912Z",
+  "model": "glm-5.3"
+}

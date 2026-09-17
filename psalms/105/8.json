@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Pamatoval na věky svou smlouvu, slovo, které přikázal na tisíc pokolení.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Pamatoval"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na věky"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "svou smlouvu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "které přikázal"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "na tisíc"
+    },
+    {
+      "surface": "דור",
+      "gloss": "pokolení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:57.993141260Z",
+  "model": "glm-5.3"
+}

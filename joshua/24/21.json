@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A lid řekl Jóšuovi: Ne, nýbrž ⟨את⟩ Jahve budeme sloužit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jóšuovi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "⟨Jóšua⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nýbrž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "budeme sloužit"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:03.625380875Z",
+  "model": "glm-5.3"
+}

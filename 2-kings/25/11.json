@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A ⟨את⟩ zbytek lidu, který zůstal ve městě, a ⟨את⟩ uprchlíky, kteří padli ke králi babylonskému, i ⟨את⟩ zbytek množství odvlekl do vyhnanství Nebuzaradan, velitel katů.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zbytek"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "zbytek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "který zůstal"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "uprchlíky"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "uprchlíky"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "padli"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "babylonskému"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "zbytek"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "zbytek"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "množství"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "odvlekl do vyhnanství"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velitel"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "katů"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:46.557483282Z",
+  "model": "glm-5.3"
+}

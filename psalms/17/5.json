@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Mé kroky se pevně držely tvých stezek, moje chodidla nezakolísala.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "se pevně držely"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mé kroky"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "tvých stezek"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "zakolísala"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "moje chodidla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:10.629316681Z",
+  "model": "glm-5.3"
+}

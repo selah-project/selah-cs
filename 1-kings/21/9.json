@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A napsala v listech ⟨to⟩: Vyvolejte půst a posaďte ⟨את⟩ Nábota do čela lidu.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "a napsala"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "v listech"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨to⟩ říkajíc"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "vyvolejte"
+    },
+    {
+      "surface": "צום",
+      "gloss": "post"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "a posaďte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nábota"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nábota"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "do čela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:32.417245631Z",
+  "model": "glm-5.3"
+}

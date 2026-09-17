@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A Mojžíš uslyšel ⟨to⟩ a padl na svou tvář.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "A uslyšel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "a padl"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "svou tvář"
+    }
+  ],
+  "timestamp": "2026-09-17T10:42:30.062190641Z",
+  "model": "glm-5.3"
+}

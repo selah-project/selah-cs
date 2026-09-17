@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 80,
+  "translation": "Uvolnil jsi ⟨místo⟩ před ní, dala ⟨si⟩ zakořenit své kořeny a naplnila zemi.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "Uvolnil jsi"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "před ní"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "dala zakořenit"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "své kořeny"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "a naplnila"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:41.780874323Z",
+  "model": "glm-5.3"
+}

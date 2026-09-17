@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A vrátí se prach na zem, jaký byl, a duch se vrátí k Elohim, kterýž ji dal.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "A vrátí se"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "prach"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "jaký byl"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "a duch"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "se vrátí"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterýž"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ji dal"
+    }
+  ],
+  "timestamp": "2026-09-17T10:00:56.177963326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "Viděli tvé průvody, Elohime, průvody mého El, mého Krále, ve svatyni.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Viděli"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "tvé průvody"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "průvody"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mého El"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mého Krále"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ve svatyni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:33.838637522Z",
+  "model": "glm-5.3"
+}

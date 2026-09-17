@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "a jeho vojsko a jejich sečtení: tři ⟨a⟩ padesát tisíc a čtyři sta.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "a jeho vojsko"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "a jejich sečtení"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tři"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "padesát"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíc"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "a čtyři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:49.569103428Z",
+  "model": "glm-5.3"
+}

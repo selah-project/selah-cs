@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Každý, kdo je nalezen, bude probodnut; a každý, kdo je připojen ⟨k nim⟩, padne mečem.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Každý"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "kdo je nalezen"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "bude probodnut"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a každý"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "kdo je připojen ⟨k nim⟩"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "padne"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "mečem"
+    }
+  ],
+  "timestamp": "2026-09-17T08:04:19.211710762Z",
+  "model": "glm-5.3"
+}

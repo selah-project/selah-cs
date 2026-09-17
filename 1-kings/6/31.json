@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A ⟨את⟩ vchod do debíru udělal z dveří olejového dřeva; práh i veřeje — pětinu ⟨šíře zdi⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vchod do debíru"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vchod"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debíru"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "dveře"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "dřeva"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olejového"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "práh"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "veřeje"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "pětinu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:43:25.250493154Z",
+  "model": "glm-5.3"
+}

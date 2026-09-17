@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Když budeš chodit, povede ⟨את⟩ ⟨tě⟩; když budeš ležet, bude tě střežit; a když procitneš, ona s tebou rozmlouvat bude.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Když budeš chodit"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "povede"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "tě"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "když budeš ležet"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "bude tě střežit"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "nad tebou"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "a když procitneš"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "s tebou rozmlouvat bude"
+    }
+  ],
+  "timestamp": "2026-09-17T09:37:15.989803042Z",
+  "model": "glm-5.3"
+}

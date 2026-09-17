@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 70,
+  "translation": "Ať se vrátí zpět vinou své hanby ti, kdo říkají: „Hé, hé!“",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ať se vrátí"
+    },
+    {
+      "surface": "על",
+      "gloss": "vinou"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨následkem⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "své hanby"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ti, kdo říkají"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hé!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Hé!"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:28.743045187Z",
+  "model": "glm-5.3"
+}

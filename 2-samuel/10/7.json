@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A David to uslyšel a poslal ⟨את⟩ Jóaba i ⟨את⟩ celé vojsko hrdinů.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "A uslyšel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a poslal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jóaba"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "celé vojsko hrdinů"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojsko"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "hrdinů"
+    }
+  ],
+  "timestamp": "2026-09-17T07:34:19.374759848Z",
+  "model": "glm-5.3"
+}

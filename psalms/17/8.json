@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Střež mě jako zřítelnici oka, ve stínu svých křídel mě skryj.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Střež mě"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "jako zřítelnici"
+    },
+    {
+      "surface": "בת",
+      "gloss": "⟨—⟩"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oka"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ve stínu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "svých křídel"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "mě skryj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:10.629797926Z",
+  "model": "glm-5.3"
+}

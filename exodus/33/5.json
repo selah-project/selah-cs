@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 33:5",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A řekl Jahve Mojžíšovi: Řekni synům Izraele: Vy jste lid tvrdé šíje; jedinou chvíli — vyšel bych mezi vás a vyhladil vás — a teď slož ze sebe svou ozdobu, abych věděl, co vám udělám.'",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "(Mojžíš)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Řekni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "synům"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synové"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Vy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "tvrdé"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "šíje"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "chvíle"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jedina"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "vyšel bych"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "mezi vás"
+    },
+    {
+      "surface": "וכליתיך",
+      "gloss": "a vyhladil vás"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "a teď"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "slož"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "svou ozdobu"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ze sebe"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "abych věděl"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "udělám"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vám"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:57.612459186Z",
+  "model": "glm-5.3"
+}

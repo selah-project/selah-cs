@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "⟨Ten, jenž⟩ pokrývá nebesa mraky, ⟨ten, jenž⟩ připravuje zemi déšť, ⟨ten, jenž⟩ rozvíjí hory ⟨v⟩ trávu.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "pokrývá"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "nebesa"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "mraky"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "připravuje"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "déšť"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "rozvíjí"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hory"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "trávu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:47.593028509Z",
+  "model": "glm-5.3"
+}

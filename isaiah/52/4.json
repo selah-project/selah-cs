@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 52,
+  "translation": "Neboť tak praví Adonaj Jahve: Můj lid prve sestoupil do Egypta, aby tam pobyl, a Aššur bez příčiny jej utlačil.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "praví"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sestoupil"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Můj lid"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "prve"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "aby pobyl"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "a Aššur"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "bez příčiny"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "jej utlačil"
+    }
+  ],
+  "timestamp": "2026-09-17T08:15:49.351394977Z",
+  "model": "glm-5.3"
+}

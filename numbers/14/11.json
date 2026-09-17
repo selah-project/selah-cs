@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 14:11",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A Jahve řekl Mojžíšovi: Jak dlouho ⟨mě⟩ bude tento lid pohrdat ⟨mnou⟩? A jak dlouho nebudou věřit ⟨ve mne⟩ navzdory všem znamením, která jsem konal ⟨uprostřed⟩ jeho?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "⟨Mojžíšovi⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jak dlouho"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨jak dlouho⟩"
+    },
+    {
+      "surface": "ינאצני",
+      "gloss": "bude pohrdat ⟨mnou⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "a jak dlouho"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨jak dlouho⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "budou věřit"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨ve mne⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "navzdory všem"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "znamením"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem konal"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "uprostřed jeho"
+    }
+  ],
+  "timestamp": "2026-09-17T13:06:58.851313310Z",
+  "model": "glm-5.3"
+}

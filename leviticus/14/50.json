@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A porazí ⟨את⟩ jedno ptactvo do nádoby hliněné nad vodou živou.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "a porazí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jedno ptactvo"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ptactvo"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jedno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "nádoby"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "hliněné"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vodou"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "živou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:27.227445927Z",
+  "model": "glm-5.3"
+}

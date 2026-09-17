@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 56:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 56,
+  "translation": "Jeho strážní jsou slepí, všichni — nevědí ničeho; všichni jsou němí psi, nedovedou štíkat; snící, ležící, milující dřímotu.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "strážní"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "slepí"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "vědí"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "psi"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "němí"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "dovedou"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "štíkat"
+    },
+    {
+      "surface": "הזים",
+      "gloss": "snící"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "ležící"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "milující"
+    },
+    {
+      "surface": "לנום",
+      "gloss": "dřímotu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:14:45.767189421Z",
+  "model": "glm-5.3"
+}

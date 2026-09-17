@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekl král: „Ta ⟨ta⟩ říká: ‚Toto je můj syn, ⟨ten⟩ živý, a tvůj syn je mrtvý,‘ a ta říká: ‚Nikoliv, neboť tvůj syn je mrtvý a můj syn je ⟨ten⟩ živý.‘“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "říká"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "můj syn"
+    },
+    {
+      "surface": "החי",
+      "gloss": "živý"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "a tvůj syn"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mrtvý"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "a ta"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "říká"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nikoliv"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "tvůj syn"
+    },
+    {
+      "surface": "המת",
+      "gloss": "mrtvý"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "a můj syn"
+    },
+    {
+      "surface": "החי",
+      "gloss": "živý"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:26.562195716Z",
+  "model": "glm-5.3"
+}

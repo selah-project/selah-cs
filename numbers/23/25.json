@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A Balak řekl Bilamovi: Ani ho neproklej, ani ho nepožehnej.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamovi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "קב",
+      "gloss": "proklej"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "neproklej ho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ani"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "požehnej"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "nepožehnej ho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:47:54.415484543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A vzal okol pěti tisíců mužů a umístil ⟨את⟩ je do léčky mezi Bet-elem a Haj, na západ od města.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "okol pěti"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tisíců"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a umístil"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "do léčky"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "do léčky"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mezi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-el"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "a mezi"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Haj"
+    },
+    {
+      "surface": "מים",
+      "gloss": "na západ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "od města"
+    }
+  ],
+  "timestamp": "2026-09-17T07:06:59.056529694Z",
+  "model": "glm-5.3"
+}

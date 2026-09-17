@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Požehnaný jsi ty, Jahve; nauč mě svých ustanovení.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "požehnaný"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi ty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "nauč mě"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "svých ustanovení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:00.794501299Z",
+  "model": "glm-5.3"
+}

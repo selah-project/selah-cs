@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 4:43",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "⟨את⟩ Becer na poušti, v zemi roviny, pro Rúbenovce; ⟨a⟩ ⟨את⟩ Rámot v Gileádu pro Gádovce; ⟨a⟩ ⟨את⟩ Golán v Bašanu pro Manassesovce.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Becer"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Becer"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "roviny"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "pro Rúbenovce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "Rámot"
+    },
+    {
+      "surface": "ראמת",
+      "gloss": "Rámot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "v Gileádu"
+    },
+    {
+      "surface": "לגדי",
+      "gloss": "pro Gádovce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "Golán"
+    },
+    {
+      "surface": "גולן",
+      "gloss": "Golán"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "v Bašanu"
+    },
+    {
+      "surface": "למנשי",
+      "gloss": "pro Manassesovce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:31.478720118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "A toto je ⟨the⟩ přikázání, ⟨the⟩ ustanovení a ⟨the⟩ práva, která přikázal Jahve, váš Elohim, učit ⟨את⟩ vás, abyste konali ⟨them⟩ v zemi, do níž přecházíte, abyste ji obsadili:",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "A toto"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ustanovení"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "a práva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "učit"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ vás",
+      "marks": "vas"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "abyste konali"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "do níž"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "přecházíte"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "abyste ji obsadili"
+    }
+  ],
+  "timestamp": "2026-09-17T10:44:40.862336576Z",
+  "model": "glm-5.3"
+}

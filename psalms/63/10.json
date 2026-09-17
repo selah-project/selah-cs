@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 63,
+  "translation": "A oni, kdo hledají ⟨zahubit⟩ mou duši, vejdou do nejhlubších ⟨částí⟩ země.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "a oni"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "k zhoubování"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "hledají"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mou duši"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "vejdou"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "do nejhlubších"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:54.600777741Z",
+  "model": "glm-5.3"
+}

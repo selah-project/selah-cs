@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 16:12",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Áša onemocněl na nohou ve třicátém devátém roce svého kralování, až jeho nemoc ⟨šla⟩ nahoru k smrti ⟨vše moc⟩ — a i ve své nemoci nehledal ⟨את⟩ Jahve, ale ⟨líčil se⟩ na lékaře.",
+  "tokens": [
+    {
+      "surface": "ויחלא",
+      "gloss": "onemocněl"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Áša"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "v roce"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "třicátém"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "devátém"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "svého kralování"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "na nohou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "nahoru ⟨k smrti⟩"
+    },
+    {
+      "surface": "חליו",
+      "gloss": "jeho nemoc"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "a i"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "ve své nemoci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "hledal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ale"
+    },
+    {
+      "surface": "ברפאים",
+      "gloss": "na lékaře"
+    }
+  ],
+  "timestamp": "2026-09-17T10:27:45.053797426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Nechval se dnem zítřka, neboť nevíš, co den přivede ⟨na svět⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nechval se"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "nechval se"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dnem"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "zítřka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "nevíš"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "přivede ⟨na svět⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    }
+  ],
+  "timestamp": "2026-09-17T09:42:46.391675894Z",
+  "model": "glm-5.3"
+}

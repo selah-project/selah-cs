@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 53,
+  "translation": "Kdo uvěřil ⟨tomu, co jsme slyšeli⟩? A komu se zjevila paže Jahve?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "uvěřil"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "⟨tomu, co jsme slyšeli⟩"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "a paže"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨komu⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "komu"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "se zjevila"
+    }
+  ],
+  "timestamp": "2026-09-17T08:15:48.885318797Z",
+  "model": "glm-5.3"
+}

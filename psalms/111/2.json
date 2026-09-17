@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 111,
+  "translation": "Veliké ⟨jsou⟩ skutky Jahveho, vyhledávané všemi, kdo v nich mají zalíbení.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Veliké"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "skutky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "vyhledávané"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "všemi"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "kdo v nich mají zalíbení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:50.011427572Z",
+  "model": "glm-5.3"
+}

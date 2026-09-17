@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A přivede Áron ⟨את⟩ býčka hříchové oběti, který je pro něj, a vykoná smíření za sebe a za svůj dům.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "A přivede"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "býčka hříchové oběti"
+    },
+    {
+      "surface": "פר",
+      "gloss": "býčka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hříchové oběti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לו",
+      "gloss": "je pro něj"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a vykoná smíření"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "za sebe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "a za"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svůj dům"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:24.527901929Z",
+  "model": "glm-5.3"
+}

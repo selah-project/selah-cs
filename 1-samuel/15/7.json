@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A Šaul porazil ⟨את⟩ Amaleka od Chavily, když se jde k Šúru, který je ⟨před⟩ tváří Egypta.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "porazil"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "od Chavily"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "když se jde"
+    },
+    {
+      "surface": "שור",
+      "gloss": "k Šúru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který je"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨před⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T07:25:19.917189761Z",
+  "model": "glm-5.3"
+}

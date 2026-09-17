@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 26:6",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A dám pokoj do země a budete ležet a nikdo ⟨nebude⟩ vás strašit; a zahubím ze země šelmu zlou a meč neprojde vaší zemí.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "a dám"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "do země"
+    },
+    {
+      "surface": "ושכבתם",
+      "gloss": "a budete ležet"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nikdo ⟨nebude⟩"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "strašit"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "a zahubím"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "šelmu"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zlou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "a meč"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "projde"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "vaší zemí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:37:57.543854537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "řka uvězneným: Vyjděte! těm, kdo jsou v temnotě: Ukažte se! Na cestách se pást budou a na všech holých výšinách pastva jejich.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "uvězneným"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Vyjděte"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "těm, kdo"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "jsou v temnotě"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "Ukažte se"
+    },
+    {
+      "surface": "על",
+      "gloss": "Na"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "cestách"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "se pást budou"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "a na všech"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "holých výšinách"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "pastva jejich"
+    }
+  ],
+  "timestamp": "2026-09-17T08:13:29.121285644Z",
+  "model": "glm-5.3"
+}

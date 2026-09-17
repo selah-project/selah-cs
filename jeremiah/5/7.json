@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 5:7",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Jak bych ti za to odpustil? Tví synové mě opustili a přísahali ⟨při⟩ tom, co není ⟨jsou⟩ Elohim; já jsem ⟨את⟩ je plně sytil, a oni cizoložili a do domu nevěstky se hrnou houfy.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Jak"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "za to"
+    },
+    {
+      "surface": "אסלוח",
+      "gloss": "bych odpustil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "Tví synové"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "mě opustili"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "a přísahali"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "při tom, co není"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואשבע",
+      "gloss": "já jsem plně sytil"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je",
+      "marks": "them (objekt sytil jsem je)"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "a oni cizoložili"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "a do domu"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "nevěstky"
+    },
+    {
+      "surface": "יתגדדו",
+      "gloss": "se hrnou houfy"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:41.444175357Z",
+  "model": "glm-5.3"
+}

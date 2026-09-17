@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Stavějí se králové země a vládcové radí se ⟨spolu⟩ proti Jahve a proti jeho Mashíachovi.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "Stavějí se"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "králové"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "a vládcové"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "radí se"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨spolu⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a proti"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "jeho Mashíachovi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:52.705228965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "I přikázal ⟨את⟩ prvnímu tím slovům: Když tě potká Ésav, bratr můj, a zeptá se tě, řka: Čí jsi a kam jdeš a čí je ⟨to⟩ ⟨to⟩, co ⟨je⟩ před tebou —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "prvnímu"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "prvnímu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tím slovům"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "tě potká"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Ésav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bratr můj"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "a zeptá se tě"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "למי",
+      "gloss": "čí"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jsi"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "a kam"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "jdeš"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "a čí"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨to⟩ ⟨to⟩ je"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:09:44.433424752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "Při lenivosti klesá střecha a při ochablosti rukou ůtě domů.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "Při lenivosti"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "klesá"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "střecha"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "a při ochablosti"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ůtě"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:35.292259943Z",
+  "model": "glm-5.3"
+}

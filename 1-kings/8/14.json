@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A obrátil král svou tvář ⟨את⟩ a žehnal ⟨את⟩ celému shromáždění Izraele, a celé shromáždění Izraele stálo.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "a obrátil"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou tvář"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a žehnal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celému shromáždění Izraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celému"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a celé"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "shromáždění"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "stálo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:45:02.679747935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Jako korban prvotin je přinesete ⟨את⟩ Jahve, ale na oltář nebudou vystupovány ve vůni klidu.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korban (obětní dar)"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "prvotin"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "přinesete"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ale na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "budou vystupovány"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ve vůni"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "klidu (lahodné)"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:47.778377218Z",
+  "model": "glm-5.3"
+}

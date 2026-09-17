@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "A vezmeš ⟨את⟩ dva kameny šohamu a vyryješ na ně jména synů Izraele:",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "a vezmeš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dva kameny šohamu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "dva"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "šohamu"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "a vyryješ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na ně"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "jména"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T06:23:50.692396517Z",
+  "model": "glm-5.3"
+}

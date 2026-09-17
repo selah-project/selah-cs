@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "I kdyby představili ⟨את⟩ své syny, připravím je o děti, nebude z ⟨nich⟩ člověka; ano, běda jim, až od nich odstu<pu>ji — totiž když je opustím.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "I"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kdyby"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "představili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své syny"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "své syny"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "připravím je o děti"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "z ⟨nich⟩ člověka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "; totiž"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ano"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "běda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "až odstu<pu>ji — totiž když je opustím"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "od nich"
+    }
+  ],
+  "timestamp": "2026-09-17T08:57:13.265139416Z",
+  "model": "glm-5.3"
+}

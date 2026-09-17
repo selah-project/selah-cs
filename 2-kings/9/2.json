@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A přijdeš tam a uvidíš tam Jehú, syna Jehóšafata, syna Nimšího; a vejdeš a postavíš ho ze středu jeho bratří a uvedeš ⟨את⟩ ho do komory v komoře.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "A přijdeš"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "a uvidíš"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehú"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehóšafata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimšího"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "a vejdeš"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "a postavíš ho"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ze středu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "jeho bratří"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "a uvedeš"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho (Jehú, do komory)"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "do komory"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "v komoře"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:05.296069412Z",
+  "model": "glm-5.3"
+}

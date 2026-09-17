@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Faraon, král Egiptu\/Micrajim, vytáhl a dobyl ⟨את⟩ Gezer a vypálil ji ohněm; ⟨a⟩ ⟨את⟩ Kenaance, který bydlel ve městě, zabil — a dal ji jako věno ⟨odstupné⟩ své dceři, manželce Šalomouna.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Faraon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egiptu\/Micrajim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "vytáhl"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a dobyl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "a vypálil ji"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "Kenaance"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanec"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "který bydlí"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "a dal ji"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "jako věno ⟨odstupné⟩"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "své dceři"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "manželce"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomouna"
+    }
+  ],
+  "timestamp": "2026-09-17T13:41:45.192573128Z",
+  "model": "glm-5.3"
+}

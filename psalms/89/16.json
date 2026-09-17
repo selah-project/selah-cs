@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 89,
+  "translation": "Blahoslavený lid, který zná ⟨ativaci⟩ trubného signálu, Jahve; ve světle tvé tváře chodí.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Blahoslavený"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "který zná"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "trubného signálu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ve světle"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tvé tváře"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "chodí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:11.663444456Z",
+  "model": "glm-5.3"
+}

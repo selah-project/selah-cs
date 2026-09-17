@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A ten, kdo se čistí, vypere své šaty ⟨את⟩, ostříhe ⟨את⟩ všechen svůj porost, vykoupe se ve vodě a bude čistý; potom vejde do tábora, ale bydlet bude venku, mimo svůj stan, sedm dní.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "avypere"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ten, kdo se čistí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své šaty"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "své šaty"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "a ostříhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechen svůj porost"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "svůj porost"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "a vykoupe se"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ve vodě"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "a bude čistý"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "a potom"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "vejde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábora"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a bydlet bude"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "venku"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "mimo svůj stan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dní"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:46.467916223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A Jóhu shromáždil ⟨את⟩ všechen lid a řekl jim: „Achab sloužil ⟨את⟩ Baalovi trochu, Jóhu mu bude sloužit hodně.“",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "a shromáždil"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jóhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "všechen lid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sloužil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalovi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalovi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "trochu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jóhu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "mu bude sloužit"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "hodně"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:34.793010867Z",
+  "model": "glm-5.3"
+}

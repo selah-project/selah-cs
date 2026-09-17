@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Buď silný a statečný, neboť ty dáš tomuto lidu ⟨את⟩ za dědictví ⟨את⟩ zemi, o níž jsem přisáhl jejich otcům, že jim ji dám.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Buď silný"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "a statečný"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "dáš za dědictví"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tomuto lidu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tento"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o níž"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jsem přisáhl"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "jejich otcům"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "že dám"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T07:05:29.142380436Z",
+  "model": "glm-5.3"
+}

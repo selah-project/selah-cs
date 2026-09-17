@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Jak dlouho, Jahve, budeš mě zapomínat — navždy? Jak dlouho budeš skrývat ⟨את⟩ svou tvář přede mnou?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "jak dlouho"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "budeš mě zapomínat"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "navždy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "jak dlouho"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "dokud"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "budeš skrývat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou tvář"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "přede mnou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:18.569978848Z",
+  "model": "glm-5.3"
+}

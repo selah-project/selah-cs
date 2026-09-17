@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 17,
+  "translation": "Já jsem tě volal, neboť ty mi odpovíš, Eloime; nakloň ke mně své ucho, slyž moje slovo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "jsem tě volal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "mi odpovíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eloime"
+    },
+    {
+      "surface": "הט",
+      "gloss": "nakloň"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "své ucho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "slyš"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "moje slovo"
+    }
+  ],
+  "timestamp": "2026-09-17T09:12:10.629555627Z",
+  "model": "glm-5.3"
+}

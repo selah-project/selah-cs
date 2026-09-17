@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A kněz vezme koše z tvé ruky a položí ⟨jej⟩ před oltář Jahve, tvého Elohima.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "A vezme"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "koš"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "z tvé ruky"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "položí ⟨jej⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "oltář"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvého Elohima"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:09.540226521Z",
+  "model": "glm-5.3"
+}

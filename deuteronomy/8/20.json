@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Jako národy, které Jahve hubí před vaším obličejem, tak zahynete — ⟨proto⟩, že neposloucháte hlas Jahve, vašeho Elohim.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "Jako národy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "hubí"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "před vaším obličejem"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tak"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "zahynete"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨proto⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "posloucháte"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "hlas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "vašeho Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:08.134822116Z",
+  "model": "glm-5.3"
+}

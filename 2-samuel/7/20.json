@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A co může David ještě dodat, aby mluvil k tobě? Vždyť ty znáš ⟨את⟩ svého služebníka, Adonaj Jahve.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "a co"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "může dodat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ještě"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "aby mluvil"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "vždyť ty"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "znáš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého služebníka"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "svého služebníka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:33:46.764333704Z",
+  "model": "glm-5.3"
+}

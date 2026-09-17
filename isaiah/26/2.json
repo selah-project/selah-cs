@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Otevřete brány, ať vstoupí národ spravedlivý, střežící věrnost.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Otevřete"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "brány"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ať vstoupí"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "národ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "spravedlivý"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "střežící"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "věrnost"
+    }
+  ],
+  "timestamp": "2026-09-17T08:07:42.853988921Z",
+  "model": "glm-5.3"
+}

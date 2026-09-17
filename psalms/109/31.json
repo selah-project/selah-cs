@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Neboť ⟨on⟩ stojí po pravici chudého, aby zachránil ⟨jeho⟩ duši ⟨před⟩ těmi, kdo ji odsuzují.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "stojí"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "po pravici"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "chudého"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "aby zachránil"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "odsuzují"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jeho duši"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:48.668763208Z",
+  "model": "glm-5.3"
+}

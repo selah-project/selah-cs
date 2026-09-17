@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 44,
+  "translation": "Ty — svou rukou jsi vyhnal národy a ⟨je⟩ zasadil; způsobil jsi zhroucení kmenům a vyhnal jsi je.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "svou rukou"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "jsi vyhnal (zbavil dědictví)"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "a ⟨je⟩ zasadil"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "způsobil jsi zhroucení"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "kmenům"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "a vyhnal jsi je"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:56.065372278Z",
+  "model": "glm-5.3"
+}

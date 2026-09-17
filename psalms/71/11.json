@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 71,
+  "translation": "slovy: „Elohim ho opustil; pronásledujte ⟨jej⟩ a chopte se ho, neboť není ⟨nikdo⟩, kdo by ho vysvobodil.“",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "slovy:"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ho opustil"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "pronásledujte"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "a chopte se ho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "kdo by vysvobodil"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:58.583005208Z",
+  "model": "glm-5.3"
+}

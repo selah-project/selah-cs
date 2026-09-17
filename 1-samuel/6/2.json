@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 6:2",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Pelištěnci pak svolali kněze a věštce ⟨a řekli⟩: Co uděláme arše Jahve? Dejte nám vědět, čím ji máme poslat na její místo.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "svolali"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištěnci"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "ולקסמים",
+      "gloss": "a věštce"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a řekli⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "uděláme"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "arše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הודענו",
+      "gloss": "Dejte nám vědět"
+    },
+    {
+      "surface": "במה",
+      "gloss": "čím"
+    },
+    {
+      "surface": "נשלחנו",
+      "gloss": "máme poslat"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "na její místo"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:27.573148661Z",
+  "model": "glm-5.3"
+}

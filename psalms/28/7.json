@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Jahve ⟨je⟩ má síla a můj štít; v něm doufalo mé srdce a byl jsem zachráněn, i jásá mé srdce a ze svých písní mu vzdávám chválu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "má síla"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "a můj štít"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "doufalo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "a byl jsem zachráněn"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "a jásá"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "a ze svých písní"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "mu vzdávám chválu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:46.902053402Z",
+  "model": "glm-5.3"
+}

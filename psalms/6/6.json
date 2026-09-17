@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "Neboť v smrti ⟨není⟩ vzpomínání na tebe; ve šeolu kdo ti vyzná vděčnost?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "במות",
+      "gloss": "v smrti"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "vzpomínání na tebe"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "ve šeolu"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "vyzná vděčnost"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:10:33.130234970Z",
+  "model": "glm-5.3"
+}

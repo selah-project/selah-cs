@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A řekl mu Elizea: Jdi, řekni: Zajisté ⟨se uzdravíš⟩ — ale ukázal mi Jahve, že jistě zemře.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elizea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Jdi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨ne⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "budeš žít"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "zajisté žít budeš"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "a ukázal mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "jistě zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T07:54:38.091733058Z",
+  "model": "glm-5.3"
+}

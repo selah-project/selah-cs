@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 56,
+  "translation": "Neboť tak řekl Jahve vykastrovaným: ti, kdo střeží ⟨את⟩ mé šabaty, vyvolí si to, v čem jsem měl zalíbení, a drží se mé smlouvy —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "כה",
+      "gloss": "tak"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "vykastrovaným"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ti, kdo"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "střeží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mé šabaty"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "mé šabaty"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "vyvolí si"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "to, v čem"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "jsem měl zalíbení"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "a drží se"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "mé smlouvy"
+    }
+  ],
+  "timestamp": "2026-09-17T08:16:10.989726772Z",
+  "model": "glm-5.3"
+}

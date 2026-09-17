@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 83,
+  "translation": "Ať poznají, že ty — tvé jméno je Jahve — jsi sám ⟨ten⟩ Nejvyšší nade vší zemí.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ať poznají"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "tvé jméno"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "je Jahve"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sis sám"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Nejvyšší"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vší"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:35.412542793Z",
+  "model": "glm-5.3"
+}

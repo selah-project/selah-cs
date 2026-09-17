@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 61,
+  "translation": "Pro vedoucího ⟨choru⟩, na smyčcové nástroje, Davidův ⟨žalm⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro vedoucího ⟨choru⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "smyčcové nástroje"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův ⟨žalm⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:11:59.627287628Z",
+  "model": "glm-5.3"
+}

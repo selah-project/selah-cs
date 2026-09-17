@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 60,
+  "translation": "Elohim promluvil ve své svatosti: já se budu radovat, rozdělím Šekem a údolí Sukot odměřím.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ve své svatosti"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "já se budu radovat"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "rozdělím"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Šekem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "a údolí"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "odměřím"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:04.114481501Z",
+  "model": "glm-5.3"
+}

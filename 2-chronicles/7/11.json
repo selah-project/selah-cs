@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A dokončil Šalomoun ⟨את⟩ dům Jahveho a ⟨את⟩ dům krále; a ⟨את⟩ všechno, co přišlo na srdce Šalomouna udělat v domě Jahveho a v jeho domě, ⟨to⟩ se zdařilo.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "A dokončil"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dům krále"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "co přišlo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomouna"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "udělat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "a v jeho domě"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "⟨to⟩ se zdařilo"
+    }
+  ],
+  "timestamp": "2026-09-17T10:26:16.726919893Z",
+  "model": "glm-5.3"
+}

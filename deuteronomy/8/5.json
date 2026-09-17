@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A poznáš spolu se svým srdcem, že jako muž kárá ⟨את⟩ svého syna, tak Jahve, tvůj Elohim, kárá tebe.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "a poznáš"
+    },
+    {
+      "surface": "עם",
+      "gloss": "spolu s"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "svým srdcem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jako"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "kárá"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého syna"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "svého syna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "kárá tebe"
+    }
+  ],
+  "timestamp": "2026-09-17T06:55:42.885117716Z",
+  "model": "glm-5.3"
+}

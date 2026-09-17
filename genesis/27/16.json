@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A ⟨את⟩ kůže kůzlat koz oblékla na jeho ruce a na hladkou ⟨část⟩ jeho šíje.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ a",
+      "marks": "kůže kůzlat"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "kůže"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "kůzlat"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "koz"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "oblékla"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "jeho ruce"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "hladkou"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "jeho šíji"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:57.549277514Z",
+  "model": "glm-5.3"
+}

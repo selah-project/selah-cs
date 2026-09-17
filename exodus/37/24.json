@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Z talentu zlata ryzího ji udělal ⟨את⟩, i ⟨את⟩ všechny její nástroje.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "z talentu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zlata"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ryzího"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "udělal"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ji",
+      "marks": "ji (menora)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "všechny její nástroje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "její nástroje"
+    }
+  ],
+  "timestamp": "2026-09-17T06:27:21.250720796Z",
+  "model": "glm-5.3"
+}

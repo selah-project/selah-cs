@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 13:17",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 13,
+  "translation": "Stalo se, když Paroh propustil ⟨את⟩ lid, že Elohim nevedl ⟨tě⟩ cestou země Pelištejců, protože ⟨byla⟩ blízká; neboť Elohim řekl: Aby se lid nerozmyslil, až uvidí válku, a nevrátil se do Micrajimu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "když propustil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "vedl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelištejců"
+    },
+    {
+      "surface": "כי",
+      "gloss": "protože"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "blízká"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨byla⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aby ne"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "rozmyslil"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "až uvidí"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "válku"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "a nevrátil se"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "do Micrajimu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:19:46.414475706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A kněz zadýmí ⟨את⟩ její připomínkovou část, z jejího drceného zrna a z jejího oleje, vedle veškerého jejího kadidla — ohňová oběť Jahvemu.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "a zadýmí"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kněz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její připomínkovou část"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "její připomínkovou část"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "z jejího drceného zrna"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "a z jejího oleje"
+    },
+    {
+      "surface": "על",
+      "gloss": "vedle (nad)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerého"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "jejího kadidla"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ohňová oběť"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:50.249183449Z",
+  "model": "glm-5.3"
+}

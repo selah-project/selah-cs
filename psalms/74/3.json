@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 74,
+  "translation": "Pozdvihni své kroky k věčným pustinám — všechno zlo, jež činil nepřítel ve svatyni.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Pozdvihni"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "své kroky"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "k pustinám"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "věčným"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo, jež činil"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "nepřítel"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ve svatyni"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:59.580238814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A přivedl ⟨את⟩ býčka oběti za hřích, a Áron a jeho synové vztáhli ⟨את⟩ své ruce na hlavu býčka oběti za hřích.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "A přivedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "býčka oběti za hřích"
+    },
+    {
+      "surface": "פר",
+      "gloss": "býčka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "oběti za hřích"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "a vztáhli"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Áron"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "a jeho synové"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své ruce"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "své ruce"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "býčka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "oběti za hřích"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:29.676585475Z",
+  "model": "glm-5.3"
+}

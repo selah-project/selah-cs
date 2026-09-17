@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 35:21",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "Anebo z nepřátelství ho uderil rukou, takže zemřel — smrtí ať zemře ten, kdo udeřil; vrah ⟨je⟩ to; vykupitel krve zabije ⟨את⟩ vraha, jakmile ⟨ho⟩ potká.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "anebo"
+    },
+    {
+      "surface": "באיבה",
+      "gloss": "z nepřátelství"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "udeřil ho"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ať zemře"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "ten, kdo udeřil"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "vrah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je to"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "vykupitel"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krve"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "zabije"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vraha"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "vraha"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "když potká"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:21.700551453Z",
+  "model": "glm-5.3"
+}

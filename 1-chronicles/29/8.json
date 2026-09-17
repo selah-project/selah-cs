@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A u ⟨koho⟩ se našly ⟨את⟩ kameny, dali ⟨je⟩ do pokladnice domu Jahve, pod rukou Jechíela Geršonovce.",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "a u ⟨koho⟩ se našly"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kameny (אבנים)"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "dali ⟨je⟩"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "do pokladnice"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "pod"
+    },
+    {
+      "surface": "יד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Jechíela"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Geršonovce"
+    }
+  ],
+  "timestamp": "2026-09-17T10:23:32.975978575Z",
+  "model": "glm-5.3"
+}

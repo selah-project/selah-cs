@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 55:6",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Hledejte Jahve, dokud se dá najít, volejte na něj, dokud je blízko.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Hledejte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בהמצאו",
+      "gloss": "dokud se dá najít"
+    },
+    {
+      "surface": "קראהו",
+      "gloss": "volejte na něj"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "dokud je"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "blízko"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:15.074747282Z",
+  "model": "glm-5.3"
+}

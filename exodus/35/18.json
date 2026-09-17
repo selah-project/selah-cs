@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 35,
+  "translation": "⟨את⟩ kolíky příbytku a ⟨את⟩ kolíky dvora a ⟨את⟩ jejich šňůry —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolíky příbytku"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kolíky"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "příbytku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "kolíky dvora"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "kolíky"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "dvora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "jejich šňůry"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "jejich šňůry"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:51.760188256Z",
+  "model": "glm-5.3"
+}

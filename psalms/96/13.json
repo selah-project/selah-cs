@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 96,
+  "translation": "Před tváří Jahve, neboť přišel, neboť přišel soudit ⟨zemi⟩; bude soudit ⟨celou⟩ zemi v spravedlnosti a národy ve své věrnosti.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "soudit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨zemi⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "bude soudit"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨celou⟩ zemi"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "v spravedlnosti"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "a národy"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "ve své věrnosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:36.404522177Z",
+  "model": "glm-5.3"
+}

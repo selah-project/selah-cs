@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 14:9",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "a konal jsi zlo víc než všichni, kdo byli před tebou; šel jsi a udělal sis jiné bohy a slévance, abys mě rozhněval, a ⟨את⟩ mne jsi hodil za svá záda.",
+  "tokens": [
+    {
+      "surface": "ותרע",
+      "gloss": "a konal jsi zlo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "konat"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "více než všichni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "היו",
+      "gloss": "byli"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "šel jsi"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "a udělal jsi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bohy"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "jiné"
+    },
+    {
+      "surface": "ומסכות",
+      "gloss": "a slévance"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "abys mě rozhněval"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ mne",
+      "marks": "mne (předmět slovesa hodil)"
+    },
+    {
+      "surface": "השלכת",
+      "gloss": "jsi hodil"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "za"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "svá záda"
+    }
+  ],
+  "timestamp": "2026-09-17T07:47:40.417782077Z",
+  "model": "glm-5.3"
+}

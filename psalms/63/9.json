@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 63,
+  "translation": "Přilnula má duše k tobě ⟨Аת⟩ ⟨k tobě⟩; tvoje pravice mne podpírá.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "přilnula"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "má duše"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "za tebou"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mne"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "podpírá"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tvoje pravice"
+    }
+  ],
+  "timestamp": "2026-09-17T09:20:54.600488575Z",
+  "model": "glm-5.3"
+}

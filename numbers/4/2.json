@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "„Zvedni ⟨את⟩ hlavu synů Kehatových zprostřed synů Léviho, podle jejich rodů, podle domu jejich otců:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Zvedni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlavu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatových"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "zprostřed"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Léviho"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle jejich rodů"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "podle domu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jejich otců"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:26.505461340Z",
+  "model": "glm-5.3"
+}

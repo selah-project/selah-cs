@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 9:7",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "I řekl Mojžíš Árónovi: Přistup k oltáři a vykonej ⟨את⟩ svůj hřích ⟨oběť⟩ i ⟨את⟩ svou zápalnou oběť a vykonaj smíření za sebe a za lid; vykonej ⟨את⟩ oběť lidu a vykonaj smíření za ně, jak přikázal Jahve.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Árónovi"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "přistup"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáři"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a vykonej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj hřích"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "svůj hřích"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "svou zápalnou oběť"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "svou zápalnou oběť"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a vykonaj smíření"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "za sebe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "a za"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "vykonej"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oběť lidu"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "oběť"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a vykonaj smíření"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "za ně"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "jak"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:27.692314830Z",
+  "model": "glm-5.3"
+}

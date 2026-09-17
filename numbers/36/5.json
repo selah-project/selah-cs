@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 36,
+  "translation": "A přikázal Mojžíš ⟨את⟩ synům Israela podle úst Jahve, řka: Správně mluví kmen synů Josefových.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "a přikázal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "על",
+      "gloss": "podle"
+    },
+    {
+      "surface": "פי",
+      "gloss": "úst"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "řka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "správně"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "kmen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefových"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mluví"
+    }
+  ],
+  "timestamp": "2026-09-17T06:52:45.608842397Z",
+  "model": "glm-5.3"
+}

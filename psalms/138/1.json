@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 138,
+  "translation": "Od Davida. Budu ti vzdávat dík celým svým srdcem, před Elohim budu ti hrát ⟨na strunných nástrojích⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Od Davida"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "budu ti vzdávat dík"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "celým"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "svým srdcem"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "před"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "budu ti hrát"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:23.490670970Z",
+  "model": "glm-5.3"
+}

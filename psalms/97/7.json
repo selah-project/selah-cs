@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 97,
+  "translation": "Zahanbeni budou všichni, kdo slouží rytým ⟨modlám⟩, ti, kdo se chlubí boredky; klaňte se mu, všichni elohim.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Zahanbeni budou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "kteří slouží"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "rytým modlám"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "kteří se chlubí"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "boredky"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "klaňte se"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všichni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:24.315930356Z",
+  "model": "glm-5.3"
+}

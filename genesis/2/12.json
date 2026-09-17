@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A zlato té země je dobré; tam ⟨je⟩ bdélium a kámen šóham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "a zlato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "té země"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "té"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "je dobré"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bdélium"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "a kámen"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "šóham"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:50.956040632Z",
+  "model": "glm-5.3"
+}

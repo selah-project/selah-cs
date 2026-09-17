@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "Spočti ⟨את⟩ syny Léviho podle domů jejich otců, podle jejich čeledí: každého mužského pohlaví od jednoho měsíce výše spočteš je.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "Spočti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Léviho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Léviho"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "podle domů"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "jejich otců"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "podle jejich čeledí"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každého"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mužského pohlaví"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "od syna — od"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "jednoho měsíce"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "a výše"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "spočteš je"
+    }
+  ],
+  "timestamp": "2026-09-17T06:40:08.320670311Z",
+  "model": "glm-5.3"
+}

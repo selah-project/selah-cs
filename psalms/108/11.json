@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 108,
+  "translation": "Kdo mě uvede do opevněného města? Kdo mě dovede až do Edómu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "mě uvede"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "do města"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "opevněného"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "mě dovede"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až do"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edómu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:10.270076341Z",
+  "model": "glm-5.3"
+}

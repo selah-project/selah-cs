@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "A řeknou: Protože opustili ⟨את⟩ smlouvu Jahve, svého Elohima, a klaněli se jiným bohům a sloužili jim.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "A řeknou"
+    },
+    {
+      "surface": "על",
+      "gloss": "protože (o tom, že)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "opustili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "smlouvu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "svého Elohima"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "a klaněli se"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "jiným bohům"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "jiným"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "a sloužili jim"
+    }
+  ],
+  "timestamp": "2026-09-17T08:25:31.892310444Z",
+  "model": "glm-5.3"
+}

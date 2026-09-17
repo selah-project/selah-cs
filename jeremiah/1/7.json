@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I řekl mi Jahve: Neříkej: Jsem mládí; neboť ke všemu, k čemu tě pošlu, půjdeš, a ⟨את⟩ všechno, co ti přikážu, promluvíš.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ne-"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "říkej"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mládí"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "jsem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "על",
+      "gloss": "k"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všemu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "tě pošlu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "půjdeš"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "všechno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ti přikážu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "promluvíš"
+    }
+  ],
+  "timestamp": "2026-09-17T08:19:01.011067605Z",
+  "model": "glm-5.3"
+}

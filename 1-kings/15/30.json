@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "kvůli hříchům Jarobáma, které páchal a kterými přivedl ⟨את⟩ Izrael k hříchu, svým popuzením, jímž popudil ⟨את⟩ Jahveho, Elohim Izraele",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "hříchům"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobáma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "páchal"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kterými"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "přivedl k hříchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "svým popuzením"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jímž"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "popudil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T13:41:56.552186969Z",
+  "model": "glm-5.3"
+}

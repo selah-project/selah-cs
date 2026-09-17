@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A Jóšua jej požehnal a dal ⟨את⟩ Chevron Kalebovi, synu Jefunehovu, do dědictví.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "a požehnal jej"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jóšua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebovi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "synu"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunehovu"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "do dědictví"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:02.369715753Z",
+  "model": "glm-5.3"
+}

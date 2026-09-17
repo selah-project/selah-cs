@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Zdaliž ne — hle, ⟨od⟩ ⟨את⟩ Jahve Cevaot — ⟨se⟩ budou namáhat národy pro oheň a kmeny pro prázdno se vyčerpají?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Zdaliž ne"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨od⟩ ⟨את⟩",
+      "marks": "Jahve Cevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "budou namáhat"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "pro"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "a kmeny"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "pro"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "prázdno"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "se vyčerpají"
+    }
+  ],
+  "timestamp": "2026-09-17T11:08:55.588636291Z",
+  "model": "glm-5.3"
+}

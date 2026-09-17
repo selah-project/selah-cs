@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 8:19",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Všechna zvířata, všeliký plaz i všechno ptactvo, všelijaký tvor pohybující se po zemi, podle svých čeledí vyšli z archy.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "všechna"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "zvířata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všeliký"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "plaz"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "i všechno"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ptactvo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všelijaký"
+    },
+    {
+      "surface": "רומש",
+      "gloss": "tvor pohybující se"
+    },
+    {
+      "surface": "על",
+      "gloss": "po"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "למשפחתיהם",
+      "gloss": "podle svých čeledí"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "vyšli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "archy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:02:29.099937523Z",
+  "model": "glm-5.3"
+}

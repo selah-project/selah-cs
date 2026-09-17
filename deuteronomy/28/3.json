@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "Požehnaný ⟨budeš⟩ ve městě a požehnaný ⟨budeš⟩ na poli.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Požehnaný"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty (budeš)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "a požehnaný"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty (budeš)"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na poli"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:04.462980606Z",
+  "model": "glm-5.3"
+}

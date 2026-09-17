@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 16:3",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "I řekl král: A kde je syn tvého pána? A Cíba řekl králi: Hle, sedí v Jeruzalémě, neboť řekl: Dnes mi dům Izraele vrátí ⟨את⟩ království mého otce.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "a kde"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syn"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "tvého pána"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Cíba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "králi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sedí"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "v Jeruzalémě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dnes"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "vrátí"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "království"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "království"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "mého otce"
+    }
+  ],
+  "timestamp": "2026-09-17T07:37:07.846555874Z",
+  "model": "glm-5.3"
+}

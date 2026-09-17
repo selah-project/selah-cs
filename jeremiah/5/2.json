@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A když říkají: „Živ je Jahve“, jistě k lži přísahají.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "A když"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Živ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "říkají"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "jistě"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "k lži"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "přísahají"
+    }
+  ],
+  "timestamp": "2026-09-17T08:21:01.488871762Z",
+  "model": "glm-5.3"
+}

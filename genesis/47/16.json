@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 47,
+  "translation": "A Josef řekl: Dejte svůj dobytek a já vám dám ⟨za⟩ váš dobytek, když ⟨se⟩ stříbro vyčerpalo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Dejte"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "svůj dobytek"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "a já dám"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vám"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "za váš dobytek"
+    },
+    {
+      "surface": "אם",
+      "gloss": "když"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "se vyčerpalo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "stříbro"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:21.916240320Z",
+  "model": "glm-5.3"
+}

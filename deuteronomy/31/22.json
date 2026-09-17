@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A napsal Mojžíš onoho dne tuto píseň ⟨את⟩ a vyučil ji syny Izraele ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "A napsal"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuto píseň"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tuto"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "dne"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "onoho"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "a vyučil ji"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "syny Izraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    }
+  ],
+  "timestamp": "2026-09-17T07:03:44.335250603Z",
+  "model": "glm-5.3"
+}

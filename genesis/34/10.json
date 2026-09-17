@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "A ⟨u⟩ ⟨את⟩ nás bydlete, a země bude před vámi; sídlíte v ní, obchodujte v ní a uchopte ⟨držte⟩ ji.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "a ⟨את⟩ u nás",
+      "marks": "u nás"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "bydlete"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "a země"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bude"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "před vámi"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "sídlíte"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "obchodujte v ní"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "a uchopte"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ji"
+    }
+  ],
+  "timestamp": "2026-09-17T06:10:21.340708036Z",
+  "model": "glm-5.3"
+}

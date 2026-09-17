@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 141,
+  "translation": "Postav, Jahve, stráž ⟨před⟩ mými ústy; střež dveře mých rtů.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Postav"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "stráž"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mými ústy"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "střež"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨před⟩"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dveře"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mých rtů"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:23.949456706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 108,
+  "translation": "Což jsi nás nezavrhl, Elohime? Nevycházíš, Elohime, s našimi vojsky!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Což"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "jsi nás nezavrhl"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "vycházíš"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohime"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "s našimi vojsky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:10.270228957Z",
+  "model": "glm-5.3"
+}

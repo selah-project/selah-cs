@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Neboť obklopily mě vlnobity smrti, řeky ničemnosti <mně> děsily mě.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "obklopily mě"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "vlnobity"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrti"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "řeky"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ničemnosti"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "děsily mě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:59.739016361Z",
+  "model": "glm-5.3"
+}

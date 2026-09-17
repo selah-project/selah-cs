@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 24:23",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A David přísahal Šaulovi, a Šaul odešel do svého domu, ale David a jeho muži vystoupili na pevnost.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "přísahal"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Šaulovi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a odešel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "svého domu"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ale David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "a jeho muži"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "vystoupili"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "pevnost"
+    }
+  ],
+  "timestamp": "2026-09-17T10:50:51.382259839Z",
+  "model": "glm-5.3"
+}

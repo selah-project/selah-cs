@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "A ⟨את⟩ dům krále a ⟨את⟩ dům ⟨the⟩ lidu spálili Kasdejové ohněm, a ⟨את⟩ hradby Jeruzaléma strhli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "A ⟨את⟩",
+      "marks": "dům krále"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dům lidu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "spálili"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdejové"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "hradby Jeruzaléma"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "hradby"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzaléma"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "strhli"
+    }
+  ],
+  "timestamp": "2026-09-17T08:31:43.822825939Z",
+  "model": "glm-5.3"
+}

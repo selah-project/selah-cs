@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Nebo vyruje syna, nebo vyruje dceru — podle tohoto řádu ⟨se to⟩ učiní ⟨jemu⟩.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "syna"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "vyruje"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dceru"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "vyruje"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "podle tohoto řádu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨tohoto⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se učiní"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:56:13.706334053Z",
+  "model": "glm-5.3"
+}

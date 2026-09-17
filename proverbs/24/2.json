@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Neboť ničení přemítá jejich srdce a útrapy mluví jejich rty.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ničení"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "přemítá"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "jejich srdce"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "a útrapy"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "jejich rty"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "mluví"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:50.973199931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A stromy řekly fíkovníku: Pojď, ty kraluj nad námi!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekly"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "stromy"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "fíkovníku"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Pojď"
+    },
+    {
+      "surface": "את",
+      "gloss": "ty"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kraluj"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad námi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:14:52.154125553Z",
+  "model": "glm-5.3"
+}

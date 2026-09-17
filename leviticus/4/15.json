@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A položí starší obce ⟨את⟩ své ruce na hlavu býka před Jahve, a ⟨někdo⟩ porazí ⟨את⟩ býka před Jahve.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "A položí"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "starší"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "obce"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své ruce"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "své ruce"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "býka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "a porazí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "býka"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "býka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:49.952976724Z",
+  "model": "glm-5.3"
+}

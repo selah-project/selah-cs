@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A Juda byl poražen před Izraelem a utekl každý ⟨muž⟩ do svého stanu.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "a byl poražen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "a utekl"
+    },
+    {
+      "surface": "איש",
+      "gloss": "každý ⟨muž⟩"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "do svého stanu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:26:05.609603991Z",
+  "model": "glm-5.3"
+}

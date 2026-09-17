@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Toto jsi dělal, a já jsem mlčel; domníval jsi se, že ⟨jsem⟩ jako ty; usvědčím tě a předložím ⟨to⟩ před tvé oči.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jsi dělal"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "a já jsem mlčel"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "domníval jsi se"
+    },
+    {
+      "surface": "היות",
+      "gloss": "že ⟨jsem⟩"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "já"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "jako ty"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "usvědčím tě"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "a předložím"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "před tvé oči"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:32.293389420Z",
+  "model": "glm-5.3"
+}

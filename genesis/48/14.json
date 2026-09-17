@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 48:14",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 48,
+  "translation": "A Izrael vztáhl ⟨את⟩ svou pravici a položil ji na hlavu Efrajima — a on ⟨je⟩ mladší — a ⟨את⟩ svou levici na hlavu Manasese; zkřížil ⟨את⟩ své ruce, neboť Manases byl prvorozený.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "A vztáhl"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou pravici"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "svou pravici"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "a položil"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "הצעיר",
+      "gloss": "mladší"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "svou levici"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "svou levici"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlavu"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manasese"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "zkřížil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své ruce"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "své ruce"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manases"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "prvorozený"
+    }
+  ],
+  "timestamp": "2026-09-17T06:14:46.052534002Z",
+  "model": "glm-5.3"
+}

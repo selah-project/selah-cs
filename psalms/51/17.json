@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 51,
+  "translation": "Adonaj, rty mi otevři, a má ústa vyhlásí tvou chválu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "rty"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "otevři"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "a má ústa"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "vyhlásí"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tvou chválu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:30.478522751Z",
+  "model": "glm-5.3"
+}

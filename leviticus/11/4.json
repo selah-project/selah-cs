@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Jenom ⟨את⟩ toto nejezte z těch, co přežvykují ⟨a⟩ z těch, co mají rozdvojené kopýtko: ⟨את⟩ velblouda — vždyť přežvykuje, ale kopýtko nemá rozdvojené; nečistý je pro vás.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Jenom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jezte"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "z těch, co přežvykují"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "zvyk"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "a z těch, co mají rozdvojené"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "kopýtko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "velblouda"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "velblouda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "přežvykuje"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "zvyk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "a kopýtko"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nemá"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "rozdvojené"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nečistý"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "pro vás"
+    }
+  ],
+  "timestamp": "2026-09-17T06:31:41.814935861Z",
+  "model": "glm-5.3"
+}

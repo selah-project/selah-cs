@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "Ze středu ⟨lidí⟩ jsou vyhnáni; křičí ⟨na⟩ ně jako ⟨na⟩ zloděje.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "גו",
+      "gloss": "středu"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "jsou vyhnáni"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "křičí"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "na ně"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "jako ⟨na⟩ zloděje"
+    }
+  ],
+  "timestamp": "2026-09-17T11:18:09.274173164Z",
+  "model": "glm-5.3"
+}

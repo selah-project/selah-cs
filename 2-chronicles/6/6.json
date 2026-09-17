@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 6:6",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 6,
+  "translation": "avšak vyvolil jsem si Jeruzalém, aby tam bylo mé jméno, a vyvolil jsem si Davida, aby byl ⟨vládcem⟩ nad mým lidem Izraelem.",
+  "tokens": [
+    {
+      "surface": "ואבחר",
+      "gloss": "avšak vyvolil jsem si"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aby bylo"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "mé jméno"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tam"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "a vyvolil jsem si"
+    },
+    {
+      "surface": "בדויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "aby byl"
+    },
+    {
+      "surface": "על",
+      "gloss": "nad"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mým lidem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraelem"
+    }
+  ],
+  "timestamp": "2026-09-17T10:24:21.271959458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 4:37",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A proto, že miloval ⟨את⟩ tvé otce, vyvolil jejich potomstvo po nich a vyvedl tě před svou tváří svou velkou mocí z Egypta.",
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "a proto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "miloval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvé otce"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "tvé otce"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "vyvolil"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "jejich potomstvo"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "po nich"
+    },
+    {
+      "surface": "ויוצאך",
+      "gloss": "a vyvedl tě"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "před svou tváří"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "svou mocí"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "velkou"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    }
+  ],
+  "timestamp": "2026-09-17T11:42:19.438597960Z",
+  "model": "glm-5.3"
+}

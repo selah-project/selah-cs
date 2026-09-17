@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 135,
+  "translation": "Ústa mají, ale nemluví; oči mají, ale nevidí.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "ústa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mají"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "mluví"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oči"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mají"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vidí"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:30.864730436Z",
+  "model": "glm-5.3"
+}

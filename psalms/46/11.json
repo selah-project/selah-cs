@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 46,
+  "translation": "Ustupte ⟨a⟩ poznáte, že já jsem ⟨ten⟩ Elohim, jsem vyvýšen ⟨mezi⟩ národy, jsem vyvýšen ⟨na⟩ zemi.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Ustupte"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "poznáte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "já"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "jsem vyvýšen"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mezi národy"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "jsem vyvýšen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:33.026598468Z",
+  "model": "glm-5.3"
+}

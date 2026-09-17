@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "A vody pokryly jejich útlakovatele: jeden z nich nezůstal ⟨jeden jediný⟩.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "A pokryly"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "jejich útlakovatele"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "z nich"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "zůstal"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:29.679549918Z",
+  "model": "glm-5.3"
+}

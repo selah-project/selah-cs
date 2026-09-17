@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "I řekl Jahve synům Izraele: Což ⟨jsem vás nevysvobodil⟩ z Egypta i od Emorejce, a od synů Amóna a od Pelíštejce?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "synům"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "což ⟨ne⟩"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i od"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorejce"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a od"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amóna"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "a od"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelíštejce"
+    }
+  ],
+  "timestamp": "2026-09-17T07:14:31.786755908Z",
+  "model": "glm-5.3"
+}

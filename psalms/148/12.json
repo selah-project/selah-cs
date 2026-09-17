@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 148,
+  "translation": "mladíci i panny, starci spolu s chlapci,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "mladíci"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "panny"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "starci"
+    },
+    {
+      "surface": "עם",
+      "gloss": "spolu s"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "chlapci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:15.454276130Z",
+  "model": "glm-5.3"
+}

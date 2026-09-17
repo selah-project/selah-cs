@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 38,
+  "translation": "a řekl: Ach, Jahve, rozpomeň se prosím ⟨את⟩ na to, že jsem chodil před tebou ve věrnosti a s celým srdcem, a co je dobré v tvých očích, jsem konal. A plakal Chizkijáhu pláčem velkým.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "rozpomeň se"
+    },
+    {
+      "surface": "נא",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "na to, že jsem chodil před tebou…"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "jsem chodil"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "před tebou"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ve věrnosti"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "a s srdcem"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "celým"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "a co je dobré"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "v tvých očích"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "jsem konal"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "A plakal"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijáhu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "pláčem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velkým"
+    }
+  ],
+  "timestamp": "2026-09-17T08:10:26.751497893Z",
+  "model": "glm-5.3"
+}

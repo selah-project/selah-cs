@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Obed zplodil ⟨את⟩ Jišaje, a Jišaj zplodil ⟨את⟩ Davida.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "a Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jišaje"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jišaje"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "a Jišaj"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "zplodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-09-17T09:55:08.733611890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "I vyšel satan zpředu ⟨את⟩ Jahveova ⟨z⟩ tváře a udeřil ⟨את⟩ Jóba zlým vředem, od chodidla jeho nohy až po jeho temeno.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "satan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ zpředu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tváře"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveova"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a udeřil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jóba"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jóba"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "vředem"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlým"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "od chodidla"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "jeho nohy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "jeho temeno"
+    }
+  ],
+  "timestamp": "2026-09-17T09:44:27.408162252Z",
+  "model": "glm-5.3"
+}

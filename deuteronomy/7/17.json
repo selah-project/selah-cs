@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Když řekneš ve svém srdci: Početné ⟨jsou⟩ tyto národy více než já — jak bych je mohl vyhnat?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "řekneš"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "početné"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tyto národy"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "více než já"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "jak"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "bych mohl"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "je vyhnat"
+    }
+  ],
+  "timestamp": "2026-09-17T06:55:46.635476158Z",
+  "model": "glm-5.3"
+}

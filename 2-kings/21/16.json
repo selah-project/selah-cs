@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 21:16",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A také krev nevinnou vylil Menaše ve velmi velké míře, až naplnil ⟨את⟩ Jeruzalém od úst k ústům — kromě svého hříchu, jímž přivedl ⟨את⟩ Judu k hříchu, činit zlo v očích Jahve.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "a také"
+    },
+    {
+      "surface": "דם",
+      "gloss": "krev"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "nevinnou"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "vylil"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menaše"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ve velmi velké míře"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "naplnil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeruzalém"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "פה",
+      "gloss": "od úst"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "k ústům"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kromě"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "svého hříchu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jímž"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "přivedl k hříchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Juda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "činit"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "v očích"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T13:39:21.323945952Z",
+  "model": "glm-5.3"
+}

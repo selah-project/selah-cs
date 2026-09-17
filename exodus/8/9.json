@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A učinil Jahve podle slova Mojžíše, a žáby zemřely z domů, z nádvoří i z polí.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a učinil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "podle slova"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "a zemřely"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "žáby"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "domů"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "nádvoří"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "i z"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "polí"
+    }
+  ],
+  "timestamp": "2026-09-17T06:17:42.855071385Z",
+  "model": "glm-5.3"
+}

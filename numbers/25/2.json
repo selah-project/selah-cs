@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 25:2",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A ty ⟨je⟩ zvaly lid k obětem svých bohů ⟨Elohim⟩, a lid jedl a klaněl se jejich bohům ⟨Elohim⟩.",
+  "tokens": [
+    {
+      "surface": "ותקראן",
+      "gloss": "a zvaly"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "לזבחי",
+      "gloss": "k obětem"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "svých Elohim"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "a jedl"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "a klaněl se"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "jejich Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T10:43:14.673934659Z",
+  "model": "glm-5.3"
+}

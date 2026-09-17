@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Malé ⟨bylo⟩ město a lidí v něm málo; a přišel k němu král veliký a obklíčil ⟨את⟩ něj a vystavěl proti němu veliké opevnění.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "Malé"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "a lidí"
+    },
+    {
+      "surface": "בה",
+      "gloss": "v něm"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "málo"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "a přišel"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "a obklíčil"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "něj"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "a vystavěl"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "proti němu"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "opevnění"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "veliké"
+    }
+  ],
+  "timestamp": "2026-09-17T11:20:39.399299940Z",
+  "model": "glm-5.3"
+}

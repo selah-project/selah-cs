@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "A přišla k němu Izabela, jeho žena, a promluvila k němu: Co je to? Je-li tvá duše zasmučilá a nekonzíš chléb?",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "a přišla"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izabela"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "jeho žena"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "a promluvila"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Co"
+    },
+    {
+      "surface": "זה",
+      "gloss": "je to"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "duše tvá"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "zasmučilá"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "konzíš"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "chléb"
+    }
+  ],
+  "timestamp": "2026-09-17T07:50:32.732719235Z",
+  "model": "glm-5.3"
+}

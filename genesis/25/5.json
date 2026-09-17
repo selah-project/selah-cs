@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A Abraham dal vše, co měl, Jícakovi ⟨את⟩ všechno ⟨to, co⟩ bylo jeho, Isákovi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a dal"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "לו",
+      "gloss": "měl"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Isákovi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:06:54.671037987Z",
+  "model": "glm-5.3"
+}

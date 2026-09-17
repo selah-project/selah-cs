@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "Žíní jsem přišil na svou kůži a svůj roh jsem pohřbil v prachu.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "žíně"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "jsem přišil"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "svou kůži"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "pohřbil jsem \/ přišel jsem"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "v prachu"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "svůj roh"
+    }
+  ],
+  "timestamp": "2026-09-17T09:47:58.376621120Z",
+  "model": "glm-5.3"
+}

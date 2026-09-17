@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 88,
+  "translation": "A já, k tobě, Jahve, volám, a za rána ti moje modlitba vyjde vstříc.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "a já"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "volám"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "a za rána"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "moje modlitba"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "vyjde ti vstříc"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:55.408736989Z",
+  "model": "glm-5.3"
+}

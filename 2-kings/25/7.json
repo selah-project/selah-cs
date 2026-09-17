@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A ⟨את⟩ syny Cidkijáše pobili před jeho očima, a ⟨את⟩ oči Cidkijáše oslepili a svázali ho měděnými pouty a přivedli ho do Babylónu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "syny Cidkijáše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "syny"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijáše"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "pobili"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "před jeho očima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "oči Cidkijáše"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "oči"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Cidkijáše"
+    },
+    {
+      "surface": "עור",
+      "gloss": "oslepili"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "a svázali ho"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "měděnými pouty"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "a přivedli ho"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "do Babylónu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:53.833746360Z",
+  "model": "glm-5.3"
+}

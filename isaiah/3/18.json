@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "V ten den odstraní Adonaj ⟨את⟩ ozdobu zvonečků ⟨na nohou⟩, ⟨i⟩ šátky a půlměsíce.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "V ten den"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "odstraní"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ozdobu"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ozdobu"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "zvonečků ⟨na nohou⟩"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "a šátky"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "a půlměsíce"
+    }
+  ],
+  "timestamp": "2026-09-17T08:02:21.823670073Z",
+  "model": "glm-5.3"
+}

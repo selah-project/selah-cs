@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Slova má slyš, Jahve, rozuměj ⟨mému⟩ šeptání.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Slova má"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "slyš"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "rozuměj"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "⟨mému⟩ šeptání"
+    }
+  ],
+  "timestamp": "2026-09-17T11:10:21.826924198Z",
+  "model": "glm-5.3"
+}

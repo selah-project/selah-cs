@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Stalo se, když přišel Abram do Egypta, že Egypťané viděli ⟨את⟩ tu ženu, že byla velmi pěkná.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "když přišel"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "do Egypta"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "že viděli"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Egypťané"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tu ženu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "tu ženu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "pěkná"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ona"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "velmi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:03:26.605647308Z",
+  "model": "glm-5.3"
+}

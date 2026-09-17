@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 147,
+  "translation": "Ten, jenž posílá své slovo ⟨na⟩ zemi, velice rychle běží jeho řeč.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Ten, jenž posílá"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "své slovo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zemi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "velice rychle"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "běží"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "jeho řeč"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:46.141689290Z",
+  "model": "glm-5.3"
+}

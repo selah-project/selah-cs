@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 16:35",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A oheň vyšel od ⟨את⟩ Jahve a pozřel ⟨את⟩ těch padesát a dva sta mužů, přinášejících kadidlo.",
+  "tokens": [
+    {
+      "surface": "ואש",
+      "gloss": "A oheň"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "vyšel"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ od"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "a pozřel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "těch padesát a dva sta mužů"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "těch padesát"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "a dva sta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "מקריבי",
+      "gloss": "přinášejících"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "kadidlo"
+    }
+  ],
+  "timestamp": "2026-09-17T06:45:10.014753749Z",
+  "model": "glm-5.3"
+}

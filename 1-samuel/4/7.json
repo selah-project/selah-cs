@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A Filistejci se báli, neboť řekli: ⟨Elohim⟩ přišli do tábora. A řekli: Běda nám, neboť taková věc nebyla včera ani předevčírem.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "A báli se"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Filistejci"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "řekli"
+    },
+    {
+      "surface": "בא",
+      "gloss": "přišli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábora"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "A řekli"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Běda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "byla"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "taková"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "včera"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ani předevčírem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:22:00.718510596Z",
+  "model": "glm-5.3"
+}

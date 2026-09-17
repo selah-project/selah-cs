@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A stáhne kůži z ⟨את⟩ celopal⟨u⟩ a rozčlení ⟨את⟩ jej na ⟨jeho⟩ díly.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "a stáhne kůži z"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celopal"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "celopal"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "a rozčlení"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "jej \/ na jeho díly"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "na jeho díly"
+    }
+  ],
+  "timestamp": "2026-09-17T13:38:54.220456569Z",
+  "model": "glm-5.3"
+}

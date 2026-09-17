@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "Stalo se pak ve dvacátém třetím roce krále Jóaše, že kněží neopravili ⟨את⟩ trhliny ⟨ה-domu⟩ domu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "stalo se"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "v roce"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "dvaceti"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "a tři"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "rok"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Jóaše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "neopravili (doslova 'neposílili')"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněží"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "trhliny"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "trhliny"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "domu (chrámu)"
+    }
+  ],
+  "timestamp": "2026-09-17T13:05:47.401982306Z",
+  "model": "glm-5.3"
+}

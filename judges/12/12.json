@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 12:12",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A zemřel Elon Zabulonan a byl pohřben v Ajalonu v zemi Zabulón.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "a zemřel"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "Zabulonan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a byl pohřben"
+    },
+    {
+      "surface": "באילון",
+      "gloss": "v Ajalonu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zabulón"
+    }
+  ],
+  "timestamp": "2026-09-17T07:16:35.283209103Z",
+  "model": "glm-5.3"
+}

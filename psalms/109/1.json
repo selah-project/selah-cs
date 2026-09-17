@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 109,
+  "translation": "Pro předního zpěváka, Davidův, zpěv ⟨s doprovodem⟩. Elohim ⟨Bože⟩ mé chvály, ne mlč!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "pro předního zpěváka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidův"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "zpěv ⟨s doprovodem⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "mé chvály"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "mlč"
+    }
+  ],
+  "timestamp": "2026-09-17T09:30:55.900078309Z",
+  "model": "glm-5.3"
+}

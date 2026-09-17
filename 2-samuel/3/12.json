@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 3:12",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "I poslal Abner posly k Davidovi ⟨místo sebe⟩ s vzkazem: 'Čí je ⟨ta⟩ země?' — s vzkazem: 'Svaž ⟨את⟩ svou smlouvu se mnou a hle, má ruka bude s tebou, obrátit k tobě ⟨את⟩ celý Izrael.'",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "I poslal"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abner"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "posly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "⟨místo sebe⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s vzkazem"
+    },
+    {
+      "surface": "למי",
+      "gloss": "Čí je"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨ta⟩ země"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "s vzkazem"
+    },
+    {
+      "surface": "כרתה",
+      "gloss": "Svaž"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "svou smlouvu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ se mnou"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "a hle"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "má ruka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bude s tebou"
+    },
+    {
+      "surface": "להסב",
+      "gloss": "obrátit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý Izrael"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    }
+  ],
+  "timestamp": "2026-09-17T07:32:11.737573004Z",
+  "model": "glm-5.3"
+}

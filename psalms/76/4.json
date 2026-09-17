@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 76,
+  "translation": "Tam roztříštil záblesky luku, štít, meč i boj. Séla.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "roztříštil"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "záblesky"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "luku"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "štít"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "i meč"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "i boj"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:23.129976199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "A slyšel lid ⟨את⟩ slovo to zlé toto a truchlili, a neoblékli muži ozdoby své na sebe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "A slyšel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slovo to zlé toto"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zlé"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "a truchlili"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "oblékli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muži"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ozdoby své"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na sebe"
+    }
+  ],
+  "timestamp": "2026-09-17T10:38:08.509062724Z",
+  "model": "glm-5.3"
+}

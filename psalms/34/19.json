@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Blízko ⟨je⟩ Jahve těm, kdo mají zlomené srdce, a ⟨את⟩ zkrušené v duchu zachraňuje.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Blízko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "těm, kdo mají zlomené"
+    },
+    {
+      "surface": "לב",
+      "gloss": "srdce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zkrušené v duchu"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "zkrušené"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "v duchu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "zachraňuje"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:47.096344933Z",
+  "model": "glm-5.3"
+}

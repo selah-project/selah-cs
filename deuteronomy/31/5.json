@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A Jahve je vydá před vaši tvář, a učiníte jim podle všeho přikázání, které jsem vám přikázal ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "a vydá je"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "před vaši tvář"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "a učiníte"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "podle všeho"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "jsem přikázal"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vás"
+    }
+  ],
+  "timestamp": "2026-09-17T10:46:39.471660062Z",
+  "model": "glm-5.3"
+}

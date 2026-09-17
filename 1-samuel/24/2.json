@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 24:2",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A stalo se, když se Saul vrátil od Pelišťanů, že mu oznámili ⟨a řekli⟩: „Hle, David ⟨je⟩ na poušti Ejn-Gedi.“",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "když"
+    },
+    {
+      "surface": "שב",
+      "gloss": "se vrátil"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "od"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelišťanů"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "že oznámili"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨a řekli⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na poušti"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ejn-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:28:41.148139975Z",
+  "model": "glm-5.3"
+}

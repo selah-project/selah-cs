@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 69,
+  "translation": "Avšak já jsem ubohý a bolavý; ⟨tvá⟩ spása, Elohim, mě vyvýší.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Avšak já"
+    },
+    {
+      "surface": "עני",
+      "gloss": "jsem ubohý"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "a bolavý"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "⟨tvá⟩ spása"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "mě vyvýší"
+    }
+  ],
+  "timestamp": "2026-09-17T09:22:29.110519225Z",
+  "model": "glm-5.3"
+}

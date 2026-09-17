@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 32,
+  "translation": "Hřích svůj ti dám poznat a svou vinu jsem nepřikryl. Řekl jsem: „Vyznám Jahvemu svá přestoupení“ — a ty jsi nesl vinu hříchu mého. Sela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "hřích svůj"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ti dám poznat"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "a svou vinu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "jsem nepřikryl"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "řekl jsem"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "vyznám"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨ohledně⟩"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "svá přestoupení"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahvemu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "a ty"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "jsi nesl"
+    },
+    {
+      "surface": "עון",
+      "gloss": "vinu"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "hříchu mého"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:16:37.903417086Z",
+  "model": "glm-5.3"
+}

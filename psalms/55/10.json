@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 55,
+  "translation": "Pohlti, Adonaj, rozděl jejich jazyk, neboť viděl jsem násilí a svár ve městě.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Pohlti"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "rozděl"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "jejich jazyk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "viděl jsem"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "násilí"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "a svár"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ve městě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:36.414421115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A umyje ⟨את⟩ své tělo vodou na svatém místě a oblékne ⟨את⟩ svá roucha; vyjde a vykoná ⟨את⟩ svou zápalnou oběť a ⟨את⟩ zápalnou oběť lidu a vykoná smíření za sebe a za lid.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "a umyje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své tělo"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "své tělo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "vodou"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na místě"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "svatém"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "a oblékne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svá roucha"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "svá roucha"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "vyjde"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a vykoná"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou zápalnou oběť"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "svou zápalnou oběť"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "zápalnou oběť lidu"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "zápalnou oběť"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "a vykoná smíření"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "za sebe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "a za"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    }
+  ],
+  "timestamp": "2026-09-17T06:34:50.793906301Z",
+  "model": "glm-5.3"
+}

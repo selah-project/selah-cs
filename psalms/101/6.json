@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 101,
+  "translation": "Moje oči ⟨budou⟩ na věrných země, aby bydleli se mnou; kdo chodí cestou bezúhonnosti, ten mi bude sloužit.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "moje oči"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "na věrných"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "aby bydleli"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "chodí"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "bezúhonnosti"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ten"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "mi bude sloužit"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:45.171363245Z",
+  "model": "glm-5.3"
+}

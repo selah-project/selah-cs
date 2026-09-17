@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A Jahve vhodil veliký vítr na moře, a stala se veliká bouře na moři, a loď pomýšlela, aby se rozbila ⟨na kusy⟩.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "A Jahve"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "vhodil"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "vítr"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "veliký"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הים",
+      "gloss": "moře"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stala se"
+    },
+    {
+      "surface": "סער",
+      "gloss": "veliká bouře"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "veliká"
+    },
+    {
+      "surface": "בים",
+      "gloss": "na moři"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "a loď"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "pomýšlela"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "aby se rozbila ⟨na kusy⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:02:24.878603663Z",
+  "model": "glm-5.3"
+}

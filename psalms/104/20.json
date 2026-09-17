@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 104,
+  "translation": "Ukládáš tmu, a stává se noc, v ní plazi se vše zvěř lesa.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Ukládáš"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tmu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a stává se"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "noc"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v ní"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "plazi se"
+    },
+    {
+      "surface": "כל",
+      "gloss": "vše"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "zvěř"
+    },
+    {
+      "surface": "יער",
+      "gloss": "lesa"
+    }
+  ],
+  "timestamp": "2026-09-17T09:28:22.777646475Z",
+  "model": "glm-5.3"
+}

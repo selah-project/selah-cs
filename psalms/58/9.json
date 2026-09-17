@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 58,
+  "translation": "Jako hlemýžď, který se rozpouští, ať odchází; jako potrat ženy, který slunce nespatřil.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "jako"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "hlemýžď"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "rozpouští se"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ať odchází"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "potrat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženy"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "spatřil"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "slunce"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:59.821180719Z",
+  "model": "glm-5.3"
+}

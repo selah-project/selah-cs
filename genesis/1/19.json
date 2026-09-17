@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Byl večer a bylo ráno — den čtvrtý.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "byl"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a bylo"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "čtvrtý"
+    }
+  ],
+  "timestamp": "2026-09-17T06:01:17.247062169Z",
+  "model": "glm-5.3"
+}

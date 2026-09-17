@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "Každý svou matku a svého otce se ⟨ má⟩ bát, a ⟨את⟩ mé šabaty budete střežit; já jsem Jahve, váš Elohim.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Každý"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "svou matku"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "a svého otce"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "se bát"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mé šabaty"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "mé šabaty"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "budete střežit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "váš Elohim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:35:06.690275688Z",
+  "model": "glm-5.3"
+}

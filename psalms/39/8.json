@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 39,
+  "translation": "A nyní — co čekám, Adonaj? Má naděje, ⟨ta je⟩ v tobě.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "čekám"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Má naděje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "v tobě"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ta je⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T09:17:55.648915535Z",
+  "model": "glm-5.3"
+}

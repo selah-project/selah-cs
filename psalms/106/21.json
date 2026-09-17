@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "Zapomněli na El, svého Vysvoboditele, činitele velikých skutků v Egyptě,",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "Zapomněli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na El"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "svého Vysvoboditele"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "činitele"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "velikých skutků"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "v Egyptě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:07.569253635Z",
+  "model": "glm-5.3"
+}

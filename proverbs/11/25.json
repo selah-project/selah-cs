@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "Duše požehnání ⟨se⟩ vydaří, a kdo napájí, i on ⟨sám⟩ bude napájen.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "duše"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "požehnání"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "vydaří se"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "a kdo napájí"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "bude napájen"
+    }
+  ],
+  "timestamp": "2026-09-17T09:38:47.810014828Z",
+  "model": "glm-5.3"
+}

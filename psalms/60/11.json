@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 60,
+  "translation": "Kdo mě uvede do opevněného ⟨města⟩? Kdo mě dovede až do Edomu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "mě uvede"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "do ⟨města⟩"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "opevněného"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kdo"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "mě dovede"
+    },
+    {
+      "surface": "עד",
+      "gloss": "až"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "do Edomu"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:15.233535890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 115,
+  "translation": "Uši mají, ale neslyší; nos mají, ale necítí.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "uši"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mají"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "slyší"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nos"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mají"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ale ne"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "cítí"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:43.616925805Z",
+  "model": "glm-5.3"
+}

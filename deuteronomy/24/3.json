@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 24:3",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A když ji druhý muž zamítne, napíše jí rozvodní list, vloží jí jej do ruky a pošle ji ze svého domu — anebo když druhý muž, který si ji vzal za ženu, zemře.",
+  "tokens": [
+    {
+      "surface": "ושנאה",
+      "gloss": "A když ji zamítne"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "druhý"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "napíše"
+    },
+    {
+      "surface": "לה",
+      "gloss": "jí"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "list"
+    },
+    {
+      "surface": "כריתת",
+      "gloss": "rozvodní"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a vloží"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "do ruky jí"
+    },
+    {
+      "surface": "ושלחה",
+      "gloss": "a pošle ji"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "ze svého domu"
+    },
+    {
+      "surface": "או",
+      "gloss": "anebo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "zemře"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "druhý"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "si ji vzal"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sobě"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "za ženu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:01.882373032Z",
+  "model": "glm-5.3"
+}

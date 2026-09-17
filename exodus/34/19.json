@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Všechno, co otvírá lůno, je ⟨moje⟩; a každý samec z tvého dobytka vyhledáš ⟨jako⟩ prvorozené, práh kotěte i ovce.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "co otvírá"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "lůno"
+    },
+    {
+      "surface": "לי",
+      "gloss": "je ⟨moje⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "a každý"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "z tvého dobytka"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "samec"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "prvorozené"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kotěte"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "i ovce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:25:58.315587297Z",
+  "model": "glm-5.3"
+}

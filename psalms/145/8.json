@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 145,
+  "translation": "Milostivý a soucitný ⟨je⟩ Jahve, shovívavý ⟨v hněvu⟩ a veliký v chesedu ⟨lásce⟩.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "milostivý"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "a soucitný"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "shovívavý"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "v hněvu"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "a veliký"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "v chesedu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:35:29.921221829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A řekl k ní Barak: Když půjdeš se mnou, půjdu; a když nepůjdeš se mnou, nepůjdu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k ní"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Když"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "půjdeš"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "půjdu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "a když"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "půjdeš"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "se mnou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "půjdu"
+    }
+  ],
+  "timestamp": "2026-09-17T07:14:06.269071470Z",
+  "model": "glm-5.3"
+}

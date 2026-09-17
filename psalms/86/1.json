@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 86,
+  "translation": "Modlitba Davidova. Přikloň, Jahve, své ucho, odpověz mi, neboť jsem ubohý a nuzný, já.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Modlitba"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidova"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Přikloň"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "své ucho"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "odpověz mi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ubohý"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "a nuzný"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    }
+  ],
+  "timestamp": "2026-09-17T09:26:14.692267171Z",
+  "model": "glm-5.3"
+}

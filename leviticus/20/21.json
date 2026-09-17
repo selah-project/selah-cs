@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A muž, který vezme ⟨את⟩ manželku svého bratra — nečistost ⟨to⟩ je; obnažil nahotu svého bratra; bezdětní budou.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vezme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manželku svého bratra"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "manželku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svého bratra"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "nečistost"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩ je"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nahotu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "svého bratra"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "obnažil"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bezdětní"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "budou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:29.010834188Z",
+  "model": "glm-5.3"
+}

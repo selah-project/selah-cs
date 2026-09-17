@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 66,
+  "translation": "Nepravost, kdybych ji viděl ve svém srdci, Adonaj by neslyšel.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "nepravost"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kdybych"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "viděl"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ve svém srdci"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "by slyšel"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:00.062664906Z",
+  "model": "glm-5.3"
+}

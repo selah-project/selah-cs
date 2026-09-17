@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Toto jsou synové Gileáda: k Iezerovi ⟨patří⟩ čeleď Iezerovců; k Chelekovi ⟨patří⟩ čeleď Chelekovců.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "jsou synové"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileáda"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "k Iezerovi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "čeleď"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "Iezerovců"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "k Chelekovi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "čeleď"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "Chelekovců"
+    }
+  ],
+  "timestamp": "2026-09-17T10:42:59.748629610Z",
+  "model": "glm-5.3"
+}

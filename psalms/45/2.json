@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 45,
+  "translation": "Zářící ⟨je⟩ mé srdce slovem dobrým; pravím já: svá díla ⟨vypravuji⟩ králi; můj jazyk ⟨je⟩ perem písaře rychlého.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "Zářící (vření, přetékaní)"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "mé srdce"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "slovem"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrým"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "pravím"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "svá díla"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "můj jazyk"
+    },
+    {
+      "surface": "עט",
+      "gloss": "perem"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "písaře"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "rychlého"
+    }
+  ],
+  "timestamp": "2026-09-17T09:19:01.689871663Z",
+  "model": "glm-5.3"
+}

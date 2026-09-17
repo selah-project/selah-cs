@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 59,
+  "translation": "Vysvoboď mě od mých nepřátel, Elohim muj; vyveď mě ⟨do bezpečné výše⟩ před těmi, kdo povstávají proti mně.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "vysvoboď mě"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "od mých nepřátel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim muj"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "před těmi, kdo povstávají proti mně"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "vyveď mě ⟨do bezpečné výše⟩"
+    }
+  ],
+  "timestamp": "2026-09-17T11:12:05.999622033Z",
+  "model": "glm-5.3"
+}

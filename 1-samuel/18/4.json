@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A Jonatan se svlékl ⟨את⟩ plášť, který měl na sobě, a dal ho Davidovi, i svá roucha, až po svůj meč, svůj luk i svůj pás.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "a svlékl se"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plášť"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "plášť"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na sobě"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "a dal ho"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidovi"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "i svá roucha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "svůj meč"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "až po"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "svůj luk"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "i až po"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "svůj pás"
+    }
+  ],
+  "timestamp": "2026-09-17T13:05:32.312924677Z",
+  "model": "glm-5.3"
+}

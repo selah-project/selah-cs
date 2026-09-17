@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "Srdce moudrých ⟨je⟩ v domu truchlení, a srdce bláznů v domu radosti.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Srdce"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "moudrých"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domu"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "truchlení"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "a srdce"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "bláznů"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domu"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "radosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:59:56.802416760Z",
+  "model": "glm-5.3"
+}

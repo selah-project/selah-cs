@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "I padl oheň Jahveho a pohltil ⟨את⟩ zápalnou oběť i ⟨את⟩ dřevo i ⟨את⟩ kamení i ⟨את⟩ prach, ⟨a⟩ ⟨את⟩ vodu, která ⟨byla⟩ v příkopu, vylízal.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "I padl"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "a pohltil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zápalnou oběť"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zápalná oběť"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "dřevo"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dřevo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "kamení"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "kamení"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "prach"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "prach"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨a⟩ ⟨את⟩",
+      "marks": "vodu"
+    },
+    {
+      "surface": "המים",
+      "gloss": "vodu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "která"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "v příkopu"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "vylízal"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:27.250181987Z",
+  "model": "glm-5.3"
+}

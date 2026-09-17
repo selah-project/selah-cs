@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 130,
+  "translation": "Čekej, Izraeli, na Jahve, neboť u Jahve je chesed a hojné je u něj vykoupení.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Čekej"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "עם",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "je chesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "a hojné"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u něj"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "vykoupení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:26.504230907Z",
+  "model": "glm-5.3"
+}

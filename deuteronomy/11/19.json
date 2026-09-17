@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "a naučíte ⟨את⟩ je ⟨את⟩ svými syny, mluvit o nich, když sedíš ve svém domě, když jdeš cestou, když si leháš a když vstáváš.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "naučíte"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svými syny"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "svými syny"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mluvit"
+    },
+    {
+      "surface": "בם",
+      "gloss": "o nich"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "když sedíš"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ve svém domě"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "když jdeš"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "cestou"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "když si leháš"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "když vstáváš"
+    }
+  ],
+  "timestamp": "2026-09-17T06:56:03.607111701Z",
+  "model": "glm-5.3"
+}

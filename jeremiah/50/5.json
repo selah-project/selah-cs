@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 50:5",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Na cestu k Sijónu se ptají, tam ⟨jsou⟩ jejich tváře: Pojďte a připojíme se k Jahvovi, ⟨k⟩ smlouvě věčné, ⟨která⟩ nezapomenuta ⟨bude⟩.",
+  "tokens": [
+    {
+      "surface": "ציון",
+      "gloss": "Sijónu"
+    },
+    {
+      "surface": "ישאלו",
+      "gloss": "ptají se"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "na cestu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tam"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "jejich tváře"
+    },
+    {
+      "surface": "באו",
+      "gloss": "Pojďte"
+    },
+    {
+      "surface": "ונלוו",
+      "gloss": "a připojíme se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvovi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvě"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věčné"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "nezapomenuta"
+    }
+  ],
+  "timestamp": "2026-09-17T08:35:58.746797018Z",
+  "model": "glm-5.3"
+}

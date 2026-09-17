@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 25:34",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 25,
+  "translation": "A pole pastvin jejich měst se nesmí prodat, neboť ⟨je to⟩ věčné vlastnictví ⟨patřící⟩ jim.",
+  "tokens": [
+    {
+      "surface": "ושדה",
+      "gloss": "a pole"
+    },
+    {
+      "surface": "מגרש",
+      "gloss": "pastvin"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "jejich měst"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "se nesmí prodat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "vlastnictví"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "věčné"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je to⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:51.610723189Z",
+  "model": "glm-5.3"
+}

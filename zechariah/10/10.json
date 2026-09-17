@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 10:10",
+  "book": "zechariah",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A přivedu je zpět z egyptské země, a z Asýrie je shromáždím, a do země Gileád a do Libanonu je uvedu, a nenalezne se jim ⟨místo⟩.",
+  "tokens": [
+    {
+      "surface": "והשיבותים",
+      "gloss": "a přivedu je zpět"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "z egyptské země"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ומאשור",
+      "gloss": "a z Asýrie"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "je shromáždím"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a do země"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileád"
+    },
+    {
+      "surface": "ולבנון",
+      "gloss": "a do Libanonu"
+    },
+    {
+      "surface": "אביאם",
+      "gloss": "je uvedu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "nalezne se"
+    },
+    {
+      "surface": "להם",
+      "gloss": "jim"
+    }
+  ],
+  "timestamp": "2026-09-17T09:08:44.208307434Z",
+  "model": "glm-5.3"
+}

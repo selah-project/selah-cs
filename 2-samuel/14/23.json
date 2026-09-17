@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A vstal Jóab a šel do Gušuru, a přivedl ⟨את⟩ Avšaloma do Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a vstal"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Jóab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "do Gušuru"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a přivedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avšaloma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avšaloma"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "do Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T07:36:15.144028558Z",
+  "model": "glm-5.3"
+}

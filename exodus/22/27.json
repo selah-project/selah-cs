@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Elohim nezlehčíš a kníže ve svém lidu neprokleneš.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "zlehčíš"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "a kníže"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "ve svém lidu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "prokleneš"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:52.263659450Z",
+  "model": "glm-5.3"
+}

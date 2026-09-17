@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 102,
+  "translation": " Když se shromáždí národy spolu i království, aby sloužily ⟨את⟩ Jahveho.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "Když se shromáždí"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národy"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "spolu"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "i království"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "aby sloužily"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:43.389368739Z",
+  "model": "glm-5.3"
+}

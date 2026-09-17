@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A dobyl Juda ⟨את⟩ Azu i ⟨את⟩ její území, i ⟨את⟩ Aškelon i ⟨את⟩ jeho území, i ⟨את⟩ Ekron i ⟨את⟩ jeho území.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "A dobyl"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azu"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "její území"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "její území"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Aškelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Aškelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho území"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "jeho území"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "jeho území"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "jeho území"
+    }
+  ],
+  "timestamp": "2026-09-17T07:12:43.232768066Z",
+  "model": "glm-5.3"
+}

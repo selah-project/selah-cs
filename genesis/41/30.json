@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 41,
+  "translation": "A vstanou po nich sedm let hladu, a bude zapomenuto všechno ⟨to⟩ nasycení v zemi micrajimské, a hlad zkonzumuje ⟨את⟩ zemi.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "A vstanou"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sedm"
+    },
+    {
+      "surface": "שני",
+      "gloss": "let"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hladu"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "po nich"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "a bude zapomenuto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "⟨to⟩ nasycení"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "micrajimské"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "a zkonzumuje"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "hlad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zemi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:12:30.651872733Z",
+  "model": "glm-5.3"
+}

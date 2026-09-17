@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 11,
+  "translation": "A řekl lid Samuelovi: Kdo je ten, kdo říkal: „Má Šaul kralovat nad námi?“ Vydejte ty muže, a zemřou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(k)"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuelovi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kdo"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "kdo říkal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "má kralovat"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nad námi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "vydejte"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ty muže"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "a zemřou"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:44.390752143Z",
+  "model": "glm-5.3"
+}

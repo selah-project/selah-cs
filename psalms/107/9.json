@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 107,
+  "translation": "Neboť nasytil duši ⟨tu⟩ lačnou, a duš hladovou naplnil dobrem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "nasytil"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "duši"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "lačnou"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "a duši"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "hladovou"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "naplnil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dobrem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:15.293422277Z",
+  "model": "glm-5.3"
+}

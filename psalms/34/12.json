@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 34,
+  "translation": "Pojďte, synové, poslouchejte mě: bázeň před Jahve vás naučím.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Pojďte"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "synové"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "poslouchejte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mě"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "bázeň před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "vás naučím"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:39.346219902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A nyní mi přiveďte hudebníka. A stalo se, když hudebník hrál, že byla na něm ruka Jahve.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "A nyní"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "přiveďte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "hudebníka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "když hrál"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "hudebník"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "že byla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na něm"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ruka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T10:55:13.907293804Z",
+  "model": "glm-5.3"
+}

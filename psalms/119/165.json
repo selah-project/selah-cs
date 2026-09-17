@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Velký pokoj ⟨má⟩ ti, kdo milují tvou tóru, a není pro ně pádka ⟨překážky⟩.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "רב",
+      "gloss": "velký"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ti, kdo milují"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "tvou tóru"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a není"
+    },
+    {
+      "surface": "למו",
+      "gloss": "pro ně"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "překážky (pádky)"
+    }
+  ],
+  "timestamp": "2026-09-17T11:14:17.972927994Z",
+  "model": "glm-5.3"
+}

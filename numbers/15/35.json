@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.3",
+  "verse": 35,
+  "ref": "numbers 15:35",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "I řekl Jahve Mojžíšovi: Muž má být jistě usmrcen, ukamenováním ⟨את⟩ jej kameny celá obec, vně ⟨od⟩ tábora.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi (k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíš"
+    },
+    {
+      "surface": "מות",
+      "gloss": "usmrcen"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "má být jistě usmrcen"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "ukamenováním"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej (s kameny — באבנים)"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celá"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "obec"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "vně"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "od tábora"
+    }
+  ],
+  "timestamp": "2026-09-17T12:12:40.123324060Z",
+  "model": "glm-5.3"
+}

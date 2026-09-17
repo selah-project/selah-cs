@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 3:17",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A řekla jedna žena: Prosím, můj pane, já a tato žena bydlíme v jednom domě a já jsem porodila s ní v domě.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "A řekla"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "žena"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "jedna"
+    },
+    {
+      "surface": "בי",
+      "gloss": "prosím"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "můj pane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "a tato žena"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "bydlíme"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jednom"
+    },
+    {
+      "surface": "ואלד",
+      "gloss": "a porodila jsem"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "s ní"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "v domě"
+    }
+  ],
+  "timestamp": "2026-09-17T07:41:50.423653589Z",
+  "model": "glm-5.3"
+}

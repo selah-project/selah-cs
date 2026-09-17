@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Vždyť vy znáte ⟨את⟩ to, že jsme bydleli v zemi Micrajim, a ⟨את⟩ to, že jsme prošli středem národů, kterými jste prošli vy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "vždyť"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "vy"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "znáte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to, že jsme bydleli v zemi Micrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, že"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "jsme bydleli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Micrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "to, že jsme prošli středem národů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to, že"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "jsme prošli"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "středem"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterými"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "jste prošli vy"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:49.256293534Z",
+  "model": "glm-5.3"
+}

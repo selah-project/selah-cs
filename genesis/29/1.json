@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "I zvedl Jákob své nohy a šel do země synů východu.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "a zvedl"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jákob"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "své nohy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "do země"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "východu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:08:27.837560262Z",
+  "model": "glm-5.3"
+}

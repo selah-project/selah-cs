@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "A budou střežit ⟨את⟩ jeho stráž i ⟨את⟩ stráž celé obce před Stanem setkávání, aby konali ⟨את⟩ službu Příbytku.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "A budou střežit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho stráž"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "jeho stráž"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "i ⟨את⟩",
+      "marks": "stráž celé obce"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "stráž"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "obce"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Stanem"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "aby konali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "službu Příbytku"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "službu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Příbytku"
+    }
+  ],
+  "timestamp": "2026-09-17T10:41:22.264518599Z",
+  "model": "glm-5.3"
+}

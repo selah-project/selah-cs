@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 58:11",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 58,
+  "translation": "A Jahve tě povede stále, a nasytí za <⟨dobu⟩> sucha tvou duši, a tvé kosti oživí; a budeš jako zavlážovaná zahrada, jako pramen vody, jehož vody nikdy neselžou.",
+  "tokens": [
+    {
+      "surface": "ונחך",
+      "gloss": "tě povede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "stále"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "a nasytí"
+    },
+    {
+      "surface": "בצחצחות",
+      "gloss": "za sucha"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "tvou duši"
+    },
+    {
+      "surface": "ועצמתיך",
+      "gloss": "tvé kosti"
+    },
+    {
+      "surface": "יחליץ",
+      "gloss": "oživí"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "budeš"
+    },
+    {
+      "surface": "כגן",
+      "gloss": "jako zahrada"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "zavlážovaná"
+    },
+    {
+      "surface": "וכמוצא",
+      "gloss": "jako pramen"
+    },
+    {
+      "surface": "מים",
+      "gloss": "vody"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jehož"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nikdy ne"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "selžou"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "jeho vody"
+    }
+  ],
+  "timestamp": "2026-09-17T11:00:54.968067311Z",
+  "model": "glm-5.3"
+}

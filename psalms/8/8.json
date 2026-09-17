@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "Ovce i skot, všechny ⟨z nich⟩, i zvěř polní —",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Ovce"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "i skot"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všechny ⟨z nich⟩"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "zvěř"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "polní"
+    }
+  ],
+  "timestamp": "2026-09-17T09:11:35.770516661Z",
+  "model": "glm-5.3"
+}

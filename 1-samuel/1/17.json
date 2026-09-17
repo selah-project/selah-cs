@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "A odpověděl Élí a řekl: Jdi v pokoji a Elohim Izraele ti dá ⟨את⟩ tvou prosbu, kterou jsi od něho vyžádala.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "A odpověděl"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Élí"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Jdi"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "v pokoji"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "a Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "dá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tvou prosbu"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "tvou prosbu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "jsi vyžádala"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "od něho"
+    }
+  ],
+  "timestamp": "2026-09-17T07:20:38.263685674Z",
+  "model": "glm-5.3"
+}

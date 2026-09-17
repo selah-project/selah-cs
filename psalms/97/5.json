@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 97,
+  "translation": "Hory jako vosk ⟨se⟩ rozplynuly před tváří Jahve, před tváří Adonaje celé země.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Hory"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "jako vosk"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "rozplynuly se"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaje"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celé"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:24.315519656Z",
+  "model": "glm-5.3"
+}

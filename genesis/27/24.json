@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A řekl: Ty ⟨jsi⟩ to, synu můj, Esav? A řekl: Já.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨jsi⟩ to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synu můj"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Já"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:40.943824379Z",
+  "model": "glm-5.3"
+}

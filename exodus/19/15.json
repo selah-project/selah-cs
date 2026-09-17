@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 19,
+  "translation": "A řekl ⟨k⟩ lidu: Buďte připraveni ⟨na⟩ tři dny, nepřibližujte se ⟨k⟩ ženě.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "Buďte"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "připraveni"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "⟨na⟩ tři"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "přibližujte se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨k⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženě"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:57.446666119Z",
+  "model": "glm-5.3"
+}

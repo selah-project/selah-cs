@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "I odpověděl Jahve ⟨את⟩ Jóbovi z vichřice a řekl:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "i odpověděl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jóba"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jób"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "z"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "vichřice"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    }
+  ],
+  "timestamp": "2026-09-17T09:52:57.908562158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Vyprázdněním bude vyprázdněna země a vyloupením bude vyloupena, neboť Jahve promluvil ⟨את⟩ toto slovo.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Vyprázdněním"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "bude vyprázdněna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "a vyloupením"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "bude vyloupena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "promluvil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toto slovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toto"
+    }
+  ],
+  "timestamp": "2026-09-17T08:08:12.291681433Z",
+  "model": "glm-5.3"
+}

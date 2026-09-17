@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "A připraví ⟨את⟩ jednoho z hrdliček nebo z mláďat holubic, podle toho, čeho dosáhne jeho ruka.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "a připraví"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jednoho z hrdliček"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "jednoho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "hrdliček"
+    },
+    {
+      "surface": "או",
+      "gloss": "nebo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mláďat"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "holubic"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "podle toho, co"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "dosáhne"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "jeho ruka"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:56.229381451Z",
+  "model": "glm-5.3"
+}

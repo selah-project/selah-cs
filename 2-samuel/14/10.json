@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "I řekl král: Kdo promluví k tobě ⟨jakékoli slovo⟩, přiveď ho ke mně, a už nepřidá dotýkat se tebe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "I řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kdo promluví"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "k tobě"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "přiveď ho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ke mně"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "přidá"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "už"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "dotýkat se"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tebe"
+    }
+  ],
+  "timestamp": "2026-09-17T07:35:40.025486063Z",
+  "model": "glm-5.3"
+}

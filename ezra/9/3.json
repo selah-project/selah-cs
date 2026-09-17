@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Když jsem uslyšel ⟨את⟩ to slovo, roztrhl jsem ⟨את⟩ svůj šat i svůj plášť a vytrhl jsem si vlasy z hlavy a z brady a usedl jsem zničeně.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "když jsem uslyšel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "to slovo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "slovo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "to"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "roztrhl jsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj šat i svůj plášť"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "svůj šat"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "i svůj plášť"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "a vytrhl jsem"
+    },
+    {
+      "surface": "משער",
+      "gloss": "vlasy z"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlavy"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "i z brady"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "a usedl jsem"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "zničeně"
+    }
+  ],
+  "timestamp": "2026-09-17T10:10:46.917667966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Když vytáhneš s táborem proti svým nepřátelům, budeš se střežit před vším zlým ⟨co se stane⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Když"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "vytáhneš"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "s táborem"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "svým nepřátelům"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "budeš se střežit"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "před vším"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨co se stane⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "zlým"
+    }
+  ],
+  "timestamp": "2026-09-17T07:00:05.622171259Z",
+  "model": "glm-5.3"
+}

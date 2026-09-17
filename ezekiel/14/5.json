@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "abych ⟨את⟩ dům Izraele popadl v jejich srdci — oni, kteří se odtrhli ode mne, všichni skrze své modly.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "abych"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "popadl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům Izraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izraele"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "v jejich srdci"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "se odtrhli"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ode mne"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "skrze své modly"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "všichni"
+    }
+  ],
+  "timestamp": "2026-09-17T08:43:07.434600103Z",
+  "model": "glm-5.3"
+}

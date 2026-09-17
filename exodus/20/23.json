@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "Neuděláte ⟨se mnou⟩ ⟨את⟩ — bohy ze stříbra a bohů ze zlata si neuděláte.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "uděláte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ se mnou"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "bohy"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ze stříbra"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "a bohů"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ze zlata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "uděláte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "si"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:49.327953145Z",
+  "model": "glm-5.3"
+}

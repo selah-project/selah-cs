@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 33,
+  "translation": "Hle, oko Jahve ⟨je⟩ nad těmi, kdo se ho bojí, nad těmi, kdo doufají v jeho chesed —",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nad"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "těmi, kdo se ho bojí"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "nad těmi, kdo doufají"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "v jeho chesed"
+    }
+  ],
+  "timestamp": "2026-09-17T09:15:44.831769158Z",
+  "model": "glm-5.3"
+}

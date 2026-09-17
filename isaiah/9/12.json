@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A lid se nevrátil ⟨k⟩ tomu, který jej bil, a ⟨את⟩ Jahve Cevaot nehledali.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "a lid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "שב",
+      "gloss": "vrátil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "k"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "tomu, který jej bil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahve Cevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Cevaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "hledali"
+    }
+  ],
+  "timestamp": "2026-09-17T10:58:08.587459855Z",
+  "model": "glm-5.3"
+}

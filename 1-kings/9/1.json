@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Stalo se, když Šalomoun dokončil stavět ⟨את⟩ dům Jahve a ⟨את⟩ dům krále a ⟨את⟩ všechnu tužbu Šalomouna, kterou si přál udělat,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Stalo se"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "když dokončil"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomoun"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "stavět"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "všechnu tužbu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechnu"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "tužbu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomouna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kterou"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "si přál"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "udělat"
+    }
+  ],
+  "timestamp": "2026-09-17T07:45:04.051635923Z",
+  "model": "glm-5.3"
+}

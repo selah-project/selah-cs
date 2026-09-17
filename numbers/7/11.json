@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 7,
+  "translation": "A Jahve řekl Mojžíšovi: Jeden kníže na den, jeden kníže na den ať přinesou ⟨את⟩ svou oběť k zasvěcení oltáře.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mojžíšovi (k)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mojžíšovi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "kníže"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na den"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "kníže"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na den"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ať přinesou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou oběť"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "svou oběť"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "k zasvěcení"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oltáře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:41:33.243336840Z",
+  "model": "glm-5.3"
+}

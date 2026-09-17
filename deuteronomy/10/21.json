@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "On ⟨je⟩ tvá chvála a on ⟨je⟩ tvůj Elohim, který s ⟨את⟩ tebou učinil ⟨את⟩ ty veliké ⟨věci⟩ a ⟨את⟩ ty hrozné, tyto, které viděly tvé oči.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "On"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tvá chvála"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "a on"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "učinil"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "s ⟨את⟩ tebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ty veliké"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ty veliké"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "ty hrozné"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "ty hrozné"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tyto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "viděly"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "tvé oči"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:06.036631914Z",
+  "model": "glm-5.3"
+}

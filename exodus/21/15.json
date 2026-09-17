@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 21,
+  "translation": "Kdo udeří svého otce i svou matku, smrtí zemře.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "kdo udeří"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "i svou matku"
+    },
+    {
+      "surface": "מות",
+      "gloss": "smrtí"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "zemře"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:55.825471387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 105,
+  "translation": "Poslal král a odvázal ho, vládce národů, a vysvobodil ho.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "poslal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "a odvázal ho"
+    },
+    {
+      "surface": "משל",
+      "gloss": "vládce"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "národů"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "a vysvobodil ho"
+    }
+  ],
+  "timestamp": "2026-09-17T11:13:30.658780970Z",
+  "model": "glm-5.3"
+}

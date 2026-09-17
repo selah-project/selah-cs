@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 76,
+  "translation": "Když povstal Elohim k soudu, aby spasil všechny pokorné ⟨z⟩ země. Sela.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "když povstal"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "k soudu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "aby spasil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechny"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "pokorné"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨z⟩ země"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-17T09:23:08.477109306Z",
+  "model": "glm-5.3"
+}

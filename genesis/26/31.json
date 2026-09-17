@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "A vstali časně ráno a přísahali jeden druhému; a Izák je propustil, a odešli od ⟨את⟩ něj v pokoji.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "A vstali časně"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ráno"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "a přísahali"
+    },
+    {
+      "surface": "איש",
+      "gloss": "jeden"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "druhému"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "a propustil je"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Izák"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "a odešli"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ od něj",
+      "marks": "od něj"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "v pokoji"
+    }
+  ],
+  "timestamp": "2026-09-17T06:07:28.513505107Z",
+  "model": "glm-5.3"
+}

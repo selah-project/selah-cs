@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Neboť jak si odměřuje ve své duši, takový ⟨je⟩; „Jez a pij!“, řekne ti, ale jeho srdce není s tebou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "jak"
+    },
+    {
+      "surface": "שער",
+      "gloss": "odměřuje"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ve své duši"
+    },
+    {
+      "surface": "כן",
+      "gloss": "takový"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨je⟩"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "Jez"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "a pij"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "řekne"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "ale jeho srdce"
+    },
+    {
+      "surface": "בל",
+      "gloss": "není (vůbec)"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "s tebou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:41:37.127662098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "A když Samuel uviděl ⟨את⟩ Šaula, Jahve mu odpověděl: Hle, muž, o němž jsem ti řekl, ten bude vládnout nad mým lidem.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "A Samuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "uviděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šaula"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "mu odpověděl"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Hle"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o němž"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "jsem řekl"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ti"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ten"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "bude vládnout"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "nad mým lidem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:23:58.224464650Z",
+  "model": "glm-5.3"
+}

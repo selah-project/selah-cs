@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 139,
+  "translation": "Neboť ty jsi ⟨mě⟩ stvořil, utkával jsi ⟨mě⟩ v lůně mé matky.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty jsi"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "stvořil jsi"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mé ledviny"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "utkával jsi ⟨mě⟩"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "v lůně"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mé matky"
+    }
+  ],
+  "timestamp": "2026-09-17T09:34:33.937358010Z",
+  "model": "glm-5.3"
+}

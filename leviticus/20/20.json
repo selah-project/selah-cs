@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A muž, který bude ležet ⟨את⟩ ⟨s⟩ svou tetou, nahotu svého strýce odhalil — svůj hřích ponesou, bezdětní zemřou.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "bude ležet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨s⟩",
+      "marks": "svou tetou"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "svou tetou"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "nahotu"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "svého strýce"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "odhalil"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "svůj hřích"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ponesou"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bezdětní"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "zemřou"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:25.993565952Z",
+  "model": "glm-5.3"
+}

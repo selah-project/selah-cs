@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 81,
+  "translation": "Nebuď v tobě cizí El a nebudeš se klanět cizímu Elu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "buď"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "cizí"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne-"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "klanět se"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "cizímu"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:42.557596593Z",
+  "model": "glm-5.3"
+}

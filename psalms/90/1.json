@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 90,
+  "translation": "Modlitba Mojžíše, muže Elohim: Adonaj, příbytkem jsi byl nám v pokolení a pokolení.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Modlitba"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mojžíše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muže"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaj"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "příbytkem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "היית",
+      "gloss": "jsi byl"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nám"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "v pokolení"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "a pokolení"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:07.808432182Z",
+  "model": "glm-5.3"
+}

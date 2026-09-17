@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "Když padá tvůj nepřítel, nermoť ⟨se⟩; a když klopýtá, ať se tvé srdce neraduje —",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "když padá"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "tvůj nepřítel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "nermuť ⟨se⟩"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "a když klopýtá"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ať ne"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "neraduje se"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "tvoje srdce"
+    }
+  ],
+  "timestamp": "2026-09-17T11:49:27.364758987Z",
+  "model": "glm-5.3"
+}

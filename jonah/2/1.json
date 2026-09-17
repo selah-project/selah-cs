@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Jahve připravil velkou rybu, aby polkla ⟨את⟩ Jonáše; a byl Jonáš v útrobách ryby tři dny a tři noci.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "a připravil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "rybu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "velkou"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "aby polkla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonáše"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonáše"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "a byl"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonáš"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "v útrobách"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ryby"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "tři"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dny"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "a tři"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "noci"
+    }
+  ],
+  "timestamp": "2026-09-17T09:01:59.281600497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "Budu jásat a radovat se z tvého chesedu, že jsi viděl ⟨את⟩ mé soužení, poznal jsi tíseň mé duše.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Budu jásat"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "a radovat se"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "z tvého chesedu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "že"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "jsi viděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mé soužení"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mé soužení"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "poznal jsi"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "tíseň"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mé duše"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:59.366890963Z",
+  "model": "glm-5.3"
+}

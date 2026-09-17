@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 24,
+  "translation": "A vyhlédl Aravna a uviděl ⟨את⟩ krále a ⟨את⟩ jeho služebníky, jak přecházejí k němu; a vyšel Aravna a poklonil se králi tváří k zemi.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "a vyhlédl"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a uviděl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "krále"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jeho služebníky"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeho služebníky"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "přecházející"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "k němu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a poklonil se"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "tváří"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "k zemi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:40:33.804560630Z",
+  "model": "glm-5.3"
+}

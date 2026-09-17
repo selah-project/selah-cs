@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 49:14",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 49,
+  "translation": "Zvěst jsem slyšel od ⟨את⟩ Jahveho a posel je vyslán mezi národy: „Shromážděte se a vytáhněte proti ní a povstaňte k bitvě!“",
+  "tokens": [
+    {
+      "surface": "שמועה",
+      "gloss": "zvěst"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "jsem slyšel"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahveho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "a posel"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "mezi národy"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "je vyslán"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "shromážděte se"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "a vytáhněte"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "proti ní"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "a povstaňte"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "k bitvě"
+    }
+  ],
+  "timestamp": "2026-09-17T08:36:02.402825001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "že pátráš po mé vině a po mém hříchu se sháníš?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "pátráš"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "po mé vině"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "a po mém hříchu"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "se sháníš"
+    }
+  ],
+  "timestamp": "2026-09-17T09:46:21.634973026Z",
+  "model": "glm-5.3"
+}

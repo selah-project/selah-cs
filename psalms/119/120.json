@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Ježí se mi tělo poděšením před tebou, a z tvých výroků se bojím.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "Ježí se"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "poděšením před tebou"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mi tělo"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "a z tvých výroků"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "se bojím"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:32.683070643Z",
+  "model": "glm-5.3"
+}

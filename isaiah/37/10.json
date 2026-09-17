@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 37:10",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 37,
+  "translation": "Tak řeknete Chizkijášovi, králi judskému: Nechť tě nesvede tvůj Elohim, v něhož doufáš, ⟨když⟩ říká: Není vydána Jeruzalém do ruky krále Asýrie.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Tak"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "řeknete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkijášovi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "judskému"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nechť ne"
+    },
+    {
+      "surface": "ישאך",
+      "gloss": "tě svede"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "v něhož"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ty"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "doutfáš"
+    },
+    {
+      "surface": "בו",
+      "gloss": "v něj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨když⟩ říká"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Není"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "vydána"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "do ruky"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asýrie"
+    }
+  ],
+  "timestamp": "2026-09-17T08:10:21.902232119Z",
+  "model": "glm-5.3"
+}

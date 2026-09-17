@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 5:17",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A jestliže někdo ⟨(ne)duch⟩ — když zhřeší a udělá jednu ze všech přikázání Jahve, jež se nemají konat, a nebude vědět, ⟨přesto⟩ se proviní a ponese svou vinu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kdokoli (doslova duše)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "když"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "zhřeší"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "a udělá"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "jednu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ze všech"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "přikázání"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "jež"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "se mají konat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bude vědět"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "se proviní"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "a ponese"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "svou vinu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:29:32.566615624Z",
+  "model": "glm-5.3"
+}

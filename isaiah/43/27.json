@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 43:27",
+  "book": "isaiah",
+  "lang": "cs",
+  "chapter": 43,
+  "translation": "Tvůj první otec hřešil a tví řečníci se proti mně vzbouřili.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Tvůj otec"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "první"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hřešil"
+    },
+    {
+      "surface": "ומליציך",
+      "gloss": "a tví řečníci"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "se vzbouřili"
+    },
+    {
+      "surface": "בי",
+      "gloss": "proti mně"
+    }
+  ],
+  "timestamp": "2026-09-17T08:12:34.241495151Z",
+  "model": "glm-5.3"
+}

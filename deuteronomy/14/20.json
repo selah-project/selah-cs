@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Veškeré čisté ptactvo jíst smíte.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "veškeré"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ptactvo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "čisté"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "jíst smíte"
+    }
+  ],
+  "timestamp": "2026-09-17T10:45:56.669704812Z",
+  "model": "glm-5.3"
+}

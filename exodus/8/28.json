@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 8,
+  "translation": "A faraon zatímžil ⟨את⟩ své srdce i tentokrát, a nevydal ⟨את⟩ lid.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "a zatímžil"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "faraon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "své srdce"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "své srdce"
+    },
+    {
+      "surface": "גם",
+      "gloss": "i"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "tentokrát"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "tato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "vydal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lid"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    }
+  ],
+  "timestamp": "2026-09-17T06:18:01.527224354Z",
+  "model": "glm-5.3"
+}

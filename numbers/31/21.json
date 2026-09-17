@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 31:21",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 31,
+  "translation": "A řekl Elazar ⟨tento⟩ kněz mužům vojska, kteří přicházeli ⟨do⟩ bitvy: Toto je ustanovení tóry, které přikázal Jahve ⟨את⟩ Moše ⟨těmto⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨tento⟩ kněz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mužům"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mužům"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "vojska"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "kteří přicházeli"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "⟨do⟩ bitvy"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Toto"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "je ustanovení"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tóry"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moše"
+    }
+  ],
+  "timestamp": "2026-09-17T10:43:27.998927467Z",
+  "model": "glm-5.3"
+}

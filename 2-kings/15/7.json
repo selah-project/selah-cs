@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A Azarjáš uložil se s otci svými, a pochovali ⟨את⟩ něj s otci jeho v městě Davidově; a kraloval Jótám, syn jeho, místo něj.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a uložil se"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjáš"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otci svými"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "a pochovali"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "něj"
+    },
+    {
+      "surface": "עם",
+      "gloss": "s"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otci jeho"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "v městě"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidově"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a kraloval"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jótám"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "syn jeho"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "místo něj"
+    }
+  ],
+  "timestamp": "2026-09-17T07:56:06.286255459Z",
+  "model": "glm-5.3"
+}

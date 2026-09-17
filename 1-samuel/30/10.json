@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 30,
+  "translation": "A David pronásledoval, on ⟨a⟩ čtyři sta mužů; a zůstalo ⟨stát⟩ dvě sta mužů, kteří vysíleli, takže ⟨nemohli⟩ přejít ⟨את⟩ potok Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "a pronásledoval"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "on"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "a čtyři"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "sta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "a zůstali ⟨stát⟩"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "dvě sta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mužů"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kteří"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "vysíleli"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "k přejít"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "potok"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potok"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:04.504453070Z",
+  "model": "glm-5.3"
+}

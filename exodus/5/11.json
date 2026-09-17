@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "Vy sami, choďte, vezměte si slámu, kde najdete, neboť není ubrán z vaší práce nic.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "vy sami"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "choďte"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "vezměte"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "si"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "slámu"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kde"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "najdete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "ubrán"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "z vaší práce"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nic"
+    }
+  ],
+  "timestamp": "2026-09-17T06:16:33.316349786Z",
+  "model": "glm-5.3"
+}

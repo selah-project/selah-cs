@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 9:7",
+  "book": "nehemiah",
+  "lang": "cs",
+  "chapter": 9,
+  "translation": "Ty jsi ⟨ten⟩ Jahve, Elohim, který jsi vyvolil Avrama a vyvedl ho z Uru kaldejského a dal jeho jménu ⟨tvar⟩ Avraham.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ty"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ten⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "jsi vyvolil"
+    },
+    {
+      "surface": "באברם",
+      "gloss": "Avrama"
+    },
+    {
+      "surface": "והוצאתו",
+      "gloss": "a vyvedl jsi ho"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "z Uru"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "kaldejského"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "a dal jsi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "jeho jménu"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-09-17T10:13:54.532964926Z",
+  "model": "glm-5.3"
+}

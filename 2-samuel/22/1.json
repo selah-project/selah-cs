@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "I promluvil David k Jahve slova této písně ⟨את⟩ v den, kdy Jahve vysvobodil jej ⟨את⟩ z ruky všech jeho nepřátel a z ruky Šaula.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a promluvil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "k Jahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slova této písně"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "písně"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "této"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "v den"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "vysvobodil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "jej"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "z ruky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všech"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "jeho nepřátel"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "a z ruky"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaula"
+    }
+  ],
+  "timestamp": "2026-09-17T10:53:23.334780444Z",
+  "model": "glm-5.3"
+}

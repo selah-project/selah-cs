@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 87,
+  "translation": "Synům Korachovým, žalm, píseň. Jeho základ ⟨je⟩ na horách posvátných.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Synům"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachovým"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "žalm"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "píseň"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "Jeho základ"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "na horách"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "posvátných"
+    }
+  ],
+  "timestamp": "2026-09-17T09:25:51.967752315Z",
+  "model": "glm-5.3"
+}

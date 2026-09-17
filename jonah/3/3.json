@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 3:3",
+  "book": "jonah",
+  "lang": "cs",
+  "chapter": 3,
+  "translation": "I vstal Jonáš a šel do Ninive podle slova Jahveho. A Ninive bylo město veliké ⟨před⟩ Elohimem, cesta tří dnů.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "I vstal"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jonáš"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "do"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "podle slova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "A Ninive"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "město"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "veliké"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨před⟩ Elohimem"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "cesta"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "tří"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dnů"
+    }
+  ],
+  "timestamp": "2026-09-17T09:02:02.144150194Z",
+  "model": "glm-5.3"
+}

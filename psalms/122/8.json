@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 122,
+  "translation": "Kvůli svým bratřím a svým přátelům promluvím nyní: „Pokoj ⟨budiž⟩ v tobě!“",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "kvůli"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "svým bratřím"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "a svým přátelům"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "promluvím"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "pokoj"
+    },
+    {
+      "surface": "בך",
+      "gloss": "v tobě"
+    }
+  ],
+  "timestamp": "2026-09-17T09:33:47.449516493Z",
+  "model": "glm-5.3"
+}

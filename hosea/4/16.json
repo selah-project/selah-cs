@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "Neboť jako vzpurná jalovice se vzpírá Izrael; nyní je Jahve pase jako beránka na šíré pastvině.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "jako jalovice"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "vzpurná"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "se vzpírá"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Izrael"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nyní"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": " pase"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "jako beránka"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "na šíré pastvině"
+    }
+  ],
+  "timestamp": "2026-09-17T08:56:11.503665948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A ⟨jestliže⟩ muž vezme ⟨את⟩ ženu a ⟨את⟩ její matku — nečin ⟨to⟩ je; ohněm budou spáleni ⟨את⟩ on i ⟨את⟩ ony, a nebude nečinu mezi vámi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "A ⟨jestliže⟩ muž"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vezme"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ženu"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "a ⟨את⟩",
+      "marks": "její matku"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "její matku"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "nečin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨to⟩ je"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ohněm"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "budou spáleni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ on",
+      "marks": "on"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "a ⟨את⟩ ony",
+      "marks": "ony"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a nebude"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nebude"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "nečinu"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "mezi vámi"
+    }
+  ],
+  "timestamp": "2026-09-17T06:36:19.145631328Z",
+  "model": "glm-5.3"
+}

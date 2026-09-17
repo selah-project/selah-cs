@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 2:14",
+  "book": "song-of-songs",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "Má holubice ve škvírách skály, v úkrytu strmého místa, ukaž mi ⟨את⟩ svou tvář, dej mi slyšet ⟨את⟩ svůj hlas, neboť tvůj hlas jest sladký a tvá tvář půvabná!",
+  "tokens": [
+    {
+      "surface": "יונתי",
+      "gloss": "má holubice"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "ve škvírách"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "skály"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "v úkrytu"
+    },
+    {
+      "surface": "המדרגה",
+      "gloss": "strméhoto místa"
+    },
+    {
+      "surface": "הראיני",
+      "gloss": "ukaž mi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svou tvář"
+    },
+    {
+      "surface": "מראיך",
+      "gloss": "svou tvář"
+    },
+    {
+      "surface": "השמיעיני",
+      "gloss": "dej mi slyšet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svůj hlas"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "svůj hlas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "tvůj hlas"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sladký"
+    },
+    {
+      "surface": "ומראיך",
+      "gloss": "a tvá tvář"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "půvabná"
+    }
+  ],
+  "timestamp": "2026-09-17T09:54:24.464172123Z",
+  "model": "glm-5.3"
+}

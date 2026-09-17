@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 10,
+  "translation": "A vyšel oheň od tváře Jahve a pohltil ⟨את⟩ je, a zemřeli před Jahve.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "a vyšel"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oheň"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "od tváře"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "a pohltil"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "je"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "a zemřeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T06:32:08.622369050Z",
+  "model": "glm-5.3"
+}

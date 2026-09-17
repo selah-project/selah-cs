@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 22,
+  "translation": "Rozdělují mé šaty mezi sebe a o mé roucho losují.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "rozdělují"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "mé šaty"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mezi sebe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "a o"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "mé roucho"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "losují"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "los"
+    }
+  ],
+  "timestamp": "2026-09-17T09:13:34.711290505Z",
+  "model": "glm-5.3"
+}

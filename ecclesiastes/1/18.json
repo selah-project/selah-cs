@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Neboť v mnohosti moudrosti ⟨je⟩ mnoho hořkosti, a kdo rozmnožuje znalost, rozmnožuje bolest.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Neboť"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "v mnohosti"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrosti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mnoho"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "hořkosti"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "a kdo rozmnožuje"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "znalost"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "rozmnožuje"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "bolest"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:12.204122183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 1:21",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Jejich sečtení ⟨bylo⟩ pro kmen Rúbenův: šest a čtyřicet tisíců a pět set.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "jejich sečtení"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pro kmen"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Rúbenův"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "šest"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "a čtyřicet"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíců"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "a pět"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "set"
+    }
+  ],
+  "timestamp": "2026-09-17T06:39:05.003782176Z",
+  "model": "glm-5.3"
+}

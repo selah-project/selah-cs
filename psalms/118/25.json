@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 118,
+  "translation": "Ó Jahve, prosím, Zachovej Nyní! Ó Jahve, Prosím, Dopusť Nyní Úspěch!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "Ó...prosím"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "Zachovej"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Nyní!"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "Ó...Prosím"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "Dopusť Úspěch"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Nyní!"
+    }
+  ],
+  "timestamp": "2026-09-17T12:59:52.877237269Z",
+  "model": "glm-5.3"
+}

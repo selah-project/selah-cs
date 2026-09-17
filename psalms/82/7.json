@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 82,
+  "translation": "Však jako adam zemřete, a jako jeden z ⟨těch⟩ knížat padnete.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "však"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "jako adam"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "zemřete"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "a jako jeden"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "z ⟨těch⟩ knížat"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "padnete"
+    }
+  ],
+  "timestamp": "2026-09-17T09:24:42.059475649Z",
+  "model": "glm-5.3"
+}

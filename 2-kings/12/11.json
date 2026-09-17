@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 12:11",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "A stalo se, když viděli, že je hojné stříbro v truhle, že vystoupil písař krále a velekněz, a svázali ⟨je⟩ do pytlů a spočítali ⟨את⟩ stříbro nalezené v domu Jahveho.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "když viděli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hojné"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "v truhle"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "vystoupil"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "písař"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "krále"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "a kněz"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "velký (velekněz)"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "svázali"
+    },
+    {
+      "surface": "וימנו",
+      "gloss": "a spočítali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stříbro"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "stříbro"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "nalezené"
+    },
+    {
+      "surface": "בית",
+      "gloss": "dům"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    }
+  ],
+  "timestamp": "2026-09-17T07:57:16.908523148Z",
+  "model": "glm-5.3"
+}

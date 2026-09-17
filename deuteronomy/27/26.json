@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "Proklet ⟨ten, kdo⟩ nepotvrdí slova této tóry ⟨את⟩ tím, že ⟨את⟩ je bude činit; a řekne veškerý lid: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Proklet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ten, kdo⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "potvrdí"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slova této tóry"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "slova"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "této tóry"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "této"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "tím, že bude činit"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ je"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "a řekne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "veškerý"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lid"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-17T07:01:16.077584898Z",
+  "model": "glm-5.3"
+}

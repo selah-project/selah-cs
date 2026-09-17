@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 98,
+  "translation": "Řeky ať tleskají dlaněmi, hory ať společně zajásají.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Řeky"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "ať tleskají"
+    },
+    {
+      "surface": "כף",
+      "gloss": "dlaněmi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "společně"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hory"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ať zajásají"
+    }
+  ],
+  "timestamp": "2026-09-17T09:27:58.566334702Z",
+  "model": "glm-5.3"
+}

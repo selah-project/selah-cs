@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 18:25",
+  "book": "2-samuel",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A hlásna zavolal a oznámil ⟨to⟩ králi, a král řekl: Je-li sám, ⟨je⟩ zvěst ⟨v⟩ jeho ústech. A šel, krok za krokem se přibližuje.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "zavolal"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "hlásna"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "oznámil"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "králi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "řekl"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "אם",
+      "gloss": "je-li"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sám"
+    },
+    {
+      "surface": "בשורה",
+      "gloss": "zvěst"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "v jeho ústech"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "šel"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "kráčeje"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "přibližuje se"
+    }
+  ],
+  "timestamp": "2026-09-17T07:38:08.529758210Z",
+  "model": "glm-5.3"
+}

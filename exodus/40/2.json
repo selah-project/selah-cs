@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 40,
+  "translation": "V den první ⟨měsíc⟩, v první den měsíce vztyčíš ⟨את⟩ příbytek stanu setkávání.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "V den"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "první"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "v prvním ⟨dni⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "měsíce"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "vztyčíš"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "příbytek"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "příbytek"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "stanu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "setkávání"
+    }
+  ],
+  "timestamp": "2026-09-17T06:28:47.118206698Z",
+  "model": "glm-5.3"
+}

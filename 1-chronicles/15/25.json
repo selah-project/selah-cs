@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 15:25",
+  "book": "1-chronicles",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "A stalo se, že David a starší Israelových a velitelé tisíců šli vynést ⟨את⟩ archu smlouvy Jahveho z domu Obéd-Edóma s radostí.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "A stalo se"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "a starší"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelových"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "a velitelé"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "tisíců"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "kteří šli"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "vynést"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "archu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "archu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "smlouvy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahveho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "בית",
+      "gloss": "domu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obéd-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edóma"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "s radostí"
+    }
+  ],
+  "timestamp": "2026-09-17T10:19:38.501589538Z",
+  "model": "glm-5.3"
+}

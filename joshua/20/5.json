@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 20:5",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A když by goél krve pronásledoval ⟨ho⟩, nevydají ⟨את⟩ vraha do jeho ruky, neboť bez vědomosti zabil ⟨את⟩ svého bližního a nev nenáviděl jej od včerejška či předevčírem.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "a když"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "pronásledoval"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goél"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "krve"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "⟨ho⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ne"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "vydají"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vraha"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "vraha"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "do jeho ruky"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "bez"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "vědomosti"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "zabil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "svého bližního"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "svého bližního"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "nenáviděl"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "jej (on zdůrazněně)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "od včerejška"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "či předevčírem"
+    }
+  ],
+  "timestamp": "2026-09-17T07:11:21.563420754Z",
+  "model": "glm-5.3"
+}

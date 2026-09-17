@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "Je ⟨nějaká⟩ věc, o níž by se řeklo: „Hle, toto je nové“? Už to bylo za věků, které byly před námi.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "je"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "věc"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "by se řeklo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toto"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nové"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "je"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "už"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bylo"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "za věků"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "היה",
+      "gloss": "byly"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "před námi"
+    }
+  ],
+  "timestamp": "2026-09-17T09:58:23.148766118Z",
+  "model": "glm-5.3"
+}

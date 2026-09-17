@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 20,
+  "translation": "A Abraham řekl o Sáře, své ženě: ⟨Ona⟩ je moje sestra. I poslal Abímelek, král gerarský, a vzal ⟨את⟩ Sáru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "A řekl"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sáře"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "své ženě"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "moje sestra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨Ona⟩"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "I poslal"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abímelek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "král"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "gerarský"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a vzal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sáru"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sáru"
+    }
+  ],
+  "timestamp": "2026-09-17T06:05:45.222255343Z",
+  "model": "glm-5.3"
+}

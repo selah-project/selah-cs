@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 5:15",
+  "book": "deuteronomy",
+  "lang": "cs",
+  "chapter": 5,
+  "translation": "A budeš si pamatovat, že ⟨jsi byl⟩ otrokem v zemi Egypta, a vyvedl tě Jahve, tvůj Elohim, odtud rukou silnou a paží napnutou; proto ti přikázal Jahve, tvůj Elohim, zachovávat ⟨את⟩ den šabatu.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "A budeš si pamatovat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "otrokem"
+    },
+    {
+      "surface": "היית",
+      "gloss": "jsi byl"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "v zemi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Egypta"
+    },
+    {
+      "surface": "ויצאך",
+      "gloss": "a vyvedl tě"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "משם",
+      "gloss": "odtud"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "rukou"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "silnou"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "a paží"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "napnutou"
+    },
+    {
+      "surface": "על",
+      "gloss": "proto"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(proto)"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "ti přikázal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "tvůj Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "zachovávat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "den šabatu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "den"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "šabatu"
+    }
+  ],
+  "timestamp": "2026-09-17T06:54:56.983930542Z",
+  "model": "glm-5.3"
+}

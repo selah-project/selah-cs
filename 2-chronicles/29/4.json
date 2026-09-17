@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "A přivedl ⟨את⟩ kněze a ⟨את⟩ levity a shromáždil je na východním náměstí.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a přivedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kněze"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kněze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "levity"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levity"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "a shromáždil je"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "na náměstí"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "východním"
+    }
+  ],
+  "timestamp": "2026-09-17T10:31:05.272455242Z",
+  "model": "glm-5.3"
+}

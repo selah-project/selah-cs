@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 50,
+  "translation": "Nepůjčím si z tvého domu ⟨žádného⟩ býka, z tvých ohrad ⟨žádné⟩ kozly.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ne"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "půjčím si (vezmu)"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "z tvého domu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "býka"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "z tvých ohrad"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kozly"
+    }
+  ],
+  "timestamp": "2026-09-17T09:18:28.771769369Z",
+  "model": "glm-5.3"
+}

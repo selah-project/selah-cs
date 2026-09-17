@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 106,
+  "translation": "A tiskli je jejich nepřátelé, a byli pokořeni pod jejich rukou.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "a tiskli je"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "jejich nepřátelé"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "a byli pokořeni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pod"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "jejich rukou"
+    }
+  ],
+  "timestamp": "2026-09-17T09:29:36.518647354Z",
+  "model": "glm-5.3"
+}

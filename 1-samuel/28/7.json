@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 28:7",
+  "book": "1-samuel",
+  "lang": "cs",
+  "chapter": 28,
+  "translation": "I řekl Ša'ul svým sluhům: Vyhledejte mi ženu, paní óv, a půjdu k ní a dotážu se skrze ni. Jeho sluhové mu řekli: Hle, je žena, paní óv, v Ejn-Dor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a řekl"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Ša'ul"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "svým sluhům"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "vyhledejte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ženu"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "paní"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "óv"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "a půjdu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "k ní"
+    },
+    {
+      "surface": "ואדרשה",
+      "gloss": "a dotážu se"
+    },
+    {
+      "surface": "בה",
+      "gloss": "skrze ni"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "jeho sluhové"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hle"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "žena"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "paní"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "óv"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "v Ejn"
+    },
+    {
+      "surface": "דור",
+      "gloss": "-Dor"
+    }
+  ],
+  "timestamp": "2026-09-17T07:30:45.702848148Z",
+  "model": "glm-5.3"
+}

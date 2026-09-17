@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A pára stoupala z ⟨té⟩ země a napojila ⟨את⟩ celý povrch ⟨té⟩ půdy.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "a pára"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "stoupala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "země"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "a napojila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "celý povrch půdy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "celý"
+    },
+    {
+      "surface": "פני",
+      "gloss": "povrch"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "půdy"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:57.756874611Z",
+  "model": "glm-5.3"
+}

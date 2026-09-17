@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "cs",
+  "chapter": 1,
+  "translation": "I odpověděli ⟨את⟩ Jozuemu a řekli: Všechno, co jsi nám přikázal, uděláme, a na každé místo, kam nás pošleš, půjdeme.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "I odpověděli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jozuemu"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jozuemu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a řekli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "všechno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "co"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "jsi nám přikázal"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "uděláme"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "a na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "každé"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kam"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "nás pošleš"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "půjdeme"
+    }
+  ],
+  "timestamp": "2026-09-17T10:47:17.615429276Z",
+  "model": "glm-5.3"
+}

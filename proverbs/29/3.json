@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 29,
+  "translation": "Muž milující moudrost raduje ⟨svého⟩ otce, ⟨ten, kdo⟩ pase nevěstky, ničí majetek.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "muž"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "milující"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "moudrost"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "raduje"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "⟨svého⟩ otce"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "⟨ten, kdo⟩ pase"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "nevěstky"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ničí"
+    },
+    {
+      "surface": "הון",
+      "gloss": "majetek"
+    }
+  ],
+  "timestamp": "2026-09-17T09:43:02.842034912Z",
+  "model": "glm-5.3"
+}

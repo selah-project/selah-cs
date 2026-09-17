@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "cs",
+  "chapter": 14,
+  "translation": "Vezmou jiné kameny a vloží je na místo ⟨těch⟩ kamenů; a jinou omítku vezme a vymaže ⟨את⟩ dům.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "vezmou"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "kameny"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "jiné"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "a vloží"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "místo"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "těch kamenů"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "a omítku"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "jinou"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "vezme"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "a vymaže"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dům"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "dům"
+    }
+  ],
+  "timestamp": "2026-09-17T10:39:35.744663366Z",
+  "model": "glm-5.3"
+}

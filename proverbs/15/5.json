@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "cs",
+  "chapter": 15,
+  "translation": "Bláznenost (אויל) pohrdá kázní svého otce, ale ten, kdo střeží výtku, zchytří.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "Blázen"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "pohrdá"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kázní"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "svého otce"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ale ten, kdo střeží"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "výtku"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "zchytří"
+    }
+  ],
+  "timestamp": "2026-09-17T09:39:29.832883398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "Jsem ⟨snad⟩ Elohim blízka — výrok Jahve — a ne Elohim zdálivá?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "Elohim ⟨snad⟩"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "zblízka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "já jsem"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "výrok"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a ne"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "z dálky"
+    }
+  ],
+  "timestamp": "2026-09-17T08:26:22.514508172Z",
+  "model": "glm-5.3"
+}

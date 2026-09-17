@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 26,
+  "translation": "Má noha stojí na rovině, v shromážděních budu žehnat Jahvem.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "Má noha"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "stojí"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "na rovině"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "v shromážděních"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "budu žehnat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahvem"
+    }
+  ],
+  "timestamp": "2026-09-17T09:14:21.557910022Z",
+  "model": "glm-5.3"
+}

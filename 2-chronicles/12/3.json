@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "cs",
+  "chapter": 12,
+  "translation": "S tisíci a dvěma sty vozů a s šedesáti tisíci jezců; a nebylo počtu lidu, který přišel s ním z Egypta — Lubijci, Sukijci a Kušijci.",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "S tisíci"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "a dvěma sty"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "vozů"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "a s šedesáti"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tisíci"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "jezců"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "a nebylo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "počtu"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lidu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "který"
+    },
+    {
+      "surface": "באו",
+      "gloss": "přišel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "s ním"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "z Egypta"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "Lubijci"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "Sukijci"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "a Kušijci"
+    }
+  ],
+  "timestamp": "2026-09-17T10:26:35.634971806Z",
+  "model": "glm-5.3"
+}

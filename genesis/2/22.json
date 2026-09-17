@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "cs",
+  "chapter": 2,
+  "translation": "A Jahve Elohim vybudoval ⟨את⟩ žebro, které vzal z člověka, v ženu, a přivedl ji k člověku.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "vybudoval"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "žebro"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "žebro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "které"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "vzal"
+    },
+    {
+      "surface": "מן",
+      "gloss": "z"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověka"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "v ženu"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "a přivedl ji"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "člověku"
+    }
+  ],
+  "timestamp": "2026-09-17T06:00:39.037213609Z",
+  "model": "glm-5.3"
+}

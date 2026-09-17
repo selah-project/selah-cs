@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "cs",
+  "chapter": 23,
+  "translation": "A vyvedl ⟨את⟩ Ašeru z domu Jahve mimo Jeruzalém k potoku Kidronu, a spálil ⟨את⟩ ji v údolí Kidronu, a rozdrtil ⟨ji⟩ na prach, a hodil ⟨את⟩ její prach na hrob synů ⟨běžného⟩ lidu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "A vyvedl"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ašeru"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ašeru"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "z domu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "mimo"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jeruzalém"
+    },
+    {
+      "surface": "אל",
+      "gloss": "k"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "potoku"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidronu"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "a spálil"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ji"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "v údolí"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidronu"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "a rozdrtil"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "na prach"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "a hodil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "její prach"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "její prach"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "hrob"
+    },
+    {
+      "surface": "בני",
+      "gloss": "synů"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lidu"
+    }
+  ],
+  "timestamp": "2026-09-17T08:00:12.749815527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "cs",
+  "chapter": 18,
+  "translation": "A šel Obadjáš vstříc Achabovi a oznámil mu to; a šel Achab vstříc Elijášovi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadjáš"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vstříc"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabovi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "a oznámil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a šel"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vstříc"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijášovi"
+    }
+  ],
+  "timestamp": "2026-09-17T07:49:13.982837977Z",
+  "model": "glm-5.3"
+}

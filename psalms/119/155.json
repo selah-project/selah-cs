@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 119,
+  "translation": "Vzdálená ⟨je⟩ od bezbožných spása, neboť tvé výnosy nehledali.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "vzdálená"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "od bezbožných"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "spása"
+    },
+    {
+      "surface": "כי",
+      "gloss": "neboť"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "tvé výnosy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ne(-)"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "nehledali"
+    }
+  ],
+  "timestamp": "2026-09-17T09:32:26.802224082Z",
+  "model": "glm-5.3"
+}

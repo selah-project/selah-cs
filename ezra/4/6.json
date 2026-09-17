@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "cs",
+  "chapter": 4,
+  "translation": "A za království Achašveroše, na počátku jeho království, napsali žalobu na obyvatele Jehudy a Jeruzaléma.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "A za království"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achašveroše"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "na počátku"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "jeho království"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "napsali"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "žalobu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "obyvatele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehudy"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "a Jeruzaléma"
+    }
+  ],
+  "timestamp": "2026-09-17T10:08:43.397590872Z",
+  "model": "glm-5.3"
+}

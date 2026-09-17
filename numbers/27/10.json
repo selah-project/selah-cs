@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "cs",
+  "chapter": 27,
+  "translation": "A jestliže není ⟨má⟩ bratří, dáte ⟨את⟩ jeho dědictví bratrům jeho otce.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "a jestliže"
+    },
+    {
+      "surface": "אין",
+      "gloss": "není"
+    },
+    {
+      "surface": "לו",
+      "gloss": "jemu"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bratří"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "dáte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jeho dědictví"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "jeho dědictví"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "bratrům"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "jeho otce"
+    }
+  ],
+  "timestamp": "2026-09-17T06:49:35.541626082Z",
+  "model": "glm-5.3"
+}

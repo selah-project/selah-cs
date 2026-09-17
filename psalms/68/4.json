@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "cs",
+  "chapter": 68,
+  "translation": "A spravedliví ať se radují, ať jásají před tváří Elohim a ať se veselí v radosti.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "a spravedliví"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ať se radují"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ať jásají"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "před tváří"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "a ať se veselí"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "v radosti"
+    }
+  ],
+  "timestamp": "2026-09-17T09:21:35.760509947Z",
+  "model": "glm-5.3"
+}

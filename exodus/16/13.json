@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "A stalo se večer: vystoupily křepelky a pokryly ⟨את⟩ tábor; a ráno byla vrstva rosy kolem tábora.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a stalo se"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "večer"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "vystoupily"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "křepelky"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "a pokryly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tábor"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tábor"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "a ráno"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "byla"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "vrstva"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "rosy"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "kolem"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "tábora"
+    }
+  ],
+  "timestamp": "2026-09-17T10:37:04.382477296Z",
+  "model": "glm-5.3"
+}

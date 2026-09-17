@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "cs",
+  "chapter": 16,
+  "translation": "a ráno uvidíte ⟨את⟩ slávu Jahve, když uslyší ⟨את⟩ vaše reptání proti Jahve; a co jsme my, že reptáte proti nám?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "a ráno"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "uvidíte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "slávu Jahve"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "slávu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "když uslyší"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaše reptání"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "vaše reptání"
+    },
+    {
+      "surface": "על",
+      "gloss": "proti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahve"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "a co jsme my"
+    },
+    {
+      "surface": "מה",
+      "gloss": "co"
+    },
+    {
+      "surface": "כי",
+      "gloss": "že"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "reptáte"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "proti nám"
+    }
+  ],
+  "timestamp": "2026-09-17T06:21:13.409721775Z",
+  "model": "glm-5.3"
+}
